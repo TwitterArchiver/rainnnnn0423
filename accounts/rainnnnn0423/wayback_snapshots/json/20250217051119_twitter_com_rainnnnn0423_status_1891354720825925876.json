@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891354720825925876",
+    "created_at": "2025-02-17T05:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T06:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891354720825925876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengtunmiaotan…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/mengtunmiaotan0/status/1890877813692994047",
+          "start": 49,
+          "url": "https://t.co/Kv2CklcfnK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891354720825925876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890877813692994047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那好吧，我小时候还去过毛主席纪念堂来着。当时哪知道他杀几千万人，只知道我姥姥死前都想去看毛主席。 https://t.co/Kv2CklcfnK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891354720825925876",
+        "created_at": "2025-02-17T05:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T06:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891354720825925876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengtunmiaotan…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/mengtunmiaotan0/status/1890877813692994047",
+              "start": 49,
+              "url": "https://t.co/Kv2CklcfnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891354720825925876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890877813692994047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那好吧，我小时候还去过毛主席纪念堂来着。当时哪知道他杀几千万人，只知道我姥姥死前都想去看毛主席。 https://t.co/Kv2CklcfnK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557018315452604416",
+        "conversation_id": "1890877813692994047",
+        "created_at": "2025-02-15T21:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T22:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890877813692994047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hugowang82/sta…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/hugowang82/status/1838157767363666139",
+              "start": 101,
+              "url": "https://t.co/ZC5vUt8Ihq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890877813692994047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 756440,
+          "like_count": 1207,
+          "quote_count": 7,
+          "reply_count": 223,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838157767363666139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一，日本从来没有不承认南京大屠杀，只是中国在人数上严重造假，日本不可能承认。第二，如果你觉得靖国神社里的是战犯，那中国的毛泽东纪念堂绝对比靖国神社恶劣100倍，我从来没见过中国反对过进毛泽东纪念堂。 https://t.co/ZC5vUt8Ihq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 241,
+          "like_count": 752,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1314
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T14:58:04.000Z",
+        "description": "原：川和喵酱薯条🍟/台独分子/贴贴萌豚/苟汉奸称号持续持有/大範圍貼貼歡迎狗漢奸私信/尽力回fo/逢支必反",
+        "id": "1557018315452604416",
+        "location": "IP属地：南京",
+        "name": "坂下喵酱🍟🇯🇵",
+        "pinned_tweet_id": "1854911690938499469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889913283563626499/qlSm51T9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3337,
+          "following_count": 1716,
+          "like_count": 3246,
+          "listed_count": 20,
+          "media_count": 265,
+          "tweet_count": 1288
+        },
+        "username": "mengtunmiaotan0",
+        "verified": false
+      }
+    ]
+  }
+}

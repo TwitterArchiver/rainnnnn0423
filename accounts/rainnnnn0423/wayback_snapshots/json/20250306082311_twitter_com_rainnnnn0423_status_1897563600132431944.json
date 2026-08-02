@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897563600132431944",
+    "created_at": "2025-03-06T08:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T09:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897563600132431944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FurinaDF/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/FurinaDF/status/1897343565585662345",
+          "start": 18,
+          "url": "https://t.co/pcwgFlJCSW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897563600132431944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897343565585662345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是真的很喜欢小泽，他是个传奇人物 https://t.co/pcwgFlJCSW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2464,
+        "media_key": "3_1897343245463560192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlS3oRLXoAA6d31.jpg",
+        "width": 3498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897563600132431944",
+        "created_at": "2025-03-06T08:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T09:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897563600132431944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FurinaDF/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/FurinaDF/status/1897343565585662345",
+              "start": 18,
+              "url": "https://t.co/pcwgFlJCSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897563600132431944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897343565585662345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是真的很喜欢小泽，他是个传奇人物 https://t.co/pcwgFlJCSW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897343245463560192"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1897343565585662345",
+        "created_at": "2025-03-05T17:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T18:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897343565585662345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZW3Nydj68",
+              "end": 40,
+              "expanded_url": "https://x.com/FurinaDF/status/1897343565585662345/photo/1",
+              "media_key": "3_1897343245463560192",
+              "start": 17,
+              "url": "https://t.co/yZW3Nydj68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897343565585662345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 194455,
+          "like_count": 2849,
+          "quote_count": 14,
+          "reply_count": 56,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "当时泽连斯基的视角，还挺恐怖的😰 https://t.co/yZW3Nydj68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 348,
+          "like_count": 1337,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 2210
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "放下自己内心深处的执念吧，地球人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1894065260778189294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870862200082235393/gfYowbA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12864,
+          "following_count": 1655,
+          "like_count": 19307,
+          "listed_count": 41,
+          "media_count": 3431,
+          "tweet_count": 6703
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

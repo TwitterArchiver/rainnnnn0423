@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885107462300459009"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885102045742666202",
+    "created_at": "2025-01-30T23:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T00:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885107464632492124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vsk4tKyAng",
+          "end": 70,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1885107464632492124/photo/1",
+          "media_key": "3_1885107462300459009",
+          "start": 47,
+          "url": "https://t.co/Vsk4tKyAng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885107464632492124",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885105677007544644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我都得去找心咨解决这个问题了😅\n以及玩这个测试有几年时间，除了infp-t没测出别的结果过。 https://t.co/Vsk4tKyAng"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 491,
+        "media_key": "3_1885107462300459009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gik_P83bYAEoktv.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885107462300459009"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885102045742666202",
+        "created_at": "2025-01-30T23:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T00:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885107464632492124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vsk4tKyAng",
+              "end": 70,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1885107464632492124/photo/1",
+              "media_key": "3_1885107462300459009",
+              "start": 47,
+              "url": "https://t.co/Vsk4tKyAng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885107464632492124",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885105677007544644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都得去找心咨解决这个问题了😅\n以及玩这个测试有几年时间，除了infp-t没测出别的结果过。 https://t.co/Vsk4tKyAng"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885105674587430913"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885102045742666202",
+        "created_at": "2025-01-30T23:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T00:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885105677007544644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7pZaCpWv3",
+              "end": 167,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1885105677007544644/photo/1",
+              "media_key": "3_1885105674587430913",
+              "start": 144,
+              "url": "https://t.co/M7pZaCpWv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885105677007544644",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885102045742666202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好久没测了闲的没事测一下。感觉曾经判断不清的现在似乎更清晰了些。\n对比以往，我的内倾外倾轴现在都快55开了，现在确实是独处和社交获取能量一半一半的状态。\n仍然完全难以勾搭陌生人，但如果别人想认识我我会报以同样的真诚的。\n然后nfp这三个居然都快拉满了\n我的无自律无条理没法行动一直很棘手 https://t.co/M7pZaCpWv3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主说悄悄话的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 221,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 794
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

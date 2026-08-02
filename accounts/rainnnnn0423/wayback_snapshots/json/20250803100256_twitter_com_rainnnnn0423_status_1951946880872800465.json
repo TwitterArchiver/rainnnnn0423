@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1951946880872800465",
+    "created_at": "2025-08-03T10:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T11:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951946880872800465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nijika_overdos…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Nijika_overdose/status/1951938617854803990",
+          "start": 2,
+          "url": "https://t.co/hoOepD2rd3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951946880872800465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951938617854803990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/hoOepD2rd3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1951946880872800465",
+        "created_at": "2025-08-03T10:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T11:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951946880872800465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nijika_overdos…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Nijika_overdose/status/1951938617854803990",
+              "start": 2,
+              "url": "https://t.co/hoOepD2rd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951946880872800465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951938617854803990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/hoOepD2rd3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609844142313553921",
+        "conversation_id": "1951873656096796950",
+        "created_at": "2025-08-03T09:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951938617854803990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804031298958430209",
+              "start": 0,
+              "username": "uaTKdAiSDy39660"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951938617854803990",
+        "in_reply_to_user_id": "1804031298958430209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951915977010229697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uaTKdAiSDy39660 还有电棍鬼叫视频"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile |自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 523,
+          "like_count": 4020,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 3898
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "册那，目标Nijika_overdose，疑似18-19岁跨性别女性，涉LGBTQ+亚文化。职业：临床医学生/药学生或麦当劳员工。就职地：上海。隐私推断：过量用药史，鼻吸安非他酮PEA史，游戏爱好，不定期天天在线，家庭/社交圈涉姐妹染色单体。内容多涉药物、身份政治、亚文化、沪爷冲击，需监控。",
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "Ijichi Nijika overdose",
+        "pinned_tweet_id": "1945857232505094599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717189338696761344/IAcPRhA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 203,
+          "like_count": 2818,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 1948
+        },
+        "username": "Nijika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

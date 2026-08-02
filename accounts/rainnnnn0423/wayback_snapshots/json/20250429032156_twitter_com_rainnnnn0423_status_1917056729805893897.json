@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1917056729805893897",
+    "created_at": "2025-04-29T03:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T04:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917056729805893897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Cldeop/status/1916860705414005139",
+          "start": 11,
+          "url": "https://t.co/XL307l0rAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917056729805893897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916860705414005139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "睦子米捡到初华手机了 https://t.co/XL307l0rAi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_1916498361919979520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpjFGyrbwAA0Do-.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1917056729805893897",
+        "created_at": "2025-04-29T03:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T04:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917056729805893897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Cldeop/status/1916860705414005139",
+              "start": 11,
+              "url": "https://t.co/XL307l0rAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917056729805893897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916860705414005139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睦子米捡到初华手机了 https://t.co/XL307l0rAi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916498361919979520"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1916860705414005139",
+        "created_at": "2025-04-28T14:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T15:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916860705414005139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJU1AZIWhR",
+              "end": 38,
+              "expanded_url": "https://x.com/Cldeop/status/1916860705414005139/photo/1",
+              "media_key": "3_1916498361919979520",
+              "start": 15,
+              "url": "https://t.co/OJU1AZIWhR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916860705414005139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 46201,
+          "like_count": 626,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "你的室友是一个很好的作家👍🏻 https://t.co/OJU1AZIWhR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 455,
+          "like_count": 2349,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3384
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63030,
+          "following_count": 568,
+          "like_count": 28388,
+          "listed_count": 215,
+          "media_count": 9234,
+          "tweet_count": 13183
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

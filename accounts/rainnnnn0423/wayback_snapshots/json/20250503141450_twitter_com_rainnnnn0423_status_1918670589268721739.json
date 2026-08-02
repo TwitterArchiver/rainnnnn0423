@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1918670589268721739",
+    "created_at": "2025-05-03T14:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T15:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918670589268721739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChGanying/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ChGanying/status/1918619679884513570",
+          "start": 16,
+          "url": "https://t.co/3j3H8thkeq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918670589268721739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918619679884513570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个喷不了，我们学校一堆这号人 https://t.co/3j3H8thkeq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_1918619674079817728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBObaSacAA4FtD.jpg",
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1918670589268721739",
+        "created_at": "2025-05-03T14:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T15:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918670589268721739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChGanying/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ChGanying/status/1918619679884513570",
+              "start": 16,
+              "url": "https://t.co/3j3H8thkeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918670589268721739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918619679884513570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个喷不了，我们学校一堆这号人 https://t.co/3j3H8thkeq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918619674079817728"
+          ]
+        },
+        "author_id": "1755188079277801472",
+        "conversation_id": "1918619679884513570",
+        "created_at": "2025-05-03T10:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T11:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918619679884513570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eV8rvzGRe7",
+              "end": 51,
+              "expanded_url": "https://x.com/ChGanying/status/1918619679884513570/photo/1",
+              "media_key": "3_1918619674079817728",
+              "start": 28,
+              "url": "https://t.co/eV8rvzGRe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918619679884513570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2430,
+          "like_count": 89,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "五一黄金假期，高中生们拿到了手机，国际共运迎来了新高潮 https://t.co/eV8rvzGRe7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 458,
+          "like_count": 2435,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 3429
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T11:13:50.000Z",
+        "description": "这里有布尔什维主义狂热！\n#Trotskyism-Maoism",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 13,
+                "tag": "Trotskyism"
+              }
+            ]
+          }
+        },
+        "id": "1755188079277801472",
+        "location": "自由，民主，平等与共产主义！",
+        "name": "宗革",
+        "pinned_tweet_id": "1917828054711492625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755214642119692288/1PpNRyWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 185,
+          "like_count": 1291,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 558
+        },
+        "username": "ChGanying",
+        "verified": false
+      }
+    ]
+  }
+}

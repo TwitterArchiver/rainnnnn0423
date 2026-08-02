@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1890296090890760463",
+    "created_at": "2025-02-14T07:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T08:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890298524534993337"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890298524534993337",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890296090890760463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的真诚友善只留给喜欢欣赏我/我喜欢欣赏的人。我上网最烦吵架，大部分人我刷到就划走。我尊重祝福每一个好好努力生活的普通人，每个人也都有自己的困境，自己的情绪，自己的路。我骂的都是逆天的傻逼，一般的傻逼我都看腻了。\n我说话是傲了点，但是贬低我之前想想自己是不是浑浑噩噩过一辈子了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890296090890760463",
+        "created_at": "2025-02-14T07:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890298524534993337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890298524534993337",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890296090890760463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的真诚友善只留给喜欢欣赏我/我喜欢欣赏的人。我上网最烦吵架，大部分人我刷到就划走。我尊重祝福每一个好好努力生活的普通人，每个人也都有自己的困境，自己的情绪，自己的路。我骂的都是逆天的傻逼，一般的傻逼我都看腻了。\n我说话是傲了点，但是贬低我之前想想自己是不是浑浑噩噩过一辈子了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890296086092464128"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890296090890760463",
+        "created_at": "2025-02-14T07:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890296090890760463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/024kfIVbDf",
+              "end": 165,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1890296090890760463/photo/1",
+              "media_key": "3_1890296086092464128",
+              "start": 142,
+              "url": "https://t.co/024kfIVbDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890296090890760463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我这人非常好相处。\n为什么“自大”轴拉满了：我应该是讲过被孤立后极度自卑完全否定自己导致几近人格解体，ptsd闪回高强度发作两年的这个经历。\n现在我有强烈的自我实现的欲望，我明确了人生目标与实现手段，所以我需要认可自己的才华与能力。事实就是在我眼里大部分同龄人庸俗无聊层次低下。 https://t.co/024kfIVbDf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 237,
+          "like_count": 701,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1176
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

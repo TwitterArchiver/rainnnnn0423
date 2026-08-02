@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1906965386496540758",
+    "created_at": "2025-04-01T12:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T13:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907049916792524977"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1907049916792524977",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906965386496540758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽打得真精彩 前任哥说他跟上海这帮视觉系熟 我要让他给我蛐蛐一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1906965386496540758",
+        "created_at": "2025-04-01T12:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T13:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907049916792524977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907049916792524977",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906965386496540758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽打得真精彩 前任哥说他跟上海这帮视觉系熟 我要让他给我蛐蛐一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1906965386496540758",
+        "created_at": "2025-04-01T07:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T08:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906965386496540758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964_Y/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/8964_Y/status/1906741547082613044",
+              "start": 9,
+              "url": "https://t.co/eHwm5oYUEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906965386496540758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906741547082613044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的愚人节节目🈶 https://t.co/eHwm5oYUEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 395,
+          "like_count": 1703,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2782
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

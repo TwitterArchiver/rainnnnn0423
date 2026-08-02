@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1887292656411123936",
+    "created_at": "2025-02-06T00:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T01:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887294311504425412"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1887294311504425412",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887292656411123936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈很后悔曾经对我的施暴，问过我很多次我恨她吗？我说我不恨，理由如上。这就是代际创伤，我姥精神病传给我妈再传给了我。对于我以后有没有下一代，一看缘分二看我自我评估能不能成为合格的家长和引导者吧。以前不能理解喜欢孩子的，最近感觉普通人天伦之乐也不错。前提得做好承担这种重大责任的觉悟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887292656411123936",
+        "created_at": "2025-02-06T00:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T01:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887294311504425412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887294311504425412",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887292656411123936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈很后悔曾经对我的施暴，问过我很多次我恨她吗？我说我不恨，理由如上。这就是代际创伤，我姥精神病传给我妈再传给了我。对于我以后有没有下一代，一看缘分二看我自我评估能不能成为合格的家长和引导者吧。以前不能理解喜欢孩子的，最近感觉普通人天伦之乐也不错。前提得做好承担这种重大责任的觉悟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1887292656411123936",
+        "created_at": "2025-02-06T00:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T01:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887292656411123936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887292656411123936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从13岁就知道“恨”其实是下位者对上位者的无能狂怒。我无能狂怒过，所以我恨过霸凌者。因为一直生活在同一个屋檐下，所以我从没恨过我父母，恨太累了。恨比爱长久，但说白了充满恨意的人是不健康的。这种人我见得多了，不仅我被高强度sj过，我朋友也被天天视奸。不累吗？一律打为生活不如意哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 231,
+          "like_count": 638,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 962
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

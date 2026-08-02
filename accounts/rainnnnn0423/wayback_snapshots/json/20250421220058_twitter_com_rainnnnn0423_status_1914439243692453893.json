@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1914438613405757842",
+    "created_at": "2025-04-21T22:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T23:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914439243692453893"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1914439243692453893",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914438715214381066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前有过很恶劣的朋友，我在她生日的时候精心准备礼物，我生日那段时间却跟我玩消失，最后为什么跟我绝交我也忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1914438613405757842",
+        "created_at": "2025-04-21T22:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T23:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914439243692453893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914439243692453893",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914438715214381066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前有过很恶劣的朋友，我在她生日的时候精心准备礼物，我生日那段时间却跟我玩消失，最后为什么跟我绝交我也忘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1914438613405757842",
+        "created_at": "2025-04-21T21:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T22:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914438715214381066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914438715214381066",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914438613405757842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "应该还能收到贺图🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱炸了打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 437,
+          "like_count": 2153,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 3209
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

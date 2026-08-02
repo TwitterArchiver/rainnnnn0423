@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884690797213475150",
+    "created_at": "2025-01-30T03:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T04:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884802725059424627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1812145780574281728",
+          "start": 0,
+          "username": "nm2446005114222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884802725059424627",
+    "in_reply_to_user_id": "1812145780574281728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884788509623435417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nm2446005114222 要训练的。我表达欲强且很爱写，没事就在这发🤓昨天和男友探讨一个问题我在不到一小时飙了一千多字 今天和deepseek连聊了6小时，才聊个开头瘾刚上来，白天它就又遭ddos攻击了只能作罢。\n不过最重要的是找到自己擅长的东西呀！按文理二元划分我是100%文科，完全理科苦手。要练习技能 兴趣是最好的老师噢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884690797213475150",
+        "created_at": "2025-01-30T03:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T04:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884802725059424627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1812145780574281728",
+              "start": 0,
+              "username": "nm2446005114222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884802725059424627",
+        "in_reply_to_user_id": "1812145780574281728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884788509623435417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nm2446005114222 要训练的。我表达欲强且很爱写，没事就在这发🤓昨天和男友探讨一个问题我在不到一小时飙了一千多字 今天和deepseek连聊了6小时，才聊个开头瘾刚上来，白天它就又遭ddos攻击了只能作罢。\n不过最重要的是找到自己擅长的东西呀！按文理二元划分我是100%文科，完全理科苦手。要练习技能 兴趣是最好的老师噢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812145780574281728",
+        "conversation_id": "1884690797213475150",
+        "created_at": "2025-01-30T02:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T03:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884788509623435417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884788509623435417",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884690797213475150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 教教我😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是文科女号主半夜睡不着大量发表私人见解与分享生活点滴的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 214,
+          "like_count": 426,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 750
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T15:23:26.000Z",
+        "description": "",
+        "id": "1812145780574281728",
+        "location": "距离你0.1m",
+        "name": "书香橘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822103152121790465/Ue_Z0w6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 23,
+          "like_count": 647,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 119
+        },
+        "username": "nm2446005114222",
+        "verified": false
+      }
+    ]
+  }
+}

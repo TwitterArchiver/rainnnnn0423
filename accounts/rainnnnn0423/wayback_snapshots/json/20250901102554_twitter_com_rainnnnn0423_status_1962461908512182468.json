@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1962461908512182468",
+    "created_at": "2025-09-01T10:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T11:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962461908512182468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ppppggggjjjj/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ppppggggjjjj/status/1962456509960671294",
+          "start": 5,
+          "url": "https://t.co/Y0dFxDvrfX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962461908512182468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962456509960671294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/Y0dFxDvrfX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1962461908512182468",
+        "created_at": "2025-09-01T10:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962461908512182468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ppppggggjjjj/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ppppggggjjjj/status/1962456509960671294",
+              "start": 5,
+              "url": "https://t.co/Y0dFxDvrfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962461908512182468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962456509960671294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/Y0dFxDvrfX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569397683814629379",
+        "conversation_id": "1962452663913889858",
+        "created_at": "2025-09-01T10:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962456509960671294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962456509960671294",
+        "in_reply_to_user_id": "1569397683814629379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962452663913889858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有说我是天才的意思但我觉得从普通人变成蠢逼也挺吓人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 538,
+          "like_count": 4086,
+          "listed_count": 4,
+          "media_count": 292,
+          "tweet_count": 3963
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T18:50:19.000Z",
+        "description": "随缘//医学爱好者/les🏳️‍🌈/lgbt友好/中文/EN/Arknights/绘画/混乱日常碎碎念/很吵//喵喵 【永远拥护培根卷番茄！】",
+        "id": "1569397683814629379",
+        "location": "世界的尽头",
+        "name": "腐烂培根卷",
+        "pinned_tweet_id": "1937498024907010498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953366409284861953/HM3Aeou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 663,
+          "like_count": 1899,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 2373
+        },
+        "username": "ppppggggjjjj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1970826616050991541",
+    "created_at": "2025-09-24T13:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T14:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970842746811519259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1112738127087427584",
+          "start": 0,
+          "username": "KEwM6iwGoqwnGtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970842746811519259",
+    "in_reply_to_user_id": "1112738127087427584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970826616050991541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KEwM6iwGoqwnGtw 抽我喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1970826616050991541",
+        "created_at": "2025-09-24T13:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970842746811519259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1112738127087427584",
+              "start": 0,
+              "username": "KEwM6iwGoqwnGtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970842746811519259",
+        "in_reply_to_user_id": "1112738127087427584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970826616050991541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KEwM6iwGoqwnGtw 抽我喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1112738127087427584",
+        "conversation_id": "1970826616050991541",
+        "created_at": "2025-09-24T12:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T13:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970826616050991541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970826616050991541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我cow\n还是得看我自己啊\n来了个嗨丝大美女\n开着特斯拉\n这tm才是高质量相亲\n要是成了给大伙抽苹果17pm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 560,
+          "like_count": 4290,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 4034
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-01T15:26:57.000Z",
+        "description": "Mygo✌8964🏻 89.6.4井捞爱音氪金1000➕警钟长鸣，永远戒赌。 92年老光棍二次元性格糟糕慎fo，8964防挂遇到粉蛆秒ban。",
+        "id": "1112738127087427584",
+        "location": "Toilet",
+        "name": "万代MB合金超可动doro",
+        "pinned_tweet_id": "1963792790879654046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948660546401599488/X7W_sFtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 705,
+          "like_count": 7566,
+          "listed_count": 5,
+          "media_count": 797,
+          "tweet_count": 14069
+        },
+        "username": "KEwM6iwGoqwnGtw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906879741535088640"
+      ],
+      "media_source_tweet_id": [
+        "1906879743758413830"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907577705928994848",
+    "created_at": "2025-04-02T23:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T00:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907577705928994848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "28940967",
+          "start": 3,
+          "username": "lidangzzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jshX9gVBSJ",
+          "end": 51,
+          "expanded_url": "https://x.com/lidangzzz/status/1906879743758413830/photo/1",
+          "media_key": "3_1906879741535088640",
+          "start": 28,
+          "url": "https://t.co/jshX9gVBSJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907577705928994848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906879743758413830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lidangzzz: 非常正确，说的就是王志安 https://t.co/jshX9gVBSJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 836,
+        "media_key": "3_1906879741535088640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnaZBZeWcAAXkQu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906879741535088640"
+          ],
+          "media_source_tweet_id": [
+            "1906879743758413830"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907577705928994848",
+        "created_at": "2025-04-02T23:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T00:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907577705928994848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "28940967",
+              "start": 3,
+              "username": "lidangzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jshX9gVBSJ",
+              "end": 51,
+              "expanded_url": "https://x.com/lidangzzz/status/1906879743758413830/photo/1",
+              "media_key": "3_1906879741535088640",
+              "start": 28,
+              "url": "https://t.co/jshX9gVBSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907577705928994848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906879743758413830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lidangzzz: 非常正确，说的就是王志安 https://t.co/jshX9gVBSJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906879741535088640"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "1906879743758413830",
+        "created_at": "2025-04-01T01:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T02:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906879743758413830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jshX9gVBSJ",
+              "end": 36,
+              "expanded_url": "https://x.com/lidangzzz/status/1906879743758413830/photo/1",
+              "media_key": "3_1906879741535088640",
+              "start": 13,
+              "url": "https://t.co/jshX9gVBSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906879743758413830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 382183,
+          "like_count": 1447,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "非常正确，说的就是王志安 https://t.co/jshX9gVBSJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 410,
+          "like_count": 1792,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2846
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （臭骂具身智能、劝人卖房、劝人学CS计算机第一人）",
+        "pinned_tweet_id": "1806640806452744310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590420,
+          "following_count": 2651,
+          "like_count": 25194,
+          "listed_count": 3632,
+          "media_count": 7817,
+          "tweet_count": 37006
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

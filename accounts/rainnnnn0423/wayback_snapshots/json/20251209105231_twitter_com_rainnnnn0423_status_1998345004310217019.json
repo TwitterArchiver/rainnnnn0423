@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1998345004310217019",
+    "created_at": "2025-12-09T10:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T11:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998345004310217019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minokakay/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Minokakay/status/1998007014711328882",
+          "start": 13,
+          "url": "https://t.co/XrM6WwK44c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998345004310217019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998007014711328882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "噢牛批我包里也有😀好主意 https://t.co/XrM6WwK44c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1998345004310217019",
+        "created_at": "2025-12-09T10:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T11:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998345004310217019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Minokakay/status/1998007014711328882",
+              "start": 13,
+              "url": "https://t.co/XrM6WwK44c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998345004310217019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998007014711328882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "噢牛批我包里也有😀好主意 https://t.co/XrM6WwK44c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1998007014711328882",
+        "created_at": "2025-12-08T12:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998007014711328882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998007014711328882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14493,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一想到我现在出去玩包里都放了一瓶Vyvanse，这下如果包丢了再也不怕找不到了，报警跟警察说包里有安非他命让他们找。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 603,
+          "like_count": 4724,
+          "listed_count": 4,
+          "media_count": 325,
+          "tweet_count": 4315
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 阿斯ADHD精分抑鬱焦慮MtX，成都大阪随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13032,
+          "following_count": 1013,
+          "like_count": 44987,
+          "listed_count": 50,
+          "media_count": 1722,
+          "tweet_count": 24198
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

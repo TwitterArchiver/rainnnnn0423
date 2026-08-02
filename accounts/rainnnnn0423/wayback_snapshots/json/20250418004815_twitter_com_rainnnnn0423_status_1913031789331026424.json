@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1913031789331026424",
+    "created_at": "2025-04-18T00:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T01:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913031789331026424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kujou_king/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/kujou_king/status/1913029481012580837",
+          "start": 17,
+          "url": "https://t.co/EMJF9e8zlC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913031789331026424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913029481012580837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤮🤮🤮俺们河南银求求你不要再发了 https://t.co/EMJF9e8zlC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1913031789331026424",
+        "created_at": "2025-04-18T00:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T01:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913031789331026424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kujou_king/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kujou_king/status/1913029481012580837",
+              "start": 17,
+              "url": "https://t.co/EMJF9e8zlC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913031789331026424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913029481012580837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤮🤮🤮俺们河南银求求你不要再发了 https://t.co/EMJF9e8zlC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841626911228780545",
+        "conversation_id": "1913029481012580837",
+        "created_at": "2025-04-18T00:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T01:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913029481012580837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913029481012580837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 64,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人感觉河南入很可爱吗。。？拾走井盖的小动作就像偷偷叼走小鱼干的小猫。。。可能不知道小鱼干为什么晒在那里但小猫知道它需要这个。。黏黏糊糊的胡辣汤喝完嘴吧烫烫的热热的，可爱的小嘴一张一合问你中不中中不中，天呐这谁顶得住。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 雨皇人格出来了我是暴力s都给我下跪！",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 432,
+          "like_count": 2116,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 3146
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "测评结果:有一定程度的王的资质，欢迎私信入我门槛，我非常需要钱。傻逼儿子@_SAGAWAASHSAHI_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "_SAGAWAASHSAHI_"
+              }
+            ]
+          }
+        },
+        "id": "1841626911228780545",
+        "location": "中国人与狗不得入内",
+        "name": "🧸猪界良心愛莉莎🍻",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911961125664550912/pYO6RxO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 517,
+          "like_count": 3698,
+          "listed_count": 17,
+          "media_count": 158,
+          "tweet_count": 2011
+        },
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

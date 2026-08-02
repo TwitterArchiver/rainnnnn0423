@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1919649565923295374",
+    "created_at": "2025-05-06T07:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T08:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919650903973322893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890780517735473152",
+          "start": 0,
+          "username": "wtswaishiteruyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919650903973322893",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919649843028578602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo 🫂🫂🫂\n我准备明天复诊多开点好东西，虽然不知道能开到什么"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1919649843028578602].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919649843028578602",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1919649843028578602"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1919649565923295374",
+        "created_at": "2025-05-06T07:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T08:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919650903973322893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890780517735473152",
+              "start": 0,
+              "username": "wtswaishiteruyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919650903973322893",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919649843028578602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo 🫂🫂🫂\n我准备明天复诊多开点好东西，虽然不知道能开到什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 460,
+          "like_count": 2504,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 3465
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "支黑｜Mio宝宝：@moeTvT｜Yuki宝宝：@Kazuko045｜奶茶姐姐：@Shirasu8964228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "moeTvT"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "Kazuko045"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "Shirasu8964228"
+              }
+            ]
+          }
+        },
+        "id": "1890780517735473152",
+        "name": "🐱にゃこ🇲🇰🌸",
+        "pinned_tweet_id": "1915032097317945640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895010945635598336/XgCB_WbF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 286,
+          "like_count": 8843,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 3206
+        },
+        "username": "wtswaishiteruyo",
+        "verified": false
+      }
+    ]
+  }
+}

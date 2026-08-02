@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893514420074004559",
+    "created_at": "2025-02-23T04:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T05:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893514420074004559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KAIHEDENIMASIL…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/KAIHEDENIMASIL/status/1893467689143934997",
+          "start": 44,
+          "url": "https://t.co/tqb1AGFuyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893514420074004559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893467689143934997",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想。我是真想喝酒，我打算成年那天去全上海的清吧转一圈。太city了太滋润了太潇洒了 https://t.co/tqb1AGFuyp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893514420074004559",
+        "created_at": "2025-02-23T04:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T05:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893514420074004559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KAIHEDENIMASIL…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/KAIHEDENIMASIL/status/1893467689143934997",
+              "start": 44,
+              "url": "https://t.co/tqb1AGFuyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893514420074004559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893467689143934997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想。我是真想喝酒，我打算成年那天去全上海的清吧转一圈。太city了太滋润了太潇洒了 https://t.co/tqb1AGFuyp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867539520771829761",
+        "conversation_id": "1893467689143934997",
+        "created_at": "2025-02-23T01:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T02:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893467689143934997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893467689143934997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 807,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想成年去酒吧。并不是因为我要“鬼混”只是觉得放的dj我好喜欢  然后瞎跳舞疯闹很放松  根本不是想喝酒好吧。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 269,
+          "like_count": 919,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1535
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T11:58:21.000Z",
+        "description": "衮。。。。 我不是黄推啊密码的。",
+        "id": "1867539520771829761",
+        "name": "饱饱的饱子。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875571743743426560/EolXtJkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4465,
+          "following_count": 330,
+          "like_count": 8034,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 2195
+        },
+        "username": "KAIHEDENIMASIL",
+        "verified": false
+      }
+    ]
+  }
+}

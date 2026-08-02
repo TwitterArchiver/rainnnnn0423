@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2076944395568660973",
+    "created_at": "2026-07-14T13:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077016716253753797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077016716253753797",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076944395568660973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi nagi我不怎么出门，去原价返程0怎么做到的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076944367429025792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLJ5ebbAAAeZWl.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076944367428984832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLJ5ebaYAAHxvY.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2076944395568660973",
+        "created_at": "2026-07-14T13:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077016716253753797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077016716253753797",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076944395568660973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi nagi我不怎么出门，去原价返程0怎么做到的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076944367429025792",
+            "3_2076944367428984832"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2076944395568660973",
+        "created_at": "2026-07-14T08:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076944395568660973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qgm2uN0KFc",
+              "end": 29,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2076944395568660973/photo/1",
+              "media_key": "3_2076944367429025792",
+              "start": 6,
+              "url": "https://t.co/Qgm2uN0KFc"
+            },
+            {
+              "display_url": "pic.x.com/Qgm2uN0KFc",
+              "end": 29,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2076944395568660973/photo/1",
+              "media_key": "3_2076944367428984832",
+              "start": 6,
+              "url": "https://t.co/Qgm2uN0KFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076944395568660973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1177,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就飞上海 https://t.co/Qgm2uN0KFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我 留言和私信容易吞，不定期查看",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 663,
+          "like_count": 6088,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 4934
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "Stansted Airport",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2076159056612585652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076291088625885184/U0VEOAw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5992,
+          "following_count": 2384,
+          "like_count": 30693,
+          "listed_count": 8,
+          "media_count": 2819,
+          "tweet_count": 26586
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "IchinichiNagi",
+        "verified": false
+      }
+    ]
+  }
+}

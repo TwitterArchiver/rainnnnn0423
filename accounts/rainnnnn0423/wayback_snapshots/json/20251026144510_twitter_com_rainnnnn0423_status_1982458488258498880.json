@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1982455457685123252",
+    "created_at": "2025-10-26T14:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T15:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982458488258498880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1665827439602180099",
+          "start": 0,
+          "username": "HiromilkteaO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982458488258498880",
+    "in_reply_to_user_id": "1665827439602180099",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982455457685123252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiromilkteaO3O 何意味"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1982455457685123252].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1982455457685123252",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1982455457685123252"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1982455457685123252",
+        "created_at": "2025-10-26T14:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T15:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982458488258498880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1665827439602180099",
+              "start": 0,
+              "username": "HiromilkteaO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982458488258498880",
+        "in_reply_to_user_id": "1665827439602180099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982455457685123252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiromilkteaO3O 何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 585,
+          "like_count": 4405,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 4112
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T21:06:46.000Z",
+        "description": "某人的生活帳和碎碎念日常，時而發布負面情緒文（⚠️請謹慎觀看⚠️）\n同意看情況而定，意義不明、三無或者未經同意者fo=block\n彼女： @pedophiletrump_ @honxine8964\n彼男：@Sbmzk_748 @miku_suki393939",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "pedophiletrump_"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "honxine8964"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "Sbmzk_748"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "miku_suki393939"
+              }
+            ]
+          }
+        },
+        "id": "1665827439602180099",
+        "location": "🎌",
+        "name": "⛩️🌸Nikaidō Hiro（歲靜形態）✝️",
+        "pinned_tweet_id": "1981186797813322080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972471941169917953/cccX4vni_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 435,
+          "like_count": 10026,
+          "listed_count": 1,
+          "media_count": 531,
+          "tweet_count": 4029
+        },
+        "username": "HiromilkteaO3O",
+        "verified": false
+      }
+    ]
+  }
+}

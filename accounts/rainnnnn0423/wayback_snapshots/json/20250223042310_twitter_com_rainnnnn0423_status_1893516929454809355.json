@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893516469390188948",
+    "created_at": "2025-02-23T04:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T05:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893516929454809355"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1893516929454809355",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893516469390188948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去年想当学徒考调酒师资格证，hr说我没满17签不了合同问我要不要来陪酒😅😅😅😅😅\n今年暑假去考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893516469390188948",
+        "created_at": "2025-02-23T04:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T05:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893516929454809355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893516929454809355",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893516469390188948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去年想当学徒考调酒师资格证，hr说我没满17签不了合同问我要不要来陪酒😅😅😅😅😅\n今年暑假去考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893516469390188948",
+        "created_at": "2025-02-23T04:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T05:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893516469390188948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893516469390188948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哇哇我门槛姐说要带我去酒吧😋😋😋你们谁接😋😋😋\n去清吧 我不喜欢鱼龙混杂的酒吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 270,
+          "like_count": 921,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1541
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

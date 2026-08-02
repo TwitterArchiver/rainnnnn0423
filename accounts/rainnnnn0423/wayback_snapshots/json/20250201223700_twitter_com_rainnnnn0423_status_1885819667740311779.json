@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885819667740311779",
+    "created_at": "2025-02-01T22:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T23:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885819667740311779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/three5533_fift…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/three5533_fifty/status/1884938061794173056",
+          "start": 54,
+          "url": "https://t.co/6GYbsOyC7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885819667740311779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884938061794173056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "xhs用户画像就是蠢人。\n每天都有层出不穷的弱智在xhs上发表逆天言论，什么时候智力障碍人士也学会上网了。 https://t.co/6GYbsOyC7P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885819667740311779",
+        "created_at": "2025-02-01T22:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T23:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885819667740311779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/three5533_fift…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/three5533_fifty/status/1884938061794173056",
+              "start": 54,
+              "url": "https://t.co/6GYbsOyC7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885819667740311779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884938061794173056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xhs用户画像就是蠢人。\n每天都有层出不穷的弱智在xhs上发表逆天言论，什么时候智力障碍人士也学会上网了。 https://t.co/6GYbsOyC7P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552256398188195841",
+        "conversation_id": "1884938061794173056",
+        "created_at": "2025-01-30T12:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884938061794173056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884938061794173056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 156820,
+          "like_count": 822,
+          "quote_count": 7,
+          "reply_count": 70,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "xhs上的傻逼女的真的很多。蠢的没救的感觉 居然和屌子一样觉得推上的女生都是约线下麦的。老子没话说。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 224,
+          "like_count": 556,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 873
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T11:35:52.000Z",
+        "description": "亲爱的我饱含杀意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/5three",
+                "end": 23,
+                "expanded_url": "https://ngl.link/5three",
+                "start": 0,
+                "url": "https://t.co/rh8lbNBWR7"
+              }
+            ]
+          }
+        },
+        "id": "1552256398188195841",
+        "name": "亲爱的",
+        "pinned_tweet_id": "1855902857498636783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856892409700810753/sONAuTQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 232,
+          "like_count": 8217,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/rh8lbNBWR7",
+        "username": "three5533_fifty",
+        "verified": false
+      }
+    ]
+  }
+}

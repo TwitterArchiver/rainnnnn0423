@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884104908095512988",
+    "created_at": "2025-01-28T05:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T06:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884105137683324950"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1884105137683324950",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884104908095512988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我永远是namie忠诚的腿毛和孝子，namie我喜欢你🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884104908095512988",
+        "created_at": "2025-01-28T05:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T06:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884105137683324950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884105137683324950",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884104908095512988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我永远是namie忠诚的腿毛和孝子，namie我喜欢你🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884104902336733186"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884104908095512988",
+        "created_at": "2025-01-28T05:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T06:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884104908095512988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLxEBfIw7a",
+              "end": 95,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1884104908095512988/photo/1",
+              "media_key": "3_1884104902336733186",
+              "start": 72,
+              "url": "https://t.co/qLxEBfIw7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884104908095512988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近没搞舟了现在才看到外服4.5周年namie柄的激萌岁家立牌😭😭😭图xhs偷的\n如果还在预售期我真的会购入。现已闲鱼ptsd，想了一下拔草了 https://t.co/qLxEBfIw7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我碎碎念刷屏的里号！",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 210,
+          "like_count": 374,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 703
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

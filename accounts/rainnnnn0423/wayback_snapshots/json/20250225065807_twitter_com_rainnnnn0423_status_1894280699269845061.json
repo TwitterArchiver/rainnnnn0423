@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894280699269845061",
+    "created_at": "2025-02-25T06:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T07:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894280699269845061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1542972592553951234",
+          "start": 3,
+          "username": "chuanwiki"
+        },
+        {
+          "end": 31,
+          "id": "1545565750118690816",
+          "start": 15,
+          "username": "yaoyaoxingguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894280699269845061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894067783652061242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuanwiki: @yaoyaoxingguang 笑的我想哭，喘圈是真的被台本老师们喂的太好了，我们之少身处中文通俗色情语言的高地😭\n\n中文男性向色情产业为了高效筛选出容易被PUA到倾家荡产的可怜虫，产出太多辱骂向的东西，找资源的人甚至可能没有听过情话和 dirt…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894280699269845061",
+        "created_at": "2025-02-25T06:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T07:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894280699269845061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1542972592553951234",
+              "start": 3,
+              "username": "chuanwiki"
+            },
+            {
+              "end": 31,
+              "id": "1545565750118690816",
+              "start": 15,
+              "username": "yaoyaoxingguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894280699269845061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894067783652061242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuanwiki: @yaoyaoxingguang 笑的我想哭，喘圈是真的被台本老师们喂的太好了，我们之少身处中文通俗色情语言的高地😭\n\n中文男性向色情产业为了高效筛选出容易被PUA到倾家荡产的可怜虫，产出太多辱骂向的东西，找资源的人甚至可能没有听过情话和 dirt…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542972592553951234",
+        "conversation_id": "1894046051956408709",
+        "created_at": "2025-02-24T16:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T17:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894067783652061242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545565750118690816",
+              "start": 0,
+              "username": "yaoyaoxingguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894067783652061242",
+        "in_reply_to_user_id": "1545565750118690816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4387,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894046051956408709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoyaoxingguang 笑的我想哭，喘圈是真的被台本老师们喂的太好了，我们之少身处中文通俗色情语言的高地😭\n\n中文男性向色情产业为了高效筛选出容易被PUA到倾家荡产的可怜虫，产出太多辱骂向的东西，找资源的人甚至可能没有听过情话和 dirty talk，只能原谅😩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 298,
+          "like_count": 1027,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1761
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T20:45:13.000Z",
+        "description": "🚢 喘百科和喘论坛的小管家 📚 \n用心打造喘圈的公共资料库和爱好者社区 🪄✨\n#男喘 #女喘 跟我说一声就会添加到列表了🙇‍♂️\n求助请尽量去喘论坛私信请认真看我的话💌\n小管家的私人相册 @hiddenAlbums",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 39,
+                "tag": "男喘"
+              },
+              {
+                "end": 46,
+                "start": 43,
+                "tag": "女喘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "hiddenAlbums"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuan.wiki",
+                "end": 23,
+                "expanded_url": "https://chuan.wiki",
+                "start": 0,
+                "url": "https://t.co/3VamsToFmM"
+              }
+            ]
+          }
+        },
+        "id": "1542972592553951234",
+        "name": "喘百科 & 喘论坛",
+        "pinned_tweet_id": "1596676302282452992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607923313564598273/tbS51XBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124690,
+          "following_count": 740,
+          "like_count": 139,
+          "listed_count": 143,
+          "media_count": 513,
+          "tweet_count": 2757
+        },
+        "url": "https://t.co/3VamsToFmM",
+        "username": "chuanwiki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T00:29:32.000Z",
+        "description": "NTR仅限性癖 | 男性向剧情中文音声  🚪288/388   | 接定制音频  | ✨公开音频畅听 https://t.co/q2S3i4AEiZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yaoyao.fanbox.cc",
+                "end": 74,
+                "expanded_url": "https://yaoyao.fanbox.cc/",
+                "start": 51,
+                "url": "https://t.co/q2S3i4AEiZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/yun/core?wid=1…",
+                "end": 23,
+                "expanded_url": "https://www.hedaoapp.com/yun/core?wid=13140",
+                "start": 0,
+                "url": "https://t.co/0a5kQXvd4E"
+              }
+            ]
+          }
+        },
+        "id": "1545565750118690816",
+        "location": "贩售音频在这👇（累计购买音频满5赠1）",
+        "name": "摇摇星光",
+        "pinned_tweet_id": "1885190617569145222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629396250100658181/A8FTB9-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39851,
+          "following_count": 251,
+          "like_count": 30654,
+          "listed_count": 164,
+          "media_count": 273,
+          "tweet_count": 17761
+        },
+        "url": "https://t.co/0a5kQXvd4E",
+        "username": "yaoyaoxingguang",
+        "verified": false
+      }
+    ]
+  }
+}

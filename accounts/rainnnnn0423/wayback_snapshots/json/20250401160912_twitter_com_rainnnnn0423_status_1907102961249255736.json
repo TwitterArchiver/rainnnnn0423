@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907102961249255736",
+    "created_at": "2025-04-01T16:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T17:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907102961249255736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zyu813301/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/zyu813301/status/1906954685652873547",
+          "start": 5,
+          "url": "https://t.co/w4ySq6bUCh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907102961249255736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906954685652873547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼🍠女 https://t.co/w4ySq6bUCh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907102961249255736",
+        "created_at": "2025-04-01T16:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T17:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907102961249255736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zyu813301/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/zyu813301/status/1906954685652873547",
+              "start": 5,
+              "url": "https://t.co/w4ySq6bUCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907102961249255736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906954685652873547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼🍠女 https://t.co/w4ySq6bUCh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855320637403025408",
+        "conversation_id": "1906954685652873547",
+        "created_at": "2025-04-01T06:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T07:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906954685652873547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906954685652873547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14573,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小红书那个高中生和她那个让她一天背十个单词的daddy见面了  那么多人劝她她硬是不听  照片背景是酒店  吃的是外卖  她daddy给她买几板旺仔她都开心死了  我真无语了  懒得喷  坐等后续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 398,
+          "like_count": 1715,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2806
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T18:45:05.000Z",
+        "description": "流浪小狗/缺爱也缺钱/是个brat/闲聊有门槛/可以给我发牛子",
+        "id": "1855320637403025408",
+        "name": "土豆泥泥面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898738962975633408/gCCABuGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4652,
+          "following_count": 133,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 335
+        },
+        "username": "zyu813301",
+        "verified": false
+      }
+    ]
+  }
+}

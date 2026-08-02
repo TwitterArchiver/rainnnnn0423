@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907822232581406720"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907821847280054529",
+    "created_at": "2025-04-03T15:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T16:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907822236343611438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QvQE4xJfL7",
+          "end": 65,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1907822236343611438/photo/1",
+          "media_key": "3_1907822232581406720",
+          "start": 42,
+          "url": "https://t.co/QvQE4xJfL7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907822236343611438",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907821847280054529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我压力能不大吗 今天先管我爸bzd成瘾再管我妈抖音成瘾 我只能搁外面嗯造尼古丁解压 https://t.co/QvQE4xJfL7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907822232581406720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnnyNmObgAAVW9n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907822232581406720"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907821847280054529",
+        "created_at": "2025-04-03T15:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T16:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907822236343611438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvQE4xJfL7",
+              "end": 65,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1907822236343611438/photo/1",
+              "media_key": "3_1907822232581406720",
+              "start": 42,
+              "url": "https://t.co/QvQE4xJfL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907822236343611438",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907821847280054529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我压力能不大吗 今天先管我爸bzd成瘾再管我妈抖音成瘾 我只能搁外面嗯造尼古丁解压 https://t.co/QvQE4xJfL7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907821847280054529",
+        "created_at": "2025-04-03T15:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T16:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907821847280054529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dutyge/status/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/dutyge/status/1907380147612758197",
+              "start": 42,
+              "url": "https://t.co/UqfcYHXvE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907821847280054529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907380147612758197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼盐碱地傻逼中国入 我跌妈开出我这张ssr卡就偷着乐吧 16岁就开始分担家里压力 https://t.co/UqfcYHXvE3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 412,
+          "like_count": 1812,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 2882
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

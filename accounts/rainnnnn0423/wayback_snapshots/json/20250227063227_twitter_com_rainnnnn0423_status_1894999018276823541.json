@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894999018276823541",
+    "created_at": "2025-02-27T06:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T07:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894999018276823541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1714894056986460160",
+          "start": 3,
+          "username": "89JinPing64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894999018276823541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894728331398201451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @89JinPing64: 确实，当年二战时期的沈阳火车站，东百逼各个都买票不排队，结果日本人在旁边甩一下鞭子，东百逼马上排得整整齐齐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894999018276823541",
+        "created_at": "2025-02-27T06:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T07:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894999018276823541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1714894056986460160",
+              "start": 3,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894999018276823541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894728331398201451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @89JinPing64: 确实，当年二战时期的沈阳火车站，东百逼各个都买票不排队，结果日本人在旁边甩一下鞭子，东百逼马上排得整整齐齐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714894056986460160",
+        "conversation_id": "1894728331398201451",
+        "created_at": "2025-02-26T12:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T13:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894728331398201451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigappleking00…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/bigappleking001/status/1894726277635899627",
+              "start": 54,
+              "url": "https://t.co/SNlTLMADUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894728331398201451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11358,
+          "like_count": 164,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894726277635899627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实，当年二战时期的沈阳火车站，东百逼各个都买票不排队，结果日本人在旁边甩一下鞭子，东百逼马上排得整整齐齐 https://t.co/SNlTLMADUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 304,
+          "like_count": 1106,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1851
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 優しい元カノ:@Suyutong 会いたい人:@wakeup_arrow 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客 https://t.co/ZZsthj06Du",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "Suyutong"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "wakeup_arrow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 142,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 119,
+                "url": "https://t.co/ZZsthj06Du"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 900,
+          "like_count": 70986,
+          "listed_count": 30,
+          "media_count": 835,
+          "tweet_count": 14838
+        },
+        "username": "89JinPing64",
+        "verified": false
+      }
+    ]
+  }
+}

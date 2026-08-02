@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891458588868006110",
+    "created_at": "2025-02-17T12:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T13:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891458588868006110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maoshen04/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/maoshen04/status/1891106149711180015",
+          "start": 16,
+          "url": "https://t.co/vj7SYxb1Vc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891458588868006110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891106149711180015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这给我作词写诗增添了一百个信心 https://t.co/vj7SYxb1Vc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891458588868006110",
+        "created_at": "2025-02-17T12:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T13:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891458588868006110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoshen04/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/maoshen04/status/1891106149711180015",
+              "start": 16,
+              "url": "https://t.co/vj7SYxb1Vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891458588868006110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891106149711180015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这给我作词写诗增添了一百个信心 https://t.co/vj7SYxb1Vc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891106145953091584"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "1891106149711180015",
+        "created_at": "2025-02-16T12:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T13:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891106149711180015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWMyX0ZdnA",
+              "end": 41,
+              "expanded_url": "https://x.com/maoshen04/status/1891106149711180015/photo/1",
+              "media_key": "3_1891106145953091584",
+              "start": 18,
+              "url": "https://t.co/fWMyX0ZdnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891106149711180015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 388134,
+          "like_count": 505,
+          "quote_count": 15,
+          "reply_count": 272,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "大诗人贾浅浅又发表了新诗：《开花》 https://t.co/fWMyX0ZdnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 241,
+          "like_count": 758,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1319
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "美籍華人，未來國會議員，YouTube【貓神看天下】博主，獨立民主人士，不站隊、不結盟，拒絕加入任何組織。一生俯首拜陽明“心即理、心外無物、致良知、知行合一”🙏電報群：https://t.co/tBMbXQEknm，請貓神喝咖啡：https://t.co/ZliWzy3buM，電報：maoshen01",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/maoshen950404",
+                "end": 107,
+                "expanded_url": "https://t.me/maoshen950404",
+                "start": 84,
+                "url": "https://t.co/tBMbXQEknm"
+              },
+              {
+                "display_url": "paypal.me/maoshen2020",
+                "end": 138,
+                "expanded_url": "http://paypal.me/maoshen2020",
+                "start": 115,
+                "url": "https://t.co/ZliWzy3buM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/maoshen",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/maoshen",
+                "start": 0,
+                "url": "https://t.co/WbubXJ2HyM"
+              }
+            ]
+          }
+        },
+        "id": "1154174763918606339",
+        "location": "Tampa, FL",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886058498095448064/R17elxRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159681,
+          "following_count": 77,
+          "like_count": 3618,
+          "listed_count": 457,
+          "media_count": 1252,
+          "tweet_count": 1709
+        },
+        "url": "https://t.co/WbubXJ2HyM",
+        "username": "maoshen04",
+        "verified": true
+      }
+    ]
+  }
+}

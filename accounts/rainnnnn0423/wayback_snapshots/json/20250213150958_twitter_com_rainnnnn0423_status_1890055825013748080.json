@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1890052482820415577",
+    "created_at": "2025-02-13T15:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T16:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890055825013748080"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890055825013748080",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890052482820415577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发现依靠药物获取欣快感和依靠药物抗抑郁，本质是一样的…右美和舍曲林都是抑制血清素再摄取，且都有成瘾性。我之前想我不用正常的方式摄取欣快感难道要去嗑药，现在想来难道我不是靠舍曲林摄取欣快感的吗？只是正反的说法罢了。写的我眼前昏花"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890052482820415577",
+        "created_at": "2025-02-13T15:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T16:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890055825013748080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890055825013748080",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890052482820415577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现依靠药物获取欣快感和依靠药物抗抑郁，本质是一样的…右美和舍曲林都是抑制血清素再摄取，且都有成瘾性。我之前想我不用正常的方式摄取欣快感难道要去嗑药，现在想来难道我不是靠舍曲林摄取欣快感的吗？只是正反的说法罢了。写的我眼前昏花"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890052482820415577",
+        "created_at": "2025-02-13T14:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T15:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890052482820415577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890052482820415577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个喷不了，解离良性作用抗抑郁，中性作用情感隔离，然后恶性作用感知与记忆力大幅下降。\n蛮搞笑的，因为解离症所以之前无法意识到是解离，主诉是情感麻木以及看世界隔层雾的浑浑噩噩。后面我逐渐理解了一切。我的学习能力强经验丰富判断给力认知强力第六感准确，因为医生乱开处方我都想自己调药了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 237,
+          "like_count": 711,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1156
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

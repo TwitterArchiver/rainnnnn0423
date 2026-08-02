@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894302336295616590",
+    "created_at": "2025-02-25T10:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T11:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894332986365284789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1445231833080385538",
+          "start": 0,
+          "username": "islime_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894332986365284789",
+    "in_reply_to_user_id": "1445231833080385538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894329737881030700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@islime_l 苟合罢了。且看这三巨头怎么演这一台戏吧。我只希望我和身边家人朋友平安喜乐，战争伤害的都是最底层的百姓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894302336295616590",
+        "created_at": "2025-02-25T10:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T11:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894332986365284789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1445231833080385538",
+              "start": 0,
+              "username": "islime_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894332986365284789",
+        "in_reply_to_user_id": "1445231833080385538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894329737881030700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@islime_l 苟合罢了。且看这三巨头怎么演这一台戏吧。我只希望我和身边家人朋友平安喜乐，战争伤害的都是最底层的百姓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445231833080385538",
+        "conversation_id": "1894302336295616590",
+        "created_at": "2025-02-25T10:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T11:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894329737881030700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894329737881030700",
+        "in_reply_to_user_id": "1445231833080385538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894328267957834074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 鉴于美俄和谈，我认为美国会以让西方世界接纳俄罗斯为筹码而让俄罗斯限制其与中国的贸易\n俄罗斯与中国从来就不是朋友，只不过最近刚好走到一起，恰好同路罢\n俄罗斯如果真的被西方世界接纳那么对华贸易必然缩减，尤其是开战后"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 299,
+          "like_count": 1037,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1791
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T03:38:25.000Z",
+        "description": "一只可爱的slime～\n不能戳!",
+        "id": "1445231833080385538",
+        "location": "Shanghai",
+        "name": "LIslime",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500078720219947009/k2D7DEIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 101,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 436
+        },
+        "username": "islime_l",
+        "verified": false
+      }
+    ]
+  }
+}

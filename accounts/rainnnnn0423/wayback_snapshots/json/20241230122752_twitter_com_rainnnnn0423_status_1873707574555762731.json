@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1873561977731395939",
+    "created_at": "2024-12-30T12:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T13:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873707574555762731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873707574555762731",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873561977731395939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 总帅的梗图我一直是亲自点赞亲自保存👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1873561977731395939",
+        "created_at": "2024-12-30T12:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T13:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873707574555762731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873707574555762731",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873561977731395939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 总帅的梗图我一直是亲自点赞亲自保存👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873561974946344960"
+          ]
+        },
+        "author_id": "1844025283676094464",
+        "conversation_id": "1873561977731395939",
+        "created_at": "2024-12-30T02:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T03:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873561977731395939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rrrjdlCZd",
+              "end": 165,
+              "expanded_url": "https://x.com/Konekoutena/status/1873561977731395939/photo/1",
+              "media_key": "3_1873561974946344960",
+              "start": 142,
+              "url": "https://t.co/7rrrjdlCZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873561977731395939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在网上的绝大多数人都没有经历过文革时代，提起文革，人们会觉得这个东西离自己很遥远。也很难理解，这样一场惨绝人寰的历史悲剧究竟是怎么发生的？然而在统计学，有一项工具叫样本估计整体。我们可以根据身边发生的一些小事，来还原出文革的全貌。文革有一个特点，整个中国人相斗想杀，但口号都是打着忠诚毛主席。这件事情看似荒谬，其实每天在我们身边都在发生。\n最近因为李老师卖币事件，我做的梗图火出圈了。也从这一刻开始，有各种各样的人开始过来骂我。他们骂我的东西都千篇一律，骂我是粉红，人妖，是网警特务。然而我从来没有发过任何爱党爱国的内容，也做了不少毛泽东和习近平的梗图。无论从哪一个角度来讲，我和粉红这个词都没有半毛钱关系，至于网警特务，那就更搞笑了。如果智商像你这么低的人都能发现，那我这个特务是不是太失败了？\n我们分析这件事，我因为做了李老师和多伦多方脸的梗图，就被扣上了粉红的帽子。再对比文革时期，无数心里可能是崇拜毛泽东的人，都被打成了反革命。这是什么原因呢？其实这就是一种宗教式狂热，是一种情绪代替思考而产生的结果。过去对毛泽东的崇拜和现在的反共一样，其实都是情绪输出。当面对一个观点，你的第一反应不是分析，而是愤怒的话。那么你就陷入被洗脑的陷阱了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5742,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "现在网上的绝大多数人都没有经历过文革时代，提起文革，人们会觉得这个东西离自己很遥远。也很难理解，这样一场惨绝人寰的历史悲剧究竟是怎么发生的？然而在统计学，有一项工具叫样本估计整体。我们可以根据身边发生的一些小事，来还原出文革的全貌。文革有一个特点，整个中国人相斗想杀，但口号都是打… https://t.co/7rrrjdlCZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 102,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 192
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "关注枫糖喵，关注枫糖谢谢喵........一只博学的男娘|文学少女|喜欢玩梗和地狱笑话|日本在住|友好所有观点立场，不键政对线只玩梗|互fo请留言｜油管频道https://t.co/YwVMVLgU2j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena?s…",
+                "end": 101,
+                "expanded_url": "https://youtube.com/@konekoutena?si=Eu9nTBFT2tTC6T4C",
+                "start": 78,
+                "url": "https://t.co/YwVMVLgU2j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@konekoutena?si=Eu9nTBFT2tTC6T4C",
+                "start": 0,
+                "url": "https://t.co/YwVMVLgU2j"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1872189727379697860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869197200443805696/LKOOi2LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3882,
+          "following_count": 1011,
+          "like_count": 1754,
+          "listed_count": 8,
+          "media_count": 1933,
+          "tweet_count": 5114
+        },
+        "url": "https://t.co/YwVMVLgU2j",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

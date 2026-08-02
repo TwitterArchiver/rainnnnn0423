@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894279253325484132",
+    "created_at": "2025-02-25T06:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T07:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894279253325484132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IAmTheSolipsis…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/IAmTheSolipsism/status/1894084358853603589",
+          "start": 4,
+          "url": "https://t.co/jI0tUpxq1E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894279253325484132",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894084358853603589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😨😨😨 https://t.co/jI0tUpxq1E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894279253325484132",
+        "created_at": "2025-02-25T06:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T07:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894279253325484132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IAmTheSolipsis…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/IAmTheSolipsism/status/1894084358853603589",
+              "start": 4,
+              "url": "https://t.co/jI0tUpxq1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894279253325484132",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894084358853603589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😨😨😨 https://t.co/jI0tUpxq1E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1894084358853603589",
+        "created_at": "2025-02-24T17:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T18:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894084358853603589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894084358853603589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2791,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还在怀念2018\n\n然后你告诉我现在2018年出生的都上一年级了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 298,
+          "like_count": 1024,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1759
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️MtX//👩‍💻A-level//🍥Hrt2024.4.20//小证持有//持“證”ADHD&ASD//178cm55kg//2008.5.6//前https://t.co/UmzmLuA9oi编辑💊促智/美白/减肥/HRT药物找@Minokakay♿️提问箱➡️https://t.co/ZjAO2HPxQ7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 106,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 83,
+                "url": "https://t.co/UmzmLuA9oi"
+              },
+              {
+                "display_url": "ngl.link/thesolipsism",
+                "end": 164,
+                "expanded_url": "http://ngl.link/thesolipsism",
+                "start": 141,
+                "url": "https://t.co/ZjAO2HPxQ7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆市歌乐山精神病院",
+        "name": "翎.𝑆𝑜𝑙𝑖𝑝𝑠𝑖𝑠𝑚.",
+        "pinned_tweet_id": "1892749526529953855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892474847999250433/8WEzNInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 482,
+          "like_count": 9487,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 2423
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "IAmTheSolipsism",
+        "verified": false
+      }
+    ]
+  }
+}

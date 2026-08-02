@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      }
+    ],
+    "conversation_id": "2010232448685355021",
+    "created_at": "2026-01-11T06:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T07:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010232448685355021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "106379129",
+          "start": 3,
+          "username": "Jaemyung_Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010232448685355021",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5277
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008187260437680381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jaemyung_Lee: &lt;화질은 확실하쥬? 😁&gt;\n경주에서 선물 받은 샤오미로 시진핑 주석님 내외분과 셀카 한 장..\n덕분에 인생샷 건졌습니다 ㅎㅎ\n\n가까이서 만날수록 풀리는 한중관계,\n앞으로 더 자주 소통하고 더 많이 협력하겠습니다^^ ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2668,
+        "media_key": "3_2008187200706686977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96DnoSbsAE5sGj.jpg",
+        "width": 4000
+      },
+      {
+        "height": 2668,
+        "media_key": "3_2008187233585844225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96Dpixb0AEhP88.jpg",
+        "width": 4000
+      },
+      {
+        "height": 960,
+        "media_key": "3_2008187243413024768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96DqHYasAAdLy9.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          }
+        ],
+        "conversation_id": "2010232448685355021",
+        "created_at": "2026-01-11T06:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T07:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010232448685355021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "106379129",
+              "start": 3,
+              "username": "Jaemyung_Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010232448685355021",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008187260437680381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jaemyung_Lee: &lt;화질은 확실하쥬? 😁&gt;\n경주에서 선물 받은 샤오미로 시진핑 주석님 내외분과 셀카 한 장..\n덕분에 인생샷 건졌습니다 ㅎㅎ\n\n가까이서 만날수록 풀리는 한중관계,\n앞으로 더 자주 소통하고 더 많이 협력하겠습니다^^ ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008187200706686977",
+            "3_2008187233585844225",
+            "3_2008187243413024768"
+          ]
+        },
+        "author_id": "106379129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          }
+        ],
+        "conversation_id": "2008187260437680381",
+        "created_at": "2026-01-05T14:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008187260437680381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9YnwFufb7",
+              "end": 148,
+              "expanded_url": "https://x.com/Jaemyung_Lee/status/2008187260437680381/photo/1",
+              "media_key": "3_2008187200706686977",
+              "start": 125,
+              "url": "https://t.co/F9YnwFufb7"
+            },
+            {
+              "display_url": "pic.x.com/F9YnwFufb7",
+              "end": 148,
+              "expanded_url": "https://x.com/Jaemyung_Lee/status/2008187260437680381/photo/1",
+              "media_key": "3_2008187233585844225",
+              "start": 125,
+              "url": "https://t.co/F9YnwFufb7"
+            },
+            {
+              "display_url": "pic.x.com/F9YnwFufb7",
+              "end": 148,
+              "expanded_url": "https://x.com/Jaemyung_Lee/status/2008187260437680381/photo/1",
+              "media_key": "3_2008187243413024768",
+              "start": 125,
+              "url": "https://t.co/F9YnwFufb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008187260437680381",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3458,
+          "impression_count": 6803740,
+          "like_count": 41948,
+          "quote_count": 2010,
+          "reply_count": 3273,
+          "retweet_count": 5277
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;화질은 확실하쥬? 😁&gt;\n경주에서 선물 받은 샤오미로 시진핑 주석님 내외분과 셀카 한 장..\n덕분에 인생샷 건졌습니다 ㅎㅎ\n\n가까이서 만날수록 풀리는 한중관계,\n앞으로 더 자주 소통하고 더 많이 협력하겠습니다^^ https://t.co/F9YnwFufb7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 607,
+          "like_count": 4884,
+          "listed_count": 4,
+          "media_count": 329,
+          "tweet_count": 4377
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-19T10:59:13.000Z",
+        "description": "대한민국 제21대 대통령",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.go.kr",
+                "end": 23,
+                "expanded_url": "https://www.president.go.kr/",
+                "start": 0,
+                "url": "https://t.co/NJ7qyiAoIk"
+              }
+            ]
+          }
+        },
+        "id": "106379129",
+        "location": "대한민국 ",
+        "name": "이재명",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916425597586448384/O2OTY-Yj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953501,
+          "following_count": 456169,
+          "like_count": 9299,
+          "listed_count": 2724,
+          "media_count": 7105,
+          "tweet_count": 62884
+        },
+        "url": "https://t.co/NJ7qyiAoIk",
+        "username": "Jaemyung_Lee",
+        "verified": true
+      }
+    ]
+  }
+}

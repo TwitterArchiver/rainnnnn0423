@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897642141725368338",
+    "created_at": "2025-03-06T13:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T14:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897642141725368338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1897640158209704227",
+          "start": 72,
+          "url": "https://t.co/48cu0Fz7VC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897642141725368338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897640158209704227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果是真精神病那各路极尽嘲讽也是蛮可叹的。如果是炒作演的那和你的亲亲国乙芒果老公一起去死吧。\n哦对了谷子紫薇就是傻逼es妹⛵演的。那很损阴德了 https://t.co/48cu0Fz7VC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897642141725368338",
+        "created_at": "2025-03-06T13:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T14:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897642141725368338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1897640158209704227",
+              "start": 72,
+              "url": "https://t.co/48cu0Fz7VC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897642141725368338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897640158209704227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果是真精神病那各路极尽嘲讽也是蛮可叹的。如果是炒作演的那和你的亲亲国乙芒果老公一起去死吧。\n哦对了谷子紫薇就是傻逼es妹⛵演的。那很损阴德了 https://t.co/48cu0Fz7VC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897638437945221300",
+        "created_at": "2025-03-06T13:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T14:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897640158209704227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897640158209704227",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897638437945221300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原po真的看到她mjg牵着她的手那是典型精分症状了。可惜xhs用户平均智商不够又对精神病群体不了解所以歧视。\n过度沉迷幻想，小心解离精分躁狂抑郁did找上门😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭上推发发疯",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 349,
+          "like_count": 1347,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2238
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893904950758891669",
+    "created_at": "2025-02-24T06:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T07:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893914993415840046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828062670580543488",
+          "start": 0,
+          "username": "CallHtheXtime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893914993415840046",
+    "in_reply_to_user_id": "1828062670580543488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893904950758891669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CallHtheXtime 做的时候能不能开sps？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893904950758891669",
+        "created_at": "2025-02-24T06:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893914993415840046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828062670580543488",
+              "start": 0,
+              "username": "CallHtheXtime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893914993415840046",
+        "in_reply_to_user_id": "1828062670580543488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893904950758891669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CallHtheXtime 做的时候能不能开sps？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828062670580543488",
+        "conversation_id": "1893904950758891669",
+        "created_at": "2025-02-24T06:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893904950758891669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893904950758891669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操了…推特被同班男同学看见了，他威胁我跟他做爱，不然就曝光我，我该怎么办啊啊啊家人们🤯🤯🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 289,
+          "like_count": 973,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1664
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T13:31:28.000Z",
+        "description": "纯乐子人/多面不粘锅/高强度冲浪/私信秒回/抽象屌丝大手/互fo私信就行/没事发发梗图发发疯/爱正常人/希望不让喜欢我的人失望",
+        "id": "1828062670580543488",
+        "location": "熊本县",
+        "name": "风情主播喵梦Nyamuchi",
+        "pinned_tweet_id": "1893222413455810586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893175418787680256/AzH6QYD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 224,
+          "like_count": 1148,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2653
+        },
+        "username": "CallHtheXtime",
+        "verified": false
+      }
+    ]
+  }
+}

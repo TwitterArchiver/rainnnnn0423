@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1895413600426328512",
+    "created_at": "2025-02-28T11:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T12:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895443314780033528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881369782911746049",
+          "start": 0,
+          "username": "jxp20070102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895443314780033528",
+    "in_reply_to_user_id": "1881369782911746049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895443059330208064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxp20070102 哎所以说，，，统计学魅力时刻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1895413600426328512",
+        "created_at": "2025-02-28T11:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T12:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895443314780033528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881369782911746049",
+              "start": 0,
+              "username": "jxp20070102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895443314780033528",
+        "in_reply_to_user_id": "1881369782911746049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895443059330208064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxp20070102 哎所以说，，，统计学魅力时刻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881369782911746049",
+        "conversation_id": "1895413600426328512",
+        "created_at": "2025-02-28T11:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T12:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895443059330208064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895443059330208064",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895442715229528121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 我晓得，但我也是青少年理论上属于这个统计的范畴😂\n我很好奇这玩意是怎么统计的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 304,
+          "like_count": 1124,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1864
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T15:54:53.000Z",
+        "description": "高三在读，刚满十八岁\n喜欢动漫、电影、小说、游戏、TRPG，不时掉落烘焙和烹饪碎片。\n自制美食乃是人生一大乐事。\n最近沉迷街霸6和AC6，以及gal。半个兵击人，玩长剑和迅捷\n可能会在我这里看到各种抽象东西，是人之常情（笃定）\n异性恋switch，反lgbt/mtf/跨。\n目前志愿是心理医生/律师。\n沉迷俳句ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jxp200701021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jxp200701021",
+                "start": 0,
+                "url": "https://t.co/CVTXYKHvgA"
+              }
+            ]
+          }
+        },
+        "id": "1881369782911746049",
+        "location": "辽宁省大连市/匿名提问↓",
+        "name": "司",
+        "pinned_tweet_id": "1884071426896126032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881369924612046848/azWekYqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 308,
+          "like_count": 2688,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/CVTXYKHvgA",
+        "username": "jxp20070102",
+        "verified": false
+      }
+    ]
+  }
+}

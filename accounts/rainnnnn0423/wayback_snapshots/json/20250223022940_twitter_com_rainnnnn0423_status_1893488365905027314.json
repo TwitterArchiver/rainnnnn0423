@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1893488365905027314",
+    "created_at": "2025-02-23T02:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T03:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893488365905027314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yfx0202/status…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/yfx0202/status/1893297046490357764",
+          "start": 26,
+          "url": "https://t.co/1dPLao8vjA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893488365905027314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893297046490357764",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我是天生的夜猫子，成为早鸟是在给学校大爹当奴。 https://t.co/1dPLao8vjA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1893488365905027314",
+        "created_at": "2025-02-23T02:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T03:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893488365905027314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yfx0202/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yfx0202/status/1893297046490357764",
+              "start": 26,
+              "url": "https://t.co/1dPLao8vjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893488365905027314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893297046490357764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我是天生的夜猫子，成为早鸟是在给学校大爹当奴。 https://t.co/1dPLao8vjA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514644367109206019",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1893296951732642233",
+        "created_at": "2025-02-22T13:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893297046490357764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 155,
+              "id": "14105788",
+              "start": 141,
+              "username": "realPatrickJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893297046490357764",
+        "in_reply_to_user_id": "1514644367109206019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 22197,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893297034884718695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3. 接受你的生物钟类型\n\n有些人天生是早起鸟，有些则是夜猫子\n\n这种差异有40-72%的遗传性，并具有进化意义\n\n对抗你的自然节奏可能会影响健康\n\n4. 考虑双相睡眠\n\n如果你半夜醒来，不要惊慌\n\n利用这段时间进行安静的思考或创造性工作\n\n这可能是你身体自然节奏的表现\n\n原作者 @realPatrickJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 269,
+          "like_count": 916,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1533
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T16:39:06.000Z",
+        "description": "伦敦医学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaobot.net/p/yfx0202?refe…",
+                "end": 23,
+                "expanded_url": "https://www.xiaobot.net/p/yfx0202?refer=1e37f0cb-01f4-4223-be60-eb6893394760",
+                "start": 0,
+                "url": "https://t.co/lrtl1fxxBV"
+              }
+            ]
+          }
+        },
+        "id": "1514644367109206019",
+        "location": "小报童专栏：",
+        "name": "Nick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732069638320570368/dSvUkDIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25801,
+          "following_count": 249,
+          "like_count": 1645,
+          "listed_count": 141,
+          "media_count": 671,
+          "tweet_count": 1723
+        },
+        "url": "https://t.co/lrtl1fxxBV",
+        "username": "yfx0202",
+        "verified": true
+      }
+    ]
+  }
+}

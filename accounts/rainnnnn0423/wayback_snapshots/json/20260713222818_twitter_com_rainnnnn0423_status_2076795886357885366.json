@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2076684598201958524",
+    "created_at": "2026-07-13T22:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T23:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076795886357885366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837114188046684161",
+          "start": 0,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076795886357885366",
+    "in_reply_to_user_id": "1837114188046684161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076684598201958524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winterfruit_1 420喝多了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2076684598201958524",
+        "created_at": "2026-07-13T22:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076795886357885366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076795886357885366",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076684598201958524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 420喝多了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2076684598201958524",
+        "created_at": "2026-07-13T15:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076684598201958524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2076440219881271422",
+              "start": 25,
+              "url": "https://t.co/Ej7RxLthMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076684598201958524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076440219881271422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们知道为什么烟出现两次吗，因为酒精的危害确实强 https://t.co/Ej7RxLthMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我 留言和私信容易吞，不定期查看",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 662,
+          "like_count": 6062,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 4929
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 1481,
+          "like_count": 43661,
+          "listed_count": 6,
+          "media_count": 1894,
+          "tweet_count": 13091
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

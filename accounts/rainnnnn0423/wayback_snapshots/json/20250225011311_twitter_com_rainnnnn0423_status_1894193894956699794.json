@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894192854471512518",
+    "created_at": "2025-02-25T01:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T02:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894193894956699794"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1894193894956699794",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894192854471512518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老一辈爱说的“你们现在抑郁的怎么这么多真矫情”，其实只是老一辈不查不看不治不知道。\n我和我姥姥接触不多，没法判断她，我只知道她重男轻女最不待见我妈，但是我妈很爱她妈，我姥姥喝百草枯自杀以后，她崩溃了好多年最后住进精神病院。代际创伤。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894192854471512518",
+        "created_at": "2025-02-25T01:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894193894956699794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894193894956699794",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894192854471512518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老一辈爱说的“你们现在抑郁的怎么这么多真矫情”，其实只是老一辈不查不看不治不知道。\n我和我姥姥接触不多，没法判断她，我只知道她重男轻女最不待见我妈，但是我妈很爱她妈，我姥姥喝百草枯自杀以后，她崩溃了好多年最后住进精神病院。代际创伤。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894192854471512518",
+        "created_at": "2025-02-25T01:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894192854471512518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/data_syuxchu/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/data_syuxchu/status/1894080895381827687",
+              "start": 43,
+              "url": "https://t.co/LfsYMPmckI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894192854471512518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894080895381827687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也经历过数年的儿童虐待，后面我知道了因为我妈也有精神病，她吃药住院治好了可喜可贺。 https://t.co/LfsYMPmckI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 291,
+          "like_count": 989,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1697
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

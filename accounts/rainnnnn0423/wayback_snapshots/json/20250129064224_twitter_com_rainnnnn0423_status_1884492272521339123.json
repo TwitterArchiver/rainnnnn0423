@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884492272521339123",
+    "created_at": "2025-01-29T06:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T07:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884492272521339123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "5382142",
+          "start": 3,
+          "username": "oasisfeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884492272521339123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884230499725685204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oasisfeng: 今年春晚释放了显著的政治信号。\n\n一开始最传统的几大本土剧种的同台节目中，居然飙了好几句英语梗。\n\n然后邀请美国友人客串时，一改过去外国友人都是汉语特流利的传统，居然请了一位不会讲也听不懂汉语的美国人。\n\n其间还搬出「反法西斯同盟」来，意思是说，曾…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884492272521339123",
+        "created_at": "2025-01-29T06:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T07:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884492272521339123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "5382142",
+              "start": 3,
+              "username": "oasisfeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884492272521339123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884230499725685204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oasisfeng: 今年春晚释放了显著的政治信号。\n\n一开始最传统的几大本土剧种的同台节目中，居然飙了好几句英语梗。\n\n然后邀请美国友人客串时，一改过去外国友人都是汉语特流利的传统，居然请了一位不会讲也听不懂汉语的美国人。\n\n其间还搬出「反法西斯同盟」来，意思是说，曾…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5382142",
+        "conversation_id": "1884230499725685204",
+        "created_at": "2025-01-28T13:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T14:20:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884230076256117228",
+          "1884230499725685204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884230499725685204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 624060,
+          "like_count": 2042,
+          "quote_count": 23,
+          "reply_count": 154,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "今年春晚释放了显著的政治信号。\n\n一开始最传统的几大本土剧种的同台节目中，居然飙了好几句英语梗。\n\n然后邀请美国友人客串时，一改过去外国友人都是汉语特流利的传统，居然请了一位不会讲也听不懂汉语的美国人。\n\n其间还搬出「反法西斯同盟」来，意思是说，曾经共产主义和自由民主国家也是同一阵营。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我碎碎念刷屏的里号！",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 210,
+          "like_count": 383,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 722
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2007-04-21T16:21:30.000Z",
+        "description": "Ancient Geeeek, Life Hacker, Indie Developer, Economics Rookie",
+        "id": "5382142",
+        "location": "Hangzhou, China",
+        "name": "Oasis Feng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731824343/Smile_normal.JPG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24762,
+          "following_count": 165,
+          "like_count": 566,
+          "listed_count": 330,
+          "media_count": 1325,
+          "tweet_count": 17846
+        },
+        "username": "oasisfeng",
+        "verified": false
+      }
+    ]
+  }
+}

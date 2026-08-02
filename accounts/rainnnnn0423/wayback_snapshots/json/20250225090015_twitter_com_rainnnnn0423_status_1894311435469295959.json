@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1894311435469295959",
+    "created_at": "2025-02-25T09:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T10:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894311435469295959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1894310819867103265",
+          "start": 66,
+          "url": "https://t.co/k9EKVsB3CE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894311435469295959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894310819867103265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不知道我就一屁民妄议几句时事。其实一般都是酒桌中年男在键，可惜我不是一般人我是个神人，我化妆的时候听方脸tv这是我朋友对我的评价 https://t.co/k9EKVsB3CE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1894311435469295959",
+        "created_at": "2025-02-25T09:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T10:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894311435469295959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1894310819867103265",
+              "start": 66,
+              "url": "https://t.co/k9EKVsB3CE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894311435469295959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894310819867103265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道我就一屁民妄议几句时事。其实一般都是酒桌中年男在键，可惜我不是一般人我是个神人，我化妆的时候听方脸tv这是我朋友对我的评价 https://t.co/k9EKVsB3CE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894302336295616590",
+        "created_at": "2025-02-25T08:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T09:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894310819867103265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894310819867103265",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894305856902373878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马上跑去和习包子普京组独裁者联盟喽，川皇登基 左派的什么籽油皿煮都去他妈的不玩了\n老习会抓住这个良机武统台湾吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 298,
+          "like_count": 1030,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1782
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1890222578528317691",
+    "created_at": "2025-02-14T02:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T03:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890222578528317691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Novocaine8964/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Novocaine8964/status/1889926982579958023",
+          "start": 22,
+          "url": "https://t.co/taSlnwL11U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890222578528317691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889926982579958023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘻嘻 那我们战胜国的高中学生可以过好点儿不 https://t.co/taSlnwL11U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890222578528317691",
+        "created_at": "2025-02-14T02:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T03:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890222578528317691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Novocaine8964/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Novocaine8964/status/1889926982579958023",
+              "start": 22,
+              "url": "https://t.co/taSlnwL11U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890222578528317691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889926982579958023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻 那我们战胜国的高中学生可以过好点儿不 https://t.co/taSlnwL11U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889926979287392256"
+          ]
+        },
+        "author_id": "1825908586297368576",
+        "conversation_id": "1889926982579958023",
+        "created_at": "2025-02-13T06:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T07:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889926982579958023"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "知乎"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vlc9ze7SLM",
+              "end": 44,
+              "expanded_url": "https://x.com/Novocaine8964/status/1889926982579958023/photo/1",
+              "media_key": "3_1889926979287392256",
+              "start": 21,
+              "url": "https://t.co/Vlc9ze7SLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889926982579958023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 98109,
+          "like_count": 832,
+          "quote_count": 8,
+          "reply_count": 60,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#知乎 我就喜欢看某国人气急败坏的样子😂 https://t.co/Vlc9ze7SLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 237,
+          "like_count": 713,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1166
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T14:51:55.000Z",
+        "description": "悪鬼と争い高下を決し、覇王に寸分も譲らず",
+        "id": "1825908586297368576",
+        "location": "🚪8964",
+        "name": "江え🇹🇼",
+        "pinned_tweet_id": "1888518978332684631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883129017269882880/vd_LJ3Oy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 438,
+          "like_count": 21190,
+          "listed_count": 5,
+          "media_count": 378,
+          "tweet_count": 3768
+        },
+        "username": "Novocaine8964",
+        "verified": false
+      }
+    ]
+  }
+}

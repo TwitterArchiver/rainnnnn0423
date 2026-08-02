@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1913031789331026424",
+    "created_at": "2025-04-18T07:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T08:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913128985191735431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1806735924258377728",
+          "start": 0,
+          "username": "AwAii777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913128985191735431",
+    "in_reply_to_user_id": "1806735924258377728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913053614085644689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AwAii777 孩子我也是河南的 今天一个老乡卖我一副墨镜要了我28 还不好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1913031789331026424",
+        "created_at": "2025-04-18T07:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T08:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913128985191735431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1806735924258377728",
+              "start": 0,
+              "username": "AwAii777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913128985191735431",
+        "in_reply_to_user_id": "1806735924258377728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913053614085644689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AwAii777 孩子我也是河南的 今天一个老乡卖我一副墨镜要了我28 还不好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806735924258377728",
+        "conversation_id": "1913031789331026424",
+        "created_at": "2025-04-18T02:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T03:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913053614085644689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913053614085644689",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913031789331026424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 我作为真河南老乡求你们别发了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 雨皇人格出来了我是暴力s都给我下跪！",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 432,
+          "like_count": 2119,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 3149
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T17:06:49.000Z",
+        "description": "即将单招失败 资本太坏干碎了我的大专梦//无性别人类//里账:@TTHoiKawaiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "TTHoiKawaiii"
+              }
+            ]
+          }
+        },
+        "id": "1806735924258377728",
+        "location": "梦",
+        "name": "草莓麥旋風🐹",
+        "pinned_tweet_id": "1906839977570488481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875947068558376960/fk5paLWd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 448,
+          "like_count": 4118,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 4364
+        },
+        "username": "AwAii777",
+        "verified": false
+      }
+    ]
+  }
+}

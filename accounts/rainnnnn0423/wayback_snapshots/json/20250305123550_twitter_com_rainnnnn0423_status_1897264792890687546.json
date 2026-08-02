@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897264792890687546",
+    "created_at": "2025-03-05T12:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T13:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897264792890687546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kwi_cattt/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kwi_cattt/status/1897083169993802189",
+          "start": 5,
+          "url": "https://t.co/OYef0e5Nm2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897264792890687546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897083169993802189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "慕残吗？ https://t.co/OYef0e5Nm2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897264792890687546",
+        "created_at": "2025-03-05T12:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T13:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897264792890687546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kwi_cattt/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kwi_cattt/status/1897083169993802189",
+              "start": 5,
+              "url": "https://t.co/OYef0e5Nm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897264792890687546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897083169993802189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "慕残吗？ https://t.co/OYef0e5Nm2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571484780050407424",
+        "conversation_id": "1897083169993802189",
+        "created_at": "2025-03-05T00:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T01:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897083169993802189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897083169993802189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1924,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "怎么会有人真的喜欢地雷女 是嫌自己好日子过太多了 一定要给自己的生活上点强度吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 339,
+          "like_count": 1284,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2157
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T13:02:29.000Z",
+        "description": "白茫茫一片大地真干净 | 请叫我小林 | 非粉私信不读不回 | 血图@ivy_falling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "ivy_falling"
+              }
+            ]
+          }
+        },
+        "id": "1571484780050407424",
+        "location": "北欧",
+        "name": "薄荷加特林",
+        "pinned_tweet_id": "1886375089517817980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886295551526027264/M__bIICb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 112,
+          "like_count": 191,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 3692
+        },
+        "username": "kwi_cattt",
+        "verified": false
+      }
+    ]
+  }
+}

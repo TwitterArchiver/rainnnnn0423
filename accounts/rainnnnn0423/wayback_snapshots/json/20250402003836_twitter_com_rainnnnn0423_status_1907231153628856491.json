@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907231153628856491",
+    "created_at": "2025-04-02T00:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T01:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907231153628856491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1532599611684429824",
+          "start": 3,
+          "username": "Codforeverloyal"
+        },
+        {
+          "end": 35,
+          "id": "1426789547954737153",
+          "start": 21,
+          "username": "DelayNoMore64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907231153628856491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906927455312748748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @Codforeverloyal: @DelayNoMore64 屈原、陸秀夫、老舍、李克強：我沒意見。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907231153628856491",
+        "created_at": "2025-04-02T00:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T01:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907231153628856491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1532599611684429824",
+              "start": 3,
+              "username": "Codforeverloyal"
+            },
+            {
+              "end": 35,
+              "id": "1426789547954737153",
+              "start": 21,
+              "username": "DelayNoMore64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907231153628856491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906927455312748748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @Codforeverloyal: @DelayNoMore64 屈原、陸秀夫、老舍、李克強：我沒意見。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532599611684429824",
+        "conversation_id": "1906920429434048569",
+        "created_at": "2025-04-01T04:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906927455312748748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426789547954737153",
+              "start": 0,
+              "username": "DelayNoMore64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906927455312748748",
+        "in_reply_to_user_id": "1426789547954737153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8189,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906920429434048569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@DelayNoMore64 屈原、陸秀夫、老舍、李克強：我沒意見。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 402,
+          "like_count": 1726,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2820
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T05:46:56.000Z",
+        "description": "永遠忠誠",
+        "id": "1532599611684429824",
+        "location": "裏帳：＠Still__Loyal",
+        "name": "幼存",
+        "pinned_tweet_id": "1847481357972165054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889918633708756998/FOxL6cAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 655,
+          "like_count": 174614,
+          "listed_count": 14,
+          "media_count": 908,
+          "tweet_count": 6338
+        },
+        "username": "Codforeverloyal",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T06:19:30.000Z",
+        "description": "一蕉羞貍貔Bot / 一个Telegram频道 https://t.co/dfFkcJdtzk / 欢迎加入TG群 https://t.co/rawdaAu2CY /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HatimiCat",
+                "end": 47,
+                "expanded_url": "http://t.me/HatimiCat",
+                "start": 24,
+                "url": "https://t.co/dfFkcJdtzk"
+              },
+              {
+                "display_url": "t.me/HatimiNeko",
+                "end": 81,
+                "expanded_url": "https://t.me/HatimiNeko",
+                "start": 58,
+                "url": "https://t.co/rawdaAu2CY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HatimiCat",
+                "end": 23,
+                "expanded_url": "https://t.me/HatimiCat",
+                "start": 0,
+                "url": "https://t.co/JFB2u2QKRQ"
+              }
+            ]
+          }
+        },
+        "id": "1426789547954737153",
+        "location": "Republic of Korea",
+        "name": "Bocchi🫧",
+        "pinned_tweet_id": "1907016011590836599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907089631444955136/ZCnmql-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41991,
+          "following_count": 915,
+          "like_count": 30067,
+          "listed_count": 155,
+          "media_count": 2236,
+          "tweet_count": 16436
+        },
+        "url": "https://t.co/JFB2u2QKRQ",
+        "username": "DelayNoMore64",
+        "verified": false
+      }
+    ]
+  }
+}

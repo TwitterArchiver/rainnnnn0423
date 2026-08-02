@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885052444029353984"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1885052446504083894",
+    "created_at": "2025-01-30T19:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T20:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885052446504083894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WIRq7cnL9q",
+          "end": 51,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1885052446504083894/photo/1",
+          "media_key": "3_1885052444029353984",
+          "start": 28,
+          "url": "https://t.co/WIRq7cnL9q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885052446504083894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈了个逼，我要买自选券井亚子的，眼花买成傻必劵了😅😅😅 https://t.co/WIRq7cnL9q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_1885052444029353984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GikNNd1aAAAOmI7.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885052444029353984"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885052446504083894",
+        "created_at": "2025-01-30T19:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T20:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885052446504083894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIRq7cnL9q",
+              "end": 51,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1885052446504083894/photo/1",
+              "media_key": "3_1885052444029353984",
+              "start": 28,
+              "url": "https://t.co/WIRq7cnL9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885052446504083894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈了个逼，我要买自选券井亚子的，眼花买成傻必劵了😅😅😅 https://t.co/WIRq7cnL9q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主说悄悄话的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 219,
+          "like_count": 485,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 787
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

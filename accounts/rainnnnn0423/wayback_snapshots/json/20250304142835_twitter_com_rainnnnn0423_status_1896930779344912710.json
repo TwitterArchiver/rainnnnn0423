@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896886885269872774",
+    "created_at": "2025-03-04T14:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T15:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896930779344912710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890780517735473152",
+          "start": 0,
+          "username": "wtswaishiteruyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896930779344912710",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896886885269872774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo 我害怕极端的控制不好自己情绪动不动要砍人的人……前两天楼下邻居吵架震天响 东亚母亲朝孩子发脾气听得我ptsd"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1896886885269872774].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1896886885269872774",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1896886885269872774"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896886885269872774",
+        "created_at": "2025-03-04T14:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T15:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896930779344912710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890780517735473152",
+              "start": 0,
+              "username": "wtswaishiteruyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896930779344912710",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896886885269872774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo 我害怕极端的控制不好自己情绪动不动要砍人的人……前两天楼下邻居吵架震天响 东亚母亲朝孩子发脾气听得我ptsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 337,
+          "like_count": 1249,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2123
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "支黑",
+        "id": "1890780517735473152",
+        "name": "🐱にゃこ🇯🇵🌸",
+        "pinned_tweet_id": "1896444392342487251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895010945635598336/XgCB_WbF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 156,
+          "like_count": 1605,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 549
+        },
+        "username": "wtswaishiteruyo",
+        "verified": false
+      }
+    ]
+  }
+}

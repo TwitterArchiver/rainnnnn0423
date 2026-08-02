@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1872164451220336663",
+    "created_at": "2024-12-27T06:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T07:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872523474792817027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872523474792817027",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872164451220336663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 总帅总帅，一定要接着做下去啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1872164451220336663",
+        "created_at": "2024-12-27T06:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T07:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872523474792817027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872523474792817027",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872164451220336663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 总帅总帅，一定要接着做下去啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872163934016618496"
+          ]
+        },
+        "author_id": "1844025283676094464",
+        "conversation_id": "1872164451220336663",
+        "created_at": "2024-12-26T06:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T07:14:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872163938244456532",
+          "1872164451220336663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBVbxy6fRd",
+              "end": 167,
+              "expanded_url": "https://x.com/Konekoutena/status/1872164451220336663/photo/1",
+              "media_key": "3_1872163934016618496",
+              "start": 144,
+              "url": "https://t.co/eBVbxy6fRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872164451220336663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我做了很多李老师和陆主席的梗图，最开始只是觉得陆主席那张脸长得比较唐比较好玩，放到哪里都特别搭很搞笑，对他们并没有什么恶意。后来就出现了meme币这事，我的这些图也就出圈了。现在想想挺有意思的，我现在被陆主席屏蔽了，还有不少李陆的孝子来骂我，有的骂我是小粉红，有的则因为我之前挂跨旗穿女装，就骂我是人妖阴阳人。我实在不理解性取向和性别认同这东西有啥可攻击的？乳透社制作了很多包包的梗图，这些在墙内都是不能传播的。有人会辩解，包包掌握公权力。但\n同理，以这些人的表现，你又怎么能相信他们上台以后，言论就会变得宽松呢，他们的包容度就会比共产党好呢？可以确定的是，如果上台的是方舟子，言论环境肯定比现在更差。甚至连朝鲜都不如。他在他的评论区都容不下任何反对意见，掌握了权力肯定下手更狠。而李老师在这点上我佩服，当然这和他之前的画风相差甚远，不排除他把账号包给小作坊了。如果陆主席真给我解除屏蔽，甚至跟我互粉的话。有这心胸，至少能让我相信他内心是捍卫民主自由的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3527,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我做了很多李老师和陆主席的梗图，最开始只是觉得陆主席那张脸长得比较唐比较好玩，放到哪里都特别搭很搞笑，对他们并没有什么恶意。后来就出现了meme币这事，我的这些图也就出圈了。现在想想挺有意思的，我现在被陆主席屏蔽了，还有不少李陆的孝子来骂我，有的骂我是小粉红，有的则因为我之前挂跨旗穿… https://t.co/eBVbxy6fRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号不互粉 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 86,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 163
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "关注枫糖喵，关注枫糖谢谢喵........一只博学的男娘|文学少女|喜欢玩梗和地狱笑话|日本在住|友好所有观点立场，不键政对线只玩梗|互fo请留言｜油管频道https://t.co/YwVMVLgU2j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena?s…",
+                "end": 101,
+                "expanded_url": "https://youtube.com/@konekoutena?si=Eu9nTBFT2tTC6T4C",
+                "start": 78,
+                "url": "https://t.co/YwVMVLgU2j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@konekoutena?si=Eu9nTBFT2tTC6T4C",
+                "start": 0,
+                "url": "https://t.co/YwVMVLgU2j"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1872189727379697860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869197200443805696/LKOOi2LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3420,
+          "following_count": 961,
+          "like_count": 1555,
+          "listed_count": 7,
+          "media_count": 1701,
+          "tweet_count": 4655
+        },
+        "url": "https://t.co/YwVMVLgU2j",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

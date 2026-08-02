@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1870274652842668076",
+    "created_at": "2024-12-21T01:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T02:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870274652842668076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/matsuya_foods/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/matsuya_foods/status/1867131023756247520",
+          "start": 6,
+          "url": "https://t.co/txZ5SWTbLm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870274652842668076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867131023756247520",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽好想吃 https://t.co/txZ5SWTbLm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1870274652842668076",
+        "created_at": "2024-12-21T01:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T02:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870274652842668076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/matsuya_foods/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/matsuya_foods/status/1867131023756247520",
+              "start": 6,
+              "url": "https://t.co/txZ5SWTbLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870274652842668076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867131023756247520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽好想吃 https://t.co/txZ5SWTbLm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "955991147993751553",
+        "conversation_id": "1867131023756247520",
+        "created_at": "2024-12-12T08:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T09:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867131023756247520"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "いくら丼",
+              "probability": 0.3905,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "北海道",
+              "probability": 0.5517,
+              "start": 94,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 136,
+              "tag": "食べればわかるさ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867131023756247520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 438,
+          "impression_count": 1024157,
+          "like_count": 5481,
+          "quote_count": 490,
+          "reply_count": 117,
+          "retweet_count": 2291
+        },
+        "reply_settings": "everyone",
+        "text": "12月17日（火）10時より「いくら丼」発売🎉\n2020年に店舗限定で販売していた幻のメニューがこの度全店販売😋\nぷちぷちいくらがたっぷり乗った冬のごちそう丼です😁\n2倍盛と3倍盛、北海道産鮭のほぐし身を使った「鮭いくら丼」も同時販売🍚\nこの機会にぜひ、ご賞味ください✨\n#食べればわかるさ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号不互粉 键政初学者&岁静人 本人口嗨不与观点100%相符",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 55,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 85
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-24T02:30:25.000Z",
+        "description": "『松屋』公式アカウント。中の人の気まぐれで発信！中の人の独り言がとっても多いです。 ※このアカウントでは個別のお問い合わせは受けておりませんのでご了承ください。エゴサ活動します。気になった投稿にはいきなり絡みに行くことあります。そしていいねも時々ポチります。みんなのコメント見てますよ☺️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "matsuyafoods.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.matsuyafoods.co.jp/",
+                "start": 0,
+                "url": "https://t.co/zo9RYkY8R4"
+              }
+            ]
+          }
+        },
+        "id": "955991147993751553",
+        "location": "日本",
+        "name": "【公式】松屋",
+        "pinned_tweet_id": "1867131023756247520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727067127914577920/zn-zEABR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613317,
+          "following_count": 12,
+          "like_count": 19322,
+          "listed_count": 2357,
+          "media_count": 3222,
+          "tweet_count": 6002
+        },
+        "url": "https://t.co/zo9RYkY8R4",
+        "username": "matsuya_foods",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1906040866466312349",
+    "created_at": "2025-03-29T17:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T18:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906043008887488522"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906043008887488522",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906040866466312349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我所指的不是病理性的好转，而是解决自己的内耗，让我能不为自己生计发愁。每个人都有自己的痛苦，父母以前苦惯了，现在条件好了家里仍然是我从小到大每天都在因为一点小钱吵架，大事大钱又砸得愚蠢。我无意中伤他人但钱的事情我之前没调理好一直严重焦虑内耗。小时候就内耗这两年消费习惯也烂还在调理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1906040866466312349",
+        "created_at": "2025-03-29T17:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T18:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906043008887488522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906043008887488522",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906040866466312349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我所指的不是病理性的好转，而是解决自己的内耗，让我能不为自己生计发愁。每个人都有自己的痛苦，父母以前苦惯了，现在条件好了家里仍然是我从小到大每天都在因为一点小钱吵架，大事大钱又砸得愚蠢。我无意中伤他人但钱的事情我之前没调理好一直严重焦虑内耗。小时候就内耗这两年消费习惯也烂还在调理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1906040866466312349",
+        "created_at": "2025-03-29T17:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T18:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906040866466312349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906040866466312349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发作说话比较浑，几位喜欢的推油在我胡言乱语的推文底下感觉要吵起来了我一看卧槽吓死我了。我这个号从建号开始简介一直在修修改改，“胡言乱语”这点是一直保留的。love&amp;peace，但愿友好讨论我最害怕吵架。\n我信仰科学尊重科学自己也醉心于这方面的研究，精神疾病每个案例都是五花八门的，写不下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高，忙了偶尔上推 最近msk又炸我私信箱一直打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 386,
+          "like_count": 1679,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2745
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

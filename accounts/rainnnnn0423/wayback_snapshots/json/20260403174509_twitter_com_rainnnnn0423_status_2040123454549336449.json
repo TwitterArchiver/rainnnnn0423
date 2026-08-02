@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2040097597512462510",
+    "created_at": "2026-04-03T17:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040123454549336449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877726238909100032",
+          "start": 0,
+          "username": "tearthecage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040123454549336449",
+    "in_reply_to_user_id": "1877726238909100032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040097597512462510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tearthecage 你觉得我像你在乎我一样在乎你吗\n你觉得我是否是自私的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2040097597512462510].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2040097597512462510",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2040097597512462510"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2040097597512462510",
+        "created_at": "2026-04-03T17:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040123454549336449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040123454549336449",
+        "in_reply_to_user_id": "1877726238909100032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040097597512462510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 你觉得我像你在乎我一样在乎你吗\n你觉得我是否是自私的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|我不是键政区吗怎么成⌚姐了|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88 我不吸毒谢谢 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 646,
+          "like_count": 5341,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 4662
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T14:37:48.000Z",
+        "description": "",
+        "id": "1877726238909100032",
+        "name": "三两银买了大梦一场",
+        "pinned_tweet_id": "2011295119971090688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877727242610196480/T2AwsvAH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 588
+        },
+        "username": "tearthecage",
+        "verified": false
+      }
+    ]
+  }
+}

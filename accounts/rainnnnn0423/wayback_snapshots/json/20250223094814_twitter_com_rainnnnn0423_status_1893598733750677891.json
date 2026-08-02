@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893579502514548874",
+    "created_at": "2025-02-23T09:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T10:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893598733750677891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802931870218502144",
+          "start": 0,
+          "username": "Ranran4223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893598733750677891",
+    "in_reply_to_user_id": "1802931870218502144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893579502514548874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ranran4223 这种最容易变1i😂😂😂我有刻板印象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893579502514548874",
+        "created_at": "2025-02-23T09:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893598733750677891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802931870218502144",
+              "start": 0,
+              "username": "Ranran4223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893598733750677891",
+        "in_reply_to_user_id": "1802931870218502144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893579502514548874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ranran4223 这种最容易变1i😂😂😂我有刻板印象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802931870218502144",
+        "conversation_id": "1893579502514548874",
+        "created_at": "2025-02-23T08:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T09:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893579502514548874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lee47273812762…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/lee472738127628/status/1893371337323827565",
+              "start": 17,
+              "url": "https://t.co/avEpRhnvjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893579502514548874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893371337323827565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们支那猪发敏感图不知道打敏感吗 https://t.co/avEpRhnvjp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 279,
+          "like_count": 941,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1586
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T05:10:47.000Z",
+        "description": "冉冉：新任健全b 无偿接心理咨询",
+        "id": "1802931870218502144",
+        "name": "Poppin",
+        "pinned_tweet_id": "1837003190111457346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893062550545158145/ngy8a6TU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 649,
+          "like_count": 5918,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 3263
+        },
+        "username": "Ranran4223",
+        "verified": false
+      }
+    ]
+  }
+}

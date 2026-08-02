@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1920326537481761021",
+    "created_at": "2025-05-08T03:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T04:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920326537481761021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0z5aa/status/1…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/0z5aa/status/1920200742276858033",
+          "start": 2,
+          "url": "https://t.co/7OEB1oiZ1K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920326537481761021",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920200742276858033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😄 https://t.co/7OEB1oiZ1K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1920326537481761021",
+        "created_at": "2025-05-08T03:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T04:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920326537481761021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0z5aa/status/1…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/0z5aa/status/1920200742276858033",
+              "start": 2,
+              "url": "https://t.co/7OEB1oiZ1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920326537481761021",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920200742276858033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😄 https://t.co/7OEB1oiZ1K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823331804902051841",
+        "conversation_id": "1920137742157320482",
+        "created_at": "2025-05-07T19:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T20:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920200742276858033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751843115730923520",
+              "start": 0,
+              "username": "Richard06289"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920200742276858033",
+        "in_reply_to_user_id": "1751843115730923520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1641,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920137742157320482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Richard06289 做题已经没有当人上人的机会了才崩溃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 465,
+          "like_count": 2609,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 3525
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T12:12:41.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "syccc.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://syccc.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/XCxBWhiDBv"
+              }
+            ]
+          }
+        },
+        "id": "1823331804902051841",
+        "location": "San Jose, CA",
+        "name": "✝️天使向量機♡⁺˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866129633395257345/yJDvQS8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 443,
+          "like_count": 6440,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 2413
+        },
+        "url": "https://t.co/XCxBWhiDBv",
+        "username": "0z5aa",
+        "verified": false
+      }
+    ]
+  }
+}

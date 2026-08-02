@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1890449781958349050",
+    "created_at": "2025-02-14T17:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T18:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890452330014724184"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890452330014724184",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890449781958349050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "解离其实是中性的。我回顾以前的记忆基本是一片空白，少部分通过提示可以回忆起来，大部分记忆就遗忘了。我完全不知道我以前都在干什么，好回忆坏回忆通通解离掉了\n据悉睡眠其实是一种选择性解离，我醒了最长解离三五个小时意识才回归现实，人话半梦半醒。最近好一点，结果特么解离到白天活动的时候了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890449781958349050",
+        "created_at": "2025-02-14T17:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T18:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890452330014724184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890452330014724184",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890449781958349050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解离其实是中性的。我回顾以前的记忆基本是一片空白，少部分通过提示可以回忆起来，大部分记忆就遗忘了。我完全不知道我以前都在干什么，好回忆坏回忆通通解离掉了\n据悉睡眠其实是一种选择性解离，我醒了最长解离三五个小时意识才回归现实，人话半梦半醒。最近好一点，结果特么解离到白天活动的时候了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890449781958349050",
+        "created_at": "2025-02-14T17:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T18:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890449781958349050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890449781958349050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“已经是2月了”和“现在才2月啊”两种意识的冲突，快速地导致了我的解离。\n19年的倒计时，24年的倒计时，口罩封在家里的日子，进高中的第一天，中考阴雨连绵的日子，这些记忆仿佛昨天发生，又仿佛是八百年前的事情。我需要看手表看日历不然不知道今天是几号。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 237,
+          "like_count": 712,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1191
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

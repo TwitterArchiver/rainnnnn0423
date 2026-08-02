@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894192854471512518",
+    "created_at": "2025-02-25T01:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T02:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894192854471512518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/data_syuxchu/s…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/data_syuxchu/status/1894080895381827687",
+          "start": 43,
+          "url": "https://t.co/LfsYMPmckI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894192854471512518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894080895381827687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也经历过数年的儿童虐待，后面我知道了因为我妈也有精神病，她吃药住院治好了可喜可贺。 https://t.co/LfsYMPmckI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894192854471512518",
+        "created_at": "2025-02-25T01:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894192854471512518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/data_syuxchu/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/data_syuxchu/status/1894080895381827687",
+              "start": 43,
+              "url": "https://t.co/LfsYMPmckI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894192854471512518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894080895381827687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也经历过数年的儿童虐待，后面我知道了因为我妈也有精神病，她吃药住院治好了可喜可贺。 https://t.co/LfsYMPmckI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484582068663521281",
+        "conversation_id": "1894080895381827687",
+        "created_at": "2025-02-24T17:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T18:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894080895381827687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894080895381827687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1010,
+          "like_count": 41,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小时候 \n我只是不想学钢琴而已不是想砍人，为什么我妈妈要那样打我？\n她说我的手指没用所以用木质的鞋拔把我的左手无名指和右手中指打骨裂了，这是为什么？\n她的怒气是从何而来？我无法理解，我不会活到把一个拥有自己心智的东西生出来的那一天，我没有理解的机会。\n所以告诉我吧，她为什么生气？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 291,
+          "like_count": 989,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1696
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "sjk￤ꄗ→@seadevil_manta 縮小→@syuushuu_naizou ￤叩かないで! 許して🖍￤@anblk984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "seadevil_manta"
+              },
+              {
+                "end": 41,
+                "start": 25,
+                "username": "syuushuu_naizou"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "anblk984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/data_syux…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/data_syuxchu",
+                "start": 0,
+                "url": "https://t.co/IQWCDzb4eb"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "location": "提问箱→",
+        "name": "繝槭Φ繧ｿ*荳?譫‼️",
+        "pinned_tweet_id": "1877377747502194694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876131674142220288/WkLbx6jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 365,
+          "like_count": 24272,
+          "listed_count": 6,
+          "media_count": 318,
+          "tweet_count": 3283
+        },
+        "url": "https://t.co/IQWCDzb4eb",
+        "username": "data_syuxchu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1942439502032822591",
+    "created_at": "2025-07-08T04:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T05:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942439502032822591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/emiya436900/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/emiya436900/status/1942194919394934813",
+          "start": 3,
+          "url": "https://t.co/qkig2Kwcvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942439502032822591",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942194919394934813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🐒🦈 https://t.co/qkig2Kwcvj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 620,
+        "media_key": "3_1942194915347173376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQP_D3WkAAoX48.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1942439502032822591",
+        "created_at": "2025-07-08T04:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T05:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942439502032822591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/emiya436900/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/emiya436900/status/1942194919394934813",
+              "start": 3,
+              "url": "https://t.co/qkig2Kwcvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942439502032822591",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942194919394934813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🐒🦈 https://t.co/qkig2Kwcvj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942194915347173376"
+          ]
+        },
+        "author_id": "1634940148147441667",
+        "conversation_id": "1942194919394934813",
+        "created_at": "2025-07-07T12:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942194919394934813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eiapkkxUFz",
+              "end": 27,
+              "expanded_url": "https://x.com/emiya436900/status/1942194919394934813/photo/1",
+              "media_key": "3_1942194915347173376",
+              "start": 4,
+              "url": "https://t.co/eiapkkxUFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942194919394934813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3411,
+          "like_count": 60,
+          "quote_count": 8,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有病吧 https://t.co/eiapkkxUFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/双相Ⅱ型/一般路过女高/粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 517,
+          "like_count": 3711,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 3795
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:31:31.000Z",
+        "description": "#世界治愈计划 一个匿名提问箱https://t.co/qN5UYD3KGC\n#树洞\n小小的荧光，只能散发出微小的光芒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "世界治愈计划"
+              },
+              {
+                "end": 42,
+                "start": 39,
+                "tag": "树洞"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/emiya4369",
+                "end": 38,
+                "expanded_url": "https://ngl.link/emiya4369",
+                "start": 15,
+                "url": "https://t.co/qN5UYD3KGC"
+              }
+            ]
+          }
+        },
+        "id": "1634940148147441667",
+        "name": "荧光",
+        "pinned_tweet_id": "1939306382228124070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898513488735272960/v6of14g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 387,
+          "like_count": 1824,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 2426
+        },
+        "username": "emiya436900",
+        "verified": false
+      }
+    ]
+  }
+}

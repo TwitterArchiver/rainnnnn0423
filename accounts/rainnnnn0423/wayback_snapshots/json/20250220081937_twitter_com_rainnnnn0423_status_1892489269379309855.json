@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1892489269379309855",
+    "created_at": "2025-02-20T08:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T09:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892489269379309855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "345437084",
+          "start": 3,
+          "username": "iamcheyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892489269379309855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892462340114919582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iamcheyan: 我发现许多反贼，在网上口嗨反共了这么多年。 \n结果呢，既不懂互联网，也不懂共产党。\n业务能力连我的十分之一都不到。\n竟还能觍着脸指点江山，夸夸其谈。  \n\n给你们上堂课吧。  \n\n1\n以前，中国的出版业归广电总局管。\n2018年后划归给了中宣部。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_1892462332229320705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkNgdudWAAEByBd.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1892462332262903808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkNgdulWcAAvVC7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1892462332246106112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkNgduhWIAAG0YK.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1892462332129005568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkNgduFbUAA17zw.jpg",
+        "width": 889
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1892489269379309855",
+        "created_at": "2025-02-20T08:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T09:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892489269379309855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "345437084",
+              "start": 3,
+              "username": "iamcheyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892489269379309855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892462340114919582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iamcheyan: 我发现许多反贼，在网上口嗨反共了这么多年。 \n结果呢，既不懂互联网，也不懂共产党。\n业务能力连我的十分之一都不到。\n竟还能觍着脸指点江山，夸夸其谈。  \n\n给你们上堂课吧。  \n\n1\n以前，中国的出版业归广电总局管。\n2018年后划归给了中宣部。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892462332229320705",
+            "3_1892462332262903808",
+            "3_1892462332246106112",
+            "3_1892462332129005568"
+          ]
+        },
+        "author_id": "345437084",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892462340114919582",
+        "created_at": "2025-02-20T06:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T07:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892462340114919582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJ47OPNylS",
+              "end": 170,
+              "expanded_url": "https://x.com/iamcheyan/status/1892462340114919582/photo/1",
+              "media_key": "3_1892462332229320705",
+              "start": 147,
+              "url": "https://t.co/bJ47OPNylS"
+            },
+            {
+              "display_url": "pic.x.com/bJ47OPNylS",
+              "end": 170,
+              "expanded_url": "https://x.com/iamcheyan/status/1892462340114919582/photo/1",
+              "media_key": "3_1892462332262903808",
+              "start": 147,
+              "url": "https://t.co/bJ47OPNylS"
+            },
+            {
+              "display_url": "pic.x.com/bJ47OPNylS",
+              "end": 170,
+              "expanded_url": "https://x.com/iamcheyan/status/1892462340114919582/photo/1",
+              "media_key": "3_1892462332246106112",
+              "start": 147,
+              "url": "https://t.co/bJ47OPNylS"
+            },
+            {
+              "display_url": "pic.x.com/bJ47OPNylS",
+              "end": 170,
+              "expanded_url": "https://x.com/iamcheyan/status/1892462340114919582/photo/1",
+              "media_key": "3_1892462332129005568",
+              "start": 147,
+              "url": "https://t.co/bJ47OPNylS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892462340114919582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现许多反贼，在网上口嗨反共了这么多年。 \n结果呢，既不懂互联网，也不懂共产党。\n业务能力连我的十分之一都不到。\n竟还能觍着脸指点江山，夸夸其谈。  \n\n给你们上堂课吧。  \n\n1\n以前，中国的出版业归广电总局管。\n2018年后划归给了中宣部。  \n中宣部嘛，专门负责指导你怎么吐字发声。  \n\n次年，香港反送中。\n中宣部因此对「涉港澳台用语」提出了规范。\n要求所有「香港」「台湾」地名前面必须加上「中国」。  \n\n拿我2020年出版的《区块链风云》举例。\n我原来书稿写的「香港」，全被改成了「中国香港」。    \n\n两个老年人聊天，回忆当年年轻时的日子：\n「年轻时咱在中国香港打拼，可不容易啊。」\n「那时候还没有深圳呢。」\n「是啊，现在深圳发展起来了，连中国香港人都跑来深圳买房……」\n\n没人这么说话。\n我觉得太荒谬了，据理力争，要改回去。\n编辑说不可能，不改就不能出。\n而香港又是小说里很重要的一环，全删掉故事就讲不通了。\n\n最后我俩各退一步，决定在「中国」上加个括号。\n写成「（中国）香港」。  \n\n这股风气很快扩散开来。\n新闻报道、影视剧台词、网站内容，都开始改。  \n所以你们才会看到那些奇怪的台词：  \n\n「我马上去中国香港拧你的耳朵」  \n「回中国香港祭拜家人」  \n「中国香港跟泰国离得很近」 \n\n都是没办法的事。\n\n2\n网站也是这个原因。\n这几年，各大云主机平台隔三差五就做活动，新人几块钱就能买一年。\n我为了薅羊毛就会经常迁移。  \n迁移的时候要做备案迁入。\n\n审核的人就会看你网站哪里哪里有问题。\n有时就打个马虎眼。\n有时就事无巨细。\n\n当时，审核的人说你在台湾出书算新闻报道。\n得标注「中国台湾」。\n他只说下面要改，那我就只改了下面，上面就没改。\n仅此而已。\n\n而且我的网站网址还印在书上。\n那我就配合一下。\n\n3\n《了不起的盖茨比》说：  \n当你想批评一个人时，要记住，并不是所有人都享受过你的优势。\n\n我是农村长大的，后来搬到小县城。\n去年来到日本，是我和媳妇人生里第一次出国。\n我俩人生里的一切都靠着我俩站着奋斗。\n\n这种普通家庭的人。\n当然不能跟年纪轻轻就去意大利留学的富二代李颖比。\n也不能跟喜欢去币圈吃屎割韭菜的多伦多方脸比。\n  \n普通人在国内生活。\n就只能在规则里找到生存方式。  \n一般老百姓总不能为了这么点事就冲塔吧？  \n那还过不过日子了？  \n天天寻衅滋事去你们就开心了？\n\n4\n所以我说他们坏。\n他们在安全的地方，口嗨得飞起。\n屁大点事就无限放大。\n对国内的人各种指责、嘲笑。\n骂他们不够勇敢，笑他们人太「顺从」。\n一副「卧槽这都能忍，你们中国人怎么上街不造反呢」的高姿态。\n\n你们这么牛逼，别光网上口嗨啊。\n回国喊去啊。\n你们不也怂得一批吗？\n天天嘲笑和怂恿别人算几个意思？\n\n还有些，喊着自由、民主、平等。\n但一碰到跟自己观点不同的人，\n立刻说对方是「粉红」「自干五」「下跪」。\n甚至直接拉黑、屏蔽、装死。\n心眼小得跟2G网络似的。\n\n还言论自由呢。\n多伦多方脸你还没登基呢就开始不让别人说话了。\n\n5\n归根结底这些人：\n一，业务能力差，无论是搞革命，还是做批判，都拉胯得很。\n二，就是坏。\n纯粹地坏。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 6990,
+          "like_count": 119,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我发现许多反贼，在网上口嗨反共了这么多年。 \n结果呢，既不懂互联网，也不懂共产党。\n业务能力连我的十分之一都不到。\n竟还能觍着脸指点江山，夸夸其谈。  \n\n给你们上堂课吧。  \n\n1\n以前，中国的出版业归广电总局管。\n2018年后划归给了中宣部。  \n中宣部嘛，专门负责指导你怎么吐字发声。… https://t.co/bJ47OPNylS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 257,
+          "like_count": 838,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1414
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-30T16:05:20.000Z",
+        "description": "作家 · 编剧 · 程序员 / 東京都在住 🗼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iamcheyan.com",
+                "end": 23,
+                "expanded_url": "http://iamcheyan.com",
+                "start": 0,
+                "url": "https://t.co/IoKuPngzUE"
+              }
+            ]
+          }
+        },
+        "id": "345437084",
+        "location": "Katsushika-ku, Tokyo",
+        "name": "徹言",
+        "pinned_tweet_id": "1779190836405924114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752946036358909952/o_vVoTim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35927,
+          "following_count": 7261,
+          "like_count": 61273,
+          "listed_count": 168,
+          "media_count": 1376,
+          "tweet_count": 8106
+        },
+        "url": "https://t.co/IoKuPngzUE",
+        "username": "iamcheyan",
+        "verified": true
+      }
+    ]
+  }
+}

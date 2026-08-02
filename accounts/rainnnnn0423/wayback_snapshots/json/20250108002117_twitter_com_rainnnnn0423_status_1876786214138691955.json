@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1876292677714764223",
+    "created_at": "2025-01-08T00:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T01:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876786214138691955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1786565281726296064",
+          "start": 0,
+          "username": "benben19890604"
+        },
+        {
+          "end": 29,
+          "id": "1484582068663521281",
+          "start": 16,
+          "username": "data_syuxchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876786214138691955",
+    "in_reply_to_user_id": "1786565281726296064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876507265307660444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@benben19890604 @data_syuxchu 哎 冲浪刷到过毛腊肉梦女😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1876292677714764223",
+        "created_at": "2025-01-08T00:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T01:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876786214138691955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1786565281726296064",
+              "start": 0,
+              "username": "benben19890604"
+            },
+            {
+              "end": 29,
+              "id": "1484582068663521281",
+              "start": 16,
+              "username": "data_syuxchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876786214138691955",
+        "in_reply_to_user_id": "1786565281726296064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876507265307660444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benben19890604 @data_syuxchu 哎 冲浪刷到过毛腊肉梦女😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786565281726296064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1876292677714764223",
+        "created_at": "2025-01-07T05:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T06:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876507265307660444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484582068663521281",
+              "start": 0,
+              "username": "data_syuxchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876507265307660444",
+        "in_reply_to_user_id": "1484582068663521281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 818,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876292677714764223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@data_syuxchu 我來看評論，好奇有沒有支納粹黃畜會看著聽著習近平講話打手槍，幻想著被毛臘肉操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 133,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 258
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:15:46.000Z",
+        "description": "放弃建言情节，尊重国家命运，支持当权追求，争取早日让这个低劣的民族消失于历史长河",
+        "id": "1786565281726296064",
+        "location": "canada ",
+        "name": "偉大小學生🇨🇦🇹🇼🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798317388904939520/MTcXzOPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 146,
+          "like_count": 17794,
+          "listed_count": 3,
+          "media_count": 495,
+          "tweet_count": 6822
+        },
+        "username": "benben19890604",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "我是一片魔鬼鱼 ^^￤sjk ꄗ→@syuushuu_naizou ￤爹@losb555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "syuushuu_naizou"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "losb555"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/data_syux…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/data_syuxchu",
+                "start": 0,
+                "url": "https://t.co/IQWCDzb4eb"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "location": "🖱",
+        "name": "繝槭Φ繧ｿ*荳?譫‼️",
+        "pinned_tweet_id": "1866480745428189464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876131674142220288/WkLbx6jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 341,
+          "like_count": 21964,
+          "listed_count": 6,
+          "media_count": 273,
+          "tweet_count": 2675
+        },
+        "url": "https://t.co/IQWCDzb4eb",
+        "username": "data_syuxchu",
+        "verified": false
+      }
+    ]
+  }
+}

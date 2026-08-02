@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1908787683918225527",
+    "created_at": "2025-04-06T07:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T08:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908788140183027811"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1908788140183027811",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908787683918225527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉社团那帮白眼狼我再也不会给他们发福利了 全都搞成和隔壁社团一样抽奖 直接白送还不珍惜 我从去年到现在请了n回奶茶了每次大几十杯喝了还给我添麻烦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1908787680617652227",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1gSEbbYAMMyKX.jpg",
+        "width": 635
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1908787683918225527",
+        "created_at": "2025-04-06T07:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T08:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908788140183027811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908788140183027811",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908787683918225527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉社团那帮白眼狼我再也不会给他们发福利了 全都搞成和隔壁社团一样抽奖 直接白送还不珍惜 我从去年到现在请了n回奶茶了每次大几十杯喝了还给我添麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908787680617652227"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1908787683918225527",
+        "created_at": "2025-04-06T07:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T08:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908787683918225527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rG00U05Qet",
+              "end": 28,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1908787683918225527/photo/1",
+              "media_key": "3_1908787680617652227",
+              "start": 5,
+              "url": "https://t.co/rG00U05Qet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908787683918225527",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "米一直爆 https://t.co/rG00U05Qet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 412,
+          "like_count": 1832,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2907
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

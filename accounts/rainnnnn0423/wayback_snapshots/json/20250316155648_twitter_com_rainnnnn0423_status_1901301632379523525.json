@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1887420119250239762",
+    "created_at": "2025-03-16T15:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T16:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901301632379523525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900951350906875904",
+          "start": 0,
+          "username": "wsrndg123049"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901301632379523525",
+    "in_reply_to_user_id": "1900951350906875904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901295939069059099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsrndg123049 中国人唐逼太多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887420119250239762",
+        "created_at": "2025-03-16T15:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T16:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901301632379523525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900951350906875904",
+              "start": 0,
+              "username": "wsrndg123049"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901301632379523525",
+        "in_reply_to_user_id": "1900951350906875904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901295939069059099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsrndg123049 中国人唐逼太多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900951350906875904",
+        "conversation_id": "1887420119250239762",
+        "created_at": "2025-03-16T15:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T16:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901295939069059099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901295939069059099",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887420119250239762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 哈哈，国内特色不用在意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政乐子人",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 370,
+          "like_count": 1586,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2531
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T16:45:11.000Z",
+        "description": "V我50看看实力",
+        "id": "1900951350906875904",
+        "name": "wsrndg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900952572862885890/fRDhjJ0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "wsrndg123049",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1916561443048026373",
+    "created_at": "2025-04-27T18:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T19:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916561443048026373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i1314151241475…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/i1314151241475i/status/1915388782356115930",
+          "start": 70,
+          "url": "https://t.co/iV0h2jipWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916561443048026373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915388782356115930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我讲过去就是在卖惨，我讲未来就是在做梦，我讲现在和交代后事没区别因为我很容易猝死，每次我过量的分享欲令人生厌时我都会甩锅给躁狂。我是傻逼。 https://t.co/iV0h2jipWm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1916561443048026373",
+        "created_at": "2025-04-27T18:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T19:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916561443048026373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i1314151241475…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/i1314151241475i/status/1915388782356115930",
+              "start": 70,
+              "url": "https://t.co/iV0h2jipWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916561443048026373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915388782356115930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我讲过去就是在卖惨，我讲未来就是在做梦，我讲现在和交代后事没区别因为我很容易猝死，每次我过量的分享欲令人生厌时我都会甩锅给躁狂。我是傻逼。 https://t.co/iV0h2jipWm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660276482030342145",
+        "conversation_id": "1915388782356115930",
+        "created_at": "2025-04-24T12:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T13:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915388782356115930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915388782356115930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7729,
+          "like_count": 155,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "你讲过去像是在卖惨，你讲未来像是做梦，你讲现在像是在准备交代自己的后事，所以你还是收起你那令人反感的分享欲吧，傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 456,
+          "like_count": 2317,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 3361
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T13:29:11.000Z",
+        "description": "喜欢可爱的人  推广关评自辨",
+        "id": "1660276482030342145",
+        "name": "煎饺神",
+        "pinned_tweet_id": "1915017656056598746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908162540636667904/9x9Vjclb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7416,
+          "following_count": 225,
+          "like_count": 7500,
+          "listed_count": 8,
+          "media_count": 139,
+          "tweet_count": 3108
+        },
+        "username": "i1314151241475i",
+        "verified": false
+      }
+    ]
+  }
+}

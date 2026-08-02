@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1892459032834953345",
+    "created_at": "2025-02-20T06:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T07:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892459032834953345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xrza2021_09/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/xrza2021_09/status/1889196083059773866",
+          "start": 11,
+          "url": "https://t.co/xmS49gdlIQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892459032834953345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889196083059773866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我天天被床睡。。。 https://t.co/xmS49gdlIQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1187,
+        "media_key": "3_1889196070430789633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjfF0REXUAE5U_E.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1892459032834953345",
+        "created_at": "2025-02-20T06:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T07:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892459032834953345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xrza2021_09/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/xrza2021_09/status/1889196083059773866",
+              "start": 11,
+              "url": "https://t.co/xmS49gdlIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892459032834953345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889196083059773866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我天天被床睡。。。 https://t.co/xmS49gdlIQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889196070430789633"
+          ]
+        },
+        "author_id": "1824802522529140736",
+        "conversation_id": "1889196083059773866",
+        "created_at": "2025-02-11T06:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T07:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889196083059773866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgY5LeZ4lA",
+              "end": 32,
+              "expanded_url": "https://x.com/xrza2021_09/status/1889196083059773866/photo/1",
+              "media_key": "3_1889196070430789633",
+              "start": 9,
+              "url": "https://t.co/dgY5LeZ4lA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889196083059773866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "床怎么这么坏呀😭 https://t.co/dgY5LeZ4lA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 248,
+          "like_count": 827,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1411
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T13:36:54.000Z",
+        "description": "中共国四等贱民/支持民主/满洲人/建政/时不时会发疯😲/欢迎交朋友😊/会互fo（正常用户）/被封以防万一号(此号不建政）@xrza2024_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "xrza2024_12"
+              }
+            ]
+          }
+        },
+        "id": "1824802522529140736",
+        "name": "我有权拒绝一切",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826622521103568896/ueTyIpTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 427,
+          "like_count": 1397,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 597
+        },
+        "username": "xrza2021_09",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2046460577669898409",
+    "created_at": "2026-04-22T01:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046768227309818127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046768227309818127",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046460577669898409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 好的，严肃学习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2046460577669898409",
+        "created_at": "2026-04-22T01:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046768227309818127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046768227309818127",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046460577669898409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 好的，严肃学习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "2046460577669898409",
+        "created_at": "2026-04-21T05:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046460577669898409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NankyuSeiichi/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/NankyuSeiichi/status/2045875838663729200",
+              "start": 39,
+              "url": "https://t.co/1FjWpTvhog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046460577669898409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4204,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045875838663729200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反过来想，多和OD傻狗结仇，然后就能活着看他们一个个给你解压送你一天好心情😁 https://t.co/1FjWpTvhog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|本号转生为竞小妹|08infp女高|我不是键政曲吗怎么成⌚姐了|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122🚪88 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "si_an_1122"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2040862365714129402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 655,
+          "like_count": 5540,
+          "listed_count": 4,
+          "media_count": 345,
+          "tweet_count": 4764
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2042904752271593620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12311,
+          "following_count": 982,
+          "like_count": 113708,
+          "listed_count": 64,
+          "media_count": 2548,
+          "tweet_count": 27816
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

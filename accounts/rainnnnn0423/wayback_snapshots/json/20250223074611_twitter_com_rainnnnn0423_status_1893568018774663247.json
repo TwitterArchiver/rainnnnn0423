@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893564386276675939",
+    "created_at": "2025-02-23T07:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T08:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893568018774663247"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1893568018774663247",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893566844218343653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "认清楚好吗本质就是商业作品利益交换，消费者提供商业利益，文娱工作者提供作品产出。现在看到饭圈那套就烦。我心态很好为什么官方把我推乳到分饰我也叫好：1我推边缘人终于露脸了嘻嘻2作为商业作品官方必须设计相对合理的剧情逻辑。3我所有同担我都视奸过我不喜欢厨力攀比但是我确实就是国一我推厨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893564386276675939",
+        "created_at": "2025-02-23T07:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T08:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893568018774663247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893568018774663247",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893566844218343653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "认清楚好吗本质就是商业作品利益交换，消费者提供商业利益，文娱工作者提供作品产出。现在看到饭圈那套就烦。我心态很好为什么官方把我推乳到分饰我也叫好：1我推边缘人终于露脸了嘻嘻2作为商业作品官方必须设计相对合理的剧情逻辑。3我所有同担我都视奸过我不喜欢厨力攀比但是我确实就是国一我推厨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893564386276675939",
+        "created_at": "2025-02-23T07:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T08:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893566844218343653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893566844218343653",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893565120502210596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得她们的人生没有更高的东西了才这么在意这些的，即使真乳了又怎么了？这么玻璃心？（当然具体情况具体讨论，不一概而论，叠甲下）\n我付出了数年时间心力与数万金钱，我照样解构我推，她死妈了（物理上）她相方就是她妈。在此ip被毒害得已精神失常，即使官方把我推分尸我也会拍手叫好的😂😆😆😂🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 273,
+          "like_count": 927,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1562
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

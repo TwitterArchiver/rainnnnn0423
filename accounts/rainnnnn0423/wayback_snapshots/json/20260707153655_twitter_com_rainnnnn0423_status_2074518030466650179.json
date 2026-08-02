@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2074518030466650179",
+    "created_at": "2026-07-07T15:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074518030466650179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074518030466650179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074460161683648833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 说话像广西人的方式\n打招呼：咕噜咕噜\n可以：咕噜\n不行：咕噜咕噜\n快淹死了：别发外网"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2074518030466650179",
+        "created_at": "2026-07-07T15:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074518030466650179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074518030466650179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074460161683648833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 说话像广西人的方式\n打招呼：咕噜咕噜\n可以：咕噜\n不行：咕噜咕噜\n快淹死了：别发外网"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "2074460161683648833",
+        "created_at": "2026-07-07T11:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074460161683648833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074460161683648833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5787,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "说话像广西人的方式\n打招呼：咕噜咕噜\n可以：咕噜\n不行：咕噜咕噜\n快淹死了：别发外网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 650,
+          "like_count": 5893,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4878
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15592,
+          "following_count": 1046,
+          "like_count": 125063,
+          "listed_count": 75,
+          "media_count": 3193,
+          "tweet_count": 30194
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

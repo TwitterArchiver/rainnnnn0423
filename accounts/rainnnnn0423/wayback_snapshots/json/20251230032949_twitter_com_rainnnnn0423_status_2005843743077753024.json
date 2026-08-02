@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005843733808611328"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "2005582933894295666",
+    "created_at": "2025-12-30T03:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T04:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005843743077753024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "NashiMoe233"
+        },
+        {
+          "end": 22,
+          "id": "1271652280438308864",
+          "start": 13,
+          "username": "Jaciezyt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kU0mtrMvXg",
+          "end": 55,
+          "expanded_url": "https://x.com/rainnnnn0423/status/2005843743077753024/photo/1",
+          "media_key": "3_2005843733808611328",
+          "start": 32,
+          "url": "https://t.co/kU0mtrMvXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005843743077753024",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005835042342551784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NashiMoe233 @Jaciezyt 昨天我出勤看到的 https://t.co/kU0mtrMvXg"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005835042342551784].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005835042342551784",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005835042342551784"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2005843733808611328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9YwP5ybAAAoJYM.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005843733808611328"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "2005582933894295666",
+        "created_at": "2025-12-30T03:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T04:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005843743077753024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "NashiMoe233"
+            },
+            {
+              "end": 22,
+              "id": "1271652280438308864",
+              "start": 13,
+              "username": "Jaciezyt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kU0mtrMvXg",
+              "end": 55,
+              "expanded_url": "https://x.com/rainnnnn0423/status/2005843743077753024/photo/1",
+              "media_key": "3_2005843733808611328",
+              "start": 32,
+              "url": "https://t.co/kU0mtrMvXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005843743077753024",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005835042342551784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 @Jaciezyt 昨天我出勤看到的 https://t.co/kU0mtrMvXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 601,
+          "like_count": 4808,
+          "listed_count": 4,
+          "media_count": 328,
+          "tweet_count": 4346
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NashiMoe233",
+                "end": 23,
+                "expanded_url": "http://t.me/NashiMoe233",
+                "start": 0,
+                "url": "https://t.co/8KaGgpc8w6"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003554412254625797/ITFTv6MD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 206,
+          "like_count": 24297,
+          "listed_count": 3,
+          "media_count": 635,
+          "tweet_count": 12932
+        },
+        "url": "https://t.co/8KaGgpc8w6",
+        "username": "NashiMoe233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 事电波系少女 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心❤ | 里@__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "levimc_org"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 🎄🎁 🏳️",
+        "pinned_tweet_id": "1997887382092443786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998244380675805184/5ly0wKFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3261,
+          "following_count": 805,
+          "like_count": 54344,
+          "listed_count": 7,
+          "media_count": 1110,
+          "tweet_count": 13446
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1909925996310278352",
+    "created_at": "2025-04-09T11:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T12:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909925996310278352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/santaizi258/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/santaizi258/status/1909337035539620120",
+          "start": 37,
+          "url": "https://t.co/tHfRsYQKOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909925996310278352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909337035539620120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以啊，谁做一个我的，我把我自设立绘发给你。你再给我量身定制一套cos服 https://t.co/tHfRsYQKOO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1909337028132519936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn9T6TZWwAA1PQF.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1909925996310278352",
+        "created_at": "2025-04-09T11:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T12:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909925996310278352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/santaizi258/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/santaizi258/status/1909337035539620120",
+              "start": 37,
+              "url": "https://t.co/tHfRsYQKOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909925996310278352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909337035539620120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以啊，谁做一个我的，我把我自设立绘发给你。你再给我量身定制一套cos服 https://t.co/tHfRsYQKOO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909337028132519936"
+          ]
+        },
+        "author_id": "1582857505746591744",
+        "conversation_id": "1909337035539620120",
+        "created_at": "2025-04-07T20:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T21:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909337035539620120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R9Pnjo18Iy",
+              "end": 43,
+              "expanded_url": "https://x.com/santaizi258/status/1909337035539620120/photo/1",
+              "media_key": "3_1909337028132519936",
+              "start": 20,
+              "url": "https://t.co/R9Pnjo18Iy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909337035539620120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 137863,
+          "like_count": 1841,
+          "quote_count": 10,
+          "reply_count": 43,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "代表作品：镜娃。也没太欣赏明白这种XP https://t.co/R9Pnjo18Iy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 最近私信箱又挂了",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 416,
+          "like_count": 1918,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2973
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T22:13:43.000Z",
+        "description": "本人喜欢伪娘男の娘femboy，或者假小子tomboy，另外本人有时候素质较低，XP偏重口，望周知",
+        "id": "1582857505746591744",
+        "name": "烤辣椒不要辣",
+        "pinned_tweet_id": "1880238538480054494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754989107334295552/gu9qJNOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 394,
+          "like_count": 1047,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 336
+        },
+        "username": "santaizi258",
+        "verified": false
+      }
+    ]
+  }
+}

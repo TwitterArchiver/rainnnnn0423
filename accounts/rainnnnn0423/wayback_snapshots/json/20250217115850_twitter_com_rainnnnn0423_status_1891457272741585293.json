@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891393468049522717",
+    "created_at": "2025-02-17T11:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T12:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891457272741585293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877035470615638016",
+          "start": 0,
+          "username": "pNcYSzDUsc75787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891457272741585293",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891393468049522717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pNcYSzDUsc75787 hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891393468049522717",
+        "created_at": "2025-02-17T11:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T12:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891457272741585293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "pNcYSzDUsc75787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891457272741585293",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891393468049522717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pNcYSzDUsc75787 hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891393461586419712"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1891393468049522717",
+        "created_at": "2025-02-17T07:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T08:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891393468049522717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzrjxxI1Kk",
+              "end": 28,
+              "expanded_url": "https://x.com/pNcYSzDUsc75787/status/1891393468049522717/photo/1",
+              "media_key": "3_1891393461586419712",
+              "start": 5,
+              "url": "https://t.co/GzrjxxI1Kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891393468049522717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "玩一下（ https://t.co/GzrjxxI1Kk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 241,
+          "like_count": 754,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1318
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra | 原账号@pNcYSzDUsc75790 @pNcYSzDUsc81146 @pNcYSzDUsc81147 备用账号@pNcYSzDUsc75789",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "pNcYSzDUsc75790"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "pNcYSzDUsc81146"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "pNcYSzDUsc81147"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "pNcYSzDUsc75789"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Gevona，Italia ",
+        "name": "Luka Megurine 03（推友巡回）",
+        "pinned_tweet_id": "1887931719803973849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 2143,
+          "like_count": 735,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 756
+        },
+        "username": "pNcYSzDUsc75787",
+        "verified": false
+      }
+    ]
+  }
+}

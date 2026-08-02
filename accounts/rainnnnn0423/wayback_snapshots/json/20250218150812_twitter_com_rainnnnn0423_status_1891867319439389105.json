@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891865291581177993",
+    "created_at": "2025-02-18T15:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T16:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891867319439389105"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1891867319439389105",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891867211209347161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "enfj-a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891865291581177993",
+        "created_at": "2025-02-18T15:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T16:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891867319439389105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891867319439389105",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891867211209347161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "enfj-a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891867208541683713"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891865291581177993",
+        "created_at": "2025-02-18T15:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T16:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891867211209347161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z0LXoXunot",
+              "end": 66,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1891867211209347161/photo/1",
+              "media_key": "3_1891867208541683713",
+              "start": 43,
+              "url": "https://t.co/Z0LXoXunot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891867211209347161",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891865291581177993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "代入我oc测了一下\n但测出偏j的倾向只是因为此人是社畜牛马王，我真不觉得他喜欢打工。 https://t.co/Z0LXoXunot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑一天发八百条",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 245,
+          "like_count": 769,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1372
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

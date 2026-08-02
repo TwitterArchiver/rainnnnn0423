@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896793296242090445",
+    "created_at": "2025-03-04T05:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T06:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896793296242090445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ame_lwwen/stat…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/ame_lwwen/status/1896621896571277504",
+          "start": 106,
+          "url": "https://t.co/tCI0SbJzuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896793296242090445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896621896571277504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当乐子看就好。我前任还在视奸我朋友，我跟我朋友说我不关心她近况但是有乐子请给我转播😄死了我开香槟🍾\n她把身边的朋友们全部伤害并挑拨离间了一遍，后来我们一合计找到了共同的敌人。非常重量级缺乐子的可以问我要瓜条链接 https://t.co/tCI0SbJzuu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896793296242090445",
+        "created_at": "2025-03-04T05:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T06:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896793296242090445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ame_lwwen/stat…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/ame_lwwen/status/1896621896571277504",
+              "start": 106,
+              "url": "https://t.co/tCI0SbJzuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896793296242090445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896621896571277504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当乐子看就好。我前任还在视奸我朋友，我跟我朋友说我不关心她近况但是有乐子请给我转播😄死了我开香槟🍾\n她把身边的朋友们全部伤害并挑拨离间了一遍，后来我们一合计找到了共同的敌人。非常重量级缺乐子的可以问我要瓜条链接 https://t.co/tCI0SbJzuu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772653166850662400",
+        "conversation_id": "1896621896571277504",
+        "created_at": "2025-03-03T18:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T19:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896621896571277504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896621896571277504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2493,
+          "like_count": 69,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很震惊朋友们居然还会和前任联系，或者是默默关注对方的社交平台，我完全做不到，至少我不想看见对方真的彻底变成另一个人，那些曾以为是你我交换心与心的时刻，在看到对方真的变了的时候，都会变得很可笑。我记得前任说这辈子都不会抽烟，分手后发的第一条动态就在抽烟，旁边坐着其他女生。太恨前任。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 333,
+          "like_count": 1236,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2092
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T15:53:55.000Z",
+        "description": "喜欢草坪、阳光，阅读和睡眠。",
+        "id": "1772653166850662400",
+        "location": "Somewhere we could stay",
+        "name": "荔文",
+        "pinned_tweet_id": "1818197670655099164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772658895015784448/tkQ9SLa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 155,
+          "like_count": 7636,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 2440
+        },
+        "username": "ame_lwwen",
+        "verified": false
+      }
+    ]
+  }
+}

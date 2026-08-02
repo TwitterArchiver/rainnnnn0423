@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1889390670684758250",
+    "created_at": "2025-02-11T19:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T20:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889390670684758250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889390670684758250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888976716384924019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 由于你的键政水平过于高超，习近平在巡视了整个中推圈后，被你那惊世骇俗的思想高度所折服，决定任命你为下一任国家主席和共产党的总书记。你坐在去往北京的专车上，恍惚之间，想起了中南海听床师讲述过的那段红二代内斗的腥风血雨，不由得暗暗吓出了一身冷汗。 htt…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1889390670684758250",
+        "created_at": "2025-02-11T19:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T20:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889390670684758250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889390670684758250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888976716384924019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 由于你的键政水平过于高超，习近平在巡视了整个中推圈后，被你那惊世骇俗的思想高度所折服，决定任命你为下一任国家主席和共产党的总书记。你坐在去往北京的专车上，恍惚之间，想起了中南海听床师讲述过的那段红二代内斗的腥风血雨，不由得暗暗吓出了一身冷汗。 htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888976113118195712"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1888976716384924019",
+        "created_at": "2025-02-10T15:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T16:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888976716384924019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TW8IDWLhyL",
+              "end": 145,
+              "expanded_url": "https://x.com/FurinaDF/status/1888976716384924019/photo/1",
+              "media_key": "3_1888976113118195712",
+              "start": 122,
+              "url": "https://t.co/TW8IDWLhyL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888976716384924019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 139179,
+          "like_count": 1105,
+          "quote_count": 12,
+          "reply_count": 77,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "由于你的键政水平过于高超，习近平在巡视了整个中推圈后，被你那惊世骇俗的思想高度所折服，决定任命你为下一任国家主席和共产党的总书记。你坐在去往北京的专车上，恍惚之间，想起了中南海听床师讲述过的那段红二代内斗的腥风血雨，不由得暗暗吓出了一身冷汗。 https://t.co/TW8IDWLhyL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 234,
+          "like_count": 678,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1079
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "男，汉族，2000年生，原教旨主义自由精神党人。祖籍河南周口，现居缅甸，从事数据挖掘和互联网孵化工作。人生目标是大东亚共荣和AI参政。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "𝐅𝐮𝐫𝐢𝐧𝐚 𝐝𝐞 𝐅𝐨𝐧𝐭𝐚𝐢𝐧𝐞💙",
+        "pinned_tweet_id": "1888897561877983729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870862200082235393/gfYowbA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12238,
+          "following_count": 1559,
+          "like_count": 17797,
+          "listed_count": 38,
+          "media_count": 3168,
+          "tweet_count": 6303
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

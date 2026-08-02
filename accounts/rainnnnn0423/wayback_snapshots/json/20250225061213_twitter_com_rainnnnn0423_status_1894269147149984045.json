@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894269147149984045",
+    "created_at": "2025-02-25T06:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T07:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894269147149984045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guiyumin/statu…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/guiyumin/status/1893938848347947249",
+          "start": 32,
+          "url": "https://t.co/DPCqMMr0nQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894269147149984045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893938848347947249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让我戒糖的话我会像毒瘾发作那样难受的😭游戏打着打着就电子阳痿了 https://t.co/DPCqMMr0nQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894269147149984045",
+        "created_at": "2025-02-25T06:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T07:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894269147149984045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guiyumin/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/guiyumin/status/1893938848347947249",
+              "start": 32,
+              "url": "https://t.co/DPCqMMr0nQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894269147149984045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893938848347947249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我戒糖的话我会像毒瘾发作那样难受的😭游戏打着打着就电子阳痿了 https://t.co/DPCqMMr0nQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "92041464",
+        "conversation_id": "1893938848347947249",
+        "created_at": "2025-02-24T08:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:17:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893938371275211066",
+          "1893938848347947249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893938848347947249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实戒糖比戒酒还难☹️ \n\n我在2019年确诊哮喘和胃酸返流\n哮喘的根源是胃酸返流\n而胃酸返流的根源是我来美国之前喝了很多康师傅冰红茶\n来了美国之后吃了很多蛋糕，不管什么蛋糕，糖霜都非常厚，确实很好吃，很奇怪，我在国内其实不吃甜食\n工作之后吃了很多donut\n自己也从costco买了好几次他们的果酱和danish\n我自己有一次找了一个评价很好的店，买了6个donut，一天吃2个，三天吃完，就这还感觉没吃够\n\n确诊哮喘和胃酸返流后，我就全面戒糖戒酒戒牛奶戒cheese，反正一切引起我不舒服的东西都戒了\n\n到现在已经戒糖6年了\n\n可是在戒糖的头两年里，最最让我想念的不是啤酒，而是donut，真的确实太他妈好吃了\n\n对糖的那种渴望，那个urge，感觉除了毒瘾发作的人才能体会到\n后来又过了一段时间，我对糖的那种urge才消退\n真的很难控制\n人其实就是自己身体和欲望的奴隶"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 35855,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "其实戒糖比戒酒还难☹️ \n\n我在2019年确诊哮喘和胃酸返流\n哮喘的根源是胃酸返流\n而胃酸返流的根源是我来美国之前喝了很多康师傅冰红茶\n来了美国之后吃了很多蛋糕，不管什么蛋糕，糖霜都非常厚，确实很好吃，很奇怪，我在国内其实不吃甜食\n工作之后吃了很多donut…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 298,
+          "like_count": 1022,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1755
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-23T15:25:41.000Z",
+        "description": "努力生活，髡贼，硅谷前端工程师，在美国落地生根",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "guiyumin.com",
+                "end": 23,
+                "expanded_url": "http://guiyumin.com",
+                "start": 0,
+                "url": "https://t.co/nS9pvYYk80"
+              }
+            ]
+          }
+        },
+        "id": "92041464",
+        "location": "Sunnyvale, CA",
+        "name": "Yumin",
+        "pinned_tweet_id": "1866232991665558004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753692835772334080/yD_FDZOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 2231,
+          "like_count": 4623,
+          "listed_count": 14,
+          "media_count": 112,
+          "tweet_count": 3918
+        },
+        "url": "https://t.co/nS9pvYYk80",
+        "username": "guiyumin",
+        "verified": true
+      }
+    ]
+  }
+}

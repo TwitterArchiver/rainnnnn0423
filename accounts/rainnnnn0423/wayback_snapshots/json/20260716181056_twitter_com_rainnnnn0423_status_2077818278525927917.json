@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2077649518984921184",
+    "created_at": "2026-07-16T18:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077818278525927917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1612280433064185859",
+          "start": 0,
+          "username": "c2F4F4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077818278525927917",
+    "in_reply_to_user_id": "1612280433064185859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077649518984921184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c2F4F4F 右美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2077649518984921184",
+        "created_at": "2026-07-16T18:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077818278525927917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1612280433064185859",
+              "start": 0,
+              "username": "c2F4F4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077818278525927917",
+        "in_reply_to_user_id": "1612280433064185859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077649518984921184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c2F4F4F 右美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612280433064185859",
+        "conversation_id": "2077649518984921184",
+        "created_at": "2026-07-16T07:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077649518984921184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077649518984921184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1862,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr和啥联用最舒服啊🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我 留言和私信容易吞，不定期查看",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 662,
+          "like_count": 6143,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 4945
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "НочДождь",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073785160869519360/OG8PBr6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 352,
+          "like_count": 8924,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

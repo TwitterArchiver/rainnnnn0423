@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1951945219550720150",
+    "created_at": "2025-08-03T09:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T10:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951946079383261346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928768097865052161",
+          "start": 0,
+          "username": "oolongisgood321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951946079383261346",
+    "in_reply_to_user_id": "1928768097865052161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951945219550720150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oolongisgood321 黑猫段子，常看常新"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1951945219550720150",
+        "created_at": "2025-08-03T09:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951946079383261346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928768097865052161",
+              "start": 0,
+              "username": "oolongisgood321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951946079383261346",
+        "in_reply_to_user_id": "1928768097865052161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951945219550720150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oolongisgood321 黑猫段子，常看常新"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928768097865052161",
+        "conversation_id": "1951945219550720150",
+        "created_at": "2025-08-03T09:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951945219550720150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1951617385926111387",
+              "start": 2,
+              "url": "https://t.co/S6C98FEqwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951945219550720150",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951617385926111387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/S6C98FEqwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile |自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 523,
+          "like_count": 4018,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 3897
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T10:59:36.000Z",
+        "description": "=茶咕｜id汤底@rainnnnn0423｜欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "rainnnnn0423"
+              }
+            ]
+          }
+        },
+        "id": "1928768097865052161",
+        "location": "三得利无糖乌龙茶瓶内",
+        "name": "谁把我的中药换成热朱古力了",
+        "pinned_tweet_id": "1951943881399877950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730187501084672/dlM7jGNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 94,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 297
+        },
+        "username": "oolongisgood321",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2047041279054524607",
+    "created_at": "2026-04-23T13:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047300472596578470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1939890657591795715",
+          "start": 0,
+          "username": "Akadamn4Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047300472596578470",
+    "in_reply_to_user_id": "1939890657591795715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047255319181713510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akadamn4Lee 我求你了\n我休过一年现在高二）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2047041279054524607",
+        "created_at": "2026-04-23T13:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047300472596578470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1939890657591795715",
+              "start": 0,
+              "username": "Akadamn4Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047300472596578470",
+        "in_reply_to_user_id": "1939890657591795715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047255319181713510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akadamn4Lee 我求你了\n我休过一年现在高二）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939890657591795715",
+        "conversation_id": "2047041279054524607",
+        "created_at": "2026-04-23T10:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047255319181713510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047255319181713510",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047041279054524607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 地球Online通知：\n\n恭喜玩家“气态雨”达成第一个成就：成年\n\n距离新手村副本最终关卡“高考”还有48天。\n\n祝游戏愉快。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|本号转生为竞小妹|08infp女高|我不是键政曲吗怎么成⌚姐了|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122🚪88 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "si_an_1122"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2040862365714129402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 656,
+          "like_count": 5648,
+          "listed_count": 4,
+          "media_count": 346,
+          "tweet_count": 4774
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T03:36:02.000Z",
+        "description": "多赚点钱，早日上山。\n\n最近精神出问题了，争取写点文章让各位看了之后一起出问题。\n算卦｜看相｜精神状态｜日常",
+        "id": "1939890657591795715",
+        "location": "浙江杭州",
+        "name": "DAMN444Le",
+        "pinned_tweet_id": "2045903323841409315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046621615929368576/WzZFEhNb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 343,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 314
+        },
+        "username": "Akadamn4Lee",
+        "verified": true
+      }
+    ]
+  }
+}

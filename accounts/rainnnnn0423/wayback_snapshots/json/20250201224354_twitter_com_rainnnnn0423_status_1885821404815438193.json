@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885821404815438193",
+    "created_at": "2025-02-01T22:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T23:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885821404815438193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NmsleseResearc…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/NmsleseResearch/status/1885710828403577064",
+          "start": 7,
+          "url": "https://t.co/RSdhntykdl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885821404815438193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885710828403577064",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "令人忍俊不禁 https://t.co/RSdhntykdl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885821404815438193",
+        "created_at": "2025-02-01T22:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T23:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885821404815438193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NmsleseResearc…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/NmsleseResearch/status/1885710828403577064",
+              "start": 7,
+              "url": "https://t.co/RSdhntykdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885821404815438193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885710828403577064",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "令人忍俊不禁 https://t.co/RSdhntykdl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885710819360698369"
+          ]
+        },
+        "author_id": "1640674561980260354",
+        "conversation_id": "1885710828403577064",
+        "created_at": "2025-02-01T15:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T16:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885710828403577064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtoCkuHBTV",
+              "end": 26,
+              "expanded_url": "https://x.com/NmsleseResearch/status/1885710828403577064/photo/1",
+              "media_key": "3_1885710819360698369",
+              "start": 3,
+              "url": "https://t.co/EtoCkuHBTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885710828403577064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4583,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/EtoCkuHBTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 224,
+          "like_count": 556,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 875
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T11:17:59.000Z",
+        "description": "推特兔友的迷惑行為收集處（晚安推除外）丨歡迎投稿",
+        "id": "1640674561980260354",
+        "location": "Nmslese City",
+        "name": "熊老大 🔬 兔友研究院B🐻t",
+        "pinned_tweet_id": "1874017581029552191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866832536816795648/rAEgM1H5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12293,
+          "following_count": 2604,
+          "like_count": 374220,
+          "listed_count": 58,
+          "media_count": 7734,
+          "tweet_count": 22979
+        },
+        "username": "NmsleseResearch",
+        "verified": false
+      }
+    ]
+  }
+}

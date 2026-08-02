@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1890775210527220037",
+    "created_at": "2025-02-15T16:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T17:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890803420681924771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877726238909100032",
+          "start": 0,
+          "username": "tearthecage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890803420681924771",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890801199667892474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tearthecage 与自己和解然后寻求出路吧。反抗庞然大物对我来说乐趣无穷，然后我现在也不要脸，我就是想出名然后大红大紫，获得金钱与名利与社会地位与高度评价，让全世界都知道我是天才。没有也不要紧，我去过普通人的幸福生活。说实话我以前觉得自己是个平庸之辈。\n总之一定不要做出让自己后悔的选择 与自己和解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890775210527220037",
+        "created_at": "2025-02-15T16:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890803420681924771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890803420681924771",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890801199667892474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 与自己和解然后寻求出路吧。反抗庞然大物对我来说乐趣无穷，然后我现在也不要脸，我就是想出名然后大红大紫，获得金钱与名利与社会地位与高度评价，让全世界都知道我是天才。没有也不要紧，我去过普通人的幸福生活。说实话我以前觉得自己是个平庸之辈。\n总之一定不要做出让自己后悔的选择 与自己和解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890775210527220037",
+        "created_at": "2025-02-15T16:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890801199667892474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890801199667892474",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890799140910559258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 哎，每个人痛苦的点都得具体问题具体分析。讲难听点我回学校就是上分攒经历的，逃避上学说难听点就是舒服日子过惯了那种苦日子坚持不下去。我关注的一个油管主香港人十五六岁做反共作品被国安盯上然后流亡美国，但愿我在我想做的事情上真的是天赋异禀……有才华＋努力就是绝杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 240,
+          "like_count": 725,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1216
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T14:37:48.000Z",
+        "description": "_",
+        "id": "1877726238909100032",
+        "name": "三两银买了大梦一场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877727242610196480/T2AwsvAH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 247
+        },
+        "username": "tearthecage",
+        "verified": false
+      }
+    ]
+  }
+}

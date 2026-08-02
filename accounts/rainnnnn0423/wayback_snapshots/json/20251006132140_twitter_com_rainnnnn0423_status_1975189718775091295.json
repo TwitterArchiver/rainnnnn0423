@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975189715994152960"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975096799082991899",
+    "created_at": "2025-10-06T13:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T14:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975189718775091295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6OEWT2AfkY",
+          "end": 40,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1975189718775091295/photo/1",
+          "media_key": "3_1975189715994152960",
+          "start": 17,
+          "url": "https://t.co/6OEWT2AfkY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975189718775091295",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975096799082991899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin 来来来 https://t.co/6OEWT2AfkY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1975189715994152960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lIlOnWEAAgdVL.jpg",
+        "width": 400
+      },
+      {
+        "height": 1050,
+        "media_key": "3_1975096792447414272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j0EXbXcAA8SJv.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975189715994152960"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975096799082991899",
+        "created_at": "2025-10-06T13:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975189718775091295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OEWT2AfkY",
+              "end": 40,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1975189718775091295/photo/1",
+              "media_key": "3_1975189715994152960",
+              "start": 17,
+              "url": "https://t.co/6OEWT2AfkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975189718775091295",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975096799082991899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 来来来 https://t.co/6OEWT2AfkY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975096792447414272"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "1975096799082991899",
+        "created_at": "2025-10-06T07:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975096799082991899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5ULO0Cd8B",
+              "end": 99,
+              "expanded_url": "https://x.com/IzayoiMarin/status/1975096799082991899/photo/1",
+              "media_key": "3_1975096792447414272",
+              "start": 76,
+              "url": "https://t.co/h5ULO0Cd8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975096799082991899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1930,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我也想玩～会有人参与吗˘ᗜ˘\n把头像留在评论区吧୧⍢⃝୨\nアイコンをリプしてくださいね～\n⠉̫⃝⠉̮⃝⠉̭⃞⠒̱⃝⌄̈⃝ᵕ̈ ⍢⃞⍥⃞ ⍤⃞⍨⃞ ⍩⃞ https://t.co/h5ULO0Cd8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 591,
+          "like_count": 4328,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 4060
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "17歳（虚）/高二/物化生/生理性别女/坐标山东/尸体/国籍：🇨🇳/夢：🇯🇵/中国語OK/日本語下手/ちんこ165cm/神经病/不爱鉴证/互fo/フォローバ99.9%/音ゲ/二次元/アニメ/JPOP/纯爱butクズ女/不爱看私信/中文推文/日本語ツイート/碎碎念/各种吐槽/分享生活/mktdaisuki",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "daisuki",
+        "name": "まりん（死体）",
+        "pinned_tweet_id": "1975134571168674016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975116710077161472/Obi-A288_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 1346,
+          "like_count": 22039,
+          "listed_count": 3,
+          "media_count": 848,
+          "tweet_count": 9953
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

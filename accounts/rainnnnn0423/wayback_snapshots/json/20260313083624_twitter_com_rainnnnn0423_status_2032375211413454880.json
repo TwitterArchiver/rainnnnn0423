@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2031981544156672160",
+    "created_at": "2026-03-13T08:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T09:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032375211413454880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817244141115609088",
+          "start": 0,
+          "username": "Nijika_Dark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032375211413454880",
+    "in_reply_to_user_id": "1817244141115609088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032293598620946941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_Dark 喜报，无事发生，也没药效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2031981544156672160",
+        "created_at": "2026-03-13T08:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032375211413454880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817244141115609088",
+              "start": 0,
+              "username": "Nijika_Dark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032375211413454880",
+        "in_reply_to_user_id": "1817244141115609088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032293598620946941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark 喜报，无事发生，也没药效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817244141115609088",
+        "conversation_id": "2031981544156672160",
+        "created_at": "2026-03-13T03:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032293598620946941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032293598620946941",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031981544156672160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 0mg老师小心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2029885847835922693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 616,
+          "like_count": 5123,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 4571
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T17:02:37.000Z",
+        "description": "@Nijika_overdose的附庸丨应该是虹夏丨我的大脑空空如也丨❛˓◞˂̵✧❤️💙💜🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Super_Bocchi_t…",
+                "end": 23,
+                "expanded_url": "https://t.me/Super_Bocchi_therock",
+                "start": 0,
+                "url": "https://t.co/nr17X991hT"
+              }
+            ]
+          }
+        },
+        "id": "1817244141115609088",
+        "location": "参宿四",
+        "name": "Nijika_Overdose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817245083672145920/_Mn08Zha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 52,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/nr17X991hT",
+        "username": "Nijika_Dark",
+        "verified": false
+      }
+    ]
+  }
+}

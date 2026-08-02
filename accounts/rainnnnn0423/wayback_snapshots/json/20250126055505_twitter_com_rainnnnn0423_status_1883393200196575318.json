@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1883392011111412173",
+    "created_at": "2025-01-26T05:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T06:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883393200196575318"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1883393200196575318",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883392011111412173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时混舟谷圈的时候，我特别享受几百上千点购入我冷推的那种富足感，我视奸过所有我的同担没有比我食量大的\n但是现在我不行了我已经完全崩溃了，我经历了半年没法打开qq和闲鱼的极端恐惧和逃避"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1883392011111412173",
+        "created_at": "2025-01-26T05:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T06:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883393200196575318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883393200196575318",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883392011111412173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时混舟谷圈的时候，我特别享受几百上千点购入我冷推的那种富足感，我视奸过所有我的同担没有比我食量大的\n但是现在我不行了我已经完全崩溃了，我经历了半年没法打开qq和闲鱼的极端恐惧和逃避"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1883392011111412173",
+        "created_at": "2025-01-26T05:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T06:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883392011111412173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883392011111412173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别特别恶心想吐，9出了好多我推新谷，我想吃插画集切页和uttu高卡，但是我已经恨透了拼团我对谷圈已经严重ptsd了\n别出盲抽好吗我要单领"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 如果看到我半夜大量发推那就是我玉米症犯了。",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 202,
+          "like_count": 334,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 627
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

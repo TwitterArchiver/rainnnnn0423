@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1902566715244105812",
+    "created_at": "2025-03-20T03:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T04:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902567033562394979"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902567033562394979",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902566715244105812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前一直给自己设太高目标导致一次次对自己失望，现在我保底就是拿到高中毕业证。不然不是白上了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1902566715244105812",
+        "created_at": "2025-03-20T03:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T04:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902567033562394979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902567033562394979",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902566715244105812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前一直给自己设太高目标导致一次次对自己失望，现在我保底就是拿到高中毕业证。不然不是白上了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1902566715244105812",
+        "created_at": "2025-03-20T03:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T04:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902566715244105812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1902566012622664137",
+              "start": 82,
+              "url": "https://t.co/9HNy0ms6Ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902566715244105812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902566012622664137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我恨透了应试却别无选择，是的孩子们压力不会转化成动力只会转化成病例，没上进心的我劝学，学不动的我打气，快学崩的我劝请几天假，自己私下就做自己喜欢的事情再听两耳朵课 https://t.co/9HNy0ms6Ca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 371,
+          "like_count": 1628,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2614
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

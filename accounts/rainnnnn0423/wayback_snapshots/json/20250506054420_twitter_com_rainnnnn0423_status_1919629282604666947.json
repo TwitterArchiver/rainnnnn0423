@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1919371320141267125",
+    "created_at": "2025-05-06T05:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T06:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919629282604666947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512401066981146629",
+          "start": 0,
+          "username": "Tsukishima_hane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919629282604666947",
+    "in_reply_to_user_id": "1512401066981146629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919371320141267125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsukishima_hane 我也想吃。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2380,
+        "media_key": "3_1919371279783845888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqL6AnuaYAAzWG1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1919371320141267125",
+        "created_at": "2025-05-06T05:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919629282604666947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512401066981146629",
+              "start": 0,
+              "username": "Tsukishima_hane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919629282604666947",
+        "in_reply_to_user_id": "1512401066981146629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919371320141267125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsukishima_hane 我也想吃。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919371279783845888"
+          ]
+        },
+        "author_id": "1512401066981146629",
+        "conversation_id": "1919371320141267125",
+        "created_at": "2025-05-05T12:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T13:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919371320141267125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YjO2nYOaTy",
+              "end": 31,
+              "expanded_url": "https://x.com/Tsukishima_hane/status/1919371320141267125/photo/1",
+              "media_key": "3_1919371279783845888",
+              "start": 8,
+              "url": "https://t.co/YjO2nYOaTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919371320141267125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 919,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚品細糠🌚😋 https://t.co/YjO2nYOaTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 460,
+          "like_count": 2496,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 3451
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T12:05:01.000Z",
+        "description": "一具男尸｜🏳️‍🌈无性别｜自介在隔壁（目移）｜镜中的我@GABA_ga_suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "GABA_ga_suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6lwi0xpga3tc1ev",
+                "end": 23,
+                "expanded_url": "http://marshmallow-qa.com/6lwi0xpga3tc1ev",
+                "start": 0,
+                "url": "https://t.co/LhhLTxzuuN"
+              }
+            ]
+          }
+        },
+        "id": "1512401066981146629",
+        "location": "虚无漩涡",
+        "name": "金牌厨师长",
+        "pinned_tweet_id": "1881492899181040055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874913097737203712/XmTqMe_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 332,
+          "like_count": 2695,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 2499
+        },
+        "url": "https://t.co/LhhLTxzuuN",
+        "username": "Tsukishima_hane",
+        "verified": true
+      }
+    ]
+  }
+}

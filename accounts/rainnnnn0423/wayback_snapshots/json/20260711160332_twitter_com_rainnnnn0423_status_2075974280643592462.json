@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075956052223471616"
+      ],
+      "media_source_tweet_id": [
+        "2075956055088169197"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075974280643592462",
+    "created_at": "2026-07-11T16:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075974280643592462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881369782911746049",
+          "start": 3,
+          "username": "jxp20070102"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NFOIFqmTlw",
+          "end": 78,
+          "expanded_url": "https://x.com/jxp20070102/status/2075956055088169197/photo/1",
+          "media_key": "3_2075956052223471616",
+          "start": 55,
+          "url": "https://t.co/NFOIFqmTlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075974280643592462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075956055088169197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jxp20070102: 求助，有没有兰州的朋友认识这家店的，找了好久了\n可以的话麻烦帮忙转发，谢谢 https://t.co/NFOIFqmTlw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2075956052223471616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9HB9YaMAAL4Cg.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075956052223471616"
+          ],
+          "media_source_tweet_id": [
+            "2075956055088169197"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075974280643592462",
+        "created_at": "2026-07-11T16:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075974280643592462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881369782911746049",
+              "start": 3,
+              "username": "jxp20070102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFOIFqmTlw",
+              "end": 78,
+              "expanded_url": "https://x.com/jxp20070102/status/2075956055088169197/photo/1",
+              "media_key": "3_2075956052223471616",
+              "start": 55,
+              "url": "https://t.co/NFOIFqmTlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075974280643592462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075956055088169197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jxp20070102: 求助，有没有兰州的朋友认识这家店的，找了好久了\n可以的话麻烦帮忙转发，谢谢 https://t.co/NFOIFqmTlw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075956052223471616"
+          ]
+        },
+        "author_id": "1881369782911746049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075956055088169197",
+        "created_at": "2026-07-11T14:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075956055088169197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFOIFqmTlw",
+              "end": 61,
+              "expanded_url": "https://x.com/jxp20070102/status/2075956055088169197/photo/1",
+              "media_key": "3_2075956052223471616",
+              "start": 38,
+              "url": "https://t.co/NFOIFqmTlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075956055088169197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求助，有没有兰州的朋友认识这家店的，找了好久了\n可以的话麻烦帮忙转发，谢谢 https://t.co/NFOIFqmTlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 659,
+          "like_count": 6024,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 4920
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T15:54:53.000Z",
+        "description": "07/TRPG爱好者/Ninja Slayer粉丝/小说创作中\n成为能为他人带来幸福的人。\n欢迎DM，没有话题也没关系！想到的话就去做吧！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jxp200701021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jxp200701021",
+                "start": 0,
+                "url": "https://t.co/CVTXYKHvgA"
+              }
+            ]
+          }
+        },
+        "id": "1881369782911746049",
+        "name": "司",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070113882421805056/4LgyV7t__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 821,
+          "like_count": 6519,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/CVTXYKHvgA",
+        "username": "jxp20070102",
+        "verified": false
+      }
+    ]
+  }
+}

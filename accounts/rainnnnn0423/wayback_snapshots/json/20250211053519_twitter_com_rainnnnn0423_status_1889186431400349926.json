@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1889186431400349926",
+    "created_at": "2025-02-11T05:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T06:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889186431400349926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aichijiandanxy…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Aichijiandanxyz/status/1888504498773172487",
+          "start": 29,
+          "url": "https://t.co/cvyFIVnxwI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889186431400349926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888504498773172487",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等一下。我换牙之后就是这种虎牙只是不对称，正畸拉回来了… https://t.co/cvyFIVnxwI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889186431400349926",
+        "created_at": "2025-02-11T05:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T06:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889186431400349926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aichijiandanxy…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Aichijiandanxyz/status/1888504498773172487",
+              "start": 29,
+              "url": "https://t.co/cvyFIVnxwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889186431400349926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888504498773172487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等一下。我换牙之后就是这种虎牙只是不对称，正畸拉回来了… https://t.co/cvyFIVnxwI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888504496415969280"
+          ]
+        },
+        "author_id": "1421851995355369477",
+        "conversation_id": "1888504498773172487",
+        "created_at": "2025-02-09T08:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T09:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888504498773172487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4CwFLYwjff",
+              "end": 54,
+              "expanded_url": "https://x.com/Aichijiandanxyz/status/1888504498773172487/photo/1",
+              "media_key": "3_1888504496415969280",
+              "start": 31,
+              "url": "https://t.co/4CwFLYwjff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888504498773172487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 329419,
+          "like_count": 2754,
+          "quote_count": 48,
+          "reply_count": 190,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "初中有个朋友就是这种牙，她真的特别漂亮，这个牙完全是加分项！ https://t.co/4CwFLYwjff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 234,
+          "like_count": 670,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1059
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "贱人更是滚开！\n@eggyyybaby\nvpn⬇️\n#煎蛋不想说话就唱歌吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 26,
+                "tag": "煎蛋不想说话就唱歌吧"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=3mkaPReT",
+                "start": 0,
+                "url": "https://t.co/UzTTlXSUsc"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872686726290051072/nuqOX38I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19556,
+          "following_count": 390,
+          "like_count": 145471,
+          "listed_count": 67,
+          "media_count": 5884,
+          "tweet_count": 62978
+        },
+        "url": "https://t.co/UzTTlXSUsc",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

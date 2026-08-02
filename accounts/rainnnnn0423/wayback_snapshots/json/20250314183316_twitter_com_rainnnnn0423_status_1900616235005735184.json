@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1900616235005735184",
+    "created_at": "2025-03-14T18:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T19:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900616235005735184"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900616235005735184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国人不骂能行吗？我是鲁迅我能气复活，怎么2025年了还是一样的死样子？嘴上说着大国崛起但是国民素质与劣根性还是如同上个世纪一样的如出一辙。只不过看戏的地方变成了互联网"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1900616235005735184",
+        "created_at": "2025-03-14T18:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T19:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900616235005735184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900616235005735184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人不骂能行吗？我是鲁迅我能气复活，怎么2025年了还是一样的死样子？嘴上说着大国崛起但是国民素质与劣根性还是如同上个世纪一样的如出一辙。只不过看戏的地方变成了互联网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博日记🗑请让我忘记一切痛苦与不安吧",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 364,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2457
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1918555619944280226",
+    "created_at": "2025-05-03T06:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T07:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918555619944280226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "790861449308442624",
+          "start": 3,
+          "username": "quxs888"
+        },
+        {
+          "end": 23,
+          "id": "28940967",
+          "start": 13,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918555619944280226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918269143188684865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quxs888: @lidangzzz 最懂中国政治恰恰是“反贼”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1918555619944280226",
+        "created_at": "2025-05-03T06:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T07:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918555619944280226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "790861449308442624",
+              "start": 3,
+              "username": "quxs888"
+            },
+            {
+              "end": 23,
+              "id": "28940967",
+              "start": 13,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918555619944280226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918269143188684865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quxs888: @lidangzzz 最懂中国政治恰恰是“反贼”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "790861449308442624",
+        "conversation_id": "1918243727337783362",
+        "created_at": "2025-05-02T11:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T12:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918269143188684865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918269143188684865",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13452,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918243727337783362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 最懂中国政治恰恰是“反贼”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 458,
+          "like_count": 2421,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3419
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-25T10:23:57.000Z",
+        "description": "",
+        "id": "790861449308442624",
+        "name": "ORY",
+        "pinned_tweet_id": "1718844003498795139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661742400740667392/d3CrUoJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 237,
+          "like_count": 65263,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 4561
+        },
+        "username": "quxs888",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS第一人）",
+        "pinned_tweet_id": "1806640806452744310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595884,
+          "following_count": 2669,
+          "like_count": 25660,
+          "listed_count": 3629,
+          "media_count": 7957,
+          "tweet_count": 37883
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

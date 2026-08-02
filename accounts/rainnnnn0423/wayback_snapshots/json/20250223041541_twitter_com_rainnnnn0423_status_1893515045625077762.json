@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893515045625077762",
+    "created_at": "2025-02-23T04:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T05:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893515045625077762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1893271087485489215",
+          "start": 21,
+          "url": "https://t.co/3sY7hX6NW6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893515045625077762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893271087485489215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不同意的请举手😡没有，没有，没有，通过！ https://t.co/3sY7hX6NW6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2232,
+        "media_key": "3_1893270988609261568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkY_7uObkAAzpeh.jpg",
+        "width": 1289
+      },
+      {
+        "height": 748,
+        "media_key": "3_1893270997987475456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkY_8RKXwAAATu2.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1893271048008679424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkY__LgWwAAJleR.jpg",
+        "width": 697
+      },
+      {
+        "height": 917,
+        "media_key": "3_1893271080040857601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkZABC1bAAE9TlS.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893515045625077762",
+        "created_at": "2025-02-23T04:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T05:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893515045625077762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1893271087485489215",
+              "start": 21,
+              "url": "https://t.co/3sY7hX6NW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893515045625077762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893271087485489215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不同意的请举手😡没有，没有，没有，通过！ https://t.co/3sY7hX6NW6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893270988609261568",
+            "3_1893270997987475456",
+            "3_1893271048008679424",
+            "3_1893271080040857601"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1893271087485489215",
+        "created_at": "2025-02-22T12:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T13:04:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893270709884928128",
+          "1893271087485489215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRRqhHUpxx",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1893271087485489215/photo/1",
+              "media_key": "3_1893270988609261568",
+              "start": 138,
+              "url": "https://t.co/aRRqhHUpxx"
+            },
+            {
+              "display_url": "pic.x.com/aRRqhHUpxx",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1893271087485489215/photo/1",
+              "media_key": "3_1893270997987475456",
+              "start": 138,
+              "url": "https://t.co/aRRqhHUpxx"
+            },
+            {
+              "display_url": "pic.x.com/aRRqhHUpxx",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1893271087485489215/photo/1",
+              "media_key": "3_1893271048008679424",
+              "start": 138,
+              "url": "https://t.co/aRRqhHUpxx"
+            },
+            {
+              "display_url": "pic.x.com/aRRqhHUpxx",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1893271087485489215/photo/1",
+              "media_key": "3_1893271080040857601",
+              "start": 138,
+              "url": "https://t.co/aRRqhHUpxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893271087485489215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 428277,
+          "like_count": 1618,
+          "quote_count": 10,
+          "reply_count": 106,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "2月20日，主播 “户晨风” 因生病向观众请假一天：“户晨风先生病了，特此向各位网友和股东请假一天，望批准”\n 评论区博主A回复：“通过！希望户先生，早日康复” 网友B回复：“不同意的请评论” 结果网友们纷纷跟帖回复：“没有！通过！”\n 截至目前发文，相关评论已被平台删除。 https://t.co/aRRqhHUpxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 270,
+          "like_count": 920,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1537
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938539,
+          "following_count": 935,
+          "like_count": 5835,
+          "listed_count": 8039,
+          "media_count": 23695,
+          "tweet_count": 30029
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

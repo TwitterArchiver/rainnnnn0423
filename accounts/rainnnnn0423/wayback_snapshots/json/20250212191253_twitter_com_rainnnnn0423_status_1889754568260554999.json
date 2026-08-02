@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1889529510305116282",
+    "created_at": "2025-02-12T19:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T20:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889754568260554999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247123754158702593",
+          "start": 0,
+          "username": "Roku6_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889754568260554999",
+    "in_reply_to_user_id": "1247123754158702593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889529510305116282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Roku6_mi 片子私信发给我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889529510305116282",
+        "created_at": "2025-02-12T19:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T20:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889754568260554999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247123754158702593",
+              "start": 0,
+              "username": "Roku6_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889754568260554999",
+        "in_reply_to_user_id": "1247123754158702593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889529510305116282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Roku6_mi 片子私信发给我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247123754158702593",
+        "conversation_id": "1889529510305116282",
+        "created_at": "2025-02-12T04:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T05:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889529510305116282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889529510305116282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16854,
+          "like_count": 179,
+          "quote_count": 4,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚对着血浆片手淫成功了。太解压了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 235,
+          "like_count": 681,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1107
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "うみです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rokuuuunanami",
+                "end": 23,
+                "expanded_url": "https://t.me/rokuuuunanami",
+                "start": 0,
+                "url": "https://t.co/KvIHmQqwtI"
+              }
+            ]
+          }
+        },
+        "id": "1247123754158702593",
+        "name": "うみ少佐斬シ豚",
+        "pinned_tweet_id": "1881768737059307547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885752612664082432/wCJfFfg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 801,
+          "like_count": 76352,
+          "listed_count": 9,
+          "media_count": 392,
+          "tweet_count": 7748
+        },
+        "url": "https://t.co/KvIHmQqwtI",
+        "username": "Roku6_mi",
+        "verified": false
+      }
+    ]
+  }
+}

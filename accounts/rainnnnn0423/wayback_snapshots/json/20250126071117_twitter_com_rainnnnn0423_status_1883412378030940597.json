@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Brawl Stars",
+          "id": "1093572965021626373",
+          "name": "Brawl Stars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Brawl Stars",
+          "id": "1093572965021626373",
+          "name": "Brawl Stars"
+        }
+      }
+    ],
+    "conversation_id": "1883412378030940597",
+    "created_at": "2025-01-26T07:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T08:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883412378030940597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/r4661t0x0/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/r4661t0x0/status/1882301120334454848",
+          "start": 10,
+          "url": "https://t.co/MNaKJMNKRY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883412378030940597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882301120334454848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "莫提死笑传之操操笔 https://t.co/MNaKJMNKRY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          }
+        ],
+        "conversation_id": "1883412378030940597",
+        "created_at": "2025-01-26T07:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T08:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883412378030940597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/r4661t0x0/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/r4661t0x0/status/1882301120334454848",
+              "start": 10,
+              "url": "https://t.co/MNaKJMNKRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883412378030940597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882301120334454848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "莫提死笑传之操操笔 https://t.co/MNaKJMNKRY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882301112935682048"
+          ]
+        },
+        "author_id": "1793582041763913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          }
+        ],
+        "conversation_id": "1882301120334454848",
+        "created_at": "2025-01-23T05:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T06:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882301120334454848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "description": "モむつ",
+              "display_url": "poipiku.com/8361203/113090…",
+              "end": 49,
+              "expanded_url": "https://poipiku.com/8361203/11309050.html",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/1882301122167369728/6raBb2k3?format=png&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1882301122167369728/6raBb2k3?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "[涂鸦] R18(6 图像) - usagi0x0 的 Poipiku",
+              "unwound_url": "https://poipiku.com/8361203/11309050.html",
+              "url": "https://t.co/orMEfi0lnM"
+            },
+            {
+              "display_url": "pic.x.com/v8hOXJ6gO1",
+              "end": 73,
+              "expanded_url": "https://x.com/r4661t0x0/status/1882301120334454848/photo/1",
+              "media_key": "3_1882301112935682048",
+              "start": 50,
+              "url": "https://t.co/v8hOXJ6gO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882301120334454848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 43132,
+          "like_count": 2937,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 472
+        },
+        "reply_settings": "everyone",
+        "text": "#AveMujica\nmortis正在操小睦的笔\n\nhttps://t.co/orMEfi0lnM https://t.co/v8hOXJ6gO1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 如果看到我半夜大量发推那就是我玉米症犯了。",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 206,
+          "like_count": 343,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 636
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T09:57:51.000Z",
+        "description": "堆图小号2 | ff14/音游/其他手游杂 | 原号@happybunny0x0的补档在置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "happybunny0x0"
+              }
+            ]
+          }
+        },
+        "id": "1793582041763913728",
+        "location": "月背侧",
+        "name": "弦月玉兔的狗",
+        "pinned_tweet_id": "1793587262737010898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795740798321111040/eB2UH4e5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 88,
+          "like_count": 965,
+          "listed_count": 12,
+          "media_count": 128,
+          "tweet_count": 147
+        },
+        "username": "r4661t0x0",
+        "verified": false
+      }
+    ]
+  }
+}

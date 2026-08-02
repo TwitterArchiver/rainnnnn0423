@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1995156352294117732",
+    "created_at": "2025-11-30T15:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T16:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995156352294117732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LyingOverDuck/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/LyingOverDuck/status/1995024702923051466",
+          "start": 16,
+          "url": "https://t.co/jYeHpJANAw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995156352294117732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 46,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995024702923051466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "300便宜了，上海800一小时 https://t.co/jYeHpJANAw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1995156352294117732",
+        "created_at": "2025-11-30T15:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995156352294117732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LyingOverDuck/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/LyingOverDuck/status/1995024702923051466",
+              "start": 16,
+              "url": "https://t.co/jYeHpJANAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995156352294117732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995024702923051466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "300便宜了，上海800一小时 https://t.co/jYeHpJANAw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969661386428203018",
+        "conversation_id": "1995024702923051466",
+        "created_at": "2025-11-30T06:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995024702923051466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995024702923051466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 33333,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼家长找我来上一对一，80一小时，说自己物理的一对一80一小时，我怎么可能允许经我手的一对一这个价格😅\n\n成绩高的大多不缺钱，所以你找的一对一绝不会是专业第一第二，竞赛能拿国一的水平😅\n\n傻逼东西还在这里跟我逼逼赖赖上了，脑残一个😅\n\n你爹我上一对一都300一小时起步，你也配？😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 593,
+          "like_count": 4730,
+          "listed_count": 4,
+          "media_count": 323,
+          "tweet_count": 4270
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:14:15.000Z",
+        "description": "TAO / CGQ | 男同🏳️‍🌈 | 纯数➡️计算 | 准美区留子 | 友跨🏳️‍⚧ | 不谈政治 | 若知身份请勿声张 | 衣物更新 @LoDuckSckUlo5 | open relationship with bf | 里推自寻 | 友链 @blueicesama @Boat_wind_moon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "LoDuckSckUlo5"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "blueicesama"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "Boat_wind_moon"
+              }
+            ]
+          }
+        },
+        "id": "1969661386428203018",
+        "location": "In your heartbeat",
+        "name": "摆烂小鸭🦆",
+        "pinned_tweet_id": "1978443293332513036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969662628739104768/riSYvfjv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 949,
+          "like_count": 11543,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 2667
+        },
+        "username": "LyingOverDuck",
+        "verified": false
+      }
+    ]
+  }
+}

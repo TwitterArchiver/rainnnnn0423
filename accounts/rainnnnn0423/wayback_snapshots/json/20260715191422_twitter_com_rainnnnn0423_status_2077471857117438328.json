@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2077423778368499727",
+    "created_at": "2026-07-15T19:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T20:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077471857117438328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "EsterBrown38007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077471857117438328",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077423778368499727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EsterBrown38007 有自我认同感的名字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2077423778368499727",
+        "created_at": "2026-07-15T19:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077471857117438328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077471857117438328",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077423778368499727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 有自我认同感的名字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2077423778368499727",
+        "created_at": "2026-07-15T16:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077423778368499727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077423778368499727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底怎么起cn啊，我到现在都没有固定的网名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我 留言和私信容易吞，不定期查看",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 663,
+          "like_count": 6123,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 4941
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "一条区",
+        "id": "2039398734962761728",
+        "location": "？！区区！？",
+        "name": "Kimika",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 275,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 618
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}

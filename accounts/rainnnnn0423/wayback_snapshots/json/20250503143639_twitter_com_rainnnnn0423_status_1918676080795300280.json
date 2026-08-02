@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1918672147242955180",
+    "created_at": "2025-05-03T14:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T15:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918676080795300280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829498397184946176",
+          "start": 0,
+          "username": "liangxihuigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918676080795300280",
+    "in_reply_to_user_id": "1829498397184946176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918672147242955180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangxihuigui 将军lsd好吃不？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1918672147242955180",
+        "created_at": "2025-05-03T14:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T15:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918676080795300280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829498397184946176",
+              "start": 0,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918676080795300280",
+        "in_reply_to_user_id": "1829498397184946176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918672147242955180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangxihuigui 将军lsd好吃不？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829498397184946176",
+        "conversation_id": "1918672147242955180",
+        "created_at": "2025-05-03T14:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T15:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918672147242955180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918672147242955180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9692,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 124,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我正在仰望宇宙。出现了，真的出现了，以前的那种场景，我已经进入了我大脑的神经深层，感受这个世界，第一次能感受到每个器官，这并不是精神产生的幻觉，而是真实存在的，我进入了第二世界通过我的大脑意识"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 459,
+          "like_count": 2438,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 3431
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:36:57.000Z",
+        "description": "凉兮本人性别男，喜欢女（精神病地雷系）负债两亿已结清，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证，已停止吃消灭性欲的药",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "liangxied"
+              }
+            ]
+          }
+        },
+        "id": "1829498397184946176",
+        "location": "阴蒂",
+        "name": "凉兮大元帅（白虎）",
+        "pinned_tweet_id": "1900875102960709872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908861280066420736/8nYRtT6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362414,
+          "following_count": 453,
+          "like_count": 187,
+          "listed_count": 737,
+          "media_count": 1735,
+          "tweet_count": 4914
+        },
+        "username": "liangxihuigui",
+        "verified": true
+      }
+    ]
+  }
+}

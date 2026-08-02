@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1882743757327770040",
+    "created_at": "2025-01-24T10:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T11:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882743757327770040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/essen_ai/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/essen_ai/status/1882548006878388419",
+          "start": 14,
+          "url": "https://t.co/GjFWouHpP0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882743757327770040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882548006878388419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全认识的可以把自己加进去了 https://t.co/GjFWouHpP0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1882743757327770040",
+        "created_at": "2025-01-24T10:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T11:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882743757327770040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/essen_ai/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/essen_ai/status/1882548006878388419",
+              "start": 14,
+              "url": "https://t.co/GjFWouHpP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882743757327770040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882548006878388419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全认识的可以把自己加进去了 https://t.co/GjFWouHpP0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882547317422624768"
+          ]
+        },
+        "author_id": "1253682488221655043",
+        "conversation_id": "1882548006878388419",
+        "created_at": "2025-01-23T21:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T22:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882548006878388419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6O1QGUZgUw",
+              "end": 51,
+              "expanded_url": "https://x.com/essen_ai/status/1882548006878388419/photo/1",
+              "media_key": "3_1882547317422624768",
+              "start": 28,
+              "url": "https://t.co/6O1QGUZgUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882548006878388419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 130041,
+          "like_count": 301,
+          "quote_count": 25,
+          "reply_count": 140,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "2024年度中推键政圈前50强榜单揭晓：第1～25名单 https://t.co/6O1QGUZgUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 193,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 572
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-24T13:50:41.000Z",
+        "description": "不要停止探索這個世界，為多變的未來做好準備 | 某教育/媒体集团和某EdTech独角兽公司前高管。喜歡徒步/露營，是終身學習者，科技愛好者/AI降臨派，是經濟上的新自由主義者和政治上的新保守主義者，也是斯多葛學派的追隨者 https://t.co/sA6tulO8mi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bento.me/essenai",
+                "end": 134,
+                "expanded_url": "http://bento.me/essenai",
+                "start": 111,
+                "url": "https://t.co/sA6tulO8mi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@essenai",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@essenai",
+                "start": 0,
+                "url": "https://t.co/yoaJBYNjHC"
+              }
+            ]
+          }
+        },
+        "id": "1253682488221655043",
+        "location": "Canada",
+        "name": "艾森 Essen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636688293768097794/7Or2AleD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36972,
+          "following_count": 753,
+          "like_count": 10122,
+          "listed_count": 253,
+          "media_count": 1896,
+          "tweet_count": 7048
+        },
+        "url": "https://t.co/yoaJBYNjHC",
+        "username": "essen_ai",
+        "verified": true
+      }
+    ]
+  }
+}

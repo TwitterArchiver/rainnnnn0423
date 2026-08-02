@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884690797213475150",
+    "created_at": "2025-01-29T19:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T20:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884690797213475150"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1884690797213475150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "140字的好处，大概是训练了我浓缩语言，组织观点的能力。我想说的东西太多了嘿嘿，不控制一下就会很冗长。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884690797213475150",
+        "created_at": "2025-01-29T19:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T20:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884690797213475150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884690797213475150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "140字的好处，大概是训练了我浓缩语言，组织观点的能力。我想说的东西太多了嘿嘿，不控制一下就会很冗长。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是文科女号主大量发表私人见解与生活点滴的里推",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 213,
+          "like_count": 407,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 740
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

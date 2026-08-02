@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1880627041093173559",
+    "created_at": "2025-01-18T14:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T15:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880627041093173559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bluebird0605/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/bluebird0605/status/1880528530997670251",
+          "start": 16,
+          "url": "https://t.co/7jn5wkpadK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880627041093173559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880528530997670251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天早上五点起也得一年后死去 https://t.co/7jn5wkpadK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1880627041093173559",
+        "created_at": "2025-01-18T14:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T15:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880627041093173559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bluebird0605/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/bluebird0605/status/1880528530997670251",
+              "start": 16,
+              "url": "https://t.co/7jn5wkpadK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880627041093173559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880528530997670251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天早上五点起也得一年后死去 https://t.co/7jn5wkpadK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "131448307",
+        "conversation_id": "1880528530997670251",
+        "created_at": "2025-01-18T08:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T09:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880528530997670251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880528530997670251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 94366,
+          "like_count": 892,
+          "quote_count": 15,
+          "reply_count": 38,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "笛卡尔一生都不喜欢早起，他通常会躺在床上思考问题，一直到中午才起床。\n\n他后来成为瑞典女王的私人教师，每天早上五点前往皇宫授课……\n\n一年后死去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 173,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 413
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-10T08:47:40.000Z",
+        "description": "内容创业者、信息策展人、付费邮件通讯 Dailyio 出品人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "next.iois.me",
+                "end": 23,
+                "expanded_url": "https://next.iois.me/",
+                "start": 0,
+                "url": "https://t.co/YJvklpVaeR"
+              }
+            ]
+          }
+        },
+        "id": "131448307",
+        "location": "beijing",
+        "name": "未完成",
+        "pinned_tweet_id": "1880450199354765632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768664578270044160/rq7De66Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15221,
+          "following_count": 137,
+          "like_count": 682,
+          "listed_count": 225,
+          "media_count": 3758,
+          "tweet_count": 23763
+        },
+        "url": "https://t.co/YJvklpVaeR",
+        "username": "bluebird0605",
+        "verified": true
+      }
+    ]
+  }
+}

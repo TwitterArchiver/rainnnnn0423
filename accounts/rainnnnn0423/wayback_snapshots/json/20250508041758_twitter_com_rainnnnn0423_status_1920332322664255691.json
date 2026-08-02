@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1920332322664255691",
+    "created_at": "2025-05-08T04:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T05:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920332322664255691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1248637653001494529",
+          "start": 3,
+          "username": "Fomalhautawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920332322664255691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920197039079763983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fomalhautawa: 还活着只是因为连自杀的行动力都没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1920332322664255691",
+        "created_at": "2025-05-08T04:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T05:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920332322664255691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1248637653001494529",
+              "start": 3,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920332322664255691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920197039079763983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fomalhautawa: 还活着只是因为连自杀的行动力都没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1920197039079763983",
+        "created_at": "2025-05-07T19:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T20:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920197039079763983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920197039079763983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 690,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还活着只是因为连自杀的行动力都没有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 465,
+          "like_count": 2618,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 3531
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "願您平安喜樂。",
+        "id": "1248637653001494529",
+        "location": "青萱",
+        "name": "師醬.",
+        "pinned_tweet_id": "1906040752888832458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919094699132178432/atKMwaus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 281,
+          "like_count": 149761,
+          "listed_count": 27,
+          "media_count": 21,
+          "tweet_count": 33779
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

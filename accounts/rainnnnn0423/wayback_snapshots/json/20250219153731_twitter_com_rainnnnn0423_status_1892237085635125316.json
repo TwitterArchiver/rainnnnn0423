@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1892235339110248768",
+    "created_at": "2025-02-19T15:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T16:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892237085635125316"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1892237085635125316",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892235339110248768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "mygo里但凡有一帧铺垫我就原谅编剧，现在我不是很信任编剧了。。。都爆成这样了要么住精神病院把病治好要么还是自杀吧，🤔但好像紫砂就过不了审了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1892235339110248768",
+        "created_at": "2025-02-19T15:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T16:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892237085635125316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892237085635125316",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892235339110248768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "mygo里但凡有一帧铺垫我就原谅编剧，现在我不是很信任编剧了。。。都爆成这样了要么住精神病院把病治好要么还是自杀吧，🤔但好像紫砂就过不了审了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1892235339110248768",
+        "created_at": "2025-02-19T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892235339110248768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892235339110248768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "确实有“为了爆而爆”的感觉，还有六集，现在都不知道wsd要怎么收尾了。二刷mygo我找找有没有睦双重人格的铺垫（我觉得没有）\n贷款喷两句，mygo时期不就应该把整个故事写完的吗？wsd对我推好一点行不？治治精神病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 246,
+          "like_count": 795,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1390
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

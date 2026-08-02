@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1902534647353110921",
+    "created_at": "2025-03-20T01:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T02:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902538808970899927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902538808970899927",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902536826788966678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "劳拉好吃😋😋😋我之前不敢吃是担心成瘾，但现在我管不了那么多了在氟伏沙明起效前我吃它救急用😋👍唯一一点担心的就是bzd，ssri和茶氨酸联用会不会打架…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1902534647353110921",
+        "created_at": "2025-03-20T01:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T02:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902538808970899927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902538808970899927",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902536826788966678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "劳拉好吃😋😋😋我之前不敢吃是担心成瘾，但现在我管不了那么多了在氟伏沙明起效前我吃它救急用😋👍唯一一点担心的就是bzd，ssri和茶氨酸联用会不会打架…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1902534647353110921",
+        "created_at": "2025-03-20T01:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T02:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902536826788966678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902536826788966678",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902535367825444876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "走一步看一步吧我现在在补救，恶化之前我就判断不行了去搞了新药，起效慢吃一周了没起效，我给它1-2个月时间好了 想了想这段时间还是得上猛药先救急，我要吃劳拉西泮😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 370,
+          "like_count": 1626,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2605
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

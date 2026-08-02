@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884948188249165997",
+    "created_at": "2025-01-30T13:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T14:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884954240399053110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881369782911746049",
+          "start": 0,
+          "username": "jxp20070102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884954240399053110",
+    "in_reply_to_user_id": "1881369782911746049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884948188249165997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxp20070102 哇咔咔玩推认识新朋友很开心💪💪💪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884948188249165997",
+        "created_at": "2025-01-30T13:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T14:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884954240399053110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881369782911746049",
+              "start": 0,
+              "username": "jxp20070102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884954240399053110",
+        "in_reply_to_user_id": "1881369782911746049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884948188249165997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxp20070102 哇咔咔玩推认识新朋友很开心💪💪💪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881369782911746049",
+        "conversation_id": "1884948188249165997",
+        "created_at": "2025-01-30T12:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884948188249165997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884948188249165997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被朋友的奇怪比喻逗笑了\n“推特垃圾消息好多怕飞来金针菇”\n金针菇哈哈哈哈哈哈草蚌埠住了哈哈哈哈哈\n发多少个哈都没法形容我的感觉（\n太幽默了草哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主半夜睡不着说悄悄话的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 219,
+          "like_count": 470,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 775
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T15:54:53.000Z",
+        "description": "高三在读，刚满十八岁\n喜欢动漫、电影、小说、游戏、TRPG\n最近沉迷街头霸王六和AC6\n经常充当情感树洞，欢迎有烦心事的朋友来骚扰我，没烦心事也欢迎。什么话题都可以聊，我认识面还挺广的\n可能会在我的回复里看到各种抽象东西，是人之常情（笃定）\n异性恋switch，反lgbt/mtf/跨\n目前志愿是心理医生/律师",
+        "id": "1881369782911746049",
+        "location": "辽宁省大连市",
+        "name": "司",
+        "pinned_tweet_id": "1884071426896126032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881369924612046848/azWekYqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 72,
+          "like_count": 534,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 405
+        },
+        "username": "jxp20070102",
+        "verified": false
+      }
+    ]
+  }
+}

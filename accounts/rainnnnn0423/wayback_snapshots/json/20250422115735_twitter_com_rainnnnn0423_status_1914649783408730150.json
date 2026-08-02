@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1914649783408730150",
+    "created_at": "2025-04-22T11:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T12:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914649783408730150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1914438613405757842",
+          "start": 20,
+          "url": "https://t.co/ExcFmQmid3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914649783408730150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914438613405757842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我讨厌我妈，她什么都不懂，张嘴就是侮辱 https://t.co/ExcFmQmid3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1914649783408730150",
+        "created_at": "2025-04-22T11:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T12:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914649783408730150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1914438613405757842",
+              "start": 20,
+              "url": "https://t.co/ExcFmQmid3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914649783408730150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914438613405757842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我讨厌我妈，她什么都不懂，张嘴就是侮辱 https://t.co/ExcFmQmid3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1914438613405757842",
+        "created_at": "2025-04-21T21:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T22:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914438613405757842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914438613405757842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天我生日，朋友们给我爆大米送生日礼物，都是我喜欢/需要但是舍不得的东西，我要感动死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 438,
+          "like_count": 2188,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 3239
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

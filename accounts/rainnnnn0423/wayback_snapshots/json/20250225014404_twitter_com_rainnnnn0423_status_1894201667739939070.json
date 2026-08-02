@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894201667739939070",
+    "created_at": "2025-02-25T01:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T02:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894201667739939070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ilsu18239/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ilsu18239/status/1893989083468407084",
+          "start": 7,
+          "url": "https://t.co/jDBFqcpFOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894201667739939070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893989083468407084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是我嘻嘻 https://t.co/jDBFqcpFOj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894201667739939070",
+        "created_at": "2025-02-25T01:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894201667739939070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ilsu18239/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ilsu18239/status/1893989083468407084",
+              "start": 7,
+              "url": "https://t.co/jDBFqcpFOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894201667739939070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893989083468407084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我嘻嘻 https://t.co/jDBFqcpFOj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876669172463370240",
+        "conversation_id": "1893908454416273571",
+        "created_at": "2025-02-24T11:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T12:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893989083468407084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770600121778233344",
+              "start": 0,
+              "username": "hasbeentaken99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893989083468407084",
+        "in_reply_to_user_id": "1770600121778233344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893908454416273571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasbeentaken99 但往往那些看起来长得好看很不好惹的人，性格都很软糯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 292,
+          "like_count": 994,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1700
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:36:21.000Z",
+        "description": "02 武汉 双性恋 多边恋 switch  穿刺 绳艺",
+        "id": "1876669172463370240",
+        "location": "武汉",
+        "name": "土豆泥蛋挞",
+        "pinned_tweet_id": "1890316306039128125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876669285994737664/zJ5AHEnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 35,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 13
+        },
+        "username": "ilsu18239",
+        "verified": false
+      }
+    ]
+  }
+}

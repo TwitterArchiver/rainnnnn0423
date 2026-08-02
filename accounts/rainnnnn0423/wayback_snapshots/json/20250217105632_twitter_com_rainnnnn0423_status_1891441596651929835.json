@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891441596651929835",
+    "created_at": "2025-02-17T10:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T11:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891441596651929835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1607573330512445441",
+          "start": 3,
+          "username": "Seer_Pony"
+        },
+        {
+          "end": 30,
+          "id": "1477342523555135490",
+          "start": 15,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891441596651929835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890304271653941413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seer_Pony: @torontobigface 陆以恒三板斧第一招，无中生有，经典格式“总有粉红说xxx”“我的粉红朋友说xxx”；\n陆以恒三板斧第二招，围魏救赵，经典格式“不要关心美国的xxx，看看中国xxx”；\n陆以恒三板斧第三招，声东击西，经典格式“我反对庆…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891441596651929835",
+        "created_at": "2025-02-17T10:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T11:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891441596651929835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1607573330512445441",
+              "start": 3,
+              "username": "Seer_Pony"
+            },
+            {
+              "end": 30,
+              "id": "1477342523555135490",
+              "start": 15,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891441596651929835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890304271653941413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seer_Pony: @torontobigface 陆以恒三板斧第一招，无中生有，经典格式“总有粉红说xxx”“我的粉红朋友说xxx”；\n陆以恒三板斧第二招，围魏救赵，经典格式“不要关心美国的xxx，看看中国xxx”；\n陆以恒三板斧第三招，声东击西，经典格式“我反对庆…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607573330512445441",
+        "conversation_id": "1890211768829632860",
+        "created_at": "2025-02-14T07:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890304271653941413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890304271653941413",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 42750,
+          "like_count": 276,
+          "quote_count": 11,
+          "reply_count": 20,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890211768829632860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface 陆以恒三板斧第一招，无中生有，经典格式“总有粉红说xxx”“我的粉红朋友说xxx”；\n陆以恒三板斧第二招，围魏救赵，经典格式“不要关心美国的xxx，看看中国xxx”；\n陆以恒三板斧第三招，声东击西，经典格式“我反对庆祝南京大屠杀，但是文革xxx，六四xxx”。\n几年了，还是这个套路。🥱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 241,
+          "like_count": 754,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1316
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-27T03:05:49.000Z",
+        "description": "也许，他只是个传说。🇨🇳",
+        "id": "1607573330512445441",
+        "name": "光荣之梦",
+        "pinned_tweet_id": "1714918510194028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607574549637304321/PTWprzfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 188,
+          "like_count": 139537,
+          "listed_count": 10,
+          "media_count": 2159,
+          "tweet_count": 12895
+        },
+        "username": "Seer_Pony",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com \n吹水电报群：https://t.co/7fI2Xsn7l9\n李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 95,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 72,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 125,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 102,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，温哥华",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1891412274138542364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682432,
+          "following_count": 251,
+          "like_count": 4021,
+          "listed_count": 2108,
+          "media_count": 4896,
+          "tweet_count": 16301
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

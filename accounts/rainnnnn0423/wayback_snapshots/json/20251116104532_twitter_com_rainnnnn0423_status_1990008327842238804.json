@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1989958866680058337",
+    "created_at": "2025-11-16T10:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T11:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990008327842238804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990008327842238804",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989958866680058337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 小雨妹妹🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_1989958859868573700",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53BCjAbkAQajFP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1989958866680058337",
+        "created_at": "2025-11-16T10:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990008327842238804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990008327842238804",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989958866680058337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 小雨妹妹🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989958859868573700"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "1989958866680058337",
+        "created_at": "2025-11-16T07:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T08:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989958866680058337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgUYSbBRPO",
+              "end": 31,
+              "expanded_url": "https://x.com/amecandy_x/status/1989958866680058337/photo/1",
+              "media_key": "3_1989958859868573700",
+              "start": 8,
+              "url": "https://t.co/AgUYSbBRPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989958866680058337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦还有防沉迷的 https://t.co/AgUYSbBRPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 592,
+          "like_count": 4597,
+          "listed_count": 4,
+          "media_count": 319,
+          "tweet_count": 4198
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「小雨不乖，请你抱紧。」🌧/18yo-Transfem/HRT since 2022🍥CS→Fullstack/LLM🌐blogger✒️旅游✈（推文暴论输出注意⚠️）----Tags: #odtwt💊#shtwt🩸#drugtwt💉 \\\\\\ ❤️‍🔥@wawoqu2772",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "odtwt"
+              },
+              {
+                "end": 107,
+                "start": 101,
+                "tag": "shtwt"
+              },
+              {
+                "end": 116,
+                "start": 108,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "wawoqu2772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 1585,
+          "like_count": 22310,
+          "listed_count": 12,
+          "media_count": 853,
+          "tweet_count": 7478
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1926095673008509347",
+    "created_at": "2025-05-24T12:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T13:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926251253371174968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845883179238137856",
+          "start": 0,
+          "username": "xhngto129410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926251253371174968",
+    "in_reply_to_user_id": "1845883179238137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926199010190045688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhngto129410 最好能通电的因为我想死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1926095673008509347",
+        "created_at": "2025-05-24T12:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T13:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926251253371174968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845883179238137856",
+              "start": 0,
+              "username": "xhngto129410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926251253371174968",
+        "in_reply_to_user_id": "1845883179238137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926199010190045688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhngto129410 最好能通电的因为我想死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845883179238137856",
+        "conversation_id": "1926095673008509347",
+        "created_at": "2025-05-24T08:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T09:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926199010190045688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926199010190045688",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926097089613725763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 6,电线怎么样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 粉蛆滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 484,
+          "like_count": 2956,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3608
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T17:44:05.000Z",
+        "description": "",
+        "id": "1845883179238137856",
+        "name": "猫二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913183195677499392/Hb4qa75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 75,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 506
+        },
+        "username": "xhngto129410",
+        "verified": false
+      }
+    ]
+  }
+}

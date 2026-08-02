@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1949763422691918228",
+    "created_at": "2025-07-29T02:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T03:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950021041780138395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "879142541119037440",
+          "start": 0,
+          "username": "ronwongdaisuke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950021041780138395",
+    "in_reply_to_user_id": "879142541119037440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949877658520867267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ronwongdaisuke 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1949763422691918228",
+        "created_at": "2025-07-29T02:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T03:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950021041780138395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "879142541119037440",
+              "start": 0,
+              "username": "ronwongdaisuke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950021041780138395",
+        "in_reply_to_user_id": "879142541119037440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949877658520867267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ronwongdaisuke 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "879142541119037440",
+        "conversation_id": "1949763422691918228",
+        "created_at": "2025-07-28T17:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T18:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949877658520867267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949877658520867267",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949763422691918228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 主播還好嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "请听雨的声音。|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 520,
+          "like_count": 3953,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 3882
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-26T01:01:30.000Z",
+        "description": "日本流行曲小説動畫|歡迎交友",
+        "id": "879142541119037440",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "七草",
+        "pinned_tweet_id": "1883122685355679804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932892420401999872/MDI70oAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 71,
+          "like_count": 3585,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 121
+        },
+        "username": "ronwongdaisuke",
+        "verified": false
+      }
+    ]
+  }
+}

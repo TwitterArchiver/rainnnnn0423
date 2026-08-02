@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894288468672745958",
+    "created_at": "2025-02-25T07:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T08:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894288468672745958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lidangzzz/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/lidangzzz/status/1894077367041364497",
+          "start": 7,
+          "url": "https://t.co/3PzpqKK2eU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894288468672745958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894077367041364497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "做题蛆们加油 https://t.co/3PzpqKK2eU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 496,
+        "media_key": "3_1894073975019274240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkkaPrtWAAAWjcZ.png",
+        "width": 564
+      },
+      {
+        "height": 476,
+        "media_key": "3_1894074034981122048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkkaTLFXMAApofF.png",
+        "width": 588
+      },
+      {
+        "height": 484,
+        "media_key": "3_1894075080231047168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkkbQA8XUAAklOZ.png",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894288468672745958",
+        "created_at": "2025-02-25T07:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T08:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894288468672745958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lidangzzz/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/lidangzzz/status/1894077367041364497",
+              "start": 7,
+              "url": "https://t.co/3PzpqKK2eU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894288468672745958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894077367041364497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做题蛆们加油 https://t.co/3PzpqKK2eU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894073975019274240",
+            "3_1894074034981122048",
+            "3_1894075080231047168"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "1894077367041364497",
+        "created_at": "2025-02-24T17:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T18:29:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894077273155702989",
+          "1894077367041364497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhjl2Nimp6",
+              "end": 169,
+              "expanded_url": "https://x.com/lidangzzz/status/1894077367041364497/photo/1",
+              "media_key": "3_1894073975019274240",
+              "start": 146,
+              "url": "https://t.co/mhjl2Nimp6"
+            },
+            {
+              "display_url": "pic.x.com/mhjl2Nimp6",
+              "end": 169,
+              "expanded_url": "https://x.com/lidangzzz/status/1894077367041364497/photo/1",
+              "media_key": "3_1894074034981122048",
+              "start": 146,
+              "url": "https://t.co/mhjl2Nimp6"
+            },
+            {
+              "display_url": "pic.x.com/mhjl2Nimp6",
+              "end": 169,
+              "expanded_url": "https://x.com/lidangzzz/status/1894077367041364497/photo/1",
+              "media_key": "3_1894075080231047168",
+              "start": 146,
+              "url": "https://t.co/mhjl2Nimp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894077367041364497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "网络上，总有一群低智商、没读过正经大学的人，天天到处鼓吹，\n\n“普通一本只要学数学，闭着眼转码，吊打科班计算机，闭着眼进大厂，闭着眼进量化”\n\n现实中，复交这个级别的数学硕士毕业，绝大多数人连量化和编程的门都摸不到，当老师就是唯一出路。\n\n没学过编程且没刷过吉米多维奇还天天意淫数学是魔法 ，这种三低人士还是太多了，到处释放暴论：\n\n“计算机天才都是数学出身”\n\n“半导体天才都是数学出身”\n\n“数学学好了，躺着闭眼转码进大厂，吊打科班计算机”\n\n“做金融的全是数学毕业，数学组团进头部私募”\n\n“编程的本质都是数学，当程序员就是解数学题”\n\n“金融的本质都是数学，只要学了数学专业，一堆量化私募抢着要你，请你进去设计数学模型，年薪10000000万”\n\n党哥反复告诉你们，真信了这些大傻逼的话，你就真死了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 167592,
+          "like_count": 356,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "网络上，总有一群低智商、没读过正经大学的人，天天到处鼓吹，\n\n“普通一本只要学数学，闭着眼转码，吊打科班计算机，闭着眼进大厂，闭着眼进量化”\n\n现实中，复交这个级别的数学硕士毕业，绝大多数人连量化和编程的门都摸不到，当老师就是唯一出路。\n\n没学过编程且没刷过吉米多维奇还天天意淫数学是魔法… https://t.co/mhjl2Nimp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 298,
+          "like_count": 1030,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1772
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房、劝人学CS计算机、劝人投美股SP500/纳斯达克100第一人）",
+        "pinned_tweet_id": "1806640806452744310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586307,
+          "following_count": 2638,
+          "like_count": 24725,
+          "listed_count": 3633,
+          "media_count": 7655,
+          "tweet_count": 36116
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

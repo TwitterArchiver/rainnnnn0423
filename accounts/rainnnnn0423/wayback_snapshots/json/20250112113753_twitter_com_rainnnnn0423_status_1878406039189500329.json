@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1878406039189500329",
+    "created_at": "2025-01-12T11:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T12:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878406039189500329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/big_ear_cat/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/big_ear_cat/status/1878136747986419861",
+          "start": 7,
+          "url": "https://t.co/Pg4KsOp8AE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878406039189500329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878136747986419861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "属于脑子有病 https://t.co/Pg4KsOp8AE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1878406039189500329",
+        "created_at": "2025-01-12T11:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T12:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878406039189500329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/big_ear_cat/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/big_ear_cat/status/1878136747986419861",
+              "start": 7,
+              "url": "https://t.co/Pg4KsOp8AE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878406039189500329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878136747986419861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "属于脑子有病 https://t.co/Pg4KsOp8AE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878136742131204096",
+            "3_1878136742177280000"
+          ]
+        },
+        "author_id": "136015437",
+        "conversation_id": "1878136747986419861",
+        "created_at": "2025-01-11T17:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T18:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878136747986419861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbaE2Sl5Tg",
+              "end": 132,
+              "expanded_url": "https://x.com/big_ear_cat/status/1878136747986419861/photo/1",
+              "media_key": "3_1878136742131204096",
+              "start": 109,
+              "url": "https://t.co/pbaE2Sl5Tg"
+            },
+            {
+              "display_url": "pic.x.com/pbaE2Sl5Tg",
+              "end": 132,
+              "expanded_url": "https://x.com/big_ear_cat/status/1878136747986419861/photo/1",
+              "media_key": "3_1878136742177280000",
+              "start": 109,
+              "url": "https://t.co/pbaE2Sl5Tg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878136747986419861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 101247,
+          "like_count": 565,
+          "quote_count": 15,
+          "reply_count": 110,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "如何看待沪上富二代开豪车让韩国人羡慕嫉妒恨的爱国表演\n除了幼稚可笑无聊，底子里的极度自卑又自大，没啥可说的\n至于那些自称老奴觉得跟着长脸的，很有一种全聚德鸭子对外人炫耀的即视感：看，咱们的宰鸭刀都是镶钻的，没见过吧？ https://t.co/pbaE2Sl5Tg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 150,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 304
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-22T20:19:24.000Z",
+        "description": "资深赵学研究家",
+        "id": "136015437",
+        "location": "America",
+        "name": "梁家河大耳朵亲自指挥猫妹掀锅盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1216845888326336512/86Mos_AC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335682,
+          "following_count": 422,
+          "like_count": 14800,
+          "listed_count": 957,
+          "media_count": 13445,
+          "tweet_count": 25362
+        },
+        "username": "big_ear_cat",
+        "verified": false
+      }
+    ]
+  }
+}

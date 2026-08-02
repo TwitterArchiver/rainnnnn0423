@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1887023683048497360",
+    "created_at": "2025-02-05T14:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T15:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887150983438106766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877726238909100032",
+          "start": 0,
+          "username": "tearthecage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887150983438106766",
+    "in_reply_to_user_id": "1877726238909100032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887024769322881398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tearthecage 🫂🫂🫂这都是很正常的心情的。我至今也记得在菜小然后实验给我打电话我那种雀跃的心情。实验不咋看你出身，当时择校因为菜小被拒了n次。🤔我认可我初中人文氛围不错，和我讨厌里面的傻逼老师同学完全不冲突。已调理好，回去看我姐绕着傻逼班主任走就行。温暖感和厌恶感奇妙地共存了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1887024769322881398].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1887024769322881398",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1887024769322881398"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887023683048497360",
+        "created_at": "2025-02-05T14:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T15:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887150983438106766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887150983438106766",
+        "in_reply_to_user_id": "1877726238909100032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887024769322881398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 🫂🫂🫂这都是很正常的心情的。我至今也记得在菜小然后实验给我打电话我那种雀跃的心情。实验不咋看你出身，当时择校因为菜小被拒了n次。🤔我认可我初中人文氛围不错，和我讨厌里面的傻逼老师同学完全不冲突。已调理好，回去看我姐绕着傻逼班主任走就行。温暖感和厌恶感奇妙地共存了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 231,
+          "like_count": 624,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 946
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T14:37:48.000Z",
+        "description": "_",
+        "id": "1877726238909100032",
+        "name": "766461575464645546455544231316647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877727242610196480/T2AwsvAH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 195
+        },
+        "username": "tearthecage",
+        "verified": false
+      }
+    ]
+  }
+}

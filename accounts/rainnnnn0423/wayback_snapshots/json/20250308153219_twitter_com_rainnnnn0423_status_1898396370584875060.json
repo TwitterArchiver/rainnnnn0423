@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1898396283821551964",
+    "created_at": "2025-03-08T15:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T16:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898396370584875060"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1898396370584875060",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898396283821551964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前我写不出来东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1898396283821551964",
+        "created_at": "2025-03-08T15:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898396370584875060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898396370584875060",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898396283821551964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前我写不出来东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1898396283821551964",
+        "created_at": "2025-03-08T15:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898396283821551964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1898385800536195466",
+              "start": 23,
+              "url": "https://t.co/6YBdZa9L3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898396283821551964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898385800536195466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生活还是得留点记录 不然都不知道自己在干什么 https://t.co/6YBdZa9L3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭上推发发疯",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 353,
+          "like_count": 1397,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2305
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

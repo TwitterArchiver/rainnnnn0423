@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2046765071116939678",
+    "created_at": "2026-04-22T01:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046765071116939678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/piyoplate/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/piyoplate/status/2046543917215273125",
+          "start": 24,
+          "url": "https://t.co/r1QLTXLqC1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046765071116939678",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046543917215273125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无能姐好美要是ctbz能用二设出珍宝集就更好了 https://t.co/r1QLTXLqC1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2046543912064675840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbI2E_acAAbbrH.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2046543912073101312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbI2FBbAAABd4o.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2046543912068849665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbI2FAaIAEa3AK.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2046765071116939678",
+        "created_at": "2026-04-22T01:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046765071116939678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/piyoplate/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/piyoplate/status/2046543917215273125",
+              "start": 24,
+              "url": "https://t.co/r1QLTXLqC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046765071116939678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046543917215273125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无能姐好美要是ctbz能用二设出珍宝集就更好了 https://t.co/r1QLTXLqC1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046543912064675840",
+            "3_2046543912073101312",
+            "3_2046543912068849665"
+          ]
+        },
+        "author_id": "1262923899710259200",
+        "conversation_id": "2046543917215273125",
+        "created_at": "2026-04-21T10:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046543917215273125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Hoh6N31nS",
+              "end": 38,
+              "expanded_url": "https://x.com/piyoplate/status/2046543917215273125/photo/1",
+              "media_key": "3_2046543912064675840",
+              "start": 15,
+              "url": "https://t.co/8Hoh6N31nS"
+            },
+            {
+              "display_url": "pic.x.com/8Hoh6N31nS",
+              "end": 38,
+              "expanded_url": "https://x.com/piyoplate/status/2046543917215273125/photo/1",
+              "media_key": "3_2046543912073101312",
+              "start": 15,
+              "url": "https://t.co/8Hoh6N31nS"
+            },
+            {
+              "display_url": "pic.x.com/8Hoh6N31nS",
+              "end": 38,
+              "expanded_url": "https://x.com/piyoplate/status/2046543917215273125/photo/1",
+              "media_key": "3_2046543912068849665",
+              "start": 15,
+              "url": "https://t.co/8Hoh6N31nS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046543917215273125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 92496,
+          "like_count": 1614,
+          "quote_count": 194,
+          "reply_count": 3,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "また豪華なカードが出るらしい https://t.co/8Hoh6N31nS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|本号转生为竞小妹|08infp女高|我不是键政曲吗怎么成⌚姐了|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122🚪88 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "si_an_1122"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2040862365714129402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 655,
+          "like_count": 5537,
+          "listed_count": 4,
+          "media_count": 345,
+          "tweet_count": 4762
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T01:51:48.000Z",
+        "description": "雑食 🐥🇲🇰 ヘッダー＆アイコン ⇒ @Srtmnkko 様",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "Srtmnkko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/Nkdsq",
+                "end": 23,
+                "expanded_url": "http://x.gd/Nkdsq",
+                "start": 0,
+                "url": "https://t.co/9qoRxtJ5ZF"
+              }
+            ]
+          }
+        },
+        "id": "1262923899710259200",
+        "location": "呪泉郷",
+        "name": "酸マ",
+        "pinned_tweet_id": "2006958029716226446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926527787415855105/xvQPJYsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5404,
+          "following_count": 2197,
+          "like_count": 122405,
+          "listed_count": 34,
+          "media_count": 7066,
+          "tweet_count": 61256
+        },
+        "url": "https://t.co/9qoRxtJ5ZF",
+        "username": "piyoplate",
+        "verified": false
+      }
+    ]
+  }
+}

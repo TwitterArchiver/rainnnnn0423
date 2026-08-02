@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2002689032623722780",
+    "created_at": "2025-12-21T10:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T11:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002689032623722780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jlxc2001/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jlxc2001/status/2002355818453479910",
+          "start": 5,
+          "url": "https://t.co/Vrwakl41n0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002689032623722780",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002355818453479910",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "包邮送我 https://t.co/Vrwakl41n0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30021,
+        "height": 1920,
+        "media_key": "7_2002355722747793408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2002355722747793408/pu/img/HcC4Z49kQku305je.jpg",
+        "public_metrics": {
+          "view_count": 177334
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002355722747793408/pu/vid/avc1/1080x1920/TrpZdRhOtqoyjyuH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2002355722747793408/pu/pl/-zHXTv0RdMICOK3h.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002355722747793408/pu/vid/avc1/480x852/tgo40uq35Bwioszr.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002355722747793408/pu/vid/avc1/320x568/1ClE9qLgxX1ZCqrM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002355722747793408/pu/vid/avc1/720x1280/vagwGsYtmBNBPTFf.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2002689032623722780",
+        "created_at": "2025-12-21T10:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002689032623722780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jlxc2001/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jlxc2001/status/2002355818453479910",
+              "start": 5,
+              "url": "https://t.co/Vrwakl41n0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002689032623722780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002355818453479910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "包邮送我 https://t.co/Vrwakl41n0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2002355722747793408"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2002355818453479910",
+        "created_at": "2025-12-20T12:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T13:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002355818453479910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOZ5dbrTch",
+              "end": 68,
+              "expanded_url": "https://x.com/jlxc2001/status/2002355818453479910/video/1",
+              "media_key": "7_2002355722747793408",
+              "start": 45,
+              "url": "https://t.co/yOZ5dbrTch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002355818453479910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 266632,
+          "like_count": 359,
+          "quote_count": 3,
+          "reply_count": 71,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "因为廉航登机口的位置太远了，所以每次乘坐廉航我都会带一个这样的行李箱😍😍😍非常方便哈哈哈 https://t.co/yOZ5dbrTch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 599,
+          "like_count": 4760,
+          "listed_count": 4,
+          "media_count": 327,
+          "tweet_count": 4336
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7055,
+          "following_count": 114,
+          "like_count": 223,
+          "listed_count": 17,
+          "media_count": 490,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

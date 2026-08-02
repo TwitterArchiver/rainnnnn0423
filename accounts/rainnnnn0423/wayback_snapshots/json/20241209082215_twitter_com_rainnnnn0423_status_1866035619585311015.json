@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1866035619585311015",
+    "created_at": "2024-12-09T08:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T09:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866035619585311015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/laozhouhengmei…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/laozhouhengmei/status/1865741347954802713",
+          "start": 111,
+          "url": "https://t.co/tkbNifd2OS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866035619585311015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865741347954802713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实北上广深也不好过🥲除了太过火的体罚较少见，其他各种潜规则，集体教育和pua也是不少的 在巨大的学业和社会压力下从小到大一点点被逼成精神病😅我很多病友也是这样。只能说看老师的人品吧，反正我碰到不止一个贱种老师搞霸凌的了 https://t.co/tkbNifd2OS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1866035619585311015",
+        "created_at": "2024-12-09T08:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T09:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866035619585311015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laozhouhengmei…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/laozhouhengmei/status/1865741347954802713",
+              "start": 111,
+              "url": "https://t.co/tkbNifd2OS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866035619585311015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865741347954802713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实北上广深也不好过🥲除了太过火的体罚较少见，其他各种潜规则，集体教育和pua也是不少的 在巨大的学业和社会压力下从小到大一点点被逼成精神病😅我很多病友也是这样。只能说看老师的人品吧，反正我碰到不止一个贱种老师搞霸凌的了 https://t.co/tkbNifd2OS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865741328216408064",
+            "3_1865741328229019649",
+            "3_1865741328212213760",
+            "3_1865741328220569601"
+          ]
+        },
+        "author_id": "1721381996960845824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1865741347954802713",
+        "created_at": "2024-12-08T12:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T13:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865741347954802713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhGr5SJCm0",
+              "end": 143,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1865741347954802713/photo/1",
+              "media_key": "3_1865741328216408064",
+              "start": 120,
+              "url": "https://t.co/yhGr5SJCm0"
+            },
+            {
+              "display_url": "pic.x.com/yhGr5SJCm0",
+              "end": 143,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1865741347954802713/photo/1",
+              "media_key": "3_1865741328229019649",
+              "start": 120,
+              "url": "https://t.co/yhGr5SJCm0"
+            },
+            {
+              "display_url": "pic.x.com/yhGr5SJCm0",
+              "end": 143,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1865741347954802713/photo/1",
+              "media_key": "3_1865741328212213760",
+              "start": 120,
+              "url": "https://t.co/yhGr5SJCm0"
+            },
+            {
+              "display_url": "pic.x.com/yhGr5SJCm0",
+              "end": 143,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1865741347954802713/photo/1",
+              "media_key": "3_1865741328220569601",
+              "start": 120,
+              "url": "https://t.co/yhGr5SJCm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865741347954802713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我探讨中国教育现状的视频里说到体罚在很多中国学校依然普遍，甚至对孩子拳打脚踢，当众羞辱。\n\n有些键盘侠就说是我瞎编的，说几百封学生投稿，评论区里6000多条评论分享自己学校监狱般的惨无人道都是假的，或者说这是极少数特例，我是在以偏概全。\n\n他们所用的理由不外乎都是：“我以前上的学校没你说的那么夸张，这都是你瞎编来抹黑中国的！” 或者是 “我孩子的学校怎么没那么惨？你这是在以偏概全！”\n\n网上有一种奇葩逻辑，这种逻辑就是，我自己没经历过，所以全世界必然都没有经历过。 \n\n按照这种混账逻辑，我没得过艾滋病，我身边也没有人得艾滋病，所以艾滋病肯定是假的，世上就没有这种病。\n\n我把这种逻辑称之为 -- 华春莹逻辑。 “我就是14亿人的一份子，我怎么就没有感觉到压迫，我怎么觉得生活在中国特别幸福呢？”。  \n\n她一个中共正厅级高官觉得很幸福，所以就代表14亿人都很幸福。 \n\n你会发现，这些说自己的学校没有我说的那么惨的评论，大部分都是来自北上广深这些一线或准一线城市。 确实没错，中国大城市里的学校普遍状况都没有我说的那么糟。\n\n但很多人都有一种非常错误的观念，就是认为北上广深可以代表中国。 尤其是海外华人和本身就住在这些一线城市的人总是有这种错觉。 我想告诉你们的是，北上广深四个城市加起来也不过才8500万人，只有全中国人口的6%。你说自己是北京的、上海的，然后说你的学校不是这样的，因此结论就是中国不是这样的。\n\n你用6%的人来代表94%的人，请问到底是谁在以偏概全？\n\n我再来告诉你，当拼多多于2018年在纽交所上市的时候，当时已经在上海10年，淘宝最高级别VIP的我，压根儿就没有听说过这家公司，当时我身边就没有一个人听说过拼多多。为什么呢？因为一线城市根本就不是拼多多的战场，人家主打的是所谓的下沉市场，三四五线城市。但今天拼多多的市值已经超越了阿里，创始人黄峥已经成为了中国首富。\n\n因为，其实三四五线城市的人民才是中国的大多数，一线城市不仅不能代表中国，反而是中国的例外，是中国的极少数。\n\n有一些稍微还有点理性的人评论说，我说的比监狱还惨的学校确实存在，但我说的情况“只是”存在于几个教育大省。他们说的这些教育大省，指的是高考竞争最激烈，录取率最低的几个省，也就是河南、河北、山东、广东、江苏、四川等等。\n\n我就想请问了，你们是不是对“只是”这个词有什么误解？河南总人口9800万，河北7400万，山东1个亿，广东人口1.3亿，江苏8500万，四川8400万。 就这6个中国人都知道的高考最卷的6个省份总人口就已经接近6个亿。\n\n6个亿啊，占全中国总人口的43%，就算真的就“只有”这6个省的学生天天都在过着炼狱般的煎熬和折磨，这难道还不够吗？什么叫做“只有”这些省？\n\n哦，就因为你自己住在一线城市，或在一些高考相对没那么难的省份，过着相对舒服的日子，这些比较贫穷省份地方的学生就该死吗？ 报导他们的苦难就叫做以偏概全？还有比你们更冷血、更自私的人吗？ 就是因为中国有太多你们这类自扫门前雪，站着说话不腰疼，自私自利的利己主义者，所以中国的各种改革才永远无法成功。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 82744,
+          "like_count": 634,
+          "quote_count": 9,
+          "reply_count": 135,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "我探讨中国教育现状的视频里说到体罚在很多中国学校依然普遍，甚至对孩子拳打脚踢，当众羞辱。\n\n有些键盘侠就说是我瞎编的，说几百封学生投稿，评论区里6000多条评论分享自己学校监狱般的惨无人道都是假的，或者说这是极少数特例，我是在以偏概全。… https://t.co/yhGr5SJCm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "树洞日记 看乐子的小号 键政初学者",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 30,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "原本是墙内时政批判类头部主播，微信视频号被下架几十个10万+，目前墙内已全面封杀。油管4个月破10万订阅。大马华人，美国8年，上海15年（2008~2023），现在新加坡；斯坦福计算机系，前金融企业CEO。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60355,
+          "following_count": 107,
+          "like_count": 5757,
+          "listed_count": 252,
+          "media_count": 323,
+          "tweet_count": 1668
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

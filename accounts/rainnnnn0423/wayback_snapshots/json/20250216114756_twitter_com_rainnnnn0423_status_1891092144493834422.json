@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891092144493834422",
+    "created_at": "2025-02-16T11:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T12:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891092144493834422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuren_Ltd/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/wuren_Ltd/status/1890737443629887910",
+          "start": 9,
+          "url": "https://t.co/TDRFUsjbke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891092144493834422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890737443629887910",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下真成烧逼了😅 https://t.co/TDRFUsjbke"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891092144493834422",
+        "created_at": "2025-02-16T11:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T12:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891092144493834422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuren_Ltd/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wuren_Ltd/status/1890737443629887910",
+              "start": 9,
+              "url": "https://t.co/TDRFUsjbke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891092144493834422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890737443629887910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下真成烧逼了😅 https://t.co/TDRFUsjbke"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890737439620448256",
+            "3_1890737439796568064",
+            "3_1890737440044064768",
+            "3_1890737439603638272"
+          ]
+        },
+        "author_id": "1578364241362309120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1890737443629887910",
+        "created_at": "2025-02-15T12:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T13:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890737443629887910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNzgPNX5XG",
+              "end": 33,
+              "expanded_url": "https://x.com/wuren_Ltd/status/1890737443629887910/photo/1",
+              "media_key": "3_1890737439620448256",
+              "start": 10,
+              "url": "https://t.co/sNzgPNX5XG"
+            },
+            {
+              "display_url": "pic.x.com/sNzgPNX5XG",
+              "end": 33,
+              "expanded_url": "https://x.com/wuren_Ltd/status/1890737443629887910/photo/1",
+              "media_key": "3_1890737439796568064",
+              "start": 10,
+              "url": "https://t.co/sNzgPNX5XG"
+            },
+            {
+              "display_url": "pic.x.com/sNzgPNX5XG",
+              "end": 33,
+              "expanded_url": "https://x.com/wuren_Ltd/status/1890737443629887910/photo/1",
+              "media_key": "3_1890737440044064768",
+              "start": 10,
+              "url": "https://t.co/sNzgPNX5XG"
+            },
+            {
+              "display_url": "pic.x.com/sNzgPNX5XG",
+              "end": 33,
+              "expanded_url": "https://x.com/wuren_Ltd/status/1890737443629887910/photo/1",
+              "media_key": "3_1890737439603638272",
+              "start": 10,
+              "url": "https://t.co/sNzgPNX5XG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890737443629887910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 404859,
+          "like_count": 1419,
+          "quote_count": 31,
+          "reply_count": 172,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "谁发表一下用后体验 https://t.co/sNzgPNX5XG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 240,
+          "like_count": 745,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1285
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T12:39:05.000Z",
+        "description": "燒かぬ乾魚に　半煮え飯に\n憖生命の　ある其の内は\n堪へ切れ無い　寒さの焚火\n煙い筈だよ　生木が燻る\n澁い顏して　功名噺\n「粋」いと云ふのは　梅干し一つ/\n双生体，真身为：@wu_jen_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "wu_jen_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+hSN98rWyhi9lZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+hSN98rWyhi9lZDFl",
+                "start": 0,
+                "url": "https://t.co/qjx9TNjVAB"
+              }
+            ]
+          }
+        },
+        "id": "1578364241362309120",
+        "location": "龙转回",
+        "name": "阿米娜·阔伊姆@Ω代目",
+        "pinned_tweet_id": "1853416581919129629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807053252791586816/Ze6VAfLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28785,
+          "following_count": 1265,
+          "like_count": 15909,
+          "listed_count": 85,
+          "media_count": 389,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/qjx9TNjVAB",
+        "username": "wuren_Ltd",
+        "verified": false
+      }
+    ]
+  }
+}

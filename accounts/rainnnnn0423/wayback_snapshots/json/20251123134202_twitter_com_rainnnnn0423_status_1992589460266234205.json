@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1992589460266234205",
+    "created_at": "2025-11-23T13:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992589460266234205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Auras_beichny/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Auras_beichny/status/1992484989473288704",
+          "start": 7,
+          "url": "https://t.co/lPqcmMVSY4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992589460266234205",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992484989473288704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "眼红了好幸福 https://t.co/lPqcmMVSY4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2029,
+        "media_key": "3_1992484968304644096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6a6haQakAA2x7t.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1992589460266234205",
+        "created_at": "2025-11-23T13:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992589460266234205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Auras_beichny/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Auras_beichny/status/1992484989473288704",
+              "start": 7,
+              "url": "https://t.co/lPqcmMVSY4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992589460266234205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992484989473288704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "眼红了好幸福 https://t.co/lPqcmMVSY4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992484968304644096"
+          ]
+        },
+        "author_id": "1593149117844393984",
+        "conversation_id": "1992484989473288704",
+        "created_at": "2025-11-23T06:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992484989473288704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFvSbEBrNq",
+              "end": 163,
+              "expanded_url": "https://x.com/Auras_beichny/status/1992484989473288704/photo/1",
+              "media_key": "3_1992484968304644096",
+              "start": 140,
+              "url": "https://t.co/cFvSbEBrNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992484989473288704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 37466,
+          "like_count": 1169,
+          "quote_count": 11,
+          "reply_count": 24,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "其实按理来说不应该当场发推。。。。但是我真的。。。我真的很高兴，高兴得要哭出来了……\n签售的时候我真的没有想过能够被东云さん和三木谷さん记住……签名墙上的内容能喜欢真的是太好了……\n其实不知道说什么……脑子空空的……但是真的，真的很幸福……还没有说自己的名字就被两位认出来了…… https://t.co/cFvSbEBrNq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 590,
+          "like_count": 4658,
+          "listed_count": 4,
+          "media_count": 320,
+          "tweet_count": 4217
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T07:48:51.000Z",
+        "description": "♀️/冬眠中/ヒロエマ相手固定左右固定过激洁癖，但是会溺爱无差亲友/中國人、日本語勉強中/English ok/無言フォロー失礼します\n全是自我的小号→ @sakaki2839",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "sakaki2839"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/5eta3trpyk598j…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/5eta3trpyk598jn?t=ZwTO9v&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/T0zy0obbna"
+              }
+            ]
+          }
+        },
+        "id": "1593149117844393984",
+        "location": "神经",
+        "name": "サカキ",
+        "pinned_tweet_id": "1992123425440338108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971984841651658752/v2mfE5y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 101,
+          "like_count": 4130,
+          "listed_count": 7,
+          "media_count": 106,
+          "tweet_count": 1514
+        },
+        "url": "https://t.co/T0zy0obbna",
+        "username": "Auras_beichny",
+        "verified": false
+      }
+    ]
+  }
+}

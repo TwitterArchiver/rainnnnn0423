@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1974364300715438573",
+    "created_at": "2025-10-05T02:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T03:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974664586466074744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928630832165789696",
+          "start": 0,
+          "username": "si_an_1122"
+        },
+        {
+          "end": 25,
+          "id": "622036546",
+          "start": 12,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974664586466074744",
+    "in_reply_to_user_id": "1928630832165789696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974456701069013047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@si_an_1122 @overdose_six 那玩意不好吸，垃圾物质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1974364300715438573",
+        "created_at": "2025-10-05T02:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T03:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974664586466074744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928630832165789696",
+              "start": 0,
+              "username": "si_an_1122"
+            },
+            {
+              "end": 25,
+              "id": "622036546",
+              "start": 12,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974664586466074744",
+        "in_reply_to_user_id": "1928630832165789696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974456701069013047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@si_an_1122 @overdose_six 那玩意不好吸，垃圾物质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928630832165789696",
+        "conversation_id": "1974364300715438573",
+        "created_at": "2025-10-04T12:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T13:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974456701069013047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974456701069013047",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974364300715438573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 之前听说他们会吸打火机里冲的那个气……好恐怖……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 579,
+          "like_count": 4321,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 4053
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T01:53:27.000Z",
+        "description": "=四安/可以叫我小四/負能量廢話合集/一般路過女高中生/重抑中焦/滴淚女/雙偏直/歡迎互fo/粉紅我們無緣/請多和我玩/純綠🚪25+隨便給沒區別/我的好詭秘是@rainnnnn0423",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "rainnnnn0423"
+              }
+            ]
+          }
+        },
+        "id": "1928630832165789696",
+        "location": "小四的電子貓貓養殖基地",
+        "name": "四安_Yotsu",
+        "pinned_tweet_id": "1937888363287384183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939101864949149696/vdPpzvJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 62,
+          "like_count": 406,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 488
+        },
+        "username": "si_an_1122",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjZjK 提问箱:https://t.co/b5c8bbntR6 里推:@fuck_8964 药物代购可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjZjK"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 58,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 35,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjZjK"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968299927244775424/_No7YTKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 188,
+          "like_count": 8926,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 2582
+        },
+        "url": "https://t.co/BlAoDIjZjK",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1900861265163276553",
+    "created_at": "2025-03-15T10:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T11:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900861950118294008"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900861950118294008",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900861265163276553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我经历的所有苦难都不会杀死我只会让我成长。我看人越来越准了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1900861265163276553",
+        "created_at": "2025-03-15T10:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T11:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900861950118294008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900861950118294008",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900861265163276553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我经历的所有苦难都不会杀死我只会让我成长。我看人越来越准了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1900861265163276553",
+        "created_at": "2025-03-15T10:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T11:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900861265163276553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1900853335793823950",
+              "start": 90,
+              "url": "https://t.co/G52Y5qs073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900861265163276553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900853335793823950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈，我是坏孩子吗？我抽烟酗酒嗑药找人做爱以此麻痹自己的痛苦，我的病越来越重，以为自己好了其实是解离让我意识不到自己的痛苦。我受够了被外界背叛了，一直沉迷自己的内心世界来逃避现实 https://t.co/G52Y5qs073"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记🗑/键政乐子人",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 368,
+          "like_count": 1560,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2495
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

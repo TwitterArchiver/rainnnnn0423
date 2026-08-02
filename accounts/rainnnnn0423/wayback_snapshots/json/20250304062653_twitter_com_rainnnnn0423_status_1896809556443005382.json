@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1896809556443005382",
+    "created_at": "2025-03-04T06:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T07:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896809556443005382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1811373871033102336",
+          "start": 3,
+          "username": "duoduolin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896809556443005382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896788185822450075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duoduolin8964: 看到这个我想起来了，中文互联网上常有的猎巫运动。就是你只要在3d人群目前展现出一丝丝的优越感就会被大规模赛博团建。但只要你是升学规划类的博主就能拿到赛博护身符，直播、视频里随意去贬低羞辱学生及其家长但却不会获得批评，反而会被赞赏有高认知其中…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_1896788179828510720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlK-zMjWkAAfvxA.jpg",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1896809556443005382",
+        "created_at": "2025-03-04T06:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T07:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896809556443005382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1811373871033102336",
+              "start": 3,
+              "username": "duoduolin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896809556443005382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896788185822450075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duoduolin8964: 看到这个我想起来了，中文互联网上常有的猎巫运动。就是你只要在3d人群目前展现出一丝丝的优越感就会被大规模赛博团建。但只要你是升学规划类的博主就能拿到赛博护身符，直播、视频里随意去贬低羞辱学生及其家长但却不会获得批评，反而会被赞赏有高认知其中…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896788179828510720"
+          ]
+        },
+        "author_id": "1811373871033102336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1896788185822450075",
+        "created_at": "2025-03-04T05:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T06:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896788185822450075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6670dva8Gc",
+              "end": 164,
+              "expanded_url": "https://x.com/duoduolin8964/status/1896788185822450075/photo/1",
+              "media_key": "3_1896788179828510720",
+              "start": 141,
+              "url": "https://t.co/6670dva8Gc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896788185822450075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 322,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个我想起来了，中文互联网上常有的猎巫运动。就是你只要在3d人群目前展现出一丝丝的优越感就会被大规模赛博团建。但只要你是升学规划类的博主就能拿到赛博护身符，直播、视频里随意去贬低羞辱学生及其家长但却不会获得批评，反而会被赞赏有高认知其中就是以张子彪最为典型，做题曲家长们的亲爹 https://t.co/6670dva8Gc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 我对写文字有瘾",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 333,
+          "like_count": 1236,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2096
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:16:09.000Z",
+        "description": "Whatever it takes～Or how my heart breaks～I will be right here～waiting for you～ 亲爱的🥰@xuan5159/小账@duoduolin0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "xuan5159"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "duoduolin0"
+              }
+            ]
+          }
+        },
+        "id": "1811373871033102336",
+        "location": "Rhodes",
+        "name": "朵朵玲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890098218362609664/IIfs4qGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3522,
+          "following_count": 1382,
+          "like_count": 27183,
+          "listed_count": 7,
+          "media_count": 837,
+          "tweet_count": 8767
+        },
+        "username": "duoduolin8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897293539182268738",
+    "created_at": "2025-03-05T14:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T15:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897293539182268738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Luo_yiyu/statu…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/Luo_yiyu/status/1896896482986643888",
+          "start": 72,
+          "url": "https://t.co/rIOcEpUHzY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897293539182268738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896896482986643888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "：那你妈去世了你可以找新妈啊，她又不是不可替代的，你没有妈吗？\n什么，你说你妈活得好好的？你都问我这种话了，还是赶紧回家看看你妈是不是死了吧。 https://t.co/rIOcEpUHzY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897293539182268738",
+        "created_at": "2025-03-05T14:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T15:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897293539182268738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Luo_yiyu/statu…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Luo_yiyu/status/1896896482986643888",
+              "start": 72,
+              "url": "https://t.co/rIOcEpUHzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897293539182268738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896896482986643888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "：那你妈去世了你可以找新妈啊，她又不是不可替代的，你没有妈吗？\n什么，你说你妈活得好好的？你都问我这种话了，还是赶紧回家看看你妈是不是死了吧。 https://t.co/rIOcEpUHzY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559906722588000256",
+        "conversation_id": "1896896482986643888",
+        "created_at": "2025-03-04T12:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T13:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896896482986643888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896896482986643888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9216,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "本来这几天我在学校边发现的小公园乱逛心情好了不少\n然后一个亲戚打电话过来问我为什么休学\n我说我精神状态不好，加上朋友的去世\n这神人来了一嘴，那你可以交新朋友啊，她又不是不可替代的，你没有朋友吗？\n我当场红稳到躯体化了\n这还是人嘴里能说出来的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 341,
+          "like_count": 1299,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2165
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "叫我小洛就好，矛盾迷茫之人，正在努力交友让自己不那么孤单，双相患者，正在努力活着，有证含🍥2024.6.10，经常犯蠢，一会社恐一会话痨的baka，infp，🥰🥰🥰@misaka__networ 学习打ctf，会玩一点业余无线电，呼号BD8ELV，大一土木跑路电科\n晚安🕯🕯@Tianqichen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "misaka__networ"
+              },
+              {
+                "end": 151,
+                "start": 137,
+                "username": "Tianqichen666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yiurblog.top",
+                "end": 23,
+                "expanded_url": "http://www.yiurblog.top",
+                "start": 0,
+                "url": "https://t.co/A4NOlo6xwn"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "name": "洛忆雨Yiur",
+        "pinned_tweet_id": "1894682535612825991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896187995557883904/LPmY2iat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 327,
+          "like_count": 4176,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 3862
+        },
+        "url": "https://t.co/A4NOlo6xwn",
+        "username": "Luo_yiyu",
+        "verified": false
+      }
+    ]
+  }
+}

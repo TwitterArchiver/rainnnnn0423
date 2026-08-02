@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1872499597601648672",
+    "created_at": "2024-12-27T04:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T05:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872499597601648672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MadPter/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/MadPter/status/1872322800805155096",
+          "start": 3,
+          "url": "https://t.co/WK1oTi2ma0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872499597601648672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872322800805155096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猎奇 https://t.co/WK1oTi2ma0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1872499597601648672",
+        "created_at": "2024-12-27T04:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T05:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872499597601648672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MadPter/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/MadPter/status/1872322800805155096",
+              "start": 3,
+              "url": "https://t.co/WK1oTi2ma0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872499597601648672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872322800805155096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猎奇 https://t.co/WK1oTi2ma0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2641170870",
+        "conversation_id": "1872216461223378992",
+        "created_at": "2024-12-26T16:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T17:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872322800805155096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072109417200414720",
+              "start": 0,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872322800805155096",
+        "in_reply_to_user_id": "1072109417200414720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872216461223378992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangzhian8848 以后吴柳芳负责拍案，王局负责擦边。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号不互粉 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 82,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 156
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-14T00:32:53.000Z",
+        "description": "",
+        "id": "2641170870",
+        "name": "madpeter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771951031007813632/Rb_DHWSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 147,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 128
+        },
+        "username": "MadPter",
+        "verified": false
+      }
+    ]
+  }
+}

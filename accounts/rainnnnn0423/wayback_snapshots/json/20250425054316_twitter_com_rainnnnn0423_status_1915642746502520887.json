@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1915639777673752955",
+    "created_at": "2025-04-25T05:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T06:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915642746502520887"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1915642746502520887",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915639777673752955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我攻击我妈：你自卑敏感脆弱多疑，但是我们却都哄着你一直说好话，因为我们还把你当家人，因为我们还爱你，你却一遍一遍要我自证是何居心？\n你做服务员做保姆都感到自卑，那为什么不能去学习点技能而是一直刷抖音，我给你说过很多适合你的机会做得好了工资超过我爸都有可能，可以不要自暴自弃吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1915639777673752955",
+        "created_at": "2025-04-25T05:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T06:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915642746502520887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915642746502520887",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915639777673752955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我攻击我妈：你自卑敏感脆弱多疑，但是我们却都哄着你一直说好话，因为我们还把你当家人，因为我们还爱你，你却一遍一遍要我自证是何居心？\n你做服务员做保姆都感到自卑，那为什么不能去学习点技能而是一直刷抖音，我给你说过很多适合你的机会做得好了工资超过我爸都有可能，可以不要自暴自弃吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1915639777673752955",
+        "created_at": "2025-04-25T05:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T06:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915639777673752955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915639777673752955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "切蛋糕的时候许了很悲伤的愿望，说出来得到了家人的嘲笑，这就是我为什么要许那个愿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 448,
+          "like_count": 2250,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 3288
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

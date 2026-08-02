@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1886307304326439008",
+    "created_at": "2025-02-03T07:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T08:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886310698109866076"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1886310698109866076",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886308977111445655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看过个讲寿命论的同人。小绿死了，因为车祸；小桃死了，因为癌症；柚子也过世了。\n可是爱丽丝不会死，若千百年后基沃托斯变为废墟，爱丽丝就在里面一个人游荡吧。\n爱丽丝害怕孤独，所以想更珍惜和伙伴们之间的羁绊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886307304326439008",
+        "created_at": "2025-02-03T07:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T08:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886310698109866076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886310698109866076",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886308977111445655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看过个讲寿命论的同人。小绿死了，因为车祸；小桃死了，因为癌症；柚子也过世了。\n可是爱丽丝不会死，若千百年后基沃托斯变为废墟，爱丽丝就在里面一个人游荡吧。\n爱丽丝害怕孤独，所以想更珍惜和伙伴们之间的羁绊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886307304326439008",
+        "created_at": "2025-02-03T07:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T08:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886308977111445655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886308977111445655",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886308748924494104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我明白了，老师。不过那些没有天赋的人呢？他们的人生从一开始就被浪费了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 230,
+          "like_count": 604,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 932
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

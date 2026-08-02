@@ -1,0 +1,613 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070721101800472577",
+          "name": "Yuka Iguchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070721101800472577",
+          "name": "Yuka Iguchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070721101800472577",
+          "name": "Yuka Iguchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "1987543734020718916",
+    "created_at": "2025-11-09T15:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T16:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987543734020718916"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "魔法少女ノ魔女裁判",
+          "probability": 0.5555,
+          "start": 41,
+          "type": "Other"
+        },
+        {
+          "end": 67,
+          "normalized_text": "城ケ崎ノア",
+          "probability": 0.5252,
+          "start": 63,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "まのさば"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "井口裕香"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761599169066893312",
+          "start": 3,
+          "username": "13witch_Trials"
+        },
+        {
+          "end": 126,
+          "id": "1761599169066893312",
+          "start": 111,
+          "username": "13witch_Trials"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987543734020718916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12192
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982024344013320386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13witch_Trials: ◆#まのさば 販売20万本達成記念◆\n\n『魔法少女ノ魔女裁判』20万本販売を記念して\n城ケ崎ノア役 #井口裕香 さんのサイン色紙を\n抽選で3名様に贈呈いたします。\n\n応募方法 \n① @13witch_Trials をフォロー\n② 本ポスト…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1981710937317847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BzmRJWMAAIMVc.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721101800472577",
+              "name": "Yuka Iguchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721101800472577",
+              "name": "Yuka Iguchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721101800472577",
+              "name": "Yuka Iguchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1987543734020718916",
+        "created_at": "2025-11-09T15:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987543734020718916"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "魔法少女ノ魔女裁判",
+              "probability": 0.5555,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "城ケ崎ノア",
+              "probability": 0.5252,
+              "start": 63,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "まのさば"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "井口裕香"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761599169066893312",
+              "start": 3,
+              "username": "13witch_Trials"
+            },
+            {
+              "end": 126,
+              "id": "1761599169066893312",
+              "start": 111,
+              "username": "13witch_Trials"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987543734020718916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12192
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982024344013320386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13witch_Trials: ◆#まのさば 販売20万本達成記念◆\n\n『魔法少女ノ魔女裁判』20万本販売を記念して\n城ケ崎ノア役 #井口裕香 さんのサイン色紙を\n抽選で3名様に贈呈いたします。\n\n応募方法 \n① @13witch_Trials をフォロー\n② 本ポスト…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981710937317847040"
+          ]
+        },
+        "author_id": "1761599169066893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721101800472577",
+              "name": "Yuka Iguchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721101800472577",
+              "name": "Yuka Iguchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070721101800472577",
+              "name": "Yuka Iguchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1982024344013320386",
+        "created_at": "2025-10-25T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982024344013320386"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "魔法少女ノ魔女裁判",
+              "probability": 0.601,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "城ケ崎ノア",
+              "probability": 0.5496,
+              "start": 43,
+              "type": "Person"
+            },
+            {
+              "end": 57,
+              "normalized_text": "#井口裕香 さん",
+              "probability": 0.4031,
+              "start": 50,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 1,
+              "tag": "まのさば"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "井口裕香"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 106,
+              "id": "1761599169066893312",
+              "start": 91,
+              "username": "13witch_Trials"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EdTiezLAZM",
+              "end": 170,
+              "expanded_url": "https://x.com/13witch_Trials/status/1982024344013320386/photo/1",
+              "media_key": "3_1981710937317847040",
+              "start": 147,
+              "url": "https://t.co/EdTiezLAZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982024344013320386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 509710,
+          "like_count": 8075,
+          "quote_count": 53,
+          "reply_count": 120,
+          "retweet_count": 12192
+        },
+        "reply_settings": "everyone",
+        "text": "◆#まのさば 販売20万本達成記念◆\n\n『魔法少女ノ魔女裁判』20万本販売を記念して\n城ケ崎ノア役 #井口裕香 さんのサイン色紙を\n抽選で3名様に贈呈いたします。\n\n応募方法 \n① @13witch_Trials をフォロー\n② 本ポストをRPで応募 \n\n締切：11月8日(土)23:59まで https://t.co/EdTiezLAZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 591,
+          "like_count": 4534,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 4170
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:49:14.000Z",
+        "description": "「Acacia（アカシア）」がお届けする魔法議論ミステリゲーム「魔法少女ノ魔女裁判」公式です。Steam版発売中。開発状況報告と公式アナウンスを行います。#まのさば\n\nYoutube：https://t.co/2vD4itw83M\nBooth：https://t.co/oPzbKCJDJO\n運営：@Acacia_offical_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "まのさば"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 165,
+                "start": 149,
+                "username": "Acacia_offical_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/uAqSn",
+                "end": 115,
+                "expanded_url": "https://x.gd/uAqSn",
+                "start": 92,
+                "url": "https://t.co/2vD4itw83M"
+              },
+              {
+                "display_url": "x.gd/PtVST",
+                "end": 145,
+                "expanded_url": "https://x.gd/PtVST",
+                "start": 122,
+                "url": "https://t.co/oPzbKCJDJO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manosaba.com",
+                "end": 23,
+                "expanded_url": "https://manosaba.com",
+                "start": 0,
+                "url": "https://t.co/3ri3J0EKXa"
+              }
+            ]
+          }
+        },
+        "id": "1761599169066893312",
+        "location": "シナリオ制作会社Re,AER",
+        "name": "魔法少女ノ魔女裁判 公式",
+        "pinned_tweet_id": "1946155490582602149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774974247125106688/8mB9zMiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205100,
+          "following_count": 52,
+          "like_count": 3651,
+          "listed_count": 322,
+          "media_count": 537,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/3ri3J0EKXa",
+        "username": "13witch_Trials",
+        "verified": true
+      }
+    ]
+  }
+}

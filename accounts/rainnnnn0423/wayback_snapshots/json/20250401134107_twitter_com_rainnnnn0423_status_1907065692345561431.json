@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907060474924965907",
+    "created_at": "2025-04-01T13:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T14:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907065692345561431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "6thCuteK1tten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907065692345561431",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907062307814769095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6thCuteK1tten 说不定只是个愚人节玩笑呢…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1907062307814769095].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1907062307814769095",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1907062307814769095"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907060474924965907",
+        "created_at": "2025-04-01T13:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T14:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907065692345561431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "6thCuteK1tten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907065692345561431",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907062307814769095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6thCuteK1tten 说不定只是个愚人节玩笑呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 398,
+          "like_count": 1709,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2791
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "",
+        "id": "1879395690230738944",
+        "name": "💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894954054150955010/D_T8kEWF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 109,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 136
+        },
+        "username": "6thCuteK1tten",
+        "verified": false
+      }
+    ]
+  }
+}

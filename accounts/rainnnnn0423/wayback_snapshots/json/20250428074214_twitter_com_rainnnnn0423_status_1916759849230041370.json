@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916406387023998976",
+        "3_1916406399808245762",
+        "3_1916406417600462849"
+      ],
+      "media_source_tweet_id": [
+        "1916406422348181922",
+        "1916406422348181922",
+        "1916406422348181922"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "1916759849230041370",
+    "created_at": "2025-04-28T07:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T08:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916759849230041370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NaBpDojTZa",
+          "end": 80,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/1916406422348181922/photo/1",
+          "media_key": "3_1916406387023998976",
+          "start": 57,
+          "url": "https://t.co/NaBpDojTZa"
+        },
+        {
+          "display_url": "pic.x.com/NaBpDojTZa",
+          "end": 80,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/1916406422348181922/photo/1",
+          "media_key": "3_1916406399808245762",
+          "start": 57,
+          "url": "https://t.co/NaBpDojTZa"
+        },
+        {
+          "display_url": "pic.x.com/NaBpDojTZa",
+          "end": 80,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/1916406422348181922/photo/1",
+          "media_key": "3_1916406417600462849",
+          "start": 57,
+          "url": "https://t.co/NaBpDojTZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916759849230041370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916406422348181922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 失败的家庭，有这样一个特征。\n在小事上无限上纲上线。\n在大事上异常随意。 https://t.co/NaBpDojTZa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1709,
+        "media_key": "3_1916406387023998976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GphxdJfa8AA0PuN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1511,
+        "media_key": "3_1916406399808245762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gphxd5HbEAIufHU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1067,
+        "media_key": "3_1916406417600462849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gphxe7ZawAEnr_M.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916406387023998976",
+            "3_1916406399808245762",
+            "3_1916406417600462849"
+          ],
+          "media_source_tweet_id": [
+            "1916406422348181922",
+            "1916406422348181922",
+            "1916406422348181922"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1916759849230041370",
+        "created_at": "2025-04-28T07:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T08:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916759849230041370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaBpDojTZa",
+              "end": 80,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1916406422348181922/photo/1",
+              "media_key": "3_1916406387023998976",
+              "start": 57,
+              "url": "https://t.co/NaBpDojTZa"
+            },
+            {
+              "display_url": "pic.x.com/NaBpDojTZa",
+              "end": 80,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1916406422348181922/photo/1",
+              "media_key": "3_1916406399808245762",
+              "start": 57,
+              "url": "https://t.co/NaBpDojTZa"
+            },
+            {
+              "display_url": "pic.x.com/NaBpDojTZa",
+              "end": 80,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1916406422348181922/photo/1",
+              "media_key": "3_1916406417600462849",
+              "start": 57,
+              "url": "https://t.co/NaBpDojTZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916759849230041370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916406422348181922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 失败的家庭，有这样一个特征。\n在小事上无限上纲上线。\n在大事上异常随意。 https://t.co/NaBpDojTZa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916406387023998976",
+            "3_1916406399808245762",
+            "3_1916406417600462849"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "1916406422348181922",
+        "created_at": "2025-04-27T08:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T09:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916406422348181922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaBpDojTZa",
+              "end": 60,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1916406422348181922/photo/1",
+              "media_key": "3_1916406387023998976",
+              "start": 37,
+              "url": "https://t.co/NaBpDojTZa"
+            },
+            {
+              "display_url": "pic.x.com/NaBpDojTZa",
+              "end": 60,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1916406422348181922/photo/1",
+              "media_key": "3_1916406399808245762",
+              "start": 37,
+              "url": "https://t.co/NaBpDojTZa"
+            },
+            {
+              "display_url": "pic.x.com/NaBpDojTZa",
+              "end": 60,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1916406422348181922/photo/1",
+              "media_key": "3_1916406417600462849",
+              "start": 37,
+              "url": "https://t.co/NaBpDojTZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916406422348181922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 803,
+          "impression_count": 340836,
+          "like_count": 2451,
+          "quote_count": 25,
+          "reply_count": 122,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "失败的家庭，有这样一个特征。\n在小事上无限上纲上线。\n在大事上异常随意。 https://t.co/NaBpDojTZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 457,
+          "like_count": 2335,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 3377
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232869,
+          "following_count": 1838,
+          "like_count": 189,
+          "listed_count": 1212,
+          "media_count": 25994,
+          "tweet_count": 33168
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

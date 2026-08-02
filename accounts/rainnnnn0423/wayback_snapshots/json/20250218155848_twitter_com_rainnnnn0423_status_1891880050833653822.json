@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891880050833653822",
+    "created_at": "2025-02-18T15:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T16:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891880050833653822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1828062670580543488",
+          "start": 3,
+          "username": "CallHtheXtime"
+        },
+        {
+          "end": 34,
+          "id": "1468163720195239938",
+          "start": 19,
+          "username": "xijinpingdiguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891880050833653822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891601861905383540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CallHtheXtime: @xijinpingdiguo 有时候支黑骂支那猪我是真没办法还嘴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891880050833653822",
+        "created_at": "2025-02-18T15:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T16:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891880050833653822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1828062670580543488",
+              "start": 3,
+              "username": "CallHtheXtime"
+            },
+            {
+              "end": 34,
+              "id": "1468163720195239938",
+              "start": 19,
+              "username": "xijinpingdiguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891880050833653822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891601861905383540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CallHtheXtime: @xijinpingdiguo 有时候支黑骂支那猪我是真没办法还嘴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828062670580543488",
+        "conversation_id": "1891378757312627057",
+        "created_at": "2025-02-17T21:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T22:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891601861905383540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468163720195239938",
+              "start": 0,
+              "username": "xijinpingdiguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891601861905383540",
+        "in_reply_to_user_id": "1468163720195239938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15232,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891378757312627057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinpingdiguo 有时候支黑骂支那猪我是真没办法还嘴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑一天发八百条",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 245,
+          "like_count": 772,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1374
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T13:31:28.000Z",
+        "description": "纯乐子人/多面不粘锅/高强度冲浪/私信秒回/抽象屌丝大手/互fo私信就行/没事发发梗图发发疯/爱正常人/希望不让喜欢我的人失望",
+        "id": "1828062670580543488",
+        "location": "熊本县",
+        "name": "风情主播喵梦Nyamuchi",
+        "pinned_tweet_id": "1890435963429531691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890328982891163648/V_mKEXpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 212,
+          "like_count": 833,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2201
+        },
+        "username": "CallHtheXtime",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T10:22:07.000Z",
+        "description": "格安留学/不動産専門/就労支援/両替屋/君子居必择乡、遊必就士、所以防邪僻而近中正也",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCpK6b…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCpK6b7YCSlU4aN_tPdP4Daw",
+                "start": 0,
+                "url": "https://t.co/vvlVA1CzKz"
+              }
+            ]
+          }
+        },
+        "id": "1468163720195239938",
+        "location": "神奈 横浜市 神奈川区",
+        "name": "張　文文(万事屋版)",
+        "pinned_tweet_id": "1813064868666483068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882580269879975936/EVywOUKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82780,
+          "following_count": 769,
+          "like_count": 36618,
+          "listed_count": 351,
+          "media_count": 4827,
+          "tweet_count": 10790
+        },
+        "url": "https://t.co/vvlVA1CzKz",
+        "username": "xijinpingdiguo",
+        "verified": true
+      }
+    ]
+  }
+}

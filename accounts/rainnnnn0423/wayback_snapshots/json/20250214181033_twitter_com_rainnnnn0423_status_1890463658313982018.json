@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1890461327027540216",
+    "created_at": "2025-02-14T18:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T19:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890463658313982018"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890463658313982018",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890461327027540216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么派系只是立场问题。大部分人在自己立场抱团取暖然后四处出征。在我这看行为不看立场，粉红捅日本人我骂，网左小鬼吉列逗蒸我骂，民逗发币我骂，支黑在别人姥姥去世时开香槟我骂。\n骂我的话我是真听的。前提不是情绪输出而且说的有道理。今天刚给人私信说你骂的有道理，然后就是友好交流了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890461327027540216",
+        "created_at": "2025-02-14T18:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T19:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890463658313982018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890463658313982018",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890461327027540216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么派系只是立场问题。大部分人在自己立场抱团取暖然后四处出征。在我这看行为不看立场，粉红捅日本人我骂，网左小鬼吉列逗蒸我骂，民逗发币我骂，支黑在别人姥姥去世时开香槟我骂。\n骂我的话我是真听的。前提不是情绪输出而且说的有道理。今天刚给人私信说你骂的有道理，然后就是友好交流了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890461327027540216",
+        "created_at": "2025-02-14T18:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T19:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890461327027540216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890461327027540216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这人太灵活了，如果你是个好看的妹子即使你是支黑我也会跟你玩的。我和支黑的区别就是我还有感情还想救一下，支黑已经失望放弃了。我这人不看立场，看具体行为，即使是我天天骂的粉红，正常日子人不魔怔也是能跟我玩得来的。\n互联网上像我这么理智思考看问题的人不多了，大部分人都蠢货上来情绪输出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 238,
+          "like_count": 714,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1195
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

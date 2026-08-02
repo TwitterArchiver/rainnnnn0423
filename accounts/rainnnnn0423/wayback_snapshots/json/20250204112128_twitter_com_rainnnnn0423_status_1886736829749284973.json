@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1886736829749284973",
+    "created_at": "2025-02-04T11:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T12:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886736829749284973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886736829749284973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886020915512959476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 近日，不少家长在小红书评论区反映因孩子不听自己话，便把孩子打到受伤的经历。\n 家长称： “今天辅导闺女写作业，把她头皮都打破了” “我今天又把儿子头打破了” “我一般都拿脚踹” “8岁连着尿两天床被我扇巴掌，不打我要被气出毛病” http…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886736829749284973",
+        "created_at": "2025-02-04T11:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T12:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886736829749284973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886736829749284973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886020915512959476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 近日，不少家长在小红书评论区反映因孩子不听自己话，便把孩子打到受伤的经历。\n 家长称： “今天辅导闺女写作业，把她头皮都打破了” “我今天又把儿子头打破了” “我一般都拿脚踹” “8岁连着尿两天床被我扇巴掌，不打我要被气出毛病” http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886020409260478464",
+            "3_1886020427589484545",
+            "3_1886020437135765504",
+            "3_1886020492706140160"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1886020915512959476",
+        "created_at": "2025-02-02T11:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T12:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886020915512959476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G2zAqr3gR8",
+              "end": 138,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1886020915512959476/photo/1",
+              "media_key": "3_1886020409260478464",
+              "start": 115,
+              "url": "https://t.co/G2zAqr3gR8"
+            },
+            {
+              "display_url": "pic.x.com/G2zAqr3gR8",
+              "end": 138,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1886020915512959476/photo/1",
+              "media_key": "3_1886020427589484545",
+              "start": 115,
+              "url": "https://t.co/G2zAqr3gR8"
+            },
+            {
+              "display_url": "pic.x.com/G2zAqr3gR8",
+              "end": 138,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1886020915512959476/photo/1",
+              "media_key": "3_1886020437135765504",
+              "start": 115,
+              "url": "https://t.co/G2zAqr3gR8"
+            },
+            {
+              "display_url": "pic.x.com/G2zAqr3gR8",
+              "end": 138,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1886020915512959476/photo/1",
+              "media_key": "3_1886020492706140160",
+              "start": 115,
+              "url": "https://t.co/G2zAqr3gR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886020915512959476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 344,
+          "impression_count": 409855,
+          "like_count": 1855,
+          "quote_count": 58,
+          "reply_count": 254,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "近日，不少家长在小红书评论区反映因孩子不听自己话，便把孩子打到受伤的经历。\n 家长称： “今天辅导闺女写作业，把她头皮都打破了” “我今天又把儿子头打破了” “我一般都拿脚踹” “8岁连着尿两天床被我扇巴掌，不打我要被气出毛病” https://t.co/G2zAqr3gR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 230,
+          "like_count": 619,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 938
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918174,
+          "following_count": 933,
+          "like_count": 5695,
+          "listed_count": 8024,
+          "media_count": 22880,
+          "tweet_count": 29191
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

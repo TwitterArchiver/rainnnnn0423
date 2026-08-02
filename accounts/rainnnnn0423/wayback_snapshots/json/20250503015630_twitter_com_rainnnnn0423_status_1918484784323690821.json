@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1918195190009086238",
+    "created_at": "2025-05-03T01:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T02:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918484784323690821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1806735924258377728",
+          "start": 0,
+          "username": "AwAii777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918484784323690821",
+    "in_reply_to_user_id": "1806735924258377728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918208045290799194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AwAii777 等着被我吃了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1918195190009086238",
+        "created_at": "2025-05-03T01:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T02:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918484784323690821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1806735924258377728",
+              "start": 0,
+              "username": "AwAii777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918484784323690821",
+        "in_reply_to_user_id": "1806735924258377728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918208045290799194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AwAii777 等着被我吃了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806735924258377728",
+        "conversation_id": "1918195190009086238",
+        "created_at": "2025-05-02T07:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T08:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918208045290799194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918208045290799194",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918195190009086238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 接 变老鼠可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 457,
+          "like_count": 2403,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3403
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T17:06:49.000Z",
+        "description": "无性别人类//本账号存在的目的是在我记不清事情的时候可以拿出来看//里账:@TTHoiKawaiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "TTHoiKawaiii"
+              }
+            ]
+          }
+        },
+        "id": "1806735924258377728",
+        "location": "梦",
+        "name": "爱吃薯条",
+        "pinned_tweet_id": "1916345053133607042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916345296768086016/K9MuNCXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 448,
+          "like_count": 4347,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 4526
+        },
+        "username": "AwAii777",
+        "verified": false
+      }
+    ]
+  }
+}

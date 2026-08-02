@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893608659076178003",
+    "created_at": "2025-02-23T10:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T11:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893608659076178003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CuplRusttt/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/CuplRusttt/status/1893596844263092625",
+          "start": 22,
+          "url": "https://t.co/jlsNRXM1Jz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893608659076178003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893596844263092625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好厉害，我三十岁前攒不到一百万至少攒十万。 https://t.co/jlsNRXM1Jz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893608659076178003",
+        "created_at": "2025-02-23T10:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893608659076178003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CuplRusttt/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/CuplRusttt/status/1893596844263092625",
+              "start": 22,
+              "url": "https://t.co/jlsNRXM1Jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893608659076178003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893596844263092625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好厉害，我三十岁前攒不到一百万至少攒十万。 https://t.co/jlsNRXM1Jz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456243266186211332",
+        "conversation_id": "1893596844263092625",
+        "created_at": "2025-02-23T09:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893596844263092625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CuplRusttt/sta…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/CuplRusttt/status/1892798688986013878",
+              "start": 147,
+              "url": "https://t.co/4yqb7XDVqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893596844263092625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 954,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892798688986013878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在X上感受到好多爱，谢谢大家鼓励，先回答一下大家关心的问题。打工思路还在写，估计明天会更。\nQ：什么行业？A：律师。\nQ：多少岁？A：28。\nQ：是p图吧？A：你主张你举证，我拒绝自证。\nQ：没有副业吗？A：想去做鸭，人家不要。\nQ：要去读什么？A：能出国就去读能源法，不能就去考清华（确信） https://t.co/4yqb7XDVqc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 279,
+          "like_count": 947,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1594
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:53:54.000Z",
+        "description": "昆明/⚖律师/entp",
+        "id": "1456243266186211332",
+        "name": "Rusttt",
+        "pinned_tweet_id": "1830566321328713737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658123289196101632/IInnJ6r5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3227,
+          "following_count": 167,
+          "like_count": 7536,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 211
+        },
+        "username": "CuplRusttt",
+        "verified": false
+      }
+    ]
+  }
+}

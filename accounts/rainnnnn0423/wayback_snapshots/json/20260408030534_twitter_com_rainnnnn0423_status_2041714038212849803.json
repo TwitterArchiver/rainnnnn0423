@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2041108167825019029",
+    "created_at": "2026-04-08T03:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T04:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041714038212849803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "Kikunashi30712"
+        },
+        {
+          "end": 28,
+          "id": "1817244141115609088",
+          "start": 16,
+          "username": "Nijika_Dark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041714038212849803",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041440788975132958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikunashi30712 @Nijika_Dark 行 我小心一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2041108167825019029",
+        "created_at": "2026-04-08T03:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041714038212849803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "Kikunashi30712"
+            },
+            {
+              "end": 28,
+              "id": "1817244141115609088",
+              "start": 16,
+              "username": "Nijika_Dark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041714038212849803",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041440788975132958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikunashi30712 @Nijika_Dark 行 我小心一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "2041108167825019029",
+        "created_at": "2026-04-07T08:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041440788975132958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            },
+            {
+              "end": 26,
+              "id": "1817244141115609088",
+              "start": 14,
+              "username": "Nijika_Dark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041440788975132958",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041432941390438583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 @Nijika_Dark 要我说抽rc都别抽这个 容易出事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|我不是键政区吗怎么成⌚姐了|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88 我不吸毒谢谢 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2040862365714129402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 648,
+          "like_count": 5376,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 4692
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kikunashi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kikunashi",
+                "start": 0,
+                "url": "https://t.co/5udd6ZSL5y"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041430890669375488/9TBnk7cG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 209,
+          "like_count": 24724,
+          "listed_count": 3,
+          "media_count": 676,
+          "tweet_count": 13561
+        },
+        "url": "https://t.co/5udd6ZSL5y",
+        "username": "Kikunashi30712",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T17:02:37.000Z",
+        "description": "@Nijika_overdose的附庸丨应该是虹夏丨我的大脑空空如也丨❛˓◞˂̵✧❤️💙💜🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/70WOqFpsLV"
+              }
+            ]
+          }
+        },
+        "id": "1817244141115609088",
+        "location": "参宿四",
+        "name": "Nijika_Overdose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817245083672145920/_Mn08Zha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 81,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/70WOqFpsLV",
+        "username": "Nijika_Dark",
+        "verified": false
+      }
+    ]
+  }
+}

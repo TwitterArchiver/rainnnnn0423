@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2024715139631439876",
+    "created_at": "2026-02-20T13:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024840684461818248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849043039496617984",
+          "start": 0,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024840684461818248",
+    "in_reply_to_user_id": "1849043039496617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024800801345220993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_zero8964 杀杀杀😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2024715139631439876",
+        "created_at": "2026-02-20T13:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024840684461818248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024840684461818248",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024800801345220993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 杀杀杀😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2024715139631439876",
+        "created_at": "2026-02-20T10:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024800801345220993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024800801345220993",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024715139631439876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 没素质的人就不要在乎他们了，直接屠了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 607,
+          "like_count": 5139,
+          "listed_count": 4,
+          "media_count": 331,
+          "tweet_count": 4492
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 550,
+          "like_count": 15578,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 7635
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1916034600805056526",
+    "created_at": "2025-04-26T08:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T09:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916052223999807835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1806735924258377728",
+          "start": 0,
+          "username": "AwAii777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916052223999807835",
+    "in_reply_to_user_id": "1806735924258377728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916048179604426917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AwAii777 初中烹饪社用过，不适合我这种懒人🤓准备这个月有余钱就买制冰机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_1916048173422002176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpcrqX1awAAyMdO.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1916034600805056526",
+        "created_at": "2025-04-26T08:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916052223999807835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1806735924258377728",
+              "start": 0,
+              "username": "AwAii777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916052223999807835",
+        "in_reply_to_user_id": "1806735924258377728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916048179604426917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AwAii777 初中烹饪社用过，不适合我这种懒人🤓准备这个月有余钱就买制冰机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916048173422002176"
+          ]
+        },
+        "author_id": "1806735924258377728",
+        "conversation_id": "1916034600805056526",
+        "created_at": "2025-04-26T08:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916048179604426917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3wrQtGnds",
+              "end": 66,
+              "expanded_url": "https://x.com/AwAii777/status/1916048179604426917/photo/1",
+              "media_key": "3_1916048173422002176",
+              "start": 43,
+              "url": "https://t.co/u3wrQtGnds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916048179604426917",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916034805252427826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 性价比太低了 用这个 17块钱大概是25*150块冰👍🏿 https://t.co/u3wrQtGnds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 453,
+          "like_count": 2292,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 3335
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T17:06:49.000Z",
+        "description": "无性别人类//本账号存在的目的是在我记不清事情的时候可以拿出来看//里账:@TTHoiKawaiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "TTHoiKawaiii"
+              }
+            ]
+          }
+        },
+        "id": "1806735924258377728",
+        "location": "梦",
+        "name": "草莓麥旋風🐹",
+        "pinned_tweet_id": "1906839977570488481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875947068558376960/fk5paLWd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 450,
+          "like_count": 4235,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 4445
+        },
+        "username": "AwAii777",
+        "verified": false
+      }
+    ]
+  }
+}

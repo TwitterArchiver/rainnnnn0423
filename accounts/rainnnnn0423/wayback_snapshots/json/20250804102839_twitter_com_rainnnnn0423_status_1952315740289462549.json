@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1952315740289462549",
+    "created_at": "2025-08-04T10:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952315740289462549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oolongisgood32…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/oolongisgood321/status/1952294198549643318",
+          "start": 5,
+          "url": "https://t.co/6V8w2YviKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952315740289462549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952294198549643318",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草死你 https://t.co/6V8w2YviKh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1952315740289462549",
+        "created_at": "2025-08-04T10:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952315740289462549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oolongisgood32…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/oolongisgood321/status/1952294198549643318",
+              "start": 5,
+              "url": "https://t.co/6V8w2YviKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952315740289462549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952294198549643318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草死你 https://t.co/6V8w2YviKh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928768097865052161",
+        "conversation_id": "1952294198549643318",
+        "created_at": "2025-08-04T09:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952294198549643318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952294198549643318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么艾草求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile |自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 522,
+          "like_count": 4029,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 3900
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T10:59:36.000Z",
+        "description": "=茶咕｜id汤底@rainnnnn0423｜欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "rainnnnn0423"
+              }
+            ]
+          }
+        },
+        "id": "1928768097865052161",
+        "location": "三得利无糖乌龙茶瓶内",
+        "name": "谁把我的中药换成三得利无糖乌龙茶了",
+        "pinned_tweet_id": "1951943881399877950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730187501084672/dlM7jGNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 94,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 307
+        },
+        "username": "oolongisgood321",
+        "verified": false
+      }
+    ]
+  }
+}

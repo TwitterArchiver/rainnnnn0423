@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891334103435444224"
+      ],
+      "media_source_tweet_id": [
+        "1891334556080382159"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891648118577365000",
+    "created_at": "2025-02-18T00:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T01:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891648118577365000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PxfsrVWvFU",
+          "end": 46,
+          "expanded_url": "https://x.com/FurinaDF/status/1891334556080382159/photo/1",
+          "media_key": "3_1891334103435444224",
+          "start": 23,
+          "url": "https://t.co/PxfsrVWvFU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891648118577365000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891334556080382159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 中国人，破防！👍 https://t.co/PxfsrVWvFU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_1891334103435444224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj9eWKraAAAZx3F.jpg",
+        "width": 2762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891334103435444224"
+          ],
+          "media_source_tweet_id": [
+            "1891334556080382159"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891648118577365000",
+        "created_at": "2025-02-18T00:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T01:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891648118577365000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxfsrVWvFU",
+              "end": 46,
+              "expanded_url": "https://x.com/FurinaDF/status/1891334556080382159/photo/1",
+              "media_key": "3_1891334103435444224",
+              "start": 23,
+              "url": "https://t.co/PxfsrVWvFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891648118577365000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891334556080382159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 中国人，破防！👍 https://t.co/PxfsrVWvFU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891334103435444224"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1891334556080382159",
+        "created_at": "2025-02-17T03:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T04:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891334556080382159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxfsrVWvFU",
+              "end": 32,
+              "expanded_url": "https://x.com/FurinaDF/status/1891334556080382159/photo/1",
+              "media_key": "3_1891334103435444224",
+              "start": 9,
+              "url": "https://t.co/PxfsrVWvFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891334556080382159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 23395,
+          "like_count": 390,
+          "quote_count": 4,
+          "reply_count": 37,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "中国人，破防！👍 https://t.co/PxfsrVWvFU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 242,
+          "like_count": 763,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1328
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "所谓的“中国人”，不过是共产党当局用来维护其暴力统治地位的思想钢印罢了；所谓的“中华民族”，不过是共产党当局用来掩盖其种族灭绝罪行的遮羞布罢了。听不得反对意见，看不懂新兴事物，说不出文明词汇，共产主义对全世界造成的负面影响是极其恶劣的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙粉红褪色者",
+        "pinned_tweet_id": "1891126524725571881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870862200082235393/gfYowbA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12306,
+          "following_count": 1577,
+          "like_count": 17966,
+          "listed_count": 39,
+          "media_count": 3201,
+          "tweet_count": 6347
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

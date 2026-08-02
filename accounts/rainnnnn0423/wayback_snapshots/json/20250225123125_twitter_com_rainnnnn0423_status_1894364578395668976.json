@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894346308330418304",
+    "created_at": "2025-02-25T12:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T13:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894364578395668976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881369782911746049",
+          "start": 0,
+          "username": "jxp20070102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894364578395668976",
+    "in_reply_to_user_id": "1881369782911746049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894346308330418304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxp20070102 私信的啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894346308330418304",
+        "created_at": "2025-02-25T12:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T13:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894364578395668976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881369782911746049",
+              "start": 0,
+              "username": "jxp20070102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894364578395668976",
+        "in_reply_to_user_id": "1881369782911746049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894346308330418304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxp20070102 私信的啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881369782911746049",
+        "conversation_id": "1894346308330418304",
+        "created_at": "2025-02-25T11:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T12:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894346308330418304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894346308330418304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚看到一个关注了我的樱花妹就去看了看她的主页点了个赞发了两句评论\n发的都是很简单的日常\n然后收到她一条私信之后就被屏蔽了\n不是，我…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 1,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1800
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T15:54:53.000Z",
+        "description": "高三在读，刚满十八岁\n喜欢动漫、电影、小说、游戏、TRPG\n最近沉迷街头霸王六和AC6\n经常充当情感树洞，欢迎有烦心事的朋友来骚扰我，没烦心事也欢迎。什么话题都可以聊，我认识面还挺广的\n可能会在我这里看到各种抽象东西，是人之常情（笃定）\n异性恋switch，反lgbt/mtf/跨\n目前志愿是心理医生/律师",
+        "id": "1881369782911746049",
+        "location": "辽宁省大连市",
+        "name": "司",
+        "pinned_tweet_id": "1884071426896126032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881369924612046848/azWekYqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 253,
+          "like_count": 1951,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 836
+        },
+        "username": "jxp20070102",
+        "verified": false
+      }
+    ]
+  }
+}

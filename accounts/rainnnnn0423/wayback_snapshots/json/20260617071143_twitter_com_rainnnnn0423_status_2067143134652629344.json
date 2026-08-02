@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2067101870825656469",
+    "created_at": "2026-06-17T07:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067143134652629344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1946471478184247297",
+          "start": 0,
+          "username": "zxndkbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067143134652629344",
+    "in_reply_to_user_id": "1946471478184247297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067101870825656469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxndkbb 🤓我喜欢一点点那个柠檬养乐多"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067101870825656469].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067101870825656469",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067101870825656469"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2067101870825656469",
+        "created_at": "2026-06-17T07:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067143134652629344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1946471478184247297",
+              "start": 0,
+              "username": "zxndkbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067143134652629344",
+        "in_reply_to_user_id": "1946471478184247297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067101870825656469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxndkbb 🤓我喜欢一点点那个柠檬养乐多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 649,
+          "like_count": 5784,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4841
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T07:25:47.000Z",
+        "description": "吐黑泥账号\n你能看到不一样的丸子\n包含自残 OD\n我爱你们♡",
+        "id": "1946471478184247297",
+        "name": "aaaaoekjdkd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066532591923286016/vCfyyfMV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 125,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "username": "zxndkbb",
+        "verified": false
+      }
+    ]
+  }
+}

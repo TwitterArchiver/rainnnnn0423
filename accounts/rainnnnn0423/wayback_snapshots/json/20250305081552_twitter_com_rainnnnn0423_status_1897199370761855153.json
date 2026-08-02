@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897199370761855153",
+    "created_at": "2025-03-05T08:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T09:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897199370761855153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597257668313260033",
+          "start": 3,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897199370761855153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896982276044677415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minokakay: 一些药物会让人产生被爱的感觉，因为底层原理都一样，是不是代表着缺爱的人也可以用药物替代真正的爱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897199370761855153",
+        "created_at": "2025-03-05T08:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T09:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897199370761855153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597257668313260033",
+              "start": 3,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897199370761855153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896982276044677415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minokakay: 一些药物会让人产生被爱的感觉，因为底层原理都一样，是不是代表着缺爱的人也可以用药物替代真正的爱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1896982276044677415",
+        "created_at": "2025-03-04T17:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T18:50:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896981533606744177",
+          "1896982276044677415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896982276044677415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3400,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一些药物会让人产生被爱的感觉，因为底层原理都一样，是不是代表着缺爱的人也可以用药物替代真正的爱🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 338,
+          "like_count": 1275,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2152
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5456,
+          "following_count": 822,
+          "like_count": 37161,
+          "listed_count": 28,
+          "media_count": 1032,
+          "tweet_count": 16546
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1890832821859586314",
+    "created_at": "2025-02-15T18:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T19:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890832821859586314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1X1G3Lr7pBe1AJ…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/1X1G3Lr7pBe1AJR/status/1890290436448858595",
+          "start": 13,
+          "url": "https://t.co/bWHsGmLych"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890832821859586314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890290436448858595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抖音唐氏哥哪个阶层都有。 https://t.co/bWHsGmLych"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890832821859586314",
+        "created_at": "2025-02-15T18:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T19:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890832821859586314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1X1G3Lr7pBe1AJ…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/1X1G3Lr7pBe1AJR/status/1890290436448858595",
+              "start": 13,
+              "url": "https://t.co/bWHsGmLych"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890832821859586314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890290436448858595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抖音唐氏哥哪个阶层都有。 https://t.co/bWHsGmLych"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890290426709745664",
+            "3_1890290426709684224"
+          ]
+        },
+        "author_id": "1264169461935833090",
+        "conversation_id": "1890290436448858595",
+        "created_at": "2025-02-14T06:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T07:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890290436448858595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eUoCvYyKhU",
+              "end": 83,
+              "expanded_url": "https://x.com/1X1G3Lr7pBe1AJR/status/1890290436448858595/photo/1",
+              "media_key": "3_1890290426709745664",
+              "start": 60,
+              "url": "https://t.co/eUoCvYyKhU"
+            },
+            {
+              "display_url": "pic.x.com/eUoCvYyKhU",
+              "end": 83,
+              "expanded_url": "https://x.com/1X1G3Lr7pBe1AJR/status/1890290436448858595/photo/1",
+              "media_key": "3_1890290426709684224",
+              "start": 60,
+              "url": "https://t.co/eUoCvYyKhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890290436448858595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 622174,
+          "like_count": 1806,
+          "quote_count": 18,
+          "reply_count": 247,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "右圖是带着孩子在丝袜厂高强度工作的母亲。左圖是邓小平14岁曾孙子张师嘉的兰博基尼跑车，差別是因为中国的工人不够努力吗？ https://t.co/eUoCvYyKhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 240,
+          "like_count": 725,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1226
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-23T12:22:18.000Z",
+        "description": "我愿做一支烛光🔥，尽微薄之力传播真相，揭露邪恶！让我们一起见证推翻中共的时刻，让民主自由之光洗涤这黑暗的世界！ 期待各位关注、点赞、评论、转发！谢谢🙏！🔥🔥🏮🏮 🧚‍♀️推荐观看【干净世界】https://t.co/nTrgD7iSdp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ganjing.com/zh-TW",
+                "end": 118,
+                "expanded_url": "https://www.ganjing.com/zh-TW",
+                "start": 95,
+                "url": "https://t.co/nTrgD7iSdp"
+              }
+            ]
+          }
+        },
+        "id": "1264169461935833090",
+        "name": "婉清",
+        "pinned_tweet_id": "1890290436448858595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767454706358796288/Ld0WUTgE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79592,
+          "following_count": 3366,
+          "like_count": 54691,
+          "listed_count": 219,
+          "media_count": 6061,
+          "tweet_count": 15289
+        },
+        "username": "1X1G3Lr7pBe1AJR",
+        "verified": true
+      }
+    ]
+  }
+}

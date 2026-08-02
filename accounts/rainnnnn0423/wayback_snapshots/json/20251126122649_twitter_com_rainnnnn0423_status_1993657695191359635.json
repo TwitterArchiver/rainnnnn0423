@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993652837952471040"
+      ],
+      "media_source_tweet_id": [
+        "1993652849948164202"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993657695191359635",
+    "created_at": "2025-11-26T12:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993657695191359635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966106364901740544",
+          "start": 3,
+          "username": "AgNo3_XQ"
+        },
+        {
+          "end": 27,
+          "id": "1556293137105969153",
+          "start": 14,
+          "username": "NiimiyaHoshi"
+        },
+        {
+          "end": 41,
+          "id": "1854817785140199428",
+          "start": 28,
+          "username": "rainnnnn0423"
+        },
+        {
+          "end": 58,
+          "id": "1928768097865052161",
+          "start": 42,
+          "username": "oolongisgood321"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qBTsrc8OZ4",
+          "end": 94,
+          "expanded_url": "https://x.com/AgNo3_XQ/status/1993652849948164202/photo/1",
+          "media_key": "3_1993652837952471040",
+          "start": 71,
+          "url": "https://t.co/qBTsrc8OZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993657695191359635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993652849948164202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgNo3_XQ: @NiimiyaHoshi @rainnnnn0423 @oolongisgood321 和宝宝们一起唱k吃饭啦 https://t.co/qBTsrc8OZ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1993652837952471040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rgsXubQAAf7U3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993652837952471040"
+          ],
+          "media_source_tweet_id": [
+            "1993652849948164202"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993657695191359635",
+        "created_at": "2025-11-26T12:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993657695191359635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966106364901740544",
+              "start": 3,
+              "username": "AgNo3_XQ"
+            },
+            {
+              "end": 27,
+              "id": "1556293137105969153",
+              "start": 14,
+              "username": "NiimiyaHoshi"
+            },
+            {
+              "end": 41,
+              "id": "1854817785140199428",
+              "start": 28,
+              "username": "rainnnnn0423"
+            },
+            {
+              "end": 58,
+              "id": "1928768097865052161",
+              "start": 42,
+              "username": "oolongisgood321"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBTsrc8OZ4",
+              "end": 94,
+              "expanded_url": "https://x.com/AgNo3_XQ/status/1993652849948164202/photo/1",
+              "media_key": "3_1993652837952471040",
+              "start": 71,
+              "url": "https://t.co/qBTsrc8OZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993657695191359635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993652849948164202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AgNo3_XQ: @NiimiyaHoshi @rainnnnn0423 @oolongisgood321 和宝宝们一起唱k吃饭啦 https://t.co/qBTsrc8OZ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993652837952471040"
+          ]
+        },
+        "author_id": "1966106364901740544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993652849948164202",
+        "created_at": "2025-11-26T12:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993652849948164202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556293137105969153",
+              "start": 0,
+              "username": "NiimiyaHoshi"
+            },
+            {
+              "end": 27,
+              "id": "1854817785140199428",
+              "start": 14,
+              "username": "rainnnnn0423"
+            },
+            {
+              "end": 44,
+              "id": "1928768097865052161",
+              "start": 28,
+              "username": "oolongisgood321"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBTsrc8OZ4",
+              "end": 80,
+              "expanded_url": "https://x.com/AgNo3_XQ/status/1993652849948164202/photo/1",
+              "media_key": "3_1993652837952471040",
+              "start": 57,
+              "url": "https://t.co/qBTsrc8OZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993652849948164202",
+        "in_reply_to_user_id": "1556293137105969153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@NiimiyaHoshi @rainnnnn0423 @oolongisgood321 和宝宝们一起唱k吃饭啦 https://t.co/qBTsrc8OZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 591,
+          "like_count": 4673,
+          "listed_count": 4,
+          "media_count": 321,
+          "tweet_count": 4226
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:47:50.000Z",
+        "description": "09｜双相｜istp-t｜巨蟹座｜日常频繁od｜目前已戒割｜顺女双性恋｜反激跨欢迎互fo｜精神无国籍｜@Kim_Il_sung___｜骂我的人都是傻逼支那猪我就是个刻薄的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Kim_Il_sung___"
+              }
+            ]
+          }
+        },
+        "id": "1966106364901740544",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅",
+        "pinned_tweet_id": "1993345319510458635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984847362003783680/9OMtxyU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 382,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1187
+        },
+        "username": "AgNo3_XQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:57:25.000Z",
+        "description": "一笔一画描绘你的模样，一字一句诉说我的爱意.𝒟𝓇𝒶𝓌 𝒶 𝓅𝒾𝒸𝓉𝓊𝓇𝓮 𝓸𝒻 𝓎𝓸𝓊, 𝒶𝓃𝒹 𝓉𝓮𝓁𝓁 𝓂𝓎 𝓁𝓸𝓋𝓮 𝓌𝓸𝓇𝒹 𝒷𝓎 𝓌𝓸𝓇𝒹.",
+        "id": "1556293137105969153",
+        "location": "朝鮮民主主義人民共和国 平壌直轄市",
+        "name": "Niimiya星#冥卫四",
+        "pinned_tweet_id": "1971008820731314300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983911068520050688/eLTAATA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 409,
+          "like_count": 10455,
+          "listed_count": 11,
+          "media_count": 221,
+          "tweet_count": 2692
+        },
+        "username": "NiimiyaHoshi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T10:59:36.000Z",
+        "description": "@rainnnnn0423 把我的中药换成了三得利无糖乌龙茶｜地球说唱之神@634LIVINLIMBO ｜欢迎互关但是咯咯哒可以走掉吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "rainnnnn0423"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "634LIVINLIMBO"
+              }
+            ]
+          }
+        },
+        "id": "1928768097865052161",
+        "location": "三得利无糖乌龙茶瓶内",
+        "name": "若有比此更浪漫之事",
+        "pinned_tweet_id": "1951960570942706099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985304209772732417/x8JBsxsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 137,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 194
+        },
+        "username": "oolongisgood321",
+        "verified": false
+      }
+    ]
+  }
+}

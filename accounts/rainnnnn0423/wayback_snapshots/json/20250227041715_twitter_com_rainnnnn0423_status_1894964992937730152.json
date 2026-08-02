@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894964992937730152",
+    "created_at": "2025-02-27T04:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T05:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894964992937730152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1894430597910798695",
+          "start": 22,
+          "url": "https://t.co/1ytgwRyKOF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894964992937730152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894430597910798695",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃歧义很大，意思是我有腱鞘炎，我今天还在痛 https://t.co/1ytgwRyKOF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894964992937730152",
+        "created_at": "2025-02-27T04:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T05:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894964992937730152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1894430597910798695",
+              "start": 22,
+              "url": "https://t.co/1ytgwRyKOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894964992937730152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894430597910798695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃歧义很大，意思是我有腱鞘炎，我今天还在痛 https://t.co/1ytgwRyKOF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894402506694037609",
+        "created_at": "2025-02-25T16:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T17:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894430597910798695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894430597910798695",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894429115249561749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的是吃一堑长一智的\n我手头有快一个小时的录音，那个晚上我一直在求饶，扣人扣上一个小时腱鞘炎不犯的那是铁臂了。跟她谈的时候，不管是接吻还是做爱，我对她都没有生理感觉\n我现在为什么这么拎得清看得清拿得起放得下，就是因为我碰到过数不清的神人当我经验包给我玩地球online上分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 302,
+          "like_count": 1100,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1845
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

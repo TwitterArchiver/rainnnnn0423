@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1887613077723750674",
+    "created_at": "2025-02-06T21:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T22:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887613077723750674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/manakaao68/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/manakaao68/status/1887032423642489341",
+          "start": 6,
+          "url": "https://t.co/JiziZ1h9HN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887613077723750674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887032423642489341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纯得吓死人 https://t.co/JiziZ1h9HN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887613077723750674",
+        "created_at": "2025-02-06T21:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T22:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887613077723750674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manakaao68/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/manakaao68/status/1887032423642489341",
+              "start": 6,
+              "url": "https://t.co/JiziZ1h9HN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887613077723750674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887032423642489341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯得吓死人 https://t.co/JiziZ1h9HN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887032342637895683"
+          ]
+        },
+        "author_id": "1773877435748270080",
+        "conversation_id": "1887032423642489341",
+        "created_at": "2025-02-05T06:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T07:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887032423642489341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pg5w0ObGcG",
+              "end": 33,
+              "expanded_url": "https://x.com/manakaao68/status/1887032423642489341/photo/1",
+              "media_key": "3_1887032342637895683",
+              "start": 10,
+              "url": "https://t.co/pg5w0ObGcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887032423642489341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 146754,
+          "like_count": 898,
+          "quote_count": 10,
+          "reply_count": 121,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "孩子，这辈子有了😁 https://t.co/pg5w0ObGcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 231,
+          "like_count": 648,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 980
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "真中あお/真中藍/真中苍 です /国旗设计者/传统能源公交车主义者\n🍥🏳️/mtf/交通/喜欢变可爱喵/喜欢看恋爱小行星\n同类互fo 谢绝鉴证 /橘子教🍊教主\n@Tw2027Liberate\n炸山公交截团喊话BOT \n我永远爱你！！@heiwawomamore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "Tw2027Liberate"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "heiwawomamore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCfA2Q"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州公交集团",
+        "name": "小小の真中あお^_^🐳⭐️🎄🍥🍊🍔",
+        "pinned_tweet_id": "1877669811678802255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885008919795556353/gedKif8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 3546,
+          "like_count": 15882,
+          "listed_count": 7,
+          "media_count": 888,
+          "tweet_count": 19712
+        },
+        "url": "https://t.co/6ccqwCfA2Q",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893534675441717395",
+    "created_at": "2025-02-23T05:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T06:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893540422615744777"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1893540422615744777",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893539217986203692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "练着好玩。现场回咨询师的时候我说话相当收敛。\n我对学校里同学都很儒雅随和，带社团活动我都请几十杯奶茶。没惹过我的跟我玩的我就是善良型人格😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893534675441717395",
+        "created_at": "2025-02-23T05:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T06:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893540422615744777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893540422615744777",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893539217986203692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "练着好玩。现场回咨询师的时候我说话相当收敛。\n我对学校里同学都很儒雅随和，带社团活动我都请几十杯奶茶。没惹过我的跟我玩的我就是善良型人格😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893534675441717395",
+        "created_at": "2025-02-23T05:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T06:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893539217986203692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893539217986203692",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893537169710686362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "：别羡慕你爹我了，家里被爹妈打着学校里被老师逼着交作业的贱命。你爹我有种，诊断证明校领导那边人手一份😆他们敢不对我网开一面？政绩不想要了？有种就别当做题蛆啊，家里有资本自己有实力你为什么在我们学校不在华二上中？为什么不走体制外？滚去写你最爱的作业吧，出来打工一月三千的人矿滞纳猪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 272,
+          "like_count": 926,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1551
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

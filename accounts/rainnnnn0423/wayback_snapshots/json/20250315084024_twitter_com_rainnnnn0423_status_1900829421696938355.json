@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1900829291979645407",
+    "created_at": "2025-03-15T08:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T09:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900829421696938355"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900829421696938355",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900829291979645407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的是啥都爱看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1900829291979645407",
+        "created_at": "2025-03-15T08:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T09:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900829421696938355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900829421696938355",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900829291979645407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的是啥都爱看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1900829291979645407",
+        "created_at": "2025-03-15T08:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T09:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900829291979645407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Memochi3030/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Memochi3030/status/1900206368726147578",
+              "start": 5,
+              "url": "https://t.co/Ao5oFBbjof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900829291979645407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900206368726147578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起。 https://t.co/Ao5oFBbjof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记🗑/键政乐子人",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 367,
+          "like_count": 1559,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2487
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

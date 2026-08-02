@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891849144257466623",
+    "created_at": "2025-02-18T14:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T15:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891853214615556290"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1891853214615556290",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891849144257466623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在也没搞懂啦，大多数人可能会对我翻白眼：\n因为经历，见闻与兴趣，一直喜欢创作精神障碍相关的内容，我又秉承着“创作需要亲身体会”，所以没法保证自己再也不做这些事，实际上好像有一年多都没有大割过了。再改花刀就是纯粹追求那种疯狂的乐趣和病态美了，所以我说搞艺术创作的多多少少脑子有病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891849144257466623",
+        "created_at": "2025-02-18T14:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T15:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891853214615556290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891853214615556290",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891849144257466623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在也没搞懂啦，大多数人可能会对我翻白眼：\n因为经历，见闻与兴趣，一直喜欢创作精神障碍相关的内容，我又秉承着“创作需要亲身体会”，所以没法保证自己再也不做这些事，实际上好像有一年多都没有大割过了。再改花刀就是纯粹追求那种疯狂的乐趣和病态美了，所以我说搞艺术创作的多多少少脑子有病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891849144257466623",
+        "created_at": "2025-02-18T13:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T14:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891849144257466623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891849144257466623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果中推有地雷女集会，那我应该是最健的那个\n但从另一个角度来说我也挺神人的，我现在拿最高领导人开涮解压。我早就不用通过自伤来寻求心理慰藉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 245,
+          "like_count": 768,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1355
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

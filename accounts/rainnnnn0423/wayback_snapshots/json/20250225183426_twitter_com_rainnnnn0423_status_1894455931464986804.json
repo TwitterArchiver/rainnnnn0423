@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894455931464986804",
+    "created_at": "2025-02-25T18:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T19:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894455931464986804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MAYU20120506/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/MAYU20120506/status/1893035702050529608",
+          "start": 32,
+          "url": "https://t.co/h4GXm5pIbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894455931464986804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893035702050529608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不o右美的时候也在搭乌托邦😂procreate石墨你们说话啊 https://t.co/h4GXm5pIbd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894455931464986804",
+        "created_at": "2025-02-25T18:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T19:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894455931464986804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MAYU20120506/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/MAYU20120506/status/1893035702050529608",
+              "start": 32,
+              "url": "https://t.co/h4GXm5pIbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894455931464986804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893035702050529608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不o右美的时候也在搭乌托邦😂procreate石墨你们说话啊 https://t.co/h4GXm5pIbd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386981998896558080",
+        "conversation_id": "1893035702050529608",
+        "created_at": "2025-02-21T20:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T21:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893035702050529608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893035702050529608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o右美的感觉就像是给我开了个全新的小空间，不属于现实生活中的存在，我在那里一点点搭建我的乌托邦。。然后很快三四个小时药效就会过去，清醒时却再也想不起来药效内自己的脑子在想什么事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 300,
+          "like_count": 1068,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1822
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-27T09:54:21.000Z",
+        "description": "我是川川 ｜老公@baicao486｜19+/isfp/od/餐券/恋爱/边缘型人格障碍｜我喜欢术力口和小猫咪 谢谢你陪我玩^^｜私信看到了会回/ 🚪100好友位/开黄腔就发毕业证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "baicao486"
+              }
+            ]
+          }
+        },
+        "id": "1386981998896558080",
+        "name": "夕立のりぼん",
+        "pinned_tweet_id": "1892996756108898563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665364186342490112/0vGzBrhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 267,
+          "like_count": 3624,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 1265
+        },
+        "username": "MAYU20120506",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1918546553746407440",
+    "created_at": "2025-05-03T06:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T07:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918546553746407440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yulialing01/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Yulialing01/status/1917949475680629236",
+          "start": 16,
+          "url": "https://t.co/CiCHcUaIpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918546553746407440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917949475680629236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一辈子太过虚假 过去真能过去吗 https://t.co/CiCHcUaIpc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1918546553746407440",
+        "created_at": "2025-05-03T06:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T07:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918546553746407440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yulialing01/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Yulialing01/status/1917949475680629236",
+              "start": 16,
+              "url": "https://t.co/CiCHcUaIpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918546553746407440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917949475680629236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一辈子太过虚假 过去真能过去吗 https://t.co/CiCHcUaIpc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891721793452548096",
+        "conversation_id": "1917949475680629236",
+        "created_at": "2025-05-01T14:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T15:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917949475680629236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917949475680629236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 104481,
+          "like_count": 1321,
+          "quote_count": 49,
+          "reply_count": 167,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "永远和一辈子这种话真的很蠢，居然真有人信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 458,
+          "like_count": 2411,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3414
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:30:09.000Z",
+        "description": "睡个好觉",
+        "id": "1891721793452548096",
+        "name": "Yulia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891724772691554304/sRb76K2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015,
+          "following_count": 130,
+          "like_count": 24957,
+          "listed_count": 12,
+          "media_count": 265,
+          "tweet_count": 8251
+        },
+        "username": "Yulialing01",
+        "verified": false
+      }
+    ]
+  }
+}

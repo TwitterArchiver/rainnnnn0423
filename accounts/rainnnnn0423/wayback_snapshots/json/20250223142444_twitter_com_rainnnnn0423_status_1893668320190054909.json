@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893668320190054909",
+    "created_at": "2025-02-23T14:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T15:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893668320190054909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1893663689544257550",
+          "start": 67,
+          "url": "https://t.co/bS2DMMEPQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893668320190054909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893663689544257550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "两个字总结：心盲\n现在真不是我卖惨，之前我心盲得根本感受不出也说不出东西来。当时我对别的病友的心情是哇你们怎么都这么清楚自己的症状。 https://t.co/bS2DMMEPQY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893668320190054909",
+        "created_at": "2025-02-23T14:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T15:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893668320190054909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1893663689544257550",
+              "start": 67,
+              "url": "https://t.co/bS2DMMEPQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893668320190054909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893663689544257550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两个字总结：心盲\n现在真不是我卖惨，之前我心盲得根本感受不出也说不出东西来。当时我对别的病友的心情是哇你们怎么都这么清楚自己的症状。 https://t.co/bS2DMMEPQY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893663689544257550",
+        "created_at": "2025-02-23T14:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T15:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893663689544257550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1893662248423292971",
+              "start": 78,
+              "url": "https://t.co/dNlJ5bhesy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893663689544257550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893662248423292971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃了两年喹硫平 当时我根本一点也不懂医生开了远大于我需要的量我就乖乖吃了，我现在精神病症状一大堆。对我正常生活影响极大，明天如果能见到那个医生我要骂她。 https://t.co/dNlJ5bhesy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 282,
+          "like_count": 960,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1633
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

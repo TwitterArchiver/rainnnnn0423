@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1905770921350365502",
+    "created_at": "2025-03-28T23:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T00:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905771351505567766"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905771351505567766",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905770921350365502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说真的 我能一边忙活自己的事情一边听课 因为我不怎么记笔记 初中有点为记而记了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1905770921350365502",
+        "created_at": "2025-03-28T23:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T00:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905771351505567766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905771351505567766",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905770921350365502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说真的 我能一边忙活自己的事情一边听课 因为我不怎么记笔记 初中有点为记而记了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1905770921350365502",
+        "created_at": "2025-03-28T23:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T00:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905770921350365502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moeTvT/status/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/moeTvT/status/1905463039199203431",
+              "start": 36,
+              "url": "https://t.co/MUPxH3DVyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905770921350365502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905463039199203431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样🌚我现在不睡只是因为趴那睡不着还心脏不舒服，不如上课玩手机😋👍 https://t.co/MUPxH3DVyP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高，忙了偶尔上推 最近msk又炸我私信箱一直打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 386,
+          "like_count": 1671,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2704
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

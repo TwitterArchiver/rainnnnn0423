@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896927578109403398",
+    "created_at": "2025-03-04T14:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T15:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896927578109403398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mememo00/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/mememo00/status/1896783654275457220",
+          "start": 4,
+          "url": "https://t.co/8jdb5Zz1Wf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896927578109403398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896783654275457220",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "删了。 https://t.co/8jdb5Zz1Wf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896927578109403398",
+        "created_at": "2025-03-04T14:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T15:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896927578109403398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mememo00/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/mememo00/status/1896783654275457220",
+              "start": 4,
+              "url": "https://t.co/8jdb5Zz1Wf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896927578109403398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896783654275457220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "删了。 https://t.co/8jdb5Zz1Wf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754535379691356160",
+        "conversation_id": "1896783654275457220",
+        "created_at": "2025-03-04T04:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T05:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896783654275457220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896783654275457220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 29528,
+          "like_count": 327,
+          "quote_count": 19,
+          "reply_count": 63,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你只是长了一张睡了不亏，但又带不出去的脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 337,
+          "like_count": 1245,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2121
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T16:00:17.000Z",
+        "description": "@labulabubuz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "labulabubuz"
+              }
+            ]
+          }
+        },
+        "id": "1754535379691356160",
+        "location": "喜欢黑色和蓝色",
+        "name": "mememo00",
+        "pinned_tweet_id": "1885623473269293441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795787762790236160/oOng3Hy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12188,
+          "following_count": 94,
+          "like_count": 35292,
+          "listed_count": 27,
+          "media_count": 619,
+          "tweet_count": 9847
+        },
+        "username": "mememo00",
+        "verified": false
+      }
+    ]
+  }
+}

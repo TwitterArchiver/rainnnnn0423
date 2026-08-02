@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2075635571247268210",
+    "created_at": "2026-07-10T17:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075635571247268210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/2075629335126618123",
+          "start": 22,
+          "url": "https://t.co/yrtO4EQAMq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075635571247268210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075629335126618123",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可惜小习和小薄就是一头乐子和一个飞机杯啊！ https://t.co/yrtO4EQAMq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2075635571247268210",
+        "created_at": "2026-07-10T17:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075635571247268210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/2075629335126618123",
+              "start": 22,
+              "url": "https://t.co/yrtO4EQAMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075635571247268210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075629335126618123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可惜小习和小薄就是一头乐子和一个飞机杯啊！ https://t.co/yrtO4EQAMq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2075629335126618123",
+        "created_at": "2026-07-10T17:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075629335126618123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075629335126618123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挺想和表姐们互关然后玩，我倒也会画产出，但我怕被骂品味太差了\n但有没有一种可能我是我家产两个人的角色黑？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 658,
+          "like_count": 5984,
+          "listed_count": 3,
+          "media_count": 352,
+          "tweet_count": 4903
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1900829291979645407",
+    "created_at": "2025-03-15T08:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T09:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900829291979645407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Memochi3030/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Memochi3030/status/1900206368726147578",
+          "start": 5,
+          "url": "https://t.co/Ao5oFBbjof"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900829291979645407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900206368726147578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起。 https://t.co/Ao5oFBbjof"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1900829291979645407",
+        "created_at": "2025-03-15T08:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T09:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900829291979645407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Memochi3030/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Memochi3030/status/1900206368726147578",
+              "start": 5,
+              "url": "https://t.co/Ao5oFBbjof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900829291979645407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900206368726147578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起。 https://t.co/Ao5oFBbjof"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805744974665072645",
+        "conversation_id": "1900206368726147578",
+        "created_at": "2025-03-13T15:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T16:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900206368726147578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900206368726147578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11777,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无语住了，今天我的首页推荐全是黄色和硬核a片，X对我有误解！我是来学习国际关系全球局势地缘政治博弈和金融理财炒币知识的！求求了，不要影响我学习！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记🗑/键政乐子人",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 367,
+          "like_count": 1559,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2486
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T23:29:05.000Z",
+        "description": "太好了没人认识我｜废话诗人｜私信前通读100条废话",
+        "id": "1805744974665072645",
+        "name": "Hazel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892862577694429189/H4isoXTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 74,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 414
+        },
+        "username": "Memochi3030",
+        "verified": false
+      }
+    ]
+  }
+}

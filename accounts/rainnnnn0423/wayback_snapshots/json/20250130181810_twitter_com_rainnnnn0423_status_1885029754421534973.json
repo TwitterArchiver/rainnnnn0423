@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885027378499551577",
+    "created_at": "2025-01-30T18:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T19:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885029754421534973"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1885029754421534973",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885027378499551577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理解祥妈对于自推的爱 别跟我吵就行。一千个人眼中一千个哈姆雷特\n我对祥子的理解是，高自尊是把双刃剑。她有继续过大小姐生活的选择权，但她割舍不了生物叠，既然选择割舍大小姐生活早早自立，必然也得承担更多更多的东西。坚强的大祥老师👍\n我没雷点角色们都是好孩子 我雷的只是乌烟瘴气的社区环境。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885027378499551577",
+        "created_at": "2025-01-30T18:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T19:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885029754421534973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885029754421534973",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885027378499551577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理解祥妈对于自推的爱 别跟我吵就行。一千个人眼中一千个哈姆雷特\n我对祥子的理解是，高自尊是把双刃剑。她有继续过大小姐生活的选择权，但她割舍不了生物叠，既然选择割舍大小姐生活早早自立，必然也得承担更多更多的东西。坚强的大祥老师👍\n我没雷点角色们都是好孩子 我雷的只是乌烟瘴气的社区环境。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885027375626543104"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885027378499551577",
+        "created_at": "2025-01-30T18:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T19:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885027378499551577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXS2XsyKPx",
+              "end": 83,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1885027378499551577/photo/1",
+              "media_key": "3_1885027375626543104",
+              "start": 60,
+              "url": "https://t.co/IXS2XsyKPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885027378499551577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在很怕会跟过激祥解撕起来因为我是睦解。我还是和以往一样不参与社区讨论只作壁上观\n别吵架啊但现在能友好交流的也不多了 https://t.co/IXS2XsyKPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主半夜睡不着说悄悄话的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 219,
+          "like_count": 482,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 784
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

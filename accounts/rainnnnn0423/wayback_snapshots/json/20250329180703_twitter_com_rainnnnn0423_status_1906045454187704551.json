@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1906045454187704551",
+    "created_at": "2025-03-29T18:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T19:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906045454187704551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1906040866466312349",
+          "start": 116,
+          "url": "https://t.co/NP5W548AM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906045454187704551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906040866466312349",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这号我真的当日记记的，我思维非常跳脱写的东西让自己能看懂就行一般开始骂人才会写得通俗易懂。再有因为我发作云里雾里发言产生误解的，我还是会能解释就解释，吵架属于我很大的ptsd了我真吓死了。全公开只是录音癖发作，sj我记得给我点赞。 https://t.co/NP5W548AM6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1906045454187704551",
+        "created_at": "2025-03-29T18:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T19:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906045454187704551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1906040866466312349",
+              "start": 116,
+              "url": "https://t.co/NP5W548AM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906045454187704551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906040866466312349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这号我真的当日记记的，我思维非常跳脱写的东西让自己能看懂就行一般开始骂人才会写得通俗易懂。再有因为我发作云里雾里发言产生误解的，我还是会能解释就解释，吵架属于我很大的ptsd了我真吓死了。全公开只是录音癖发作，sj我记得给我点赞。 https://t.co/NP5W548AM6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1906040866466312349",
+        "created_at": "2025-03-29T17:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T18:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906040866466312349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906040866466312349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发作说话比较浑，几位喜欢的推油在我胡言乱语的推文底下感觉要吵起来了我一看卧槽吓死我了。我这个号从建号开始简介一直在修修改改，“胡言乱语”这点是一直保留的。love&amp;peace，但愿友好讨论我最害怕吵架。\n我信仰科学尊重科学自己也醉心于这方面的研究，精神疾病每个案例都是五花八门的，写不下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高，忙了偶尔上推 最近msk又炸我私信箱一直打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 386,
+          "like_count": 1679,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2747
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

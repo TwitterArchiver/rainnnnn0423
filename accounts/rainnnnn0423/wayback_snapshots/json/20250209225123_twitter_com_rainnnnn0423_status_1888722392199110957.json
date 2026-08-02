@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1888410650604384739",
+    "created_at": "2025-02-09T22:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T23:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888722392199110957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "KillBasil_2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888722392199110957",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888720229242687743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillBasil_2008 噢，我也是08的。总之这个年纪抑郁想辍学想放弃很正常，坚持是需要勇气的。我有朋友休学四年回去读书的。当然辍学直接进入社会也是一种选择，慎重选择认真考虑，精神病状态确实只在学校待着都不能呼吸了，学历是很重要但不如直接选择自己更喜欢的生活。看是想被学校毒打还是被社会毒打了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1888410650604384739",
+        "created_at": "2025-02-09T22:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T23:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888722392199110957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillBasil_2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888722392199110957",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888720229242687743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillBasil_2008 噢，我也是08的。总之这个年纪抑郁想辍学想放弃很正常，坚持是需要勇气的。我有朋友休学四年回去读书的。当然辍学直接进入社会也是一种选择，慎重选择认真考虑，精神病状态确实只在学校待着都不能呼吸了，学历是很重要但不如直接选择自己更喜欢的生活。看是想被学校毒打还是被社会毒打了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1888410650604384739",
+        "created_at": "2025-02-09T22:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T23:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888720229242687743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillBasil_2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888720229242687743",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888410650604384739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillBasil_2008 我是这样的，休两年调理好了。抑郁症确实吃人。因为把我逼出精神病所以恨死应试了，所以我一直在自主学习。现在我生活重心已经不在学校了。在自己身上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 231,
+          "like_count": 661,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1024
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "I love Nanami Chiaki🥰 互动小号：@qhqq114514 小号2：@Omobasi1 很喜欢睡觉，是一只勇敢的猫/无性别/只会回b不会主动b人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "qhqq114514"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "Omobasi1"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "帕拉迪岛",
+        "name": "灼眼的時行",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880983131173662720/05_lpEVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3769,
+          "following_count": 1157,
+          "like_count": 18386,
+          "listed_count": 9,
+          "media_count": 72,
+          "tweet_count": 429
+        },
+        "username": "KillBasil_2008",
+        "verified": false
+      }
+    ]
+  }
+}

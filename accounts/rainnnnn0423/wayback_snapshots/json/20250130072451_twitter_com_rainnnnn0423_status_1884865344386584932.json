@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884838534156349566",
+    "created_at": "2025-01-30T07:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T08:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884865344386584932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877726238909100032",
+          "start": 0,
+          "username": "tearthecage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884865344386584932",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884862971136110931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tearthecage 接上 摒弃搞同人撕逼大战这些负面体验后，搞后者也爽爽嘟🤓✌一切服务于我自己开心😄混圈搞什么小团体 沉醉于自家的簇拥出去出征别家 前者我根本不擅长后者我极度厌恶 撕逼看多了太烦 说来特别好笑 我大手子们如数家珍的反而是抽象鬼畜圈👍大家攻击性都很强我也很享受搞抽象时不伤害具体的人的娱乐解构"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884838534156349566",
+        "created_at": "2025-01-30T07:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T08:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884865344386584932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884865344386584932",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884862971136110931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 接上 摒弃搞同人撕逼大战这些负面体验后，搞后者也爽爽嘟🤓✌一切服务于我自己开心😄混圈搞什么小团体 沉醉于自家的簇拥出去出征别家 前者我根本不擅长后者我极度厌恶 撕逼看多了太烦 说来特别好笑 我大手子们如数家珍的反而是抽象鬼畜圈👍大家攻击性都很强我也很享受搞抽象时不伤害具体的人的娱乐解构"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884838534156349566",
+        "created_at": "2025-01-30T07:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T08:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884862971136110931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884862971136110931",
+        "in_reply_to_user_id": "1877726238909100032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884857105775239651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 所以我一直称自己为非典型/不是很纯的同人女👍全职时期孩子刚接触同人圈算我“同人女”浓度最高的时候（指天天扫tag活跃关注各种喜欢太太），那时候互联网环境也没现在这么恶劣，哪有现在那么多撕逼大战…饭圈妹还带来了饭圈那套。我最近不是搞上鸡狗了吗，我采取的策略也是基本单机不混圈不爱关心社区，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主半夜睡不着大量发表私人思考见解与分享生活点滴的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 214,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 757
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T14:37:48.000Z",
+        "description": "_",
+        "id": "1877726238909100032",
+        "name": "646167846167518187332278878012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877727242610196480/T2AwsvAH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 131
+        },
+        "username": "tearthecage",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1899684352889631039",
+    "created_at": "2025-03-12T04:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T05:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899685788230799690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1899685788230799690",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899684352889631039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让让我我npd发力了，npd不发力的时候我都在自卑。npd帮助我成事，让我能够激情四射地上台演讲，在互联网上推销自己，还有写完书去投出版社。以前严重的自卑和自我否定是更多的，那样的思绪让我感觉人生无望前途一片灰暗。现在我天天哎又幻想了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1899684352889631039",
+        "created_at": "2025-03-12T04:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T05:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899685788230799690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899685788230799690",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899684352889631039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让让我我npd发力了，npd不发力的时候我都在自卑。npd帮助我成事，让我能够激情四射地上台演讲，在互联网上推销自己，还有写完书去投出版社。以前严重的自卑和自我否定是更多的，那样的思绪让我感觉人生无望前途一片灰暗。现在我天天哎又幻想了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1899684352889631039",
+        "created_at": "2025-03-12T04:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T05:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899684352889631039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899684352889631039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美术老师劝我想简单点，可是老师，我无法停止深度思考。我是个超级大人机。老师，我就是这块料子，只要我还活着一天，即使失聪目盲断腿手残，只要我的心眼还敞亮，我就会继续创作，我不会浪费我的才华我的苦难与我的感情的。我想登神。\n想做的事情，我会一件一件来的。我还年轻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博日记🗑偷着键 粉红滚建制派滚懒得吵架",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 363,
+          "like_count": 1475,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 2396
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

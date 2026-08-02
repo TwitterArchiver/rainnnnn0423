@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1881042433011790068",
+    "created_at": "2025-01-19T18:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T19:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881043389501804584"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1881043389501804584",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881042433011790068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦以及还有记忆力学习力，短期记忆严重受挫，我不得不跟别人私密马赛说我现在记性很差。学习力的话，感兴趣的倒是很迅速地求知若渴，不感兴趣的一点都没办法。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1881042433011790068",
+        "created_at": "2025-01-19T18:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T19:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881043389501804584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881043389501804584",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881042433011790068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦以及还有记忆力学习力，短期记忆严重受挫，我不得不跟别人私密马赛说我现在记性很差。学习力的话，感兴趣的倒是很迅速地求知若渴，不感兴趣的一点都没办法。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1881042433011790068",
+        "created_at": "2025-01-19T18:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T19:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881042433011790068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881042433011790068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看odwiki中  😨意识到按医嘱吃的药确实给了我很大的慢性恶性影响：感知认知判断力大幅下降"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 176,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 455
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

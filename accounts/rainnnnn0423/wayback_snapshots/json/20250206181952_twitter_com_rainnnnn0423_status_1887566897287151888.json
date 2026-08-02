@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1887561869436842183",
+    "created_at": "2025-02-06T18:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T19:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887566897287151888"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1887566897287151888",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887565787327545704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你问了那我偏自由主义，然后我的主要观点一直是反极端，反魔怔人。我喷粉蛆也不代表我就给自己划为反贼群体了，我没有这个自我认同。我爱国不是粉蛆那种极端民粹主义的爱法，我骂一些事情是因为我希望这个国家变好，我和家人朋友还有更广泛的百姓能过得更好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887561869436842183",
+        "created_at": "2025-02-06T18:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T19:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887566897287151888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887566897287151888",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887565787327545704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你问了那我偏自由主义，然后我的主要观点一直是反极端，反魔怔人。我喷粉蛆也不代表我就给自己划为反贼群体了，我没有这个自我认同。我爱国不是粉蛆那种极端民粹主义的爱法，我骂一些事情是因为我希望这个国家变好，我和家人朋友还有更广泛的百姓能过得更好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887561869436842183",
+        "created_at": "2025-02-06T18:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T19:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887565787327545704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887565787327545704",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887563927460192661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为这种无脑站队立场的还是太魔怔了。我思想是比较反动，但老共做的好的我就夸，做的不好的我就喷，我不吐不快。而且我不双标，我也不亲西方，国外能喷的地方也多了去了。骂国外少骂老共多属于私人恩怨。我都没出国发展的打算，然后最值得夸的一点是我家吃到了房地产升值＋基建红利所以我能留在上海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 231,
+          "like_count": 646,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 973
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

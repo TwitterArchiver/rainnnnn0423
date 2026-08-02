@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2068672858877038979",
+    "created_at": "2026-06-22T01:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068868722681696597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1329607397384495105",
+          "start": 0,
+          "username": "diraism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068868722681696597",
+    "in_reply_to_user_id": "1329607397384495105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068672858877038979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diraism 啊哈哈，有的哦，在中国女孩们一般把作品发在lofter，bilibili和小红书👍很好看啊很好看，我每天都在想我爱的cp…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2068672858877038979",
+        "created_at": "2026-06-22T01:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068868722681696597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1329607397384495105",
+              "start": 0,
+              "username": "diraism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068868722681696597",
+        "in_reply_to_user_id": "1329607397384495105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068672858877038979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diraism 啊哈哈，有的哦，在中国女孩们一般把作品发在lofter，bilibili和小红书👍很好看啊很好看，我每天都在想我爱的cp…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329607397384495105",
+        "conversation_id": "2068672858877038979",
+        "created_at": "2026-06-21T12:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068672858877038979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068672858877038979",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2867,
+          "impression_count": 866720,
+          "like_count": 39523,
+          "quote_count": 5934,
+          "reply_count": 402,
+          "retweet_count": 9807
+        },
+        "reply_settings": "everyone",
+        "text": "lu pernah gasi demen bgt sama satu ship tiap hari lu ke tiktok lihatin editan mereka, terus tiap sebelum tidur lu refresh page ao3 mereka jaga2 ada fanfic baru, terus tiap dengerin lagu lu akan sambung2in liriknya ke dynamic mereka 😭😭😭😭😭 THIS IS SICK I NEED HELP 😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 650,
+          "like_count": 5826,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4861
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T02:08:28.000Z",
+        "description": "dldr • writings and commissions (https://t.co/XEl5TIvGuw) material support (https://t.co/jen6wCZ6XE)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/deearchive",
+                "end": 56,
+                "expanded_url": "https://linktr.ee/deearchive",
+                "start": 33,
+                "url": "https://t.co/XEl5TIvGuw"
+              },
+              {
+                "display_url": "trakteer.id/diraism",
+                "end": 99,
+                "expanded_url": "https://trakteer.id/diraism",
+                "start": 76,
+                "url": "https://t.co/jen6wCZ6XE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "diraism.carrd.co",
+                "end": 23,
+                "expanded_url": "https://diraism.carrd.co",
+                "start": 0,
+                "url": "https://t.co/K3KhcJ5dbI"
+              }
+            ]
+          }
+        },
+        "id": "1329607397384495105",
+        "name": "nana kopaja (deera)",
+        "pinned_tweet_id": "2057780773420470338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046856680240263168/K4HYLYxE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13113,
+          "following_count": 33,
+          "like_count": 20147,
+          "listed_count": 21,
+          "media_count": 5269,
+          "tweet_count": 39319
+        },
+        "url": "https://t.co/K3KhcJ5dbI",
+        "username": "diraism",
+        "verified": false
+      }
+    ]
+  }
+}

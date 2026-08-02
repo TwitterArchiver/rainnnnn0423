@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2075671864538734826",
+    "created_at": "2026-07-10T20:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T21:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075671864538734826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "830107331182489600",
+          "start": 3,
+          "username": "umeboshimaro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075671864538734826",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075541343901011997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umeboshimaro: 絵もオタクも定期的にしんどくて辞めたくなるけど本当に辞めたら「お前の生きる意味is何⁉️⁉️⁉️🫵🫵🫵😁😁😁⭐️⭐️⭐️」になる未来しか見えないから永遠に辞められないんだろうなーって定期的に思う"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2075671864538734826",
+        "created_at": "2026-07-10T20:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075671864538734826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "830107331182489600",
+              "start": 3,
+              "username": "umeboshimaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075671864538734826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075541343901011997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umeboshimaro: 絵もオタクも定期的にしんどくて辞めたくなるけど本当に辞めたら「お前の生きる意味is何⁉️⁉️⁉️🫵🫵🫵😁😁😁⭐️⭐️⭐️」になる未来しか見えないから永遠に辞められないんだろうなーって定期的に思う"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830107331182489600",
+        "conversation_id": "2075541343901011997",
+        "created_at": "2026-07-10T11:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075541343901011997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075541343901011997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 20392,
+          "like_count": 579,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "絵もオタクも定期的にしんどくて辞めたくなるけど本当に辞めたら「お前の生きる意味is何⁉️⁉️⁉️🫵🫵🫵😁😁😁⭐️⭐️⭐️」になる未来しか見えないから永遠に辞められないんだろうなーって定期的に思う"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 658,
+          "like_count": 5990,
+          "listed_count": 3,
+          "media_count": 353,
+          "tweet_count": 4907
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T17:33:05.000Z",
+        "description": "絵/梅干しが好きです。 \n✉︎→【umemaro0908@yahoo.co.jp】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "acacia-create.com/creator/creato…",
+                "end": 23,
+                "expanded_url": "https://acacia-create.com/creator/creator-255/",
+                "start": 0,
+                "url": "https://t.co/JKThQpptVq"
+              }
+            ]
+          }
+        },
+        "id": "830107331182489600",
+        "location": "ごはんの上",
+        "name": "梅まろ",
+        "pinned_tweet_id": "1946157429135392933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629809617785225217/md59KQ75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104643,
+          "following_count": 452,
+          "like_count": 14088,
+          "listed_count": 800,
+          "media_count": 282,
+          "tweet_count": 12054
+        },
+        "url": "https://t.co/JKThQpptVq",
+        "username": "umeboshimaro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891077958309134506",
+    "created_at": "2025-02-16T11:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T12:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891088980654879086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877726238909100032",
+          "start": 0,
+          "username": "tearthecage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891088980654879086",
+    "in_reply_to_user_id": "1877726238909100032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891078967173468367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tearthecage 这个喷不了，初中我也没想好教团怎么爆的，白羽被造出来动机又是什么，我当时只确立了艾尔法搞民粹主义这一个点。是建立在现实（我不明写但就是202x年的上海）的世界观，所以当年也不知道高层怎么处理，现在键得多了其实也没完全考虑好…\n白娅虽然是便当位但我也想好好塑造她不想让她死不明不白的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1891078967173468367].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1891078967173468367",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1891078967173468367"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891077958309134506",
+        "created_at": "2025-02-16T11:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T12:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891088980654879086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891088980654879086",
+        "in_reply_to_user_id": "1877726238909100032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891078967173468367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 这个喷不了，初中我也没想好教团怎么爆的，白羽被造出来动机又是什么，我当时只确立了艾尔法搞民粹主义这一个点。是建立在现实（我不明写但就是202x年的上海）的世界观，所以当年也不知道高层怎么处理，现在键得多了其实也没完全考虑好…\n白娅虽然是便当位但我也想好好塑造她不想让她死不明不白的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 240,
+          "like_count": 744,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1277
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T14:37:48.000Z",
+        "description": "_",
+        "id": "1877726238909100032",
+        "name": "三两银买了大梦一场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877727242610196480/T2AwsvAH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 265
+        },
+        "username": "tearthecage",
+        "verified": false
+      }
+    ]
+  }
+}

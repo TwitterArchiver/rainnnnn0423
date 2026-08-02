@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1902566715244105812",
+    "created_at": "2025-03-20T07:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T08:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902625906356855194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808093317894492160",
+          "start": 0,
+          "username": "angdai8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902625906356855194",
+    "in_reply_to_user_id": "1808093317894492160",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902581714641117537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angdai8964 😭🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1902581714641117537].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1902581714641117537",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1902581714641117537"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1902566715244105812",
+        "created_at": "2025-03-20T07:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T08:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902625906356855194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808093317894492160",
+              "start": 0,
+              "username": "angdai8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902625906356855194",
+        "in_reply_to_user_id": "1808093317894492160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902581714641117537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angdai8964 😭🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 372,
+          "like_count": 1631,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2620
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T11:00:32.000Z",
+        "description": "02，可以称呼我为疯子、戴或黑斯（Tibus Heth）,热爱政治、经济和学术，最厌恶的是数学，极度偏科人士，尽量今年拿到韩签回归母国，右倾人士，有时候说话不经脑子（可能有时候说话会得罪你，建议也无妨），略微嗜血，是习大统领和尹大统领的坚定支持者。（互fo可私信）",
+        "id": "1808093317894492160",
+        "location": "中华第二帝国支黑省刃支市8964区",
+        "name": "庆尚道兔脸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899823035391016960/ooPuPWAE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1114,
+          "like_count": 36991,
+          "listed_count": 5,
+          "media_count": 248,
+          "tweet_count": 5414
+        },
+        "username": "angdai8964",
+        "verified": false
+      }
+    ]
+  }
+}

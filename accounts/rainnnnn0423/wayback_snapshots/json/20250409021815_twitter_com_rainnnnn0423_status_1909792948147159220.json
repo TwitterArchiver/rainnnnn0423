@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1909792948147159220",
+    "created_at": "2025-04-09T02:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T03:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909792948147159220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1909619489940898082",
+          "start": 24,
+          "url": "https://t.co/ymOYw4LE1J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909792948147159220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909619489940898082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。相当于美国给孙笑川国宾级待遇，王小桃救一下啊 https://t.co/ymOYw4LE1J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_1909619486325723136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoBUziKb0AASdZR.jpg",
+        "width": 594
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1909792948147159220",
+        "created_at": "2025-04-09T02:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T03:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909792948147159220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1909619489940898082",
+              "start": 24,
+              "url": "https://t.co/ymOYw4LE1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909792948147159220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909619489940898082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。相当于美国给孙笑川国宾级待遇，王小桃救一下啊 https://t.co/ymOYw4LE1J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909619486325723136"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1909619489940898082",
+        "created_at": "2025-04-08T14:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T15:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909619489940898082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxsTbciN5M",
+              "end": 31,
+              "expanded_url": "https://x.com/Rococo90933671/status/1909619489940898082/photo/1",
+              "media_key": "3_1909619486325723136",
+              "start": 8,
+              "url": "https://t.co/GxsTbciN5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909619489940898082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7763,
+          "like_count": 209,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "脚趾三室一厅了 https://t.co/GxsTbciN5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 最近私信箱又挂了",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 414,
+          "like_count": 1910,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 2939
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4729,
+          "following_count": 2155,
+          "like_count": 24141,
+          "listed_count": 10,
+          "media_count": 1976,
+          "tweet_count": 13579
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

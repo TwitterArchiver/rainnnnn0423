@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897237468854018198",
+    "created_at": "2025-03-06T10:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T11:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897601504271347834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822203600526876672",
+          "start": 0,
+          "username": "Kiiri_072918"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897601504271347834",
+    "in_reply_to_user_id": "1822203600526876672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897237468854018198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiiri_072918 那很爽了卧槽 我最近在看假面的告白"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897237468854018198",
+        "created_at": "2025-03-06T10:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T11:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897601504271347834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822203600526876672",
+              "start": 0,
+              "username": "Kiiri_072918"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897601504271347834",
+        "in_reply_to_user_id": "1822203600526876672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897237468854018198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiiri_072918 那很爽了卧槽 我最近在看假面的告白"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822203600526876672",
+        "conversation_id": "1897237468854018198",
+        "created_at": "2025-03-05T10:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T11:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897237468854018198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897237468854018198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校买了很多三岛的新书但是为什么没有金阁寺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭上推发发疯",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 349,
+          "like_count": 1341,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2224
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T09:29:47.000Z",
+        "description": "喵",
+        "id": "1822203600526876672",
+        "name": "假如我們相隔兩個夏天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888249605458120705/XtJ-OLqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 55
+        },
+        "username": "Kiiri_072918",
+        "verified": false
+      }
+    ]
+  }
+}

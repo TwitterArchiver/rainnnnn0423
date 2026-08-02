@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2076544738027811120",
+    "created_at": "2026-07-13T05:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076544738027811120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589967071470915585",
+          "start": 3,
+          "username": "zovoe_"
+        },
+        {
+          "end": 21,
+          "id": "1720779183809519616",
+          "start": 12,
+          "username": "RyyyYoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076544738027811120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076280027814232078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zovoe_: @RyyyYoin 你们这些人装够了没？\n交友是双向筛选那他妈你非要选一个爱发消息的人交朋友然后不回人家消息还说看到别人消息很痛苦你咋不去死呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2076544738027811120",
+        "created_at": "2026-07-13T05:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076544738027811120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589967071470915585",
+              "start": 3,
+              "username": "zovoe_"
+            },
+            {
+              "end": 21,
+              "id": "1720779183809519616",
+              "start": 12,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076544738027811120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076280027814232078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zovoe_: @RyyyYoin 你们这些人装够了没？\n交友是双向筛选那他妈你非要选一个爱发消息的人交朋友然后不回人家消息还说看到别人消息很痛苦你咋不去死呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589967071470915585",
+        "conversation_id": "2075838505264242806",
+        "created_at": "2026-07-12T12:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076280027814232078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720779183809519616",
+              "start": 0,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076280027814232078",
+        "in_reply_to_user_id": "1720779183809519616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2216,
+          "like_count": 150,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075838505264242806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyyyYoin 你们这些人装够了没？\n交友是双向筛选那他妈你非要选一个爱发消息的人交朋友然后不回人家消息还说看到别人消息很痛苦你咋不去死呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 659,
+          "like_count": 6051,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 4924
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T13:04:36.000Z",
+        "description": "Pain, danger and love make me real again.",
+        "id": "1589967071470915585",
+        "name": "Zoeee",
+        "pinned_tweet_id": "2075926940729684098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589967253419835396/UL_AVZoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48958,
+          "following_count": 50,
+          "like_count": 749,
+          "listed_count": 129,
+          "media_count": 180,
+          "tweet_count": 833
+        },
+        "url": "",
+        "username": "zovoe_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "我也可以为你潜入海里面/妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071277521828761601/1hbPRsbf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 281,
+          "like_count": 56328,
+          "listed_count": 6,
+          "media_count": 1628,
+          "tweet_count": 14393
+        },
+        "url": "",
+        "username": "RyyyYoin",
+        "verified": false
+      }
+    ]
+  }
+}

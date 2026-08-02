@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1901344174294868171",
+    "created_at": "2025-03-16T18:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T19:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901344174294868171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mo6ji4/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/mo6ji4/status/1901139181277196395",
+          "start": 4,
+          "url": "https://t.co/N87BvEylEz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901344174294868171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901139181277196395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "气笑了 https://t.co/N87BvEylEz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1901344174294868171",
+        "created_at": "2025-03-16T18:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T19:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901344174294868171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mo6ji4/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/mo6ji4/status/1901139181277196395",
+              "start": 4,
+              "url": "https://t.co/N87BvEylEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901344174294868171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901139181277196395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "气笑了 https://t.co/N87BvEylEz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742381695045939200",
+        "conversation_id": "1901139181277196395",
+        "created_at": "2025-03-16T05:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T06:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901139181277196395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901139181277196395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 77838,
+          "like_count": 767,
+          "quote_count": 8,
+          "reply_count": 39,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "关于胖猫事件长江大桥外卖堆积的补充材料\n1、茶百道：9207吨\n2、蜜雪冰城（按每份3.5杯柃檬水）：1133.62吨\n3、华莱士（按每份3.5个汉堡）：5295.60吨\n4、朱小小螺蛳粉：525吨\n5、牛约堡‌：5841吨\n6、麦当劳：660吨\n7、塔斯汀：1000吨\n总计：\n23662.22吨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政乐子人",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 370,
+          "like_count": 1589,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2537
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n防失联小号@m8o9j6i4 亲爱的 @35zf_out @Fiammetta1453  @Bingfei2v2 @azusaROCtw  @mingnaisama\n玻璃心自卑仇富（我是顺男）小狗@GLaDOS8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "35zf_out"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "Fiammetta1453"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Bingfei2v2"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "GLaDOS8964"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加美军要塞",
+        "name": "圣骑士贞德（误ban抱歉）（情绪垃圾桶）（推文不完全代表本人立场）锁推躲机器人",
+        "pinned_tweet_id": "1891417536954036561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 946,
+          "like_count": 110618,
+          "listed_count": 8,
+          "media_count": 1932,
+          "tweet_count": 24890
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

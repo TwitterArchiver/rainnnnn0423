@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2034376199150199217",
+    "created_at": "2026-03-19T11:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T12:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034596040394105187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2018652390891880448",
+          "start": 0,
+          "username": "futi999139732"
+        },
+        {
+          "end": 28,
+          "id": "1722890177696468992",
+          "start": 15,
+          "username": "ustuYukichan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034596040394105187",
+    "in_reply_to_user_id": "2018652390891880448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034376199150199217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@futi999139732 @ustuYukichan 严肃参与"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2034376199150199217",
+        "created_at": "2026-03-19T11:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034596040394105187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018652390891880448",
+              "start": 0,
+              "username": "futi999139732"
+            },
+            {
+              "end": 28,
+              "id": "1722890177696468992",
+              "start": 15,
+              "username": "ustuYukichan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034596040394105187",
+        "in_reply_to_user_id": "2018652390891880448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034376199150199217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi999139732 @ustuYukichan 严肃参与"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2034376199150199217",
+        "created_at": "2026-03-18T21:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T22:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034376199150199217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034376199150199217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8130,
+          "like_count": 199,
+          "quote_count": 2,
+          "reply_count": 151,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "为庆祝即将700fo的到来扶梯给大家抽奖啦！\n7是一个我很喜欢的数字，这次的准备也十分丰富！总价值约1k\n一等奖4ho一份\n二等奖任意策划两份\n三等奖普瑞一盒（折现20）五份\n参与条件：关注点赞评论转帖\n3月27号用grok开奖\n大家多多参与哦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88 我不吸毒谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2029885847835922693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 622,
+          "like_count": 5166,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 4596
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT弟弟： @jiuyouforwhite热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 710,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:13:34.000Z",
+        "description": "冬天的第一场雪｜病み垢｜リスカ｜od｜shutwt｜drugtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utsuyukichan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utsuyukichan",
+                "start": 0,
+                "url": "https://t.co/aIBR6RGUsi"
+              }
+            ]
+          }
+        },
+        "id": "1722890177696468992",
+        "location": "地獄",
+        "name": "有害天使",
+        "pinned_tweet_id": "2017060419937194182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950984901202944000/dCpmdRLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 536,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/aIBR6RGUsi",
+        "username": "ustuYukichan",
+        "verified": false
+      }
+    ]
+  }
+}

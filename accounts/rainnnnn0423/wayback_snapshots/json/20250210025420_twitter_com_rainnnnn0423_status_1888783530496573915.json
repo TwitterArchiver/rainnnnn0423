@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1888783530496573915",
+    "created_at": "2025-02-10T02:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T03:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888783530496573915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "57618417",
+          "start": 3,
+          "username": "90kPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888783530496573915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888437165211693153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @90kPa: 很多人不懂经济周期，以为一个经济周期3-5年或者5-10年就过去了。\n隔壁的日本走出房地产危机花了整整30年。为什么中国人不理解经济周期？\n\n当下一轮繁荣周期开始的时候，我们这代人都离世了。经济周期可以漫长到你看都看不到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1888783530496573915",
+        "created_at": "2025-02-10T02:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T03:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888783530496573915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "57618417",
+              "start": 3,
+              "username": "90kPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888783530496573915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888437165211693153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @90kPa: 很多人不懂经济周期，以为一个经济周期3-5年或者5-10年就过去了。\n隔壁的日本走出房地产危机花了整整30年。为什么中国人不理解经济周期？\n\n当下一轮繁荣周期开始的时候，我们这代人都离世了。经济周期可以漫长到你看都看不到。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "57618417",
+        "conversation_id": "1888437165211693153",
+        "created_at": "2025-02-09T03:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T04:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888437165211693153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888437165211693153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 126870,
+          "like_count": 649,
+          "quote_count": 9,
+          "reply_count": 79,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "很多人不懂经济周期，以为一个经济周期3-5年或者5-10年就过去了。\n隔壁的日本走出房地产危机花了整整30年。为什么中国人不理解经济周期？\n\n当下一轮繁荣周期开始的时候，我们这代人都离世了。经济周期可以漫长到你看都看不到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 231,
+          "like_count": 665,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1038
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-17T11:25:42.000Z",
+        "description": "Non omnis moriar. \n感受美好，热爱世界。\n#Philharmonic #camping #bikepacking #prepper",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 30,
+                "tag": "Philharmonic"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "tag": "camping"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "bikepacking"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "tag": "prepper"
+              }
+            ]
+          }
+        },
+        "id": "57618417",
+        "location": "Changsha",
+        "name": "九万帕",
+        "pinned_tweet_id": "1863398031950778766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234865639845552134/KNL5SRqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36153,
+          "following_count": 164,
+          "like_count": 5226,
+          "listed_count": 284,
+          "media_count": 1425,
+          "tweet_count": 36407
+        },
+        "username": "90kPa",
+        "verified": false
+      }
+    ]
+  }
+}

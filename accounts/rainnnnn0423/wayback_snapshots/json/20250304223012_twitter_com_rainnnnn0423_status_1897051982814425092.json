@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897051982814425092",
+    "created_at": "2025-03-04T22:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T23:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897051982814425092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247123754158702593",
+          "start": 3,
+          "username": "Roku6_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897051982814425092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896922551152214501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Roku6_mi: 今天班主任问我们有没有挂梯子翻墙到外网举报学校作息时间的，我差点没绷住。这下可以实锤全国双休和李颖的那个表格革命有关系了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897051982814425092",
+        "created_at": "2025-03-04T22:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T23:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897051982814425092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247123754158702593",
+              "start": 3,
+              "username": "Roku6_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897051982814425092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896922551152214501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Roku6_mi: 今天班主任问我们有没有挂梯子翻墙到外网举报学校作息时间的，我差点没绷住。这下可以实锤全国双休和李颖的那个表格革命有关系了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247123754158702593",
+        "conversation_id": "1896922551152214501",
+        "created_at": "2025-03-04T13:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T14:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896922551152214501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896922551152214501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 99545,
+          "like_count": 1390,
+          "quote_count": 15,
+          "reply_count": 63,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "今天班主任问我们有没有挂梯子翻墙到外网举报学校作息时间的，我差点没绷住。这下可以实锤全国双休和李颖的那个表格革命有关系了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 335,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2125
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "うみです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rokuuuunanami",
+                "end": 23,
+                "expanded_url": "https://t.me/rokuuuunanami",
+                "start": 0,
+                "url": "https://t.co/KvIHmQqwtI"
+              }
+            ]
+          }
+        },
+        "id": "1247123754158702593",
+        "name": "うみ少佐斬シ豚",
+        "pinned_tweet_id": "1881768737059307547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885752612664082432/wCJfFfg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 803,
+          "like_count": 77506,
+          "listed_count": 8,
+          "media_count": 396,
+          "tweet_count": 7819
+        },
+        "url": "https://t.co/KvIHmQqwtI",
+        "username": "Roku6_mi",
+        "verified": false
+      }
+    ]
+  }
+}

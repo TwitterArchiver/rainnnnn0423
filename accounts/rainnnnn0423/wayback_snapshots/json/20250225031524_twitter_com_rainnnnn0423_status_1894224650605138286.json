@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894224650605138286",
+    "created_at": "2025-02-25T03:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T04:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894224650605138286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hsn8086/status/1894198433449115670",
+          "start": 10,
+          "url": "https://t.co/nw09wMhHmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894224650605138286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894198433449115670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "xhs用户智商一览 https://t.co/nw09wMhHmV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_1894198425736052736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkmLbqwaAAAhBEy.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894224650605138286",
+        "created_at": "2025-02-25T03:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T04:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894224650605138286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hsn8086/status/1894198433449115670",
+              "start": 10,
+              "url": "https://t.co/nw09wMhHmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894224650605138286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894198433449115670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xhs用户智商一览 https://t.co/nw09wMhHmV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894198425736052736"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1894198433449115670",
+        "created_at": "2025-02-25T01:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894198433449115670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1SGJ2rMxO",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1894198433449115670/photo/1",
+              "media_key": "3_1894198425736052736",
+              "start": 0,
+              "url": "https://t.co/m1SGJ2rMxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894198433449115670",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4696,
+          "like_count": 71,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m1SGJ2rMxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 292,
+          "like_count": 1000,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1714
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40596,
+          "following_count": 919,
+          "like_count": 36600,
+          "listed_count": 104,
+          "media_count": 6663,
+          "tweet_count": 11881
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

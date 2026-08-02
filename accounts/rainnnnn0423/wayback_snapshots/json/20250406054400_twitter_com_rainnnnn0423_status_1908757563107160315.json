@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1908757563107160315",
+    "created_at": "2025-04-06T05:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T06:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908757563107160315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1908479448653193722",
+          "start": 25,
+          "url": "https://t.co/7Fdjq4JKBQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908757563107160315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908479448653193722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要给所有我乱以为以为错的网友道歉🌚🌚🌚🧎🧎🧎🧎 https://t.co/7Fdjq4JKBQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1908757563107160315",
+        "created_at": "2025-04-06T05:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908757563107160315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1908479448653193722",
+              "start": 25,
+              "url": "https://t.co/7Fdjq4JKBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908757563107160315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908479448653193722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要给所有我乱以为以为错的网友道歉🌚🌚🌚🧎🧎🧎🧎 https://t.co/7Fdjq4JKBQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1908479448653193722",
+        "created_at": "2025-04-05T11:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T12:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908479448653193722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908479448653193722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1030,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们懂我有多尴尬吗！推特网友性别我已经猜错过一次两次三次四次！我要甩锅了1解离2哪个b药吃了降智了！我以为俩小女孩闹矛盾原来是俩男的！到底男的女的我求你们简介写一下…我智商不高🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 412,
+          "like_count": 1832,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2905
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2066937623349019063",
+    "created_at": "2026-06-17T11:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067203667917509084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2066821700847902720",
+          "start": 0,
+          "username": "Mercydlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067203667917509084",
+    "in_reply_to_user_id": "2066821700847902720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066937623349019063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercydlt 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2066937623349019063",
+        "created_at": "2026-06-17T11:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067203667917509084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2066821700847902720",
+              "start": 0,
+              "username": "Mercydlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067203667917509084",
+        "in_reply_to_user_id": "2066821700847902720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066937623349019063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercydlt 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066821700847902720",
+        "conversation_id": "2066937623349019063",
+        "created_at": "2026-06-16T17:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066937623349019063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066937623349019063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 96,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来陪陪我。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 650,
+          "like_count": 5792,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4846
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T09:55:11.000Z",
+        "description": "我是Mercy，互关寻回",
+        "id": "2066821700847902720",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066822182257537025/9KIQBK5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 73,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Mercydlt",
+        "verified": false
+      }
+    ]
+  }
+}

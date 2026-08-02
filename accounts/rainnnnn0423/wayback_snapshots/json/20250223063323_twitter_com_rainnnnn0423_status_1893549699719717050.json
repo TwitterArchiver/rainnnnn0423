@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1893549699719717050",
+    "created_at": "2025-02-23T06:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T07:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893549699719717050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AlyssaKUMA_/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/AlyssaKUMA_/status/1893254636263346236",
+          "start": 11,
+          "url": "https://t.co/LnAz2sm2Pz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893549699719717050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893254636263346236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蓝锁排球妹性转罢了😋 https://t.co/LnAz2sm2Pz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1893549699719717050",
+        "created_at": "2025-02-23T06:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T07:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893549699719717050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AlyssaKUMA_/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/AlyssaKUMA_/status/1893254636263346236",
+              "start": 11,
+              "url": "https://t.co/LnAz2sm2Pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893549699719717050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893254636263346236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蓝锁排球妹性转罢了😋 https://t.co/LnAz2sm2Pz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842419332187561984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1893254636263346236",
+        "created_at": "2025-02-22T11:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T12:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893254636263346236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893254636263346236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 931,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看mygo看孤独摇滚看mujica看bangdream的煞笔太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 273,
+          "like_count": 927,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1555
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:19:46.000Z",
+        "description": "",
+        "id": "1842419332187561984",
+        "name": "🧸愛莉莎🍻",
+        "pinned_tweet_id": "1879053634471973339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872558404293771264/IsH3BFnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 212,
+          "like_count": 867,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 459
+        },
+        "username": "AlyssaKUMA_",
+        "verified": false
+      }
+    ]
+  }
+}

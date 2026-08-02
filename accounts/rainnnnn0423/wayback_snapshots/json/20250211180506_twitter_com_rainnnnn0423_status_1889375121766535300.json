@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1889375121766535300",
+    "created_at": "2025-02-11T18:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T19:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889375121766535300"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1889375121766535300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我强烈不建议任何人服用喹硫平，除非你真的躁狂得没办法了不在乎副作用。我吃了情绪解离哭都不怎么哭，不哭不掉眼泪没情绪是很可怕的。过了两年浑浑噩噩的日子，每天睁眼玩手机玩到闭眼然后睡觉，天昏地暗。\n以及医生也只会公式接诊，当年给我加大药量导致我现在还严重后遗症。怀疑记忆障碍klp干的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889375121766535300",
+        "created_at": "2025-02-11T18:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T19:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889375121766535300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889375121766535300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我强烈不建议任何人服用喹硫平，除非你真的躁狂得没办法了不在乎副作用。我吃了情绪解离哭都不怎么哭，不哭不掉眼泪没情绪是很可怕的。过了两年浑浑噩噩的日子，每天睁眼玩手机玩到闭眼然后睡觉，天昏地暗。\n以及医生也只会公式接诊，当年给我加大药量导致我现在还严重后遗症。怀疑记忆障碍klp干的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 233,
+          "like_count": 674,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1075
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

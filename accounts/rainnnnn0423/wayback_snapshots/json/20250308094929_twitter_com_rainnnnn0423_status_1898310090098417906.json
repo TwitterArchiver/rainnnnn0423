@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1898084334390976880",
+    "created_at": "2025-03-08T09:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T10:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898310090098417906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881369782911746049",
+          "start": 0,
+          "username": "jxp20070102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898310090098417906",
+    "in_reply_to_user_id": "1881369782911746049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898307204647899406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxp20070102 这里是推特。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1898084334390976880",
+        "created_at": "2025-03-08T09:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T10:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898310090098417906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881369782911746049",
+              "start": 0,
+              "username": "jxp20070102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898310090098417906",
+        "in_reply_to_user_id": "1881369782911746049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898307204647899406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxp20070102 这里是推特。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881369782911746049",
+        "conversation_id": "1898084334390976880",
+        "created_at": "2025-03-08T09:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T10:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898307204647899406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898307204647899406",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898084842505748873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 注意形象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭上推发发疯",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 353,
+          "like_count": 1387,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2284
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T15:54:53.000Z",
+        "description": "高三在读，刚满十八岁\n喜欢动漫、电影、小说、游戏、TRPG，不时掉落烘焙和烹饪碎片。\n自制美食乃是人生一大乐事。\n半个兵击人，玩长剑和迅捷\n异性恋switch，反lgbt/mtf/跨。\n目前志愿是心理医生/律师。\n沉迷俳句ing\n头像与背景为本人约稿，禁止下载转载",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jxp200701021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jxp200701021",
+                "start": 0,
+                "url": "https://t.co/CVTXYKHvgA"
+              }
+            ]
+          }
+        },
+        "id": "1881369782911746049",
+        "location": "辽宁省大连市/匿名提问↓",
+        "name": "司",
+        "pinned_tweet_id": "1884071426896126032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895451762133266432/qRRYGZBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 348,
+          "like_count": 3213,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/CVTXYKHvgA",
+        "username": "jxp20070102",
+        "verified": false
+      }
+    ]
+  }
+}

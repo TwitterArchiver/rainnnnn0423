@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893227234460086346",
+    "created_at": "2025-02-22T09:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T10:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893227234460086346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/entangled_pair…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/entangled_pair/status/1892858504261538288",
+          "start": 7,
+          "url": "https://t.co/RbfEljil4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893227234460086346",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892858504261538288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是二次元😂 https://t.co/RbfEljil4t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893227234460086346",
+        "created_at": "2025-02-22T09:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T10:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893227234460086346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/entangled_pair…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/entangled_pair/status/1892858504261538288",
+              "start": 7,
+              "url": "https://t.co/RbfEljil4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893227234460086346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892858504261538288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是二次元😂 https://t.co/RbfEljil4t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982460989005287424",
+        "conversation_id": "1892858504261538288",
+        "created_at": "2025-02-21T08:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T09:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892858504261538288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892858504261538288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 21119,
+          "like_count": 270,
+          "quote_count": 9,
+          "reply_count": 40,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "在咱中国，学术界很操蛋啊，学术界，你要混学术界，只要你不是学生，别人就管你叫老师。\n基本上，“老师”这词一出现，有四种情况：\n1）你真的是老师\n2）你山东人\n3）你二次元\n4）你是性工作者\n选一样吧，你选哪样？反正我自己感觉选哪样就都挺操蛋的\n性工作者可能稍微还酷一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 266,
+          "like_count": 900,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1515
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T03:32:07.000Z",
+        "description": "pronoun：ta/ta",
+        "id": "982460989005287424",
+        "name": "JK.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795750045972860928/OgxlRTIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 223,
+          "like_count": 5399,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1269
+        },
+        "username": "entangled_pair",
+        "verified": false
+      }
+    ]
+  }
+}

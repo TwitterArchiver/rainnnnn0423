@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1939678856191074806",
+    "created_at": "2025-06-30T13:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T14:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939678856191074806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938866971669606400",
+          "start": 3,
+          "username": "xiaosong2_33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939678856191074806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939352195230822530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaosong2_33: 孩子们我回来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1939678856191074806",
+        "created_at": "2025-06-30T13:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T14:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939678856191074806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938866971669606400",
+              "start": 3,
+              "username": "xiaosong2_33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939678856191074806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939352195230822530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaosong2_33: 孩子们我回来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938866971669606400",
+        "conversation_id": "1939352195230822530",
+        "created_at": "2025-06-29T15:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939352195230822530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939352195230822530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1465,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/双相Ⅱ型/一般路过女高/粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 519,
+          "like_count": 3641,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 3762
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T07:48:19.000Z",
+        "description": "这里是xiaosong\n我回来了",
+        "id": "1938866971669606400",
+        "name": "xiaosong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939362088347955200/7VRVMTFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "xiaosong2_33",
+        "verified": false
+      }
+    ]
+  }
+}

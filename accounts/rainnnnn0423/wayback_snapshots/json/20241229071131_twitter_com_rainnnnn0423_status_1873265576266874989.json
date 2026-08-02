@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1873265576266874989",
+    "created_at": "2024-12-29T07:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T08:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873265576266874989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hungerforzhouz…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hungerforzhouzi/status/1872807350882713846",
+          "start": 5,
+          "url": "https://t.co/BlfbXehcnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873265576266874989",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872807350882713846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥲🥲🥲😅 https://t.co/BlfbXehcnJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1873265576266874989",
+        "created_at": "2024-12-29T07:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T08:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873265576266874989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hungerforzhouz…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hungerforzhouzi/status/1872807350882713846",
+              "start": 5,
+              "url": "https://t.co/BlfbXehcnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873265576266874989",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872807350882713846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥲🥲🥲😅 https://t.co/BlfbXehcnJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718907043166474240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1872807350882713846",
+        "created_at": "2024-12-28T00:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T01:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872807350882713846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ProcyonCoke731…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ProcyonCoke731/status/1872522752260964656",
+              "start": 141,
+              "url": "https://t.co/MInhojpu44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872807350882713846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 22472,
+          "like_count": 404,
+          "quote_count": 7,
+          "reply_count": 55,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872522752260964656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实马斯克是习近平的星怒，习近平每次想要发展什么高科技，就大喝一声把马斯克吓得全身瘫软，再抄起一本《习近平谈治国理政》就往马斯克的蛋蛋上打去，马斯克就只能呜咽着一边射精一边把技术开源给习近平。\n  邪恶的习近平还会给马斯克带锁，让外国人不管怎么凌辱他都射不出来，也就无法开源给外国 https://t.co/MInhojpu44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 99,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 184
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T08:26:01.000Z",
+        "description": "吱吱～🐭",
+        "id": "1718907043166474240",
+        "location": "下水道人民共和国",
+        "name": "圣诞节鼠鼠早饭要嗯造烤火鸡🐭",
+        "pinned_tweet_id": "1863899619811639330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868618417496006657/vTMsxFZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 315,
+          "like_count": 17904,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 6775
+        },
+        "username": "hungerforzhouzi",
+        "verified": false
+      }
+    ]
+  }
+}

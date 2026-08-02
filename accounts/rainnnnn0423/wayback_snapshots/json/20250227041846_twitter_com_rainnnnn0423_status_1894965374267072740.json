@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894965374267072740",
+    "created_at": "2025-02-27T04:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T05:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894965374267072740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894965374267072740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894622430225994231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 有一说一，学医的男娘就不要学人家骚男娘玩文爱了好吗。你把「淫水出来了」打成「羊水出来了」大家真的要报警。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894965374267072740",
+        "created_at": "2025-02-27T04:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T05:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894965374267072740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894965374267072740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894622430225994231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 有一说一，学医的男娘就不要学人家骚男娘玩文爱了好吗。你把「淫水出来了」打成「羊水出来了」大家真的要报警。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1894622430225994231",
+        "created_at": "2025-02-26T05:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T06:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894622430225994231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894622430225994231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 18052,
+          "like_count": 351,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "有一说一，学医的男娘就不要学人家骚男娘玩文爱了好吗。你把「淫水出来了」打成「羊水出来了」大家真的要报警。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 302,
+          "like_count": 1100,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1846
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "o什么的",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14553,
+          "following_count": 186,
+          "like_count": 475,
+          "listed_count": 52,
+          "media_count": 76,
+          "tweet_count": 14204
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

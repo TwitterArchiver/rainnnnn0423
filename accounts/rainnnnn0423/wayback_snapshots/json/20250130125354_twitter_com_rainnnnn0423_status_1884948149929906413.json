@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884929573944742172",
+    "created_at": "2025-01-30T12:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T13:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884948149929906413"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1884948149929906413",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884929573944742172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高中这个女老师呢，挺年轻的，好像比我小男友稍微大一两岁。心理辅导经验也不是很足，我猜测她的人生挺一帆风顺的，好像本来要当语文老师，但是机缘巧合下当的心理老师。（意思是此人没有做此职业的愿景，只是当工作）\n我告诉过学妹不要和此老师交心，目前对她态度是只谈工作👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884929573944742172",
+        "created_at": "2025-01-30T12:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884948149929906413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884948149929906413",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884929573944742172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高中这个女老师呢，挺年轻的，好像比我小男友稍微大一两岁。心理辅导经验也不是很足，我猜测她的人生挺一帆风顺的，好像本来要当语文老师，但是机缘巧合下当的心理老师。（意思是此人没有做此职业的愿景，只是当工作）\n我告诉过学妹不要和此老师交心，目前对她态度是只谈工作👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884929573944742172",
+        "created_at": "2025-01-30T11:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T12:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884929573944742172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884929573944742172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好的心理咨询师太少太少了😅😅😅😂😂😂我将想办法调教我的高中心理老师（用来处理和学校相关问题）毕竟学校心理资源是性价比很高的选择了。\n非一线城市别学，没炸柜的孩子们别学，我休过学，校领导和家长都很了解我情况，我和心理室卫生室老师都老熟人了。\n谨慎寻求学校心理支持，翻车案例一抓一大把。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主半夜睡不着说悄悄话的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 219,
+          "like_count": 467,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 774
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

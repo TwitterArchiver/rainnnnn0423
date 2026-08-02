@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1905781652510687450",
+    "created_at": "2025-03-29T00:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T01:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905781652510687450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1149769233204699138",
+          "start": 3,
+          "username": "killuyya"
+        },
+        {
+          "end": 28,
+          "id": "1829498397184946176",
+          "start": 14,
+          "username": "liangxihuigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905781652510687450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900875958724555151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killuyya: @liangxihuigui 推上这么多a8a9，钱跟大风刮来的一样，一毛没见捐过。反观将军负债累累，又被小人欺压，又被女人骗，从来没过币，靠天才的交易才能带领凉家人从万恶的交易所手上赚钱，翻身后每天给兄弟们发福利，在推上救苦救难。不愧是技术和人格上…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1905781652510687450",
+        "created_at": "2025-03-29T00:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T01:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905781652510687450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1149769233204699138",
+              "start": 3,
+              "username": "killuyya"
+            },
+            {
+              "end": 28,
+              "id": "1829498397184946176",
+              "start": 14,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905781652510687450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900875958724555151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killuyya: @liangxihuigui 推上这么多a8a9，钱跟大风刮来的一样，一毛没见捐过。反观将军负债累累，又被小人欺压，又被女人骗，从来没过币，靠天才的交易才能带领凉家人从万恶的交易所手上赚钱，翻身后每天给兄弟们发福利，在推上救苦救难。不愧是技术和人格上…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1149769233204699138",
+        "conversation_id": "1900875102960709872",
+        "created_at": "2025-03-15T11:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T12:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900875958724555151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829498397184946176",
+              "start": 0,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900875958724555151",
+        "in_reply_to_user_id": "1829498397184946176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4319,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900875102960709872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangxihuigui 推上这么多a8a9，钱跟大风刮来的一样，一毛没见捐过。反观将军负债累累，又被小人欺压，又被女人骗，从来没过币，靠天才的交易才能带领凉家人从万恶的交易所手上赚钱，翻身后每天给兄弟们发福利，在推上救苦救难。不愧是技术和人格上的交易之神，地表最强零零后！🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高，忙了偶尔上推 最近msk又炸我私信箱一直打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 386,
+          "like_count": 1675,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2716
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-12T19:55:21.000Z",
+        "description": "no",
+        "id": "1149769233204699138",
+        "name": "嗯哼小将军",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900870948468998144/pW_jB9IF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 142,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "killuyya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:36:57.000Z",
+        "description": "凉兮本人，性别男，喜欢女，负债两亿已结清，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，没任何微博，微博早被封了，重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证，目前在吃跨性别药，两个月后彻底丧失性欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "liangxied"
+              }
+            ]
+          }
+        },
+        "id": "1829498397184946176",
+        "location": "阴蒂",
+        "name": "凉兮大元帅（白虎）",
+        "pinned_tweet_id": "1900875102960709872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901688257387376640/HvIXhbTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266049,
+          "following_count": 424,
+          "like_count": 178,
+          "listed_count": 453,
+          "media_count": 1226,
+          "tweet_count": 3467
+        },
+        "username": "liangxihuigui",
+        "verified": true
+      }
+    ]
+  }
+}

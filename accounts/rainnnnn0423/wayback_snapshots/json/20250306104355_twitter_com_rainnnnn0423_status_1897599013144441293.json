@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897597242967740849",
+    "created_at": "2025-03-06T10:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T11:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897599013144441293"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1897599013144441293",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897597242967740849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不被尊重，愤怒，厌恶，被冒犯，这些情绪也会进入我的创作里。我不想和现生的人撕破脸也懒得吵架了，祝你妈多活几天吧傻逼支楠。我精神状态非常不好而你正好撞我枪口上了不当面骂你已经是我在忍了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 331,
+        "media_key": "3_1897597240421621761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlWeouIXoAEm_a4.jpg",
+        "width": 633
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897597242967740849",
+        "created_at": "2025-03-06T10:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T11:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897599013144441293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897599013144441293",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897597242967740849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不被尊重，愤怒，厌恶，被冒犯，这些情绪也会进入我的创作里。我不想和现生的人撕破脸也懒得吵架了，祝你妈多活几天吧傻逼支楠。我精神状态非常不好而你正好撞我枪口上了不当面骂你已经是我在忍了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897597240421621761"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897597242967740849",
+        "created_at": "2025-03-06T10:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T11:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897597242967740849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qaZzEpinvW",
+              "end": 44,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1897597242967740849/photo/1",
+              "media_key": "3_1897597240421621761",
+              "start": 21,
+              "url": "https://t.co/qaZzEpinvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897597242967740849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学长哥那你还是去死吧。对我贴脸ky？？？ https://t.co/qaZzEpinvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 349,
+          "like_count": 1340,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2220
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893643869843300795",
+    "created_at": "2025-02-23T12:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T13:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893643869843300795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hungjn98908513…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/hungjn98908513/status/1893480301910991302",
+          "start": 6,
+          "url": "https://t.co/90VRVdo217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893643869843300795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893480301910991302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了。 https://t.co/90VRVdo217"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1694,
+        "media_key": "3_1893480288010764289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkb-SjQWAAE2J4h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893643869843300795",
+        "created_at": "2025-02-23T12:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T13:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893643869843300795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hungjn98908513…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hungjn98908513/status/1893480301910991302",
+              "start": 6,
+              "url": "https://t.co/90VRVdo217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893643869843300795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893480301910991302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了。 https://t.co/90VRVdo217"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893480288010764289"
+          ]
+        },
+        "author_id": "1564942092568514560",
+        "conversation_id": "1893480301910991302",
+        "created_at": "2025-02-23T01:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T02:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893480301910991302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/efyVBOjyYC",
+              "end": 27,
+              "expanded_url": "https://x.com/hungjn98908513/status/1893480301910991302/photo/1",
+              "media_key": "3_1893480288010764289",
+              "start": 4,
+              "url": "https://t.co/efyVBOjyYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893480301910991302",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 23530,
+          "like_count": 354,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "🚫🇨🇳 https://t.co/efyVBOjyYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 282,
+          "like_count": 950,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1613
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T11:44:21.000Z",
+        "description": "維尼不只喜歡蜂蜜，他還喜歡韭菜的味道🥵｜包容LGBTQ🏳️‍🌈🏳️‍⚧️🍥｜支持民進黨🟩｜生物研究學｜台灣國嘉義人｜台獨頑固分子｜粉蛆、深藍民國派、王志安粉、哈馬斯孝子謝絕關注🚫 ☭⃠｜💩=🇨🇳🇷🇺🇧🇾🇰🇵🇵🇸🇱🇧🇮🇷｜歡迎大家關注副帳號: @MaoXi12554",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "MaoXi12554"
+              }
+            ]
+          }
+        },
+        "id": "1564942092568514560",
+        "location": "台灣共和國 嘉義市",
+        "name": "毛澤東最喜歡維尼了🧋🇮🇱🇺🇦",
+        "pinned_tweet_id": "1758840142922739986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869310575341412352/x5e_3Cls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10582,
+          "following_count": 1869,
+          "like_count": 231112,
+          "listed_count": 62,
+          "media_count": 4168,
+          "tweet_count": 14258
+        },
+        "username": "hungjn98908513",
+        "verified": false
+      }
+    ]
+  }
+}

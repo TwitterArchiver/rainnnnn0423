@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1969726793008775313",
+    "created_at": "2025-09-21T11:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T12:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969726793008775313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdosewiki/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/overdosewiki/status/1969721187166306599",
+          "start": 4,
+          "url": "https://t.co/haYB8YmUKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969726793008775313",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969721187166306599",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣🤣🤣 https://t.co/haYB8YmUKk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1969726793008775313",
+        "created_at": "2025-09-21T11:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969726793008775313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdosewiki/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/overdosewiki/status/1969721187166306599",
+              "start": 4,
+              "url": "https://t.co/haYB8YmUKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969726793008775313",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969721187166306599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣🤣🤣 https://t.co/haYB8YmUKk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "1969714371581628505",
+        "created_at": "2025-09-21T11:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969721187166306599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1831567909908574208",
+              "start": 0,
+              "username": "1qva0TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969721187166306599",
+        "in_reply_to_user_id": "1831567909908574208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969720339266769367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1qva0TT 还是梨子大将招魂效率高啊😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 556,
+          "like_count": 4259,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 4024
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92 官方站点。\n非个人账户。\nhttps://t.co/AMQ3wZ2ZaM 官方tg群。\n有关问题可以联系我们。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              },
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 60,
+                "expanded_url": "https://t.me/o_d_wiki",
+                "start": 37,
+                "url": "https://t.co/AMQ3wZ2ZaM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1965855137060319684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969602419240943619/GcbhpGc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 12,
+          "like_count": 392,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

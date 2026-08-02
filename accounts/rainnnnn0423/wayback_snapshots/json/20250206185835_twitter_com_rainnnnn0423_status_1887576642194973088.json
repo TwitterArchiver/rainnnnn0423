@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1887573377067721164",
+    "created_at": "2025-02-06T18:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T19:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887576642194973088"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1887576642194973088",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887574651167215696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另外灯皇还得调理，因为她放不下c团放不下祥子。换我我会留恋曾经的美好，但我感觉不对了就会马上跑路，学会放手也是一种明智的选择。我也干过长期素食那种行为，朋友问我一破动画片你感触这么多，我说因为我经历过不少类似的事所以有感触。\n黑祥都烂成那样了不分留着过年吗？灯皇还是没调理好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887573377067721164",
+        "created_at": "2025-02-06T18:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T19:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887576642194973088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887576642194973088",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887574651167215696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另外灯皇还得调理，因为她放不下c团放不下祥子。换我我会留恋曾经的美好，但我感觉不对了就会马上跑路，学会放手也是一种明智的选择。我也干过长期素食那种行为，朋友问我一破动画片你感触这么多，我说因为我经历过不少类似的事所以有感触。\n黑祥都烂成那样了不分留着过年吗？灯皇还是没调理好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887573377067721164",
+        "created_at": "2025-02-06T18:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T19:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887574651167215696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887574651167215696",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887573377067721164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "追爱音，追素世，然后上去念诗之王。为什么我是go团团粉呢，看到mujica里面go团五个人的画面真的很温馨很感动。然后最重要的一点：她想唱的歌，想拼命呐喊出来的东西，透过屏幕传达给我了，我初中也喜欢往笔记本上面写歌词。\n迷失过不是坏事，能走回来并获得成长就好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 231,
+          "like_count": 646,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 978
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

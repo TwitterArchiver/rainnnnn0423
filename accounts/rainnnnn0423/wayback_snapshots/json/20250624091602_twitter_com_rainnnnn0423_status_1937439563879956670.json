@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1937439563879956670",
+    "created_at": "2025-06-24T09:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T10:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937439563879956670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1609844142313553921",
+          "start": 3,
+          "username": "Nijika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937439563879956670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937412022775521359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nijika_overdose: 主播的身边见到过很多很多影子人，但是主播认识的oder真的没有几个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1937439563879956670",
+        "created_at": "2025-06-24T09:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937439563879956670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1609844142313553921",
+              "start": 3,
+              "username": "Nijika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937439563879956670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937412022775521359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nijika_overdose: 主播的身边见到过很多很多影子人，但是主播认识的oder真的没有几个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609844142313553921",
+        "conversation_id": "1937412022775521359",
+        "created_at": "2025-06-24T07:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T08:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937412022775521359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937412022775521359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主播的身边见到过很多很多影子人，但是主播认识的oder真的没有几个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/双相Ⅱ型/一般路过女高/粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 508,
+          "like_count": 3559,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 3732
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "医学🐶，战地一睾手，跨女，不定时上推回消息。另外药物相关会转到@Nijika_Dark\n请不要将内容搬至墙内，谢谢\noverdose wiki 已死，但感谢所有曾经的来过，期待并相信后人的智慧\n目前在建新站点（下方网页）恢复一些odw或osw的条目\n主包建小群辣！！！群号883781732",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Nijika_Dark"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdosewiki-project.github.io",
+                "end": 23,
+                "expanded_url": "http://overdosewiki-project.github.io",
+                "start": 0,
+                "url": "https://t.co/ZsNk3k0VWV"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "Ijichi Nijika overdose",
+        "pinned_tweet_id": "1919263543729246483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717189338696761344/IAcPRhA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 183,
+          "like_count": 2642,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 1816
+        },
+        "url": "https://t.co/ZsNk3k0VWV",
+        "username": "Nijika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

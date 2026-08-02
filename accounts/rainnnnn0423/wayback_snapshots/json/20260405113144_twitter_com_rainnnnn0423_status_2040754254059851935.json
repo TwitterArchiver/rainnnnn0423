@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2040754254059851935",
+    "created_at": "2026-04-05T11:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040754254059851935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511183108988895240",
+          "start": 3,
+          "username": "judongzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040754254059851935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040643224742633573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @judongzi: 当所有人都以为表男有丰富的权色交易时，其实因为长期吃抗抑郁药这群人早就性欲减退、性唤起减弱、高潮延迟或缺失。但权色交易并非不存在，因为不可以承认自己阳痿，需要重申的论点是，淫趴只是权力实施的表象。所以没有人可以否认表男在操人或被操的时候是痛苦的，这只…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2040754254059851935",
+        "created_at": "2026-04-05T11:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040754254059851935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511183108988895240",
+              "start": 3,
+              "username": "judongzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040754254059851935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040643224742633573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @judongzi: 当所有人都以为表男有丰富的权色交易时，其实因为长期吃抗抑郁药这群人早就性欲减退、性唤起减弱、高潮延迟或缺失。但权色交易并非不存在，因为不可以承认自己阳痿，需要重申的论点是，淫趴只是权力实施的表象。所以没有人可以否认表男在操人或被操的时候是痛苦的，这只…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511183108988895240",
+        "conversation_id": "2040643224742633573",
+        "created_at": "2026-04-05T04:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T05:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040643224742633573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040643224742633573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1001,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "当所有人都以为表男有丰富的权色交易时，其实因为长期吃抗抑郁药这群人早就性欲减退、性唤起减弱、高潮延迟或缺失。但权色交易并非不存在，因为不可以承认自己阳痿，需要重申的论点是，淫趴只是权力实施的表象。所以没有人可以否认表男在操人或被操的时候是痛苦的，这只是权力可实施证明的一种手段而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|我不是键政区吗怎么成⌚姐了|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88 我不吸毒谢谢 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 647,
+          "like_count": 5357,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 4677
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:25:16.000Z",
+        "description": "你私聊我，我没有回，不是我装高冷不理人，海潮咔三个孩子的母亲，上还要赡养老桃，做人老实，上网只是一种娱乐方式。",
+        "id": "1511183108988895240",
+        "name": "behemoth",
+        "pinned_tweet_id": "2034909527846396160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032138137858695168/EAMhJPzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 101,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 220
+        },
+        "username": "judongzi",
+        "verified": false
+      }
+    ]
+  }
+}

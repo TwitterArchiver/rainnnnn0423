@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1883410844731801923",
+    "created_at": "2025-01-26T07:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T08:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883410844731801923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuzhoushuijiao…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yuzhoushuijiao/status/1883187785047359501",
+          "start": 13,
+          "url": "https://t.co/xC7AnUglGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883410844731801923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883187785047359501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人文社科艺术男是这样的😂 https://t.co/xC7AnUglGm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1883410844731801923",
+        "created_at": "2025-01-26T07:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T08:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883410844731801923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuzhoushuijiao…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yuzhoushuijiao/status/1883187785047359501",
+              "start": 13,
+              "url": "https://t.co/xC7AnUglGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883410844731801923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883187785047359501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人文社科艺术男是这样的😂 https://t.co/xC7AnUglGm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843837349449728",
+        "conversation_id": "1883187785047359501",
+        "created_at": "2025-01-25T16:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T17:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883187785047359501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883187785047359501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15152,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文科男真是世界上最恐怖最吓人的物种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 如果看到我半夜大量发推那就是我玉米症犯了。",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 206,
+          "like_count": 342,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 635
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T13:18:18.000Z",
+        "description": "既然已经完蛋，那我们就一起滚来滚去好了",
+        "id": "1837843837349449728",
+        "location": "反差纯爱好文明",
+        "name": "宇宙水饺",
+        "pinned_tweet_id": "1841003996645114314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839328108958371840/4vrL_ap9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4991,
+          "following_count": 100,
+          "like_count": 5948,
+          "listed_count": 8,
+          "media_count": 604,
+          "tweet_count": 4256
+        },
+        "username": "yuzhoushuijiao",
+        "verified": false
+      }
+    ]
+  }
+}

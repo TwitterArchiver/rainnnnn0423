@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046150830777389056"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "2046150839983824963",
+    "created_at": "2026-04-20T08:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046150839983824963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tSbiRUygBA",
+          "end": 107,
+          "expanded_url": "https://x.com/rainnnnn0423/status/2046150839983824963/photo/1",
+          "media_key": "3_2046150830777389056",
+          "start": 84,
+          "url": "https://t.co/tSbiRUygBA"
+        },
+        {
+          "display_url": "x.com/care1337_/stat…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/care1337_/status/2045867710043795763",
+          "start": 108,
+          "url": "https://t.co/2FLzad4kRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046150839983824963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045867710043795763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真别说，我一直吃的就是这种药片很小的右美，这种是分散片，但是药代给我发过来的时候都是拆掉盒子的我忘了哪个厂的了，后面我研究了一下，装进0号胶囊一个最多能装10t这个 https://t.co/tSbiRUygBA https://t.co/2FLzad4kRN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2046150830777389056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVjVvFbUAAoeaP.jpg",
+        "width": 1440
+      },
+      {
+        "height": 589,
+        "media_key": "3_2045867707397263360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRh1yTbUAAVbT8.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046150830777389056"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "2046150839983824963",
+        "created_at": "2026-04-20T08:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046150839983824963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSbiRUygBA",
+              "end": 107,
+              "expanded_url": "https://x.com/rainnnnn0423/status/2046150839983824963/photo/1",
+              "media_key": "3_2046150830777389056",
+              "start": 84,
+              "url": "https://t.co/tSbiRUygBA"
+            },
+            {
+              "display_url": "x.com/care1337_/stat…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/care1337_/status/2045867710043795763",
+              "start": 108,
+              "url": "https://t.co/2FLzad4kRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046150839983824963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045867710043795763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真别说，我一直吃的就是这种药片很小的右美，这种是分散片，但是药代给我发过来的时候都是拆掉盒子的我忘了哪个厂的了，后面我研究了一下，装进0号胶囊一个最多能装10t这个 https://t.co/tSbiRUygBA https://t.co/2FLzad4kRN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045867707397263360"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2045867710043795763",
+        "created_at": "2026-04-19T14:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045867710043795763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZKxq012nE",
+              "end": 155,
+              "expanded_url": "https://x.com/care1337_/status/2045867710043795763/photo/1",
+              "media_key": "3_2045867707397263360",
+              "start": 132,
+              "url": "https://t.co/sZKxq012nE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045867710043795763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以前我们嗑右美沙芬的时候，先吃一周舍曲林，然后30t右美沙芬，直接血清素综合征体验世界毁灭，那个时候白云山也是主流，不过还有一种蓝色盒子的，药片很小很小，神中神，一次能吞十多片\n\n那个时候不用被迫嗑愈美，50t右美沙芬吃完第二天正常去上课，不用闻到尿里愈美的臭味\n\n普瑞巴林也是随便买，早上吃个十多颗高高兴兴上一天的课，就是脸会变黑\n\n金刚烷胺那个时候也很流行，不过我吃了会谵妄，苯海拉索也是热门药\n\n不过那个时候没有苯乙胺，dpt这些东西，偶尔有人买点笑气，依托咪酯（这个是真的爽)\n\n其实我也想回到过去，但我已经长大了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4496,
+          "like_count": 78,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "以前我们嗑右美沙芬的时候，先吃一周舍曲林，然后30t右美沙芬，直接血清素综合征体验世界毁灭，那个时候白云山也是主流，不过还有一种蓝色盒子的，药片很小很小，神中神，一次能吞十多片\n\n那个时候不用被迫嗑愈美，50t右美沙芬吃完第二天正常去上课，不用闻到尿里愈美的臭味 https://t.co/sZKxq012nE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|本号转生为竞小妹|一般路过女高|我不是键政曲吗怎么成⌚姐了|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122🚪88 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "si_an_1122"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2040862365714129402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 652,
+          "like_count": 5523,
+          "listed_count": 4,
+          "media_count": 345,
+          "tweet_count": 4755
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女(mtf)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，喜欢普瑞巴林💊。\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，蓝v互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥🏳️‍⚧️🇯🇵",
+        "pinned_tweet_id": "2045832031062630745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 121,
+          "like_count": 2977,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 1075
+        },
+        "username": "care1337_",
+        "verified": true
+      }
+    ]
+  }
+}

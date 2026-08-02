@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1914629446650478797",
+    "created_at": "2025-04-22T10:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T11:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914629446650478797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhngmozhns9653…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zhngmozhns96536/status/1914344490191688002",
+          "start": 4,
+          "url": "https://t.co/EvehT6pea5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914629446650478797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914344490191688002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我服了 https://t.co/EvehT6pea5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1914629446650478797",
+        "created_at": "2025-04-22T10:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T11:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914629446650478797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhngmozhns9653…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zhngmozhns96536/status/1914344490191688002",
+              "start": 4,
+              "url": "https://t.co/EvehT6pea5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914629446650478797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914344490191688002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我服了 https://t.co/EvehT6pea5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814014290808176640",
+        "conversation_id": "1914344490191688002",
+        "created_at": "2025-04-21T15:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914344490191688002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914344490191688002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15156,
+          "like_count": 238,
+          "quote_count": 19,
+          "reply_count": 60,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "有人为你剥过柚子吗？\n有人在雪地里等你吗？\n有人为你写过情书吗？\n有人为你规划未来吗？\n有人为你小心翼翼吗？\n有人为你整夜失眠吗？\n有人在乎你的生日吗？\n有人主动给你发红包吗？\n有人千方百计愿意为你完成心愿吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 437,
+          "like_count": 2181,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 3227
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T19:08:25.000Z",
+        "description": "🚪200 欢迎互fo  人超级好 话超级多 欢迎私信  粉丝宝宝都来找我聊天好不好🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺 谁入我门我会一直缠着你\n https://t.co/urReXYMRfa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhngmozhns9653…",
+                "end": 90,
+                "expanded_url": "https://ngl.link/zhngmozhns965366740",
+                "start": 67,
+                "url": "https://t.co/urReXYMRfa"
+              }
+            ]
+          }
+        },
+        "id": "1814014290808176640",
+        "location": "焦虑国",
+        "name": "长矛沾屎戳你你死",
+        "pinned_tweet_id": "1911622200517628078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896150008459853824/p2H-ERtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 282,
+          "like_count": 24262,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1592
+        },
+        "username": "zhngmozhns96536",
+        "verified": false
+      }
+    ]
+  }
+}

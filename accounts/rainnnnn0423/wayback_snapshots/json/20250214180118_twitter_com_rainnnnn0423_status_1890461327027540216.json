@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1890461327027540216",
+    "created_at": "2025-02-14T18:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T19:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890461327027540216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890461327027540216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这人太灵活了，如果你是个好看的妹子即使你是支黑我也会跟你玩的。我和支黑的区别就是我还有感情还想救一下，支黑已经失望放弃了。我这人不看立场，看具体行为，即使是我天天骂的粉红，正常日子人不魔怔也是能跟我玩得来的。\n互联网上像我这么理智思考看问题的人不多了，大部分人都蠢货上来情绪输出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890461327027540216",
+        "created_at": "2025-02-14T18:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T19:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890461327027540216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890461327027540216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这人太灵活了，如果你是个好看的妹子即使你是支黑我也会跟你玩的。我和支黑的区别就是我还有感情还想救一下，支黑已经失望放弃了。我这人不看立场，看具体行为，即使是我天天骂的粉红，正常日子人不魔怔也是能跟我玩得来的。\n互联网上像我这么理智思考看问题的人不多了，大部分人都蠢货上来情绪输出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 238,
+          "like_count": 714,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1194
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

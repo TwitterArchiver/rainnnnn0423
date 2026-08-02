@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1919826653598908525",
+    "created_at": "2025-05-06T18:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T19:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919826653598908525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomucrypto/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/xiaomucrypto/status/1919323829618262515",
+          "start": 16,
+          "url": "https://t.co/Iu1fQRk64D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919826653598908525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919323829618262515",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我们这些社交障碍的该怎么办。 https://t.co/Iu1fQRk64D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1919826653598908525",
+        "created_at": "2025-05-06T18:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T19:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919826653598908525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomucrypto/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/xiaomucrypto/status/1919323829618262515",
+              "start": 16,
+              "url": "https://t.co/Iu1fQRk64D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919826653598908525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919323829618262515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我们这些社交障碍的该怎么办。 https://t.co/Iu1fQRk64D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507631541303713793",
+        "conversation_id": "1919323829618262515",
+        "created_at": "2025-05-05T09:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T10:27:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919323161243586930",
+          "1919323829618262515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/btcbruce1/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/btcbruce1/status/1919316098148880551",
+              "start": 55,
+              "url": "https://t.co/rG6vYuPm1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919323829618262515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 427646,
+          "like_count": 101,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919316098148880551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没毛病，必须得向上社交.\n我喜欢注重跟聪明人玩，或者有结果的人玩，\n至于是否向上，我觉得应该也算是向上社交. https://t.co/rG6vYuPm1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 461,
+          "like_count": 2545,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 3486
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T08:12:38.000Z",
+        "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
+        "id": "1507631541303713793",
+        "location": "萨尔瓦多",
+        "name": "川沐｜Trumoo🐮",
+        "pinned_tweet_id": "1918150864759603281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156410,
+          "following_count": 732,
+          "like_count": 5854,
+          "listed_count": 2599,
+          "media_count": 4254,
+          "tweet_count": 9789
+        },
+        "username": "xiaomucrypto",
+        "verified": true
+      }
+    ]
+  }
+}

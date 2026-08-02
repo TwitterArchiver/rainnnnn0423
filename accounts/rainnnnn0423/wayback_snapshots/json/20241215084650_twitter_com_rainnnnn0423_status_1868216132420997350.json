@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1867586830389956608"
+      ],
+      "media_source_tweet_id": [
+        "1867587382389985744"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1868216132420997350",
+    "created_at": "2024-12-15T08:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T09:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868216132420997350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736452884282097665",
+          "start": 3,
+          "username": "RIRENMB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P1tevIA2Sl",
+          "end": 119,
+          "expanded_url": "https://x.com/RIRENMB/status/1867587382389985744/video/1",
+          "media_key": "13_1867586830389956608",
+          "start": 96,
+          "url": "https://t.co/P1tevIA2Sl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868216132420997350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 645
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867587382389985744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RIRENMB: 2024/12/12/发布，近日，已经为数不多在文革中被批斗迫害的老右派知识分子齐聚北京，直指习近平统治下的中国民不聊生！\n位老先生们的风骨点赞👍！祝你们健康长寿！ https://t.co/P1tevIA2Sl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 463128,
+        "height": 544,
+        "media_key": "13_1867586830389956608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1867586830389956608/img/N_Js09eM2wSWChuD.jpg",
+        "public_metrics": {
+          "view_count": 355208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1867586830389956608/vid/avc1/476x270/hisSl-4E4lBZwSCT.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1867586830389956608/vid/avc1/634x360/3YX-u5D12VxsPKT1.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1867586830389956608/vid/avc1/960x544/I-1VUxJbQEKjcH5i.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1867586830389956608/pl/Znq26-0cxbXAlXXq.m3u8?tag=16"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1867586830389956608"
+          ],
+          "media_source_tweet_id": [
+            "1867587382389985744"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1868216132420997350",
+        "created_at": "2024-12-15T08:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T09:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868216132420997350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736452884282097665",
+              "start": 3,
+              "username": "RIRENMB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1tevIA2Sl",
+              "end": 119,
+              "expanded_url": "https://x.com/RIRENMB/status/1867587382389985744/video/1",
+              "media_key": "13_1867586830389956608",
+              "start": 96,
+              "url": "https://t.co/P1tevIA2Sl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868216132420997350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 645
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867587382389985744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RIRENMB: 2024/12/12/发布，近日，已经为数不多在文革中被批斗迫害的老右派知识分子齐聚北京，直指习近平统治下的中国民不聊生！\n位老先生们的风骨点赞👍！祝你们健康长寿！ https://t.co/P1tevIA2Sl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1867586830389956608"
+          ]
+        },
+        "author_id": "1736452884282097665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1867587382389985744",
+        "created_at": "2024-12-13T15:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T16:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867587382389985744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1tevIA2Sl",
+              "end": 106,
+              "expanded_url": "https://x.com/RIRENMB/status/1867587382389985744/video/1",
+              "media_key": "13_1867586830389956608",
+              "start": 83,
+              "url": "https://t.co/P1tevIA2Sl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867587382389985744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 968,
+          "impression_count": 705116,
+          "like_count": 3479,
+          "quote_count": 23,
+          "reply_count": 135,
+          "retweet_count": 645
+        },
+        "reply_settings": "everyone",
+        "text": "2024/12/12/发布，近日，已经为数不多在文革中被批斗迫害的老右派知识分子齐聚北京，直指习近平统治下的中国民不聊生！\n位老先生们的风骨点赞👍！祝你们健康长寿！ https://t.co/P1tevIA2Sl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号不互粉 键政初学者&岁静人",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 35,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T18:27:19.000Z",
+        "description": "喂人民服雾！让公猪爬树！英雄不问出处，梁家河畔养猪！",
+        "id": "1736452884282097665",
+        "location": "洛杉矶",
+        "name": "日人民报",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837269385544683520/zNqzYtkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60849,
+          "following_count": 2133,
+          "like_count": 15404,
+          "listed_count": 170,
+          "media_count": 3143,
+          "tweet_count": 5143
+        },
+        "username": "RIRENMB",
+        "verified": true
+      }
+    ]
+  }
+}

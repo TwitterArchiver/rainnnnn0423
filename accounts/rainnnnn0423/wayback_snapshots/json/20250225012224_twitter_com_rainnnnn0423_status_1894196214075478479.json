@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894192854471512518",
+    "created_at": "2025-02-25T01:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T02:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894196214075478479"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1894196214075478479",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894193894956699794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我姥姥没什么文化，喝了之后就后悔了，可是没办法了。在医院好几天才断气。\n那个阴湿的暑假我五升六，大人们在灵堂里头戴白布哭，我窝在沙发里刷lof。六年级我就开始自残了。\n写这些文字的时候，熟悉的解离感又来了：我真的经历过这一切吗？也许我的人生就是一场大梦呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894192854471512518",
+        "created_at": "2025-02-25T01:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894196214075478479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894196214075478479",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894193894956699794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我姥姥没什么文化，喝了之后就后悔了，可是没办法了。在医院好几天才断气。\n那个阴湿的暑假我五升六，大人们在灵堂里头戴白布哭，我窝在沙发里刷lof。六年级我就开始自残了。\n写这些文字的时候，熟悉的解离感又来了：我真的经历过这一切吗？也许我的人生就是一场大梦呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894192854471512518",
+        "created_at": "2025-02-25T01:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894193894956699794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894193894956699794",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894192854471512518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老一辈爱说的“你们现在抑郁的怎么这么多真矫情”，其实只是老一辈不查不看不治不知道。\n我和我姥姥接触不多，没法判断她，我只知道她重男轻女最不待见我妈，但是我妈很爱她妈，我姥姥喝百草枯自杀以后，她崩溃了好多年最后住进精神病院。代际创伤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 291,
+          "like_count": 989,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1698
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

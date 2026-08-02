@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1882862747450536158",
+    "created_at": "2025-01-24T18:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T19:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882862747450536158"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1882862747450536158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好我是熙雨^^\n通过标签快速了解我：08上海/infp-t/4w5/女的/泛性恋/二次浓度高/画画&amp;cos/混合型抑郁\n不参与任何网络骂战，上推只为图一乐。表号和里号们全部切割，产出都在表号，这里是我碎碎念的地方。\n精神病快治好了，状态基本稳定。偶尔一烟酒割o\n🚪52只纯绿，陪不陪聊得看你人有没有意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1882862747450536158",
+        "created_at": "2025-01-24T18:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T19:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882862747450536158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882862747450536158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是熙雨^^\n通过标签快速了解我：08上海/infp-t/4w5/女的/泛性恋/二次浓度高/画画&amp;cos/混合型抑郁\n不参与任何网络骂战，上推只为图一乐。表号和里号们全部切割，产出都在表号，这里是我碎碎念的地方。\n精神病快治好了，状态基本稳定。偶尔一烟酒割o\n🚪52只纯绿，陪不陪聊得看你人有没有意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 198,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 593
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

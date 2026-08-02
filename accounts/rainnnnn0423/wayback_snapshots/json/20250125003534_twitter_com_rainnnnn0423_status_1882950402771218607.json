@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1882950402771218607",
+    "created_at": "2025-01-25T00:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T01:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882950402771218607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882950402771218607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882846145690603544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 抖音博主巴博斯，发布了九百多条朝鲜的剪辑视频，贡献了数月的将军梗，短短几月便吸粉上百万。谁曾想他在1月1日发布一段天安门的视频，并配文：“麦子熟了五千次，人民万岁是第一次” 史称为了一碟醋包了九百个饺子，蓄势已久就为告诉观众真正的朝鲜在哪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1882950402771218607",
+        "created_at": "2025-01-25T00:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T01:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882950402771218607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882950402771218607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882846145690603544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 抖音博主巴博斯，发布了九百多条朝鲜的剪辑视频，贡献了数月的将军梗，短短几月便吸粉上百万。谁曾想他在1月1日发布一段天安门的视频，并配文：“麦子熟了五千次，人民万岁是第一次” 史称为了一碟醋包了九百个饺子，蓄势已久就为告诉观众真正的朝鲜在哪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882843164819730432",
+            "3_1882843195916316672",
+            "3_1882843224538218496",
+            "3_1882843266892398592"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1882846145690603544",
+        "created_at": "2025-01-24T17:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T18:30:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882843529271251425",
+          "1882846145690603544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6R70j5egX",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1882846145690603544/photo/1",
+              "media_key": "3_1882843164819730432",
+              "start": 121,
+              "url": "https://t.co/t6R70j5egX"
+            },
+            {
+              "display_url": "pic.x.com/t6R70j5egX",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1882846145690603544/photo/1",
+              "media_key": "3_1882843195916316672",
+              "start": 121,
+              "url": "https://t.co/t6R70j5egX"
+            },
+            {
+              "display_url": "pic.x.com/t6R70j5egX",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1882846145690603544/photo/1",
+              "media_key": "3_1882843224538218496",
+              "start": 121,
+              "url": "https://t.co/t6R70j5egX"
+            },
+            {
+              "display_url": "pic.x.com/t6R70j5egX",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1882846145690603544/photo/1",
+              "media_key": "3_1882843266892398592",
+              "start": 121,
+              "url": "https://t.co/t6R70j5egX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882846145690603544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "抖音博主巴博斯，发布了九百多条朝鲜的剪辑视频，贡献了数月的将军梗，短短几月便吸粉上百万。谁曾想他在1月1日发布一段天安门的视频，并配文：“麦子熟了五千次，人民万岁是第一次” 史称为了一碟醋包了九百个饺子，蓄势已久就为告诉观众真正的朝鲜在哪\n1月24日，巴博斯抖音账号被禁止关注，有网友调侃“巴博斯受邀成为朝鲜大型烟试看员” “至此已成艺术，官方认证”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 300307,
+          "like_count": 1261,
+          "quote_count": 7,
+          "reply_count": 65,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "抖音博主巴博斯，发布了九百多条朝鲜的剪辑视频，贡献了数月的将军梗，短短几月便吸粉上百万。谁曾想他在1月1日发布一段天安门的视频，并配文：“麦子熟了五千次，人民万岁是第一次” 史称为了一碟醋包了九百个饺子，蓄势已久就为告诉观众真正的朝鲜在哪… https://t.co/t6R70j5egX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 199,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 598
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1878245513012892001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911438,
+          "following_count": 922,
+          "like_count": 5639,
+          "listed_count": 8004,
+          "media_count": 22509,
+          "tweet_count": 28807
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

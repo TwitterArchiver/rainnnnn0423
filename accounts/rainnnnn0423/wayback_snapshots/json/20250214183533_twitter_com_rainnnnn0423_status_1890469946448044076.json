@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1890461327027540216",
+    "created_at": "2025-02-14T18:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T19:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890469946448044076"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890469946448044076",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890463658313982018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "立场是个人经历与思想认知铸就的路。如果你的童年有一个计划生育下超生的，被重男轻女导致患上精神病的母亲，天天喜怒无常家暴你，在高压环境下严格要求你成绩；青春期在应试教育的囚笼下被压力得确诊精神病；吃两年药后遗症一堆；那你也会像我一样爱好自由成为自由派的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890461327027540216",
+        "created_at": "2025-02-14T18:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T19:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890469946448044076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890469946448044076",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890463658313982018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "立场是个人经历与思想认知铸就的路。如果你的童年有一个计划生育下超生的，被重男轻女导致患上精神病的母亲，天天喜怒无常家暴你，在高压环境下严格要求你成绩；青春期在应试教育的囚笼下被压力得确诊精神病；吃两年药后遗症一堆；那你也会像我一样爱好自由成为自由派的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890461327027540216",
+        "created_at": "2025-02-14T18:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T19:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890463658313982018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890463658313982018",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890461327027540216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么派系只是立场问题。大部分人在自己立场抱团取暖然后四处出征。在我这看行为不看立场，粉红捅日本人我骂，网左小鬼吉列逗蒸我骂，民逗发币我骂，支黑在别人姥姥去世时开香槟我骂。\n骂我的话我是真听的。前提不是情绪输出而且说的有道理。今天刚给人私信说你骂的有道理，然后就是友好交流了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 238,
+          "like_count": 714,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1196
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894460288508072284",
+    "created_at": "2025-02-25T20:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T21:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894482776134750315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757113585384529920",
+          "start": 0,
+          "username": "dnglnghu45201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894482776134750315",
+    "in_reply_to_user_id": "1757113585384529920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894464540995194952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dnglnghu45201 好方法。我的手机备忘录可以拿出来了，我找找有没有打卡软件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894460288508072284",
+        "created_at": "2025-02-25T20:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T21:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894482776134750315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757113585384529920",
+              "start": 0,
+              "username": "dnglnghu45201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894482776134750315",
+        "in_reply_to_user_id": "1757113585384529920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894464540995194952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dnglnghu45201 好方法。我的手机备忘录可以拿出来了，我找找有没有打卡软件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757113585384529920",
+        "conversation_id": "1894460288508072284",
+        "created_at": "2025-02-25T19:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T20:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894464540995194952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894464540995194952",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894460288508072284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 用个本子\n吃药的时候记在本子上噜😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 300,
+          "like_count": 1068,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1836
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:45:12.000Z",
+        "description": "互fo请私/🚪是什么🤔/友LGBTQ＋🌈/不键政就是看一乐/人权＞＞动物权/\n安徽/高三在读😭/养了只非常可爱但是不听话的猫🐱/没什么要@的人\n想成为日本女高中生组乐队喵😃\n不希望有人因为生活上的压力寻短见噜🥺\n会有人一直关心你爱着你（不是视奸😡",
+        "id": "1757113585384529920",
+        "location": "家里",
+        "name": "丁龙徽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757570019876274176/Q1z0Ufwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 177,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 109
+        },
+        "username": "dnglnghu45201",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1894283623182078442",
+    "created_at": "2025-02-25T07:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T08:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894283623182078442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuxi17444/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jiuxi17444/status/1893889286308495593",
+          "start": 14,
+          "url": "https://t.co/W0y0pJmEHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894283623182078442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893889286308495593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "坦克是邓小平，包子是习近平 https://t.co/W0y0pJmEHB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1894283623182078442",
+        "created_at": "2025-02-25T07:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T08:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894283623182078442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuxi17444/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jiuxi17444/status/1893889286308495593",
+              "start": 14,
+              "url": "https://t.co/W0y0pJmEHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894283623182078442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893889286308495593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坦克是邓小平，包子是习近平 https://t.co/W0y0pJmEHB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817115470736293889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1893889286308495593",
+        "created_at": "2025-02-24T05:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T06:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893889286308495593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893889286308495593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3426,
+          "like_count": 68,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "其实鉴证圈是一个巨大的邓小平和习近平：\n安托西㣊是邓小平，毛左是习近平\n自由主义是邓小平，威权主义是习近平\n国际主义是邓小平，民族主义是习近平\n女权和泛女权是邓小平，男权和泛男权是习近平\n民主党支持者是邓小平，共和党支持者是习近平\n民进党支持者是邓小平，国民党支持者是习近平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 298,
+          "like_count": 1028,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1765
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:31:17.000Z",
+        "description": "isfp/新左派/革命女权/丰矿史同壬/使用二简字/支持lgbt/支持🇺🇦🇵🇸/民主计划经济/多党制无专/非毛左注意⚠️⚠️⚠️/最喜欢的黄推@Snowfenfei🥰🥰🥰/恩情还不完@Sww2080😭😭😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Snowfenfei"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "Sww2080"
+              }
+            ]
+          }
+        },
+        "id": "1817115470736293889",
+        "location": "布宜诺斯艾利斯",
+        "name": "艾薇塔归来，看安资米莱土崩瓦解，阿根廷正义党🇦🇷执政之日已经到来",
+        "pinned_tweet_id": "1890011497818128653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881871393249210369/2wOH8U7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1174,
+          "like_count": 36424,
+          "listed_count": 4,
+          "media_count": 467,
+          "tweet_count": 5338
+        },
+        "username": "jiuxi17444",
+        "verified": false
+      }
+    ]
+  }
+}

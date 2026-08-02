@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907578891625173283",
+    "created_at": "2025-04-02T23:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T00:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907578891625173283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1907385108656689377",
+          "start": 116,
+          "url": "https://t.co/KwvM36RBkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907578891625173283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907385108656689377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天我pad开始充不上电了，我吃饭的家伙啊…导致我严重焦虑和被害妄想发作搁那哈气哈了一上午（怕工作文件丢）我平时用1t劳拉能镇静下来，昨天2t还不行直接睡迷糊过去了😭😅\n等今天放学之后我去家旁边苹果店维修…我的那么多心血不要丢了… https://t.co/KwvM36RBkt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_1907385104114319360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhkpXybAAAoshC.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907578891625173283",
+        "created_at": "2025-04-02T23:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T00:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907578891625173283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1907385108656689377",
+              "start": 116,
+              "url": "https://t.co/KwvM36RBkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907578891625173283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907385108656689377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天我pad开始充不上电了，我吃饭的家伙啊…导致我严重焦虑和被害妄想发作搁那哈气哈了一上午（怕工作文件丢）我平时用1t劳拉能镇静下来，昨天2t还不行直接睡迷糊过去了😭😅\n等今天放学之后我去家旁边苹果店维修…我的那么多心血不要丢了… https://t.co/KwvM36RBkt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907385104114319360"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907385108656689377",
+        "created_at": "2025-04-02T10:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907385108656689377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/01wj0K7KAh",
+              "end": 88,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1907385108656689377/photo/1",
+              "media_key": "3_1907385104114319360",
+              "start": 65,
+              "url": "https://t.co/01wj0K7KAh"
+            },
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1907055686191645119",
+              "start": 89,
+              "url": "https://t.co/f0r2yEicVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907385108656689377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907055686191645119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你们🥺今晚24：00之前给我留言，我会给你画无偿签绘www完成度在5分钟-1小时区间，什么角色都行\n最近很忙所以慢慢画hhh https://t.co/01wj0K7KAh https://t.co/f0r2yEicVH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 410,
+          "like_count": 1792,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2847
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

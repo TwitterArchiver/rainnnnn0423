@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894365029748936713"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1894365033234403773",
+    "created_at": "2025-02-25T12:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T13:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894365033234403773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ifCPy1AYGv",
+          "end": 28,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1894365033234403773/photo/1",
+          "media_key": "3_1894365029748936713",
+          "start": 5,
+          "url": "https://t.co/ifCPy1AYGv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894365033234403773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我号炸了 https://t.co/ifCPy1AYGv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_1894365029748936713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkoi9TEbkAkRnz-.jpg",
+        "width": 711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894365029748936713"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1894365033234403773",
+        "created_at": "2025-02-25T12:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T13:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894365033234403773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifCPy1AYGv",
+              "end": 28,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1894365033234403773/photo/1",
+              "media_key": "3_1894365029748936713",
+              "start": 5,
+              "url": "https://t.co/ifCPy1AYGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894365033234403773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我号炸了 https://t.co/ifCPy1AYGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 1,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1801
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

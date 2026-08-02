@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2070863745438671215",
+    "created_at": "2026-06-27T13:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070863745438671215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727273302857822208",
+          "start": 3,
+          "username": "sisi7758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070863745438671215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070545154403143878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sisi7758: 我感觉微信的转账吧都有点考验的意思 真想给你钱的人都是转支付宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2070863745438671215",
+        "created_at": "2026-06-27T13:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070863745438671215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727273302857822208",
+              "start": 3,
+              "username": "sisi7758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070863745438671215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070545154403143878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sisi7758: 我感觉微信的转账吧都有点考验的意思 真想给你钱的人都是转支付宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727273302857822208",
+        "conversation_id": "2070545154403143878",
+        "created_at": "2026-06-26T16:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070545154403143878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070545154403143878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 193242,
+          "like_count": 1929,
+          "quote_count": 10,
+          "reply_count": 290,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉微信的转账吧都有点考验的意思 真想给你钱的人都是转支付宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 651,
+          "like_count": 5881,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4871
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:30:33.000Z",
+        "description": "喜欢女生 小小思@sisidawang123 盗图替我挡灾 推广自辨 谢谢你的喜欢^_^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sisidawang123"
+              }
+            ]
+          }
+        },
+        "id": "1727273302857822208",
+        "location": "加联系方式需要过🚪(｡ì _ í｡) 188/520",
+        "name": "sisi",
+        "pinned_tweet_id": "2070000487500525730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833178858688032768/L96o5aM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13635,
+          "following_count": 10,
+          "like_count": 2489,
+          "listed_count": 33,
+          "media_count": 166,
+          "tweet_count": 1580
+        },
+        "url": "",
+        "username": "sisi7758",
+        "verified": false
+      }
+    ]
+  }
+}

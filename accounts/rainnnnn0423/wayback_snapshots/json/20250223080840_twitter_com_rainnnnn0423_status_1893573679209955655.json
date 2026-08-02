@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893573679209955655",
+    "created_at": "2025-02-23T08:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T09:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893573679209955655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fkmaomaochong/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Fkmaomaochong/status/1893342200718561572",
+          "start": 15,
+          "url": "https://t.co/GalHMfi82V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893573679209955655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893342200718561572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我们泛性恋也留点活路行不。 https://t.co/GalHMfi82V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893573679209955655",
+        "created_at": "2025-02-23T08:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T09:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893573679209955655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fkmaomaochong/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Fkmaomaochong/status/1893342200718561572",
+              "start": 15,
+              "url": "https://t.co/GalHMfi82V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893573679209955655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893342200718561572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我们泛性恋也留点活路行不。 https://t.co/GalHMfi82V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790831068729229312",
+        "conversation_id": "1893342200718561572",
+        "created_at": "2025-02-22T16:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T17:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893342200718561572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893342200718561572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15045,
+          "like_count": 263,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "虽然在被人质问“说的你好像从来不跟男的做一样”的时候打出“我女同”三个字很爽\n但我还是想说\n世界能不能给异性恋女留两分活路\n大清都亡了\n小脚都不用裹了\n女性的性自由怎么还是没有\n而且如果做过爱就是不值得敬佩的女孩\n那麻烦你对所有不是处男的男人骂上一句烂屌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 274,
+          "like_count": 935,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1571
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T19:47:54.000Z",
+        "description": "逻辑小猫没暹罗 ➡️ @qing2202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "qing2202"
+              }
+            ]
+          }
+        },
+        "id": "1790831068729229312",
+        "location": "极乐世界",
+        "name": "₊⁺ ·绒松松· ﾟ ₊",
+        "pinned_tweet_id": "1892210210988605480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834192244641062912/GEb3WfjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32075,
+          "following_count": 81,
+          "like_count": 16867,
+          "listed_count": 35,
+          "media_count": 136,
+          "tweet_count": 4208
+        },
+        "username": "Fkmaomaochong",
+        "verified": false
+      }
+    ]
+  }
+}

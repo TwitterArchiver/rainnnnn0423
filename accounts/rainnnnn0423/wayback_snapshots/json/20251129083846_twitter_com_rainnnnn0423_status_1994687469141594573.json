@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1994687469141594573",
+    "created_at": "2025-11-29T08:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994687469141594573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994687469141594573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994622251715416306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 在我国，所谓“禁毒”从来只是一个政治符号，任何质疑者都要被打成异类。\n普通人无法接触有关毒品的信息，只知道禁毒宣传给他们灌输的名词，却不知何为毒品，为何要禁，也因此无法知道禁毒的论据能否充分支持“禁毒”这一最终目标，却只能支持它。\n于是，当看似自相…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1994687469141594573",
+        "created_at": "2025-11-29T08:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994687469141594573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994687469141594573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994622251715416306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 在我国，所谓“禁毒”从来只是一个政治符号，任何质疑者都要被打成异类。\n普通人无法接触有关毒品的信息，只知道禁毒宣传给他们灌输的名词，却不知何为毒品，为何要禁，也因此无法知道禁毒的论据能否充分支持“禁毒”这一最终目标，却只能支持它。\n于是，当看似自相…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1994622251715416306",
+        "created_at": "2025-11-29T04:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994622251715416306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qqqqqf5/status…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/qqqqqf5/status/1994327593844396493",
+              "start": 144,
+              "url": "https://t.co/EP5X6SCWRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994622251715416306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8380,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994327593844396493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我国，所谓“禁毒”从来只是一个政治符号，任何质疑者都要被打成异类。\n普通人无法接触有关毒品的信息，只知道禁毒宣传给他们灌输的名词，却不知何为毒品，为何要禁，也因此无法知道禁毒的论据能否充分支持“禁毒”这一最终目标，却只能支持它。\n于是，当看似自相矛盾的事情被做出时，这出闹剧就上演了。 https://t.co/EP5X6SCWRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 592,
+          "like_count": 4695,
+          "listed_count": 4,
+          "media_count": 322,
+          "tweet_count": 4249
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 699,
+          "like_count": 14146,
+          "listed_count": 6,
+          "media_count": 177,
+          "tweet_count": 3851
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1926083684475548118",
+    "created_at": "2025-05-24T05:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T06:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926149711414579573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890780517735473152",
+          "start": 0,
+          "username": "wtswaishiteruyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926149711414579573",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926148878086127634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo 报o"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1926148878086127634].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1926148878086127634",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1926148878086127634"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1926083684475548118",
+        "created_at": "2025-05-24T05:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T06:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926149711414579573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890780517735473152",
+              "start": 0,
+              "username": "wtswaishiteruyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926149711414579573",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926148878086127634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo 报o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 粉蛆滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 484,
+          "like_count": 2949,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3604
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "我是精神病",
+        "id": "1890780517735473152",
+        "name": "🐱にゃこ🇲🇰🌸",
+        "pinned_tweet_id": "1926075644292526337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925752373009428480/v5WjFZsg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 298,
+          "like_count": 10597,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 3846
+        },
+        "username": "wtswaishiteruyo",
+        "verified": false
+      }
+    ]
+  }
+}

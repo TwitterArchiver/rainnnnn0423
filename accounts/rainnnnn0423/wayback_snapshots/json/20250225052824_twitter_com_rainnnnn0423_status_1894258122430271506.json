@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894258122430271506",
+    "created_at": "2025-02-25T05:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T06:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894258122430271506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qweomy10364583…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/qweomy10364583/status/1894060935934820534",
+          "start": 21,
+          "url": "https://t.co/aX14178QAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894258122430271506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894060935934820534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想干文援了因为我文字功底强上学又无聊 https://t.co/aX14178QAB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894258122430271506",
+        "created_at": "2025-02-25T05:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T06:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894258122430271506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qweomy10364583…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/qweomy10364583/status/1894060935934820534",
+              "start": 21,
+              "url": "https://t.co/aX14178QAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894258122430271506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894060935934820534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想干文援了因为我文字功底强上学又无聊 https://t.co/aX14178QAB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812419719691186176",
+        "conversation_id": "1894060935934820534",
+        "created_at": "2025-02-24T16:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T17:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894060935934820534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894060935934820534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 978,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一波文援让我赚了快六百"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 298,
+          "like_count": 1022,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1746
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T09:32:04.000Z",
+        "description": "宝宝:@HotLineMiami888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "HotLineMiami888"
+              }
+            ]
+          }
+        },
+        "id": "1812419719691186176",
+        "location": "支黑，介意请b",
+        "name": "新世纪の雨",
+        "pinned_tweet_id": "1894098632791494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894096805970710528/FlONbAIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 693,
+          "like_count": 11139,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 4994
+        },
+        "username": "qweomy10364583",
+        "verified": false
+      }
+    ]
+  }
+}

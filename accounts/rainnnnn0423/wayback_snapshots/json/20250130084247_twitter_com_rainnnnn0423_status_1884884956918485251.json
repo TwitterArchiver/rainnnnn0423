@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884884956918485251",
+    "created_at": "2025-01-30T08:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T09:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884884956918485251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChuTrieuViet/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ChuTrieuViet/status/1884462489452306870",
+          "start": 6,
+          "url": "https://t.co/iC4xGVCxdZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884884956918485251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884462489452306870",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "山东大傻逼 https://t.co/iC4xGVCxdZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884884956918485251",
+        "created_at": "2025-01-30T08:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T09:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884884956918485251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChuTrieuViet/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ChuTrieuViet/status/1884462489452306870",
+              "start": 6,
+              "url": "https://t.co/iC4xGVCxdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884884956918485251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884462489452306870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "山东大傻逼 https://t.co/iC4xGVCxdZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884462482716254208"
+          ]
+        },
+        "author_id": "105972619",
+        "conversation_id": "1884453265406120293",
+        "created_at": "2025-01-29T04:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T05:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884462489452306870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "282522910",
+              "start": 0,
+              "username": "passluo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NnWmcXStj",
+              "end": 32,
+              "expanded_url": "https://x.com/ChuTrieuViet/status/1884462489452306870/photo/1",
+              "media_key": "3_1884462482716254208",
+              "start": 9,
+              "url": "https://t.co/4NnWmcXStj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884462489452306870",
+        "in_reply_to_user_id": "282522910",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 29013,
+          "like_count": 118,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884453265406120293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@passluo https://t.co/4NnWmcXStj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主半夜睡不着大量发表私人思考见解与分享生活点滴的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 215,
+          "like_count": 447,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 763
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-18T03:07:53.000Z",
+        "description": "Everything about Vietnam ^ - ^ 美食美女和重机，主推基调乡村重金属，心有猛虎，细嗅蔷薇，换个角度看问题",
+        "id": "105972619",
+        "location": "大农村",
+        "name": "越南大叔",
+        "pinned_tweet_id": "1630463597934702592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866313428090195968/HSw3Allq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51730,
+          "following_count": 1273,
+          "like_count": 26668,
+          "listed_count": 154,
+          "media_count": 5626,
+          "tweet_count": 23956
+        },
+        "username": "ChuTrieuViet",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1838138133428461611",
+    "created_at": "2024-12-26T08:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T09:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872198917083066628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660510716934361088",
+          "start": 0,
+          "username": "S_Studio42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872198917083066628",
+    "in_reply_to_user_id": "1660510716934361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838138133428461611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Studio42 谢谢老师🥰看过的黄文中质量上乘描写细腻，对着冲了🥰🥰🥰期待一下老师写同性还有大长篇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1838138133428461611",
+        "created_at": "2024-12-26T08:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T09:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872198917083066628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660510716934361088",
+              "start": 0,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872198917083066628",
+        "in_reply_to_user_id": "1660510716934361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838138133428461611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Studio42 谢谢老师🥰看过的黄文中质量上乘描写细腻，对着冲了🥰🥰🥰期待一下老师写同性还有大长篇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "1838138133428461611",
+        "created_at": "2024-09-23T08:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T09:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838138133428461611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838138133428461611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 401255,
+          "like_count": 306,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "男，不接推广，不加联系方式，不线下。\n\n文字均为个人性幻想。视主题情节变化，故事三观亦不尽相同。如有冒犯还请谅解。\n\n产出全凭灵感，不定期更新。\n催更和夸夸我都会看，只是一一回复难免千篇一律，所以会以点赞回应（并非高冷）。\n\n真诚感谢各位的喜欢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号不互粉 键政初学者&岁静人 胡言乱语",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1870025100889923699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 80,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 129
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "1838138133428461611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36850,
+          "following_count": 111,
+          "like_count": 6507,
+          "listed_count": 48,
+          "media_count": 17,
+          "tweet_count": 1359
+        },
+        "username": "S_Studio42",
+        "verified": false
+      }
+    ]
+  }
+}

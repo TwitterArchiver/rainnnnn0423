@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907013054380077243",
+    "created_at": "2025-04-02T01:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T02:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907238785290731882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829498397184946176",
+          "start": 0,
+          "username": "liangxihuigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907238785290731882",
+    "in_reply_to_user_id": "1829498397184946176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907013054380077243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangxihuigui 将军…元帅…爹…我也是精神病…快让椰儿统计名单…我要跪求他把我加进去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907012440778477568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncRtgraEAAbRZX.jpg",
+        "width": 876
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907013045500686337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncSQtcasAEgbHw.jpg",
+        "width": 882
+      },
+      {
+        "height": 1514,
+        "media_key": "3_1907012440765915136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncRtgoaYAACb8I.jpg",
+        "width": 656
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1907013046977089536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncSQy8a0AAGhKu.jpg",
+        "width": 509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907013054380077243",
+        "created_at": "2025-04-02T01:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T02:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907238785290731882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829498397184946176",
+              "start": 0,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907238785290731882",
+        "in_reply_to_user_id": "1829498397184946176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907013054380077243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangxihuigui 将军…元帅…爹…我也是精神病…快让椰儿统计名单…我要跪求他把我加进去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907012440778477568",
+            "3_1907013045500686337",
+            "3_1907012440765915136",
+            "3_1907013046977089536"
+          ]
+        },
+        "author_id": "1829498397184946176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907013054380077243",
+        "created_at": "2025-04-01T10:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T11:09:35.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907012459376099792",
+          "1907012511079276980",
+          "1907012693397283313",
+          "1907013054380077243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzeca9TW07",
+              "end": 170,
+              "expanded_url": "https://x.com/liangxihuigui/status/1907013054380077243/photo/1",
+              "media_key": "3_1907012440778477568",
+              "start": 147,
+              "url": "https://t.co/fzeca9TW07"
+            },
+            {
+              "display_url": "pic.x.com/fzeca9TW07",
+              "end": 170,
+              "expanded_url": "https://x.com/liangxihuigui/status/1907013054380077243/photo/1",
+              "media_key": "3_1907013045500686337",
+              "start": 147,
+              "url": "https://t.co/fzeca9TW07"
+            },
+            {
+              "display_url": "pic.x.com/fzeca9TW07",
+              "end": 170,
+              "expanded_url": "https://x.com/liangxihuigui/status/1907013054380077243/photo/1",
+              "media_key": "3_1907012440765915136",
+              "start": 147,
+              "url": "https://t.co/fzeca9TW07"
+            },
+            {
+              "display_url": "pic.x.com/fzeca9TW07",
+              "end": 170,
+              "expanded_url": "https://x.com/liangxihuigui/status/1907013054380077243/photo/1",
+              "media_key": "3_1907013046977089536",
+              "start": 147,
+              "url": "https://t.co/fzeca9TW07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907013054380077243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "听说推特的几个最疯狂的精神病干起来了？地雷系视觉系的大boss们发生内斗了，我劝你们早日和好，我可以给你们每人转1000，你们都和好吧，别撕逼了，别让外人看我们精神病的笑话，你们作为地雷系的大boss，没事聚在一块自残嗑药，应该团结一心，我本来以为你们经常群p滥交，原来都有对象啊，居然是因为男女之间争吵起来的，我们精神病们都要团结起来，不能让外人看我们笑话啊，虽然我跟你们不认识，\n\n但我也属于地雷男地雷女，自残、魔爪精神不好的，我朋友也有很多你们的共同好友，我粉丝也都开始了解这个精神病圈，而且现在地雷系视觉系精神病们开始在抖音火起来了，你们在推特上要团结一心，不能让外人看我们的笑话，给我个面子吧，我给你们每人转1000块钱你们和好吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 127569,
+          "like_count": 113,
+          "quote_count": 7,
+          "reply_count": 131,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "听说推特的几个最疯狂的精神病干起来了？地雷系视觉系的大boss们发生内斗了，我劝你们早日和好，我可以给你们每人转1000，你们都和好吧，别撕逼了，别让外人看我们精神病的笑话，你们作为地雷系的大boss，没事聚在一块自残嗑药，应该团结一心，我本来以为你们经常群p滥交，原来都有对象啊，居然是因为 https://t.co/fzeca9TW07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 403,
+          "like_count": 1737,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2827
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:36:57.000Z",
+        "description": "凉兮本人，性别男，喜欢女，负债两亿已结清，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，没任何微博，微博早被封了，重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证，目前在吃跨性别药，两个月后彻底丧失性欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "liangxied"
+              }
+            ]
+          }
+        },
+        "id": "1829498397184946176",
+        "location": "阴蒂",
+        "name": "凉兮大元帅（白虎）",
+        "pinned_tweet_id": "1900875102960709872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901688257387376640/HvIXhbTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287011,
+          "following_count": 425,
+          "like_count": 178,
+          "listed_count": 478,
+          "media_count": 1281,
+          "tweet_count": 3591
+        },
+        "username": "liangxihuigui",
+        "verified": true
+      }
+    ]
+  }
+}

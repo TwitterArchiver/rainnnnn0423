@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1905827284915015975",
+    "created_at": "2025-03-29T03:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T04:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905827284915015975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KFCQZ/status/1…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/KFCQZ/status/1905800317398380651",
+          "start": 57,
+          "url": "https://t.co/RrNYMBPETw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905827284915015975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905800317398380651",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣🤣🤣李颖真要哈气了，他确实格局不够。真坦荡就应该给k总发五千李币，听不得看不得接受不了一点批评这不是习近平吗？ https://t.co/RrNYMBPETw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1323,
+        "media_key": "3_1905799263575212032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnLCVTaaAAArOKg.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1905827284915015975",
+        "created_at": "2025-03-29T03:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T04:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905827284915015975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KFCQZ/status/1…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/KFCQZ/status/1905800317398380651",
+              "start": 57,
+              "url": "https://t.co/RrNYMBPETw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905827284915015975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905800317398380651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣🤣🤣李颖真要哈气了，他确实格局不够。真坦荡就应该给k总发五千李币，听不得看不得接受不了一点批评这不是习近平吗？ https://t.co/RrNYMBPETw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905799263575212032"
+          ]
+        },
+        "author_id": "1447513784650633219",
+        "conversation_id": "1905800317398380651",
+        "created_at": "2025-03-29T01:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T02:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905800317398380651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0eUxj4Ece",
+              "end": 137,
+              "expanded_url": "https://x.com/KFCQZ/status/1905800317398380651/photo/1",
+              "media_key": "3_1905799263575212032",
+              "start": 114,
+              "url": "https://t.co/H0eUxj4Ece"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905800317398380651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7250,
+          "like_count": 141,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "没人相信我是为了李币，我反而真怕李老师给我发李币。李颖还是读书少了，完全不懂商鞅变法“城门立木”的故事。如果他兑现承诺，虽然被我捣乱打脸，但反而对他是最有利的，诚信立起来。\n反共圈顶流，就这种破格局，真不是我故意小瞧他们🤏🏻。 https://t.co/H0eUxj4Ece"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高，忙了偶尔上推 最近msk又炸我私信箱一直打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 386,
+          "like_count": 1675,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2730
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T10:46:11.000Z",
+        "description": "Time will tell",
+        "id": "1447513784650633219",
+        "name": "K总",
+        "pinned_tweet_id": "1828407996734669055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820376767493783552/pnm0yKNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10636,
+          "following_count": 736,
+          "like_count": 92004,
+          "listed_count": 79,
+          "media_count": 1049,
+          "tweet_count": 5691
+        },
+        "username": "KFCQZ",
+        "verified": false
+      }
+    ]
+  }
+}

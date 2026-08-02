@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2027657061253955683",
+    "created_at": "2026-02-28T10:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027687060224807380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027687060224807380",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027657061253955683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psych_Angel_ 祝好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2027657061253955683].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2027657061253955683",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2027657061253955683"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2027657061253955683",
+        "created_at": "2026-02-28T10:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027687060224807380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027687060224807380",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027657061253955683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ 祝好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2026316161751597531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 612,
+          "like_count": 5000,
+          "listed_count": 4,
+          "media_count": 335,
+          "tweet_count": 4531
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜Lover🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "shungleemain"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0Aryf51"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2017031778201194624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 795,
+          "like_count": 31938,
+          "listed_count": 1,
+          "media_count": 915,
+          "tweet_count": 14072
+        },
+        "url": "https://t.co/OpK0Aryf51",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

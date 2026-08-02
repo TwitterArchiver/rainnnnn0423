@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1889314931683864996",
+    "created_at": "2025-02-11T14:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T15:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889314931683864996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/charming_whw/s…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/charming_whw/status/1888814190657425463",
+          "start": 66,
+          "url": "https://t.co/VvIQ183JU5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889314931683864996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888814190657425463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的想写我的东西。\n这个时代＋大概率涉政＝rh\n我爱国的爱法是和粉蛆们不一样的。我爱这片土地，所以才想骂一些东西。外国我都懒得骂 https://t.co/VvIQ183JU5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889314931683864996",
+        "created_at": "2025-02-11T14:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T15:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889314931683864996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/charming_whw/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/charming_whw/status/1888814190657425463",
+              "start": 66,
+              "url": "https://t.co/VvIQ183JU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889314931683864996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888814190657425463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的想写我的东西。\n这个时代＋大概率涉政＝rh\n我爱国的爱法是和粉蛆们不一样的。我爱这片土地，所以才想骂一些东西。外国我都懒得骂 https://t.co/VvIQ183JU5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888814167328772096"
+          ]
+        },
+        "author_id": "1631131566813618177",
+        "conversation_id": "1888814190657425463",
+        "created_at": "2025-02-10T04:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T05:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888814190657425463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpdbvVqa55",
+              "end": 116,
+              "expanded_url": "https://x.com/charming_whw/status/1888814190657425463/photo/1",
+              "media_key": "3_1888814167328772096",
+              "start": 93,
+              "url": "https://t.co/GpdbvVqa55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888814190657425463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 47293,
+          "like_count": 853,
+          "quote_count": 13,
+          "reply_count": 54,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "对于二次元辱华，我有一套自己的处理原则：\n声优辱华——这下不得不看了😋\n作品辱华——这下不得不看了 😋\n作品完结后作者辱华——这下不得不看了 😋\n运营和制作组辱华——这下不得不看了 😋 https://t.co/GpdbvVqa55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 234,
+          "like_count": 671,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1065
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:17:33.000Z",
+        "description": "二次元/共产主义/原神",
+        "id": "1631131566813618177",
+        "location": "国棉十七厂",
+        "name": "青春王佐少年不会梦到走姿派美少女",
+        "pinned_tweet_id": "1755533592216863152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872330407590416385/bLD1a4Hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3462,
+          "following_count": 2225,
+          "like_count": 26703,
+          "listed_count": 11,
+          "media_count": 486,
+          "tweet_count": 5802
+        },
+        "username": "charming_whw",
+        "verified": true
+      }
+    ]
+  }
+}

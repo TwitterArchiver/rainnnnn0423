@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2032671294785830961",
+    "created_at": "2026-03-14T04:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T05:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032671294785830961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aibaoTVwsfrch/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/aibaoTVwsfrch/status/2032431626173796613",
+          "start": 14,
+          "url": "https://t.co/T9oogDk7My"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032671294785830961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032431626173796613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好神圣卧槽怎么能画这么像的 https://t.co/T9oogDk7My"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2032431541503356928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSlt_2bcAAlH_K.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2032431541440409600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSlt_na8AAWlhN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2032431541494980608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSlt_0boAAWBf4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2032431541478166528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSlt_wbEAAqCVj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2032671294785830961",
+        "created_at": "2026-03-14T04:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032671294785830961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aibaoTVwsfrch/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/aibaoTVwsfrch/status/2032431626173796613",
+              "start": 14,
+              "url": "https://t.co/T9oogDk7My"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032671294785830961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032431626173796613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好神圣卧槽怎么能画这么像的 https://t.co/T9oogDk7My"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032431541503356928",
+            "3_2032431541440409600",
+            "3_2032431541494980608",
+            "3_2032431541478166528"
+          ]
+        },
+        "author_id": "1788903051220119552",
+        "conversation_id": "2032431626173796613",
+        "created_at": "2026-03-13T12:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032431626173796613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/erYMGSeimS",
+              "end": 35,
+              "expanded_url": "https://x.com/aibaoTVwsfrch/status/2032431626173796613/photo/1",
+              "media_key": "3_2032431541503356928",
+              "start": 12,
+              "url": "https://t.co/erYMGSeimS"
+            },
+            {
+              "display_url": "pic.x.com/erYMGSeimS",
+              "end": 35,
+              "expanded_url": "https://x.com/aibaoTVwsfrch/status/2032431626173796613/photo/1",
+              "media_key": "3_2032431541440409600",
+              "start": 12,
+              "url": "https://t.co/erYMGSeimS"
+            },
+            {
+              "display_url": "pic.x.com/erYMGSeimS",
+              "end": 35,
+              "expanded_url": "https://x.com/aibaoTVwsfrch/status/2032431626173796613/photo/1",
+              "media_key": "3_2032431541494980608",
+              "start": 12,
+              "url": "https://t.co/erYMGSeimS"
+            },
+            {
+              "display_url": "pic.x.com/erYMGSeimS",
+              "end": 35,
+              "expanded_url": "https://x.com/aibaoTVwsfrch/status/2032431626173796613/photo/1",
+              "media_key": "3_2032431541478166528",
+              "start": 12,
+              "url": "https://t.co/erYMGSeimS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032431626173796613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5732,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "分享，在学校画的习大大 https://t.co/erYMGSeimS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2029885847835922693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 616,
+          "like_count": 5124,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 4572
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T12:05:21.000Z",
+        "description": "我不混圈。搞娘化纯属自娱自乐。",
+        "id": "1788903051220119552",
+        "name": "爱包TV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014696405462638592/n9JnV1C8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 22,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 81
+        },
+        "username": "aibaoTVwsfrch",
+        "verified": false
+      }
+    ]
+  }
+}

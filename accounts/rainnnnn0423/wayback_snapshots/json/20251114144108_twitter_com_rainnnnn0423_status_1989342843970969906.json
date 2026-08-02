@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1989342843970969906",
+    "created_at": "2025-11-14T14:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T15:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989342843970969906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/1989065710014976016",
+          "start": 13,
+          "url": "https://t.co/7JfP8sHu4q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989342843970969906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989065710014976016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个赞掉落一个熙雨小知识 https://t.co/7JfP8sHu4q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1989342843970969906",
+        "created_at": "2025-11-14T14:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989342843970969906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/1989065710014976016",
+              "start": 13,
+              "url": "https://t.co/7JfP8sHu4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989342843970969906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989065710014976016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个赞掉落一个熙雨小知识 https://t.co/7JfP8sHu4q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989065710014976016",
+        "created_at": "2025-11-13T20:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T21:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989065710014976016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainduRhinns/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/RainduRhinns/status/1989039521565143446",
+              "start": 14,
+              "url": "https://t.co/eaGBjt0iXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989065710014976016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2759,
+          "like_count": 34,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989039521565143446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个赞掉落一个vvv小知识 https://t.co/eaGBjt0iXA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 591,
+          "like_count": 4573,
+          "listed_count": 4,
+          "media_count": 318,
+          "tweet_count": 4187
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 140,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 153
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

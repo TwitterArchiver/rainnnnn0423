@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897553226028998770",
+    "created_at": "2025-03-06T07:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T08:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897553226028998770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CPUP2024/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/CPUP2024/status/1897473486899306804",
+          "start": 10,
+          "url": "https://t.co/kwJTgYd3SN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897553226028998770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897473486899306804",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目田一直松散得很的 https://t.co/kwJTgYd3SN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_1897473480519741440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlUuE8kacAAA3Xn.jpg",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897553226028998770",
+        "created_at": "2025-03-06T07:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T08:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897553226028998770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CPUP2024/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/CPUP2024/status/1897473486899306804",
+              "start": 10,
+              "url": "https://t.co/kwJTgYd3SN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897553226028998770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897473486899306804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目田一直松散得很的 https://t.co/kwJTgYd3SN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897473480519741440"
+          ]
+        },
+        "author_id": "1799308675158605825",
+        "conversation_id": "1897473486899306804",
+        "created_at": "2025-03-06T02:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T03:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897473486899306804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1Eg6EbaXL",
+              "end": 29,
+              "expanded_url": "https://x.com/CPUP2024/status/1897473486899306804/photo/1",
+              "media_key": "3_1897473480519741440",
+              "start": 6,
+              "url": "https://t.co/n1Eg6EbaXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897473486899306804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5697,
+          "like_count": 181,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "这话没毛病 https://t.co/n1Eg6EbaXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 347,
+          "like_count": 1331,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 2204
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "#葱娘巡回推友企划 此为原建制派bot号，原号乙烷，不会申诉了，本来不考虑建新号，但我左右脑互搏已经搞出新号了：@mikulovermua  期望于岁静和淡键政（但压根没有停止…）本人非粉蛆，但很骄傲做某些人嘴里的粉蛆。ally&非二元性别 不要忘记我们的骄傲🏳️‍🌈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "葱娘巡回推友企划"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华人民共和国PRC🇨🇳",
+        "name": "迷人的葱娘酱miku🇨🇳",
+        "pinned_tweet_id": "1889303617393594428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893849875676291072/2JvelayU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 818,
+          "like_count": 18613,
+          "listed_count": 17,
+          "media_count": 363,
+          "tweet_count": 4300
+        },
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1898807956701085932",
+    "created_at": "2025-03-09T18:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T19:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898807956701085932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1836276354041495553",
+          "start": 3,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898807956701085932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898725848678592743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CABR_Lies: 后藤、在墙内拿od当梗玩娱乐化od的精神小妹精神小伙 传播od导致ymsf列管普瑞巴林列危的所有人，你们的妈妈都被我仅自己可见了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1898807956701085932",
+        "created_at": "2025-03-09T18:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T19:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898807956701085932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1836276354041495553",
+              "start": 3,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898807956701085932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898725848678592743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CABR_Lies: 后藤、在墙内拿od当梗玩娱乐化od的精神小妹精神小伙 传播od导致ymsf列管普瑞巴林列危的所有人，你们的妈妈都被我仅自己可见了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836276354041495553",
+        "conversation_id": "1898725848678592743",
+        "created_at": "2025-03-09T13:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T14:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898725848678592743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898725848678592743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4954,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "后藤、在墙内拿od当梗玩娱乐化od的精神小妹精神小伙 传播od导致ymsf列管普瑞巴林列危的所有人，你们的妈妈都被我仅自己可见了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博树洞🗑偷着键政 写点什么留下存在过的痕迹",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 357,
+          "like_count": 1437,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2346
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低智商低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt 我是DizzyRichter可以叫我毒枭｜he/them｜𝑈𝑛𝑡𝑖𝑙 𝑇ℎ𝑒 𝐿𝑖𝑔ℎ𝑡 𝑇𝑎𝑘𝑒𝑠 𝑈𝑠",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "shtwt"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cabr_lies",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cabr_lies",
+                "start": 0,
+                "url": "https://t.co/SXYG9wwfaJ"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898084958872236032/fUbjhiLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 98,
+          "like_count": 16372,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 7217
+        },
+        "url": "https://t.co/SXYG9wwfaJ",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

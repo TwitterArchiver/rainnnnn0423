@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897305602143207617",
+    "created_at": "2025-03-05T15:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T16:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897305602143207617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CnHpaHky/statu…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/CnHpaHky/status/1897225690656989206",
+          "start": 75,
+          "url": "https://t.co/82cewictlv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897305602143207617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897225690656989206",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的有人会吃朋友的醋吗，大家都是朋友，她也可以有更多朋友呀，我也希望她被很多人喜欢呀。卧槽你在和哪个聊天笑那么开心，你为什么不回我消息，我要捅死你。 https://t.co/82cewictlv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897305602143207617",
+        "created_at": "2025-03-05T15:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T16:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897305602143207617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CnHpaHky/statu…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/CnHpaHky/status/1897225690656989206",
+              "start": 75,
+              "url": "https://t.co/82cewictlv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897305602143207617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897225690656989206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的有人会吃朋友的醋吗，大家都是朋友，她也可以有更多朋友呀，我也希望她被很多人喜欢呀。卧槽你在和哪个聊天笑那么开心，你为什么不回我消息，我要捅死你。 https://t.co/82cewictlv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1897225690656989206",
+        "created_at": "2025-03-05T10:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T11:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897225690656989206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wu691718283233…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/wu6917182832335/status/1897225468182716613",
+              "start": 75,
+              "url": "https://t.co/fppnWMgf5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897225690656989206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 830,
+          "like_count": 21,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897225468182716613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的有人会吃朋友的醋吗，大家都是朋友，她也可以有更多朋友呀，我也希望她被很多人喜欢呀。卧槽你在和哪个聊天笑那么开心，你为什么不回我消息，我要捅死你。 https://t.co/fppnWMgf5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 345,
+          "like_count": 1303,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2167
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Bluesky同名，防走丢可提前前往blue sky。俄罗斯是一个大实验室，中国是一个精神病院。Void @Sayols_  @MikuMiku3648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "Sayols_"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "MikuMiku3648"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "location": "Neverland",
+        "name": "fallen stars",
+        "pinned_tweet_id": "1896975396509507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895357639879524352/W86f868N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 786,
+          "like_count": 3198,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 2395
+        },
+        "username": "CnHpaHky",
+        "verified": false
+      }
+    ]
+  }
+}

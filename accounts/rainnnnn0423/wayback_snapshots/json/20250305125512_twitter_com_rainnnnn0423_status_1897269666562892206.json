@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897136236105695705",
+    "created_at": "2025-03-05T12:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T13:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897269666562892206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1818097500575891457",
+          "start": 0,
+          "username": "moeTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897269666562892206",
+    "in_reply_to_user_id": "1818097500575891457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897136236105695705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeTvT 带我一个🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897136236105695705",
+        "created_at": "2025-03-05T12:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T13:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897269666562892206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1818097500575891457",
+              "start": 0,
+              "username": "moeTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897269666562892206",
+        "in_reply_to_user_id": "1818097500575891457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897136236105695705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeTvT 带我一个🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818097500575891457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1897136236105695705",
+        "created_at": "2025-03-05T04:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T05:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897136236105695705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EricLDaugh/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/EricLDaugh/status/1897089056133276027",
+              "start": 13,
+              "url": "https://t.co/R9bHdJDbvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897136236105695705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897089056133276027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要住白宫 谁支持本大王 https://t.co/R9bHdJDbvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 340,
+          "like_count": 1292,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2159
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T01:33:24.000Z",
+        "description": "♥️🐱@wtswaishiteruyo\n可以叫我澪澪/Mio\n我是宅女，欢迎宅宅们跟我玩^_^女宝互关大欢迎！\n不键政|品客勿扰|看黄的不准关注我|被我拉黑就是因为我讨厌你|随缘回关|喜欢萌萌的东西|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "wtswaishiteruyo"
+              }
+            ]
+          }
+        },
+        "id": "1818097500575891457",
+        "location": "空を見上げて",
+        "name": "Mio大王666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877574138493390848/_fJPUWYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1092,
+          "like_count": 54168,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 4614
+        },
+        "username": "moeTvT",
+        "verified": false
+      }
+    ]
+  }
+}

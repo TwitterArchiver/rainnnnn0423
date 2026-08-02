@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1905831151924629589",
+    "created_at": "2025-03-29T03:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T04:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905831151924629589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847153221900685312",
+          "start": 3,
+          "username": "MelissaLoptr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905831151924629589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905641577449669089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MelissaLoptr: 所有，所有所有没有前人踏足确定可以安全od的药物都不可以o。精神门诊开的治疗用药物也不可以。没有任何爽感，只有对精神的摧残。不要盲目追求药效与幻觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1905831151924629589",
+        "created_at": "2025-03-29T03:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T04:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905831151924629589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847153221900685312",
+              "start": 3,
+              "username": "MelissaLoptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905831151924629589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905641577449669089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MelissaLoptr: 所有，所有所有没有前人踏足确定可以安全od的药物都不可以o。精神门诊开的治疗用药物也不可以。没有任何爽感，只有对精神的摧残。不要盲目追求药效与幻觉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847153221900685312",
+        "conversation_id": "1905639138298396784",
+        "created_at": "2025-03-28T15:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T16:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905641577449669089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905641577449669089",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7889,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905640095295906151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有，所有所有没有前人踏足确定可以安全od的药物都不可以o。精神门诊开的治疗用药物也不可以。没有任何爽感，只有对精神的摧残。不要盲目追求药效与幻觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高，忙了偶尔上推 最近msk又炸我私信箱一直打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 386,
+          "like_count": 1676,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2735
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病垢/陰キャ▪️我谁也不是▪️東京在住、接线下，过门槛后开放▪️没有福利没有非绿只有纯绿和聊天。",
+        "id": "1847153221900685312",
+        "location": "🚪门槛188/288/520▪️",
+        "name": "匿名",
+        "pinned_tweet_id": "1886404944393314796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901238328063913984/OM-i3Acj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 199,
+          "like_count": 302,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 594
+        },
+        "username": "MelissaLoptr",
+        "verified": false
+      }
+    ]
+  }
+}

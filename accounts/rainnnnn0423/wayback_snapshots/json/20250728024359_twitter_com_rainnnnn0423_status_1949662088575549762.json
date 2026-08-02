@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1949375080695468534",
+    "created_at": "2025-07-28T02:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T03:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949662088575549762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750804799031824384",
+          "start": 0,
+          "username": "lizi5202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949662088575549762",
+    "in_reply_to_user_id": "1750804799031824384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949375080695468534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizi5202 奈雪的霸气橙子😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1949375080695468534",
+        "created_at": "2025-07-28T02:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T03:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949662088575549762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750804799031824384",
+              "start": 0,
+              "username": "lizi5202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949662088575549762",
+        "in_reply_to_user_id": "1750804799031824384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949375080695468534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizi5202 奈雪的霸气橙子😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750804799031824384",
+        "conversation_id": "1949375080695468534",
+        "created_at": "2025-07-27T07:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T08:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949375080695468534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949375080695468534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8041,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 91,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推友点奶茶喜欢喝什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "请听雨的声音。|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 521,
+          "like_count": 3955,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 3870
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "西郊有密林，助君出重围",
+        "id": "1750804799031824384",
+        "location": "月之森女子学园",
+        "name": "枫糖小漓莫",
+        "pinned_tweet_id": "1941489600012448048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1366,
+          "like_count": 14434,
+          "listed_count": 4,
+          "media_count": 551,
+          "tweet_count": 5860
+        },
+        "username": "lizi5202",
+        "verified": false
+      }
+    ]
+  }
+}

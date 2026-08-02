@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1880196436777902558",
+    "created_at": "2025-01-17T10:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T11:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880196436777902558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangzhian8848/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/wangzhian8848/status/1879802526259912780",
+          "start": 19,
+          "url": "https://t.co/mFV2lqHLmj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880196436777902558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879802526259912780",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对，今天骂习近平给我微信号黄牌警告😅 https://t.co/mFV2lqHLmj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1880196436777902558",
+        "created_at": "2025-01-17T10:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T11:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880196436777902558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangzhian8848/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/wangzhian8848/status/1879802526259912780",
+              "start": 19,
+              "url": "https://t.co/mFV2lqHLmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880196436777902558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879802526259912780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对，今天骂习近平给我微信号黄牌警告😅 https://t.co/mFV2lqHLmj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072109417200414720",
+        "conversation_id": "1879802526259912780",
+        "created_at": "2025-01-16T08:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T09:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879802526259912780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879802526259912780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 416031,
+          "like_count": 1006,
+          "quote_count": 8,
+          "reply_count": 184,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我对海外的持不同政见群体说句话，最好不要用微信群。微信群都是透明的，这点儿常识应该有。\n\n在群里吵来吵群，我觉得老共在后台看着这些，笑都笑死了。\n\n换成海外社交软件有那么难么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 173,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 389
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329170,
+          "following_count": 639,
+          "like_count": 237,
+          "listed_count": 3567,
+          "media_count": 3500,
+          "tweet_count": 14433
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true
+      }
+    ]
+  }
+}

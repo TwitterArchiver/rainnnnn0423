@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1881051200193499544",
+    "created_at": "2025-01-19T18:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T19:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881051200193499544"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1881051200193499544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦还有我时不时会感到情绪低落焦虑，可以怀疑是药物影响了，之前我一直解释为生理上犯玉玉了，因为不是每次发作都有刺激源\n我有一点怀疑是舍曲林哪天忘吃了导致的，但吃了也就那样没吃也就那样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1881051200193499544",
+        "created_at": "2025-01-19T18:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T19:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881051200193499544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881051200193499544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦还有我时不时会感到情绪低落焦虑，可以怀疑是药物影响了，之前我一直解释为生理上犯玉玉了，因为不是每次发作都有刺激源\n我有一点怀疑是舍曲林哪天忘吃了导致的，但吃了也就那样没吃也就那样吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 176,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 462
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

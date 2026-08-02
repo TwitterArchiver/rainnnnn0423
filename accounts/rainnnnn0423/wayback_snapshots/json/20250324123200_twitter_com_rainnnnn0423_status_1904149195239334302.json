@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1904149195239334302",
+    "created_at": "2025-03-24T12:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T13:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904149195239334302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1747931023277502465",
+          "start": 3,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904149195239334302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903846500884750496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @damatte8964: 其实我看到男的对女的好被说是龟男，女的对男的好被说是娇妻这种事情还挺难过的。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1904149195239334302",
+        "created_at": "2025-03-24T12:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T13:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904149195239334302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1747931023277502465",
+              "start": 3,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904149195239334302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903846500884750496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @damatte8964: 其实我看到男的对女的好被说是龟男，女的对男的好被说是娇妻这种事情还挺难过的。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1903846500884750496",
+        "created_at": "2025-03-23T16:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903846500884750496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903846500884750496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 52565,
+          "like_count": 634,
+          "quote_count": 11,
+          "reply_count": 50,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "其实我看到男的对女的好被说是龟男，女的对男的好被说是娇妻这种事情还挺难过的。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政抽象曲 最近msk又炸我私信箱一直打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 372,
+          "like_count": 1650,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2654
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*｜我系小咪呀｜ACG｜ボカロ｜感谢你来看我OwO",
+        "id": "1747931023277502465",
+        "location": "🚪99纯绿（挂着防骚扰）",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891825641173233664/0vpWJGfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31678,
+          "following_count": 659,
+          "like_count": 5065,
+          "listed_count": 37,
+          "media_count": 102,
+          "tweet_count": 1703
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

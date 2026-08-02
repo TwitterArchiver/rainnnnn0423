@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1898408254222557365",
+    "created_at": "2025-03-08T16:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T17:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898408254222557365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1898396283821551964",
+          "start": 54,
+          "url": "https://t.co/ZknRBRqwV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898408254222557365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898396283821551964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "越看越发现自己丢失了太多记忆了。很多事情我都没印象。老师们知道我精神病很严重，都在担心我自杀。我不会死的。 https://t.co/ZknRBRqwV8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1898408254222557365",
+        "created_at": "2025-03-08T16:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T17:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898408254222557365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1898396283821551964",
+              "start": 54,
+              "url": "https://t.co/ZknRBRqwV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898408254222557365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898396283821551964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "越看越发现自己丢失了太多记忆了。很多事情我都没印象。老师们知道我精神病很严重，都在担心我自杀。我不会死的。 https://t.co/ZknRBRqwV8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1898396283821551964",
+        "created_at": "2025-03-08T15:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898396283821551964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1898385800536195466",
+              "start": 23,
+              "url": "https://t.co/6YBdZa9L3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898396283821551964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898385800536195466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生活还是得留点记录 不然都不知道自己在干什么 https://t.co/6YBdZa9L3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭上推发发疯",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 353,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2307
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885102045742666202",
+    "created_at": "2025-01-30T23:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T00:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885109613428957345"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1885109613428957345",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885102045742666202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有 这玩意娱乐一下方便自己认识自己就好\n我他妈朋友圈真有蝶皇信面包体信魔怔了，天天敏感脆弱小蝴蝶，说找对象找互补的我们infp要找estj，脑子有病。姐妹我知道你，你的猪脑子里装的都是抖音唐氏男主播，天天幻想跟自己后男友拍唐氏抖音小视频，你是我这些高中现充同学里唐得比较有代表性的一个了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885102045742666202",
+        "created_at": "2025-01-30T23:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T00:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885109613428957345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885109613428957345",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885102045742666202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有 这玩意娱乐一下方便自己认识自己就好\n我他妈朋友圈真有蝶皇信面包体信魔怔了，天天敏感脆弱小蝴蝶，说找对象找互补的我们infp要找estj，脑子有病。姐妹我知道你，你的猪脑子里装的都是抖音唐氏男主播，天天幻想跟自己后男友拍唐氏抖音小视频，你是我这些高中现充同学里唐得比较有代表性的一个了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885102045742666202",
+        "created_at": "2025-01-30T23:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T00:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885102045742666202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 37,
+              "tag": "16Personalities"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 73,
+              "id": "612476419",
+              "start": 57,
+              "username": "16Personalities"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "16personalities.com/ch/infp-%e4%ba…",
+              "end": 36,
+              "expanded_url": "https://www.16personalities.com/ch/infp-%e4%ba%ba%e6%a0%bc",
+              "start": 13,
+              "status": 200,
+              "title": "INFP性格 (调停者) | 16Personalities",
+              "unwound_url": "https://www.16personalities.com/ch/infp-%e4%ba%ba%e6%a0%bc",
+              "url": "https://t.co/gIEnkLj85u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885102045742666202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "INFP性格 (调停者) https://t.co/gIEnkLj85u #16Personalities 来自 @16Personalities"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主说悄悄话的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 221,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 795
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

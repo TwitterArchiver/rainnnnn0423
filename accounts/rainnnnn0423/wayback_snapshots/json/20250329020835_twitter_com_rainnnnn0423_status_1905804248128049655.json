@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1905802886866694167",
+    "created_at": "2025-03-29T02:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T03:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905804248128049655"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905804248128049655",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905802886866694167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "钱真的从小到大都在内耗，我现在还在慢慢调理。昨天跟我妈说我这两年花钱猛我怀疑是无意识报复性消费。当然了孩子大了花销肯定更多啊。我消费习惯极差且严重内耗，也是这段时间细想我买谷就当投资了 还是得管住手心铁一点，心不狠优柔寡断没法win的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1905802886866694167",
+        "created_at": "2025-03-29T02:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T03:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905804248128049655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905804248128049655",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905802886866694167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "钱真的从小到大都在内耗，我现在还在慢慢调理。昨天跟我妈说我这两年花钱猛我怀疑是无意识报复性消费。当然了孩子大了花销肯定更多啊。我消费习惯极差且严重内耗，也是这段时间细想我买谷就当投资了 还是得管住手心铁一点，心不狠优柔寡断没法win的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1905802886866694167",
+        "created_at": "2025-03-29T02:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T03:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905802886866694167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1905788624811246055",
+              "start": 22,
+              "url": "https://t.co/be69hEa2zO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905802886866694167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905788624811246055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "市场规则是共通的 我只能说二次元傻逼比较多 https://t.co/be69hEa2zO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高，忙了偶尔上推 最近msk又炸我私信箱一直打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 386,
+          "like_count": 1675,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2723
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

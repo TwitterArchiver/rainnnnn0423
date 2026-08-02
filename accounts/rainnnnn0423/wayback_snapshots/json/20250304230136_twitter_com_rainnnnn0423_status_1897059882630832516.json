@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897059882630832516",
+    "created_at": "2025-03-04T23:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T00:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897059882630832516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "28940967",
+          "start": 3,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897059882630832516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896708176776769780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lidangzzz: 2025年以前：这个世界是由一个个草台班子组成的。\n\n2025年：这个世界是由一个个疯子、暴躁偏执狂、超雄中老年人、双相情感障碍、重度精神病人组成的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897059882630832516",
+        "created_at": "2025-03-04T23:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T00:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897059882630832516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "28940967",
+              "start": 3,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897059882630832516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896708176776769780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lidangzzz: 2025年以前：这个世界是由一个个草台班子组成的。\n\n2025年：这个世界是由一个个疯子、暴躁偏执狂、超雄中老年人、双相情感障碍、重度精神病人组成的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28940967",
+        "conversation_id": "1896708176776769780",
+        "created_at": "2025-03-03T23:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T00:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896708176776769780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896708176776769780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 496908,
+          "like_count": 1995,
+          "quote_count": 7,
+          "reply_count": 61,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "2025年以前：这个世界是由一个个草台班子组成的。\n\n2025年：这个世界是由一个个疯子、暴躁偏执狂、超雄中老年人、双相情感障碍、重度精神病人组成的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 336,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2131
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房、劝人学CS计算机第一人）",
+        "pinned_tweet_id": "1806640806452744310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586577,
+          "following_count": 2643,
+          "like_count": 24837,
+          "listed_count": 3638,
+          "media_count": 7685,
+          "tweet_count": 36296
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

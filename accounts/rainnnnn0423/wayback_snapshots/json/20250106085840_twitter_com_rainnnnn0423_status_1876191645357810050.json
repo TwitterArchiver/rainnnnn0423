@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1876191645357810050",
+    "created_at": "2025-01-06T08:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T09:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876191645357810050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854099041396899840",
+          "start": 3,
+          "username": "4698pjxbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876191645357810050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875894986790805648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4698pjxbs: 还是中国风景这边独好：\n小孩上学不内卷不跳楼、学生毕业就有工作、打工人收入丰裕朝九晚五双休拉满、年轻人买的起房结得起婚、生育率平稳健康发展、男女同工同酬没有就业歧视、官员清正廉洁为民办事、总体经济稳中向好、台湾人民翘首盼统一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1876191645357810050",
+        "created_at": "2025-01-06T08:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T09:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876191645357810050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854099041396899840",
+              "start": 3,
+              "username": "4698pjxbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876191645357810050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875894986790805648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4698pjxbs: 还是中国风景这边独好：\n小孩上学不内卷不跳楼、学生毕业就有工作、打工人收入丰裕朝九晚五双休拉满、年轻人买的起房结得起婚、生育率平稳健康发展、男女同工同酬没有就业歧视、官员清正廉洁为民办事、总体经济稳中向好、台湾人民翘首盼统一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854099041396899840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1875894986790805648",
+        "created_at": "2025-01-05T13:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T14:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875894986790805648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shucaileibaozh…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/shucaileibaozh/status/1875865327541854682",
+              "start": 113,
+              "url": "https://t.co/hRtxJwDzRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875894986790805648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3934,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875865327541854682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是中国风景这边独好：\n小孩上学不内卷不跳楼、学生毕业就有工作、打工人收入丰裕朝九晚五双休拉满、年轻人买的起房结得起婚、生育率平稳健康发展、男女同工同酬没有就业歧视、官员清正廉洁为民办事、总体经济稳中向好、台湾人民翘首盼统一 https://t.co/hRtxJwDzRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 132,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 251
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:52:30.000Z",
+        "description": "135左派，246右派，星期天乐子人",
+        "id": "1854099041396899840",
+        "name": "张春桥🇵🇸🇧🇷🇿🇦",
+        "pinned_tweet_id": "1873581650346676294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863187644697743361/9fWAcHv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 339,
+          "like_count": 2011,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 1123
+        },
+        "username": "4698pjxbs",
+        "verified": false
+      }
+    ]
+  }
+}

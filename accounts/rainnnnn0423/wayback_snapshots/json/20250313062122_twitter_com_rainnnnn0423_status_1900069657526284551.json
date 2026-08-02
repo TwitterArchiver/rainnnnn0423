@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1900069657526284551",
+    "created_at": "2025-03-13T06:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T07:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900069657526284551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cupric_oxide_/…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/cupric_oxide_/status/1900016000978083915",
+          "start": 122,
+          "url": "https://t.co/hXpNKs8c2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900069657526284551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900016000978083915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每一个不理我的朋友，我都会在心中狠狠的扣分，我这个人并不是像表面看起来一样友好，包容性强，我的控制欲特别强，特别容易吃醋，不要以为我看似性格好就可以把我抛在一边，虽然我嘴上还是会说没事的没事的，只要不理我或者长的丑的经常骚扰我，我就会厌恶ta https://t.co/hXpNKs8c2X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1900069657526284551",
+        "created_at": "2025-03-13T06:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T07:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900069657526284551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cupric_oxide_/…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/cupric_oxide_/status/1900016000978083915",
+              "start": 122,
+              "url": "https://t.co/hXpNKs8c2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900069657526284551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900016000978083915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每一个不理我的朋友，我都会在心中狠狠的扣分，我这个人并不是像表面看起来一样友好，包容性强，我的控制欲特别强，特别容易吃醋，不要以为我看似性格好就可以把我抛在一边，虽然我嘴上还是会说没事的没事的，只要不理我或者长的丑的经常骚扰我，我就会厌恶ta https://t.co/hXpNKs8c2X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798017061131874304",
+        "conversation_id": "1900016000978083915",
+        "created_at": "2025-03-13T02:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T03:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900016000978083915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/menntikorosei/…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/menntikorosei/status/1899900677595492597",
+              "start": 122,
+              "url": "https://t.co/mmTjT9dvFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900016000978083915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 882,
+          "like_count": 14,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899900677595492597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每一个不理我的朋友，我都会在心中狠狠的扣分，我这个人并不是像表面看起来一样友好，包容性强，我的控制欲特别强，特别容易吃醋，不要以为我看似性格好就可以把我抛在一边，虽然我嘴上还是会说没事的没事的，只要不理我或者长的丑的经常骚扰我，我就会厌恶ta https://t.co/mmTjT9dvFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博日记🗑偷着键 粉红滚建制派滚懒得吵架",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 362,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 2430
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "好盆友：@ci_shang85157\n\n提问↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cupric_oxide_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cupric_oxide_",
+                "start": 0,
+                "url": "https://t.co/MQWBfhwtLz"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "南门二",
+        "name": "氧化铜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813853619403538432/6azYMx2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 1082,
+          "like_count": 20138,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 2868
+        },
+        "url": "https://t.co/MQWBfhwtLz",
+        "username": "cupric_oxide_",
+        "verified": false
+      }
+    ]
+  }
+}

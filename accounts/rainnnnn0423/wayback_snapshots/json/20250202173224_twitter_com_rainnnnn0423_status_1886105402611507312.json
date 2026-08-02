@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1886105402611507312",
+    "created_at": "2025-02-02T17:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T18:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886105402611507312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QingyunH48652/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/QingyunH48652/status/1885947687176151386",
+          "start": 12,
+          "url": "https://t.co/ABfpulbfvK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886105402611507312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885947687176151386",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😰我之前还蛮爱看他油管 https://t.co/ABfpulbfvK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886105402611507312",
+        "created_at": "2025-02-02T17:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T18:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886105402611507312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QingyunH48652/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/QingyunH48652/status/1885947687176151386",
+              "start": 12,
+              "url": "https://t.co/ABfpulbfvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886105402611507312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885947687176151386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😰我之前还蛮爱看他油管 https://t.co/ABfpulbfvK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885947678590488576",
+            "3_1885947678594568192",
+            "3_1885947678590443520",
+            "3_1885947678598815744"
+          ]
+        },
+        "author_id": "1715650984565985280",
+        "conversation_id": "1885947687176151386",
+        "created_at": "2025-02-02T07:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T08:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885947687176151386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZNOylr9a9",
+              "end": 127,
+              "expanded_url": "https://x.com/QingyunH48652/status/1885947687176151386/photo/1",
+              "media_key": "3_1885947678590488576",
+              "start": 104,
+              "url": "https://t.co/SZNOylr9a9"
+            },
+            {
+              "display_url": "pic.x.com/SZNOylr9a9",
+              "end": 127,
+              "expanded_url": "https://x.com/QingyunH48652/status/1885947687176151386/photo/1",
+              "media_key": "3_1885947678594568192",
+              "start": 104,
+              "url": "https://t.co/SZNOylr9a9"
+            },
+            {
+              "display_url": "pic.x.com/SZNOylr9a9",
+              "end": 127,
+              "expanded_url": "https://x.com/QingyunH48652/status/1885947687176151386/photo/1",
+              "media_key": "3_1885947678590443520",
+              "start": 104,
+              "url": "https://t.co/SZNOylr9a9"
+            },
+            {
+              "display_url": "pic.x.com/SZNOylr9a9",
+              "end": 127,
+              "expanded_url": "https://x.com/QingyunH48652/status/1885947687176151386/photo/1",
+              "media_key": "3_1885947678598815744",
+              "start": 104,
+              "url": "https://t.co/SZNOylr9a9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885947687176151386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16692,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我取关二大爷的原因就是\n\n他是真的喜欢传谣\n\n而且对于传谣没有任何的心理负担\n\n完全没有正经自媒体人，说错了，我道歉的态度\n\n可能他和王局一样，在推特上就是喜欢胡咧咧\n\n问题是，王局在推特上也不会造谣传谣啊 https://t.co/SZNOylr9a9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 228,
+          "like_count": 581,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 913
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T08:47:45.000Z",
+        "description": "就算在2B的世界中，我也自认为是脑残之王。",
+        "id": "1715650984565985280",
+        "location": "曼谷",
+        "name": "小小上上狼",
+        "pinned_tweet_id": "1881941843480621297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856448710496174080/mR5XCMhg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5038,
+          "following_count": 194,
+          "like_count": 364,
+          "listed_count": 16,
+          "media_count": 286,
+          "tweet_count": 2211
+        },
+        "username": "QingyunH48652",
+        "verified": true
+      }
+    ]
+  }
+}

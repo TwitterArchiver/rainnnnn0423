@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1882133348447137910",
+    "created_at": "2025-01-22T18:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T19:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882133348447137910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuziyet/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yuziyet/status/1881777483953119268",
+          "start": 13,
+          "url": "https://t.co/9ASNC0qhoN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882133348447137910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881777483953119268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "王冬就是当男当女都精彩👍 https://t.co/9ASNC0qhoN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1882133348447137910",
+        "created_at": "2025-01-22T18:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T19:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882133348447137910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuziyet/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yuziyet/status/1881777483953119268",
+              "start": 13,
+              "url": "https://t.co/9ASNC0qhoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882133348447137910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881777483953119268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王冬就是当男当女都精彩👍 https://t.co/9ASNC0qhoN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881777429162655744"
+          ]
+        },
+        "author_id": "1631638629452861440",
+        "conversation_id": "1881777483953119268",
+        "created_at": "2025-01-21T18:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T19:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881777483953119268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4olTiDZhha",
+              "end": 35,
+              "expanded_url": "https://x.com/yuziyet/status/1881777483953119268/photo/1",
+              "media_key": "3_1881777429162655744",
+              "start": 12,
+              "url": "https://t.co/4olTiDZhha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881777483953119268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 62571,
+          "like_count": 678,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "发现男友是男同被迫男装 https://t.co/4olTiDZhha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 189,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 547
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T12:52:30.000Z",
+        "description": "玉，无性别，可以凭感觉判断我的性别。\n好说话，不要开太过分的玩笑和黄色笑话。\n扩列私信，同好直接➕",
+        "id": "1631638629452861440",
+        "name": "玉无名",
+        "pinned_tweet_id": "1743308962441892094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876719519005069312/bXtW08M6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 1048,
+          "like_count": 21868,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 484
+        },
+        "username": "yuziyet",
+        "verified": false
+      }
+    ]
+  }
+}

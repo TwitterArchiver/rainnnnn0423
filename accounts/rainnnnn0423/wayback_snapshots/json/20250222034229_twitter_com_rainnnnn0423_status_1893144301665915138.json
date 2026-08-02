@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893144301665915138",
+    "created_at": "2025-02-22T03:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T04:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893144301665915138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/strawberry0121…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/strawberry01210/status/1892569758257537229",
+          "start": 6,
+          "url": "https://t.co/enz9Ku77dN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893144301665915138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892569758257537229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样。 https://t.co/enz9Ku77dN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893144301665915138",
+        "created_at": "2025-02-22T03:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T04:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893144301665915138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/strawberry0121…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/strawberry01210/status/1892569758257537229",
+              "start": 6,
+              "url": "https://t.co/enz9Ku77dN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893144301665915138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892569758257537229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样。 https://t.co/enz9Ku77dN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370054760980606982",
+        "conversation_id": "1892569758257537229",
+        "created_at": "2025-02-20T13:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T14:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892569758257537229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892569758257537229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 399137,
+          "like_count": 1944,
+          "quote_count": 55,
+          "reply_count": 117,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "大学的男朋友曾经熬夜刷完了我三千多条微博，后来再也没谈过如此势均力敌的阴暗逼了，颇为遗憾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 266,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1506
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-11T16:51:33.000Z",
+        "description": "本世纪最怪",
+        "id": "1370054760980606982",
+        "name": "士多啤梨🍓",
+        "pinned_tweet_id": "1843683402027016668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790396213185159169/LCq4hmvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 384,
+          "like_count": 13962,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1549
+        },
+        "username": "strawberry01210",
+        "verified": false
+      }
+    ]
+  }
+}

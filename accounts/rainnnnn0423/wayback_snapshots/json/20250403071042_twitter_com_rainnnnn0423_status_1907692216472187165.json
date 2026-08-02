@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907626250136436736"
+      ],
+      "media_source_tweet_id": [
+        "1907626251830927681"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907692216472187165",
+    "created_at": "2025-04-03T07:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T08:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907692216472187165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "28940967",
+          "start": 3,
+          "username": "lidangzzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E7Bg3sYHqw",
+          "end": 84,
+          "expanded_url": "https://x.com/lidangzzz/status/1907626251830927681/photo/1",
+          "media_key": "3_1907626250136436736",
+          "start": 61,
+          "url": "https://t.co/E7Bg3sYHqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907692216472187165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907626251830927681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lidangzzz: 小粉红：感谢speed哥让全世界看清楚中国！\n\n全世界：太对了，这次终于彻底看清楚中国了！ https://t.co/E7Bg3sYHqw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1907626250136436736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnk_96uXwAAM0dA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907626250136436736"
+          ],
+          "media_source_tweet_id": [
+            "1907626251830927681"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907692216472187165",
+        "created_at": "2025-04-03T07:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907692216472187165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "28940967",
+              "start": 3,
+              "username": "lidangzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7Bg3sYHqw",
+              "end": 84,
+              "expanded_url": "https://x.com/lidangzzz/status/1907626251830927681/photo/1",
+              "media_key": "3_1907626250136436736",
+              "start": 61,
+              "url": "https://t.co/E7Bg3sYHqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907692216472187165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907626251830927681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lidangzzz: 小粉红：感谢speed哥让全世界看清楚中国！\n\n全世界：太对了，这次终于彻底看清楚中国了！ https://t.co/E7Bg3sYHqw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907626250136436736"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "1907626251830927681",
+        "created_at": "2025-04-03T02:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907626251830927681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7Bg3sYHqw",
+              "end": 69,
+              "expanded_url": "https://x.com/lidangzzz/status/1907626251830927681/photo/1",
+              "media_key": "3_1907626250136436736",
+              "start": 46,
+              "url": "https://t.co/E7Bg3sYHqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907626251830927681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 79095,
+          "like_count": 185,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小粉红：感谢speed哥让全世界看清楚中国！\n\n全世界：太对了，这次终于彻底看清楚中国了！ https://t.co/E7Bg3sYHqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 410,
+          "like_count": 1805,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2864
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （臭骂具身智能、劝人卖房、劝人学CS计算机第一人）",
+        "pinned_tweet_id": "1806640806452744310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590549,
+          "following_count": 2651,
+          "like_count": 25199,
+          "listed_count": 3633,
+          "media_count": 7820,
+          "tweet_count": 37018
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

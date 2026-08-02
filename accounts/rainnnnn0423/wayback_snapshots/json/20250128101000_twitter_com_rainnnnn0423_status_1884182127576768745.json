@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884182127576768745",
+    "created_at": "2025-01-28T10:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T11:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884182127576768745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1743608022348488704",
+          "start": 3,
+          "username": "FLSaiKou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884182127576768745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883904755648626767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FLSaiKou: Deepseek出来后我只有一种深深的失望，因为某种程度上它在为高考正名\n从研发人员几乎都是陆本出身来看，高考体制在中国的大基数下足以筛选出满足任何需求的人才，这就加深了既有的刻板印象：“高考就是最合理的制度”，而这很不幸地足以用来进一步迫害不适应高…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884182127576768745",
+        "created_at": "2025-01-28T10:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T11:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884182127576768745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743608022348488704",
+              "start": 3,
+              "username": "FLSaiKou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884182127576768745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883904755648626767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FLSaiKou: Deepseek出来后我只有一种深深的失望，因为某种程度上它在为高考正名\n从研发人员几乎都是陆本出身来看，高考体制在中国的大基数下足以筛选出满足任何需求的人才，这就加深了既有的刻板印象：“高考就是最合理的制度”，而这很不幸地足以用来进一步迫害不适应高…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743608022348488704",
+        "conversation_id": "1883904755648626767",
+        "created_at": "2025-01-27T15:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T16:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883904755648626767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883904755648626767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 49384,
+          "like_count": 271,
+          "quote_count": 17,
+          "reply_count": 69,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "Deepseek出来后我只有一种深深的失望，因为某种程度上它在为高考正名\n从研发人员几乎都是陆本出身来看，高考体制在中国的大基数下足以筛选出满足任何需求的人才，这就加深了既有的刻板印象：“高考就是最合理的制度”，而这很不幸地足以用来进一步迫害不适应高考的人。\n谁叫高考便宜又“有效”呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我碎碎念刷屏的里号！",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 210,
+          "like_count": 382,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 710
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T12:21:37.000Z",
+        "description": "07/深圳退休役做题家/润途预备/废人/",
+        "id": "1743608022348488704",
+        "name": "御药袋 清奈",
+        "pinned_tweet_id": "1859619076337008716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871563915265794048/n5V5Xrwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 127,
+          "like_count": 6554,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1748
+        },
+        "username": "FLSaiKou",
+        "verified": false
+      }
+    ]
+  }
+}

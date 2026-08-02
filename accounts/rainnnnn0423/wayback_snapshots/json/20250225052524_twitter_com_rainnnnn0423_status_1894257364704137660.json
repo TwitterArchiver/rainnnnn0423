@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894257364704137660",
+    "created_at": "2025-02-25T05:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T06:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894257364704137660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1851254945984741376",
+          "start": 3,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894257364704137660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893867314799321508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LastExeX01: 六四镇压死的全是政治立场偏左派的工人学生，这下“反革命暴乱”了🤣👉\n为什么不提提，在五月底试图让驻扎在广场上的军队镇压的时候，军队差点发生哗变的事情呢？哦，原来是士兵们已经和抗议的工人学生交好了啊。\n邓小平还需要从外地调集和工人学生不认识的军队，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894257364704137660",
+        "created_at": "2025-02-25T05:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T06:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894257364704137660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1851254945984741376",
+              "start": 3,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894257364704137660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893867314799321508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LastExeX01: 六四镇压死的全是政治立场偏左派的工人学生，这下“反革命暴乱”了🤣👉\n为什么不提提，在五月底试图让驻扎在广场上的军队镇压的时候，军队差点发生哗变的事情呢？哦，原来是士兵们已经和抗议的工人学生交好了啊。\n邓小平还需要从外地调集和工人学生不认识的军队，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851254945984741376",
+        "conversation_id": "1893867314799321508",
+        "created_at": "2025-02-24T03:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T04:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893867314799321508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jixshng114514/…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/jixshng114514/status/1893656922429006047",
+              "start": 133,
+              "url": "https://t.co/Ykve32aMls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893867314799321508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 28087,
+          "like_count": 350,
+          "quote_count": 4,
+          "reply_count": 33,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893656922429006047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六四镇压死的全是政治立场偏左派的工人学生，这下“反革命暴乱”了🤣👉\n为什么不提提，在五月底试图让驻扎在广场上的军队镇压的时候，军队差点发生哗变的事情呢？哦，原来是士兵们已经和抗议的工人学生交好了啊。\n邓小平还需要从外地调集和工人学生不认识的军队，才能顺利执行清场。 https://t.co/Ykve32aMls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 297,
+          "like_count": 1022,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1744
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "本人的成分就写在这，方便查成分：\n\n📚革命马克思主义🚩🏴┃各尽其能各取所需┃苏维埃宪政主义🏛️┃启蒙思想🗽┃🎭威权手段和自由社会┃🌐世界主义┃LGBT+性解放🏳️‍🌈┃去民族化的市镇民主联邦🏢┃知识应共享🏴‍☠️┃战争即骗局，唯有革命正义┃♻️生态可持续发展",
+        "id": "1851254945984741376",
+        "location": "被二次血染的喀琅施塔得",
+        "name": "一般通过索科洛夫",
+        "pinned_tweet_id": "1888517031693058437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892532407125069824/W8Py10I9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 106,
+          "like_count": 3734,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 1561
+        },
+        "username": "LastExeX01",
+        "verified": false
+      }
+    ]
+  }
+}

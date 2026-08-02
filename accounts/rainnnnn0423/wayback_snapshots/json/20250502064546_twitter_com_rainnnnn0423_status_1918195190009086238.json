@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1918195190009086238",
+    "created_at": "2025-05-02T06:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T07:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918195190009086238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shishishidifuf…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/shishishidifufu/status/1917900279657431508",
+          "start": 17,
+          "url": "https://t.co/6qd6dqQS6H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918195190009086238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917900279657431508",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我上网看到最喜欢的一个活动了 https://t.co/6qd6dqQS6H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_1917900276402724864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp3AI9GboAAemtQ.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1918195190009086238",
+        "created_at": "2025-05-02T06:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T07:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918195190009086238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shishishidifuf…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/shishishidifufu/status/1917900279657431508",
+              "start": 17,
+              "url": "https://t.co/6qd6dqQS6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918195190009086238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917900279657431508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我上网看到最喜欢的一个活动了 https://t.co/6qd6dqQS6H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917900276402724864"
+          ]
+        },
+        "author_id": "1477695390619254794",
+        "conversation_id": "1917900279657431508",
+        "created_at": "2025-05-01T11:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917900279657431508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wc8MVAV6Nq",
+              "end": 23,
+              "expanded_url": "https://x.com/shishishidifufu/status/1917900279657431508/photo/1",
+              "media_key": "3_1917900276402724864",
+              "start": 0,
+              "url": "https://t.co/wc8MVAV6Nq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917900279657431508",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 29388,
+          "like_count": 434,
+          "quote_count": 11,
+          "reply_count": 45,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wc8MVAV6Nq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 457,
+          "like_count": 2404,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3403
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T17:37:04.000Z",
+        "description": "我是史蒂夫 想和大家交朋友｜看包浆梗图 享百味人生｜language🇨🇳🇺🇸🇯🇵｜可以互fo❤️由于频繁目前不会全部回关，想互关麻烦私信，不论成分都会回关的٩(๑^o^๑)۶｜不鉴证🧐｜多多指教性格友好😘 若有冒犯请您指出🍀｜试试史蒂夫推荐的梯子？相当于给史蒂夫买瓶水噢谢谢啦(◍•ᴗ•◍)包好用的😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.shidifu.me",
+                "end": 23,
+                "expanded_url": "http://vpn.shidifu.me",
+                "start": 0,
+                "url": "https://t.co/ZfTKJVxQj8"
+              }
+            ]
+          }
+        },
+        "id": "1477695390619254794",
+        "location": "5元150g/月不限速机场 史蒂夫倾力推荐👇",
+        "name": "史蒂夫（不论成分互fo记得私信）",
+        "pinned_tweet_id": "1915438317363224787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910709431391920128/Dv1O0A-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 588,
+          "like_count": 542,
+          "listed_count": 2,
+          "media_count": 587,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/ZfTKJVxQj8",
+        "username": "shishishidifufu",
+        "verified": false
+      }
+    ]
+  }
+}

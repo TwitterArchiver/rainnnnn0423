@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1889390439465468269",
+    "created_at": "2025-02-11T19:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T20:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889390439465468269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/Cldeop/status/1889253361922507159",
+          "start": 58,
+          "url": "https://t.co/SDGZfov1R0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889390439465468269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889253361922507159",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "寄吧的最烦这些傻逼炒作狗\n强烈反对卷自残但是再给我碰到我就把我23年血图拍对面脸上，张张精品我现在还没事欣赏一下。 https://t.co/SDGZfov1R0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889390439465468269",
+        "created_at": "2025-02-11T19:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T20:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889390439465468269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Cldeop/status/1889253361922507159",
+              "start": 58,
+              "url": "https://t.co/SDGZfov1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889390439465468269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889253361922507159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "寄吧的最烦这些傻逼炒作狗\n强烈反对卷自残但是再给我碰到我就把我23年血图拍对面脸上，张张精品我现在还没事欣赏一下。 https://t.co/SDGZfov1R0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889253349079621633"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1889253361922507159",
+        "created_at": "2025-02-11T10:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T11:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889253361922507159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKs2jNBZu5",
+              "end": 43,
+              "expanded_url": "https://x.com/Cldeop/status/1889253361922507159/photo/1",
+              "media_key": "3_1889253349079621633",
+              "start": 20,
+              "url": "https://t.co/LKs2jNBZu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889253361922507159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 61863,
+          "like_count": 794,
+          "quote_count": 11,
+          "reply_count": 99,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "中推某些炒作装抑郁的人be like： https://t.co/LKs2jNBZu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 234,
+          "like_count": 678,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1077
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū\n推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 22,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1874123551281991887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54556,
+          "following_count": 553,
+          "like_count": 25085,
+          "listed_count": 188,
+          "media_count": 7621,
+          "tweet_count": 10909
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

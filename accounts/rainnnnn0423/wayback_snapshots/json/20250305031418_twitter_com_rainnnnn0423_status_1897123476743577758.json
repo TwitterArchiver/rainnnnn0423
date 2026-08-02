@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897123476743577758",
+    "created_at": "2025-03-05T03:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T04:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897123476743577758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1897122736037916836",
+          "start": 44,
+          "url": "https://t.co/FjtvKrHBDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897123476743577758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897122736037916836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去学校官网给校长发邮件让他们在女厕所提供卫生巾，受不了了\n因为我经常忘带🤡祝我成功吧 https://t.co/FjtvKrHBDo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897123476743577758",
+        "created_at": "2025-03-05T03:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T04:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897123476743577758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1897122736037916836",
+              "start": 44,
+              "url": "https://t.co/FjtvKrHBDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897123476743577758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897122736037916836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去学校官网给校长发邮件让他们在女厕所提供卫生巾，受不了了\n因为我经常忘带🤡祝我成功吧 https://t.co/FjtvKrHBDo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897120570279702862",
+        "created_at": "2025-03-05T03:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T04:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897122736037916836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897122736037916836",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897120570279702862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xhs用户整天嚷嚷的“女性主义”是最唐最搞笑的。一帮田园女权xxn只会搁厕所里扣字眼搁网上敲键盘，做点实事我还能高看你们一眼，输出不了成果只会输出戾气的一帮废物。\n拳师刷到了别急着喷我。我尊重并且敬佩真正有才干的人只是想骂我讨厌的傻逼，这里是我的里推我也不喜欢对线"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 337,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2141
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

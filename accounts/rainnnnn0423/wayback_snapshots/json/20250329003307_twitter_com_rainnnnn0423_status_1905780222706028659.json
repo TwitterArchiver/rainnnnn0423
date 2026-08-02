@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1905780222706028659",
+    "created_at": "2025-03-29T00:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T01:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905780222706028659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liangxihuigui/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/liangxihuigui/status/1905353279661638062",
+          "start": 6,
+          "url": "https://t.co/s9VSWuiAK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905780222706028659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905353279661638062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凉子凉子… https://t.co/s9VSWuiAK5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905352494827667460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnEr_8IbgAQPA8t.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1905352494831861763",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnEr_8JbgAMWDJj.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1905352494844444674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnEr_8MbgAIQGZp.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1905352494836056064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnEr_8KbgAAzVaq.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1905780222706028659",
+        "created_at": "2025-03-29T00:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T01:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905780222706028659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liangxihuigui/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/liangxihuigui/status/1905353279661638062",
+              "start": 6,
+              "url": "https://t.co/s9VSWuiAK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905780222706028659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905353279661638062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凉子凉子… https://t.co/s9VSWuiAK5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905352494827667460",
+            "3_1905352494831861763",
+            "3_1905352494844444674",
+            "3_1905352494836056064"
+          ]
+        },
+        "author_id": "1829498397184946176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1905353279661638062",
+        "created_at": "2025-03-27T20:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T21:13:31.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905352503967056327",
+          "1905353235084575027",
+          "1905353279661638062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r195K06YAF",
+              "end": 119,
+              "expanded_url": "https://x.com/liangxihuigui/status/1905353279661638062/photo/1",
+              "media_key": "3_1905352494827667460",
+              "start": 96,
+              "url": "https://t.co/r195K06YAF"
+            },
+            {
+              "display_url": "pic.x.com/r195K06YAF",
+              "end": 119,
+              "expanded_url": "https://x.com/liangxihuigui/status/1905353279661638062/photo/1",
+              "media_key": "3_1905352494831861763",
+              "start": 96,
+              "url": "https://t.co/r195K06YAF"
+            },
+            {
+              "display_url": "pic.x.com/r195K06YAF",
+              "end": 119,
+              "expanded_url": "https://x.com/liangxihuigui/status/1905353279661638062/photo/1",
+              "media_key": "3_1905352494844444674",
+              "start": 96,
+              "url": "https://t.co/r195K06YAF"
+            },
+            {
+              "display_url": "pic.x.com/r195K06YAF",
+              "end": 119,
+              "expanded_url": "https://x.com/liangxihuigui/status/1905353279661638062/photo/1",
+              "media_key": "3_1905352494836056064",
+              "start": 96,
+              "url": "https://t.co/r195K06YAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905353279661638062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 42830,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 62,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "恋爱吗？不是精神病我不谈，不割腕我也不谈，不od嗑药我也不谈，笑死我了，我就喜喜欢割腕od嗑药的精神病地雷女，我随时做好被绿的准备，朋友劝我去现实谈，我告诉他我就喜欢玩刺激的，跟正常人没法谈 https://t.co/r195K06YAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高，忙了偶尔上推 最近msk又炸我私信箱一直打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 386,
+          "like_count": 1675,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2713
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:36:57.000Z",
+        "description": "凉兮本人，性别男，喜欢女，负债两亿已结清，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，没任何微博，微博早被封了，重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证，目前在吃跨性别药，两个月后彻底丧失性欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "liangxied"
+              }
+            ]
+          }
+        },
+        "id": "1829498397184946176",
+        "location": "阴蒂",
+        "name": "凉兮大元帅（白虎）",
+        "pinned_tweet_id": "1900875102960709872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901688257387376640/HvIXhbTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266042,
+          "following_count": 424,
+          "like_count": 178,
+          "listed_count": 453,
+          "media_count": 1226,
+          "tweet_count": 3467
+        },
+        "username": "liangxihuigui",
+        "verified": true
+      }
+    ]
+  }
+}

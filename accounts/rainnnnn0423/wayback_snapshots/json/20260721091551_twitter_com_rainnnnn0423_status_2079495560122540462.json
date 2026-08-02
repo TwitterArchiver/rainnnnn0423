@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2079222698815955059",
+    "created_at": "2026-07-21T09:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079495560122540462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040254054459461632",
+          "start": 0,
+          "username": "mikinnelike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079495560122540462",
+    "in_reply_to_user_id": "2040254054459461632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079222698815955059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikinnelike 💃💃💃💃💃💃🚬🚬🚬🚬🚬🚬🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2079222698815955059",
+        "created_at": "2026-07-21T09:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079495560122540462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040254054459461632",
+              "start": 0,
+              "username": "mikinnelike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079495560122540462",
+        "in_reply_to_user_id": "2040254054459461632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079222698815955059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikinnelike 💃💃💃💃💃💃🚬🚬🚬🚬🚬🚬🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040254054459461632",
+        "conversation_id": "2079222698815955059",
+        "created_at": "2026-07-20T15:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079222698815955059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079222698815955059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2092,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎？你们有喜欢卡梦的吗？我现在想串卡梦。。。如果有喜欢的，我就不串了。限时 10 分钟，10 分钟之后没人回复我就开串"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我 留言和私信容易吞，不定期查看",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 664,
+          "like_count": 6165,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 4949
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T02:24:58.000Z",
+        "description": "🚀 🐙 🌿 DFM WIN！",
+        "id": "2040254054459461632",
+        "location": "ISTJ",
+        "name": "mikinne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079364876678696960/S3H_o9Yp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 129,
+          "like_count": 2920,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1266
+        },
+        "url": "",
+        "username": "mikinnelike",
+        "verified": false
+      }
+    ]
+  }
+}

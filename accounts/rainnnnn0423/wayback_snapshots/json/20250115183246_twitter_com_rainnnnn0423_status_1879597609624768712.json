@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1879597609624768712",
+    "created_at": "2025-01-15T18:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T19:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879597609624768712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meiyujijie/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/meiyujijie/status/1873912949750063554",
+          "start": 5,
+          "url": "https://t.co/kDPVt0wBaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879597609624768712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873912949750063554",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看看实操 https://t.co/kDPVt0wBaS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1879597609624768712",
+        "created_at": "2025-01-15T18:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T19:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879597609624768712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meiyujijie/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/meiyujijie/status/1873912949750063554",
+              "start": 5,
+              "url": "https://t.co/kDPVt0wBaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879597609624768712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873912949750063554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看实操 https://t.co/kDPVt0wBaS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873912942540062720"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "1873912949750063554",
+        "created_at": "2024-12-31T02:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T03:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873912949750063554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVha0zODgB",
+              "end": 39,
+              "expanded_url": "https://x.com/meiyujijie/status/1873912949750063554/photo/1",
+              "media_key": "3_1873912942540062720",
+              "start": 16,
+              "url": "https://t.co/WVha0zODgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873912949750063554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7662,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "太好了这样就不用纠结谁1谁0了 https://t.co/WVha0zODgB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 169,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 359
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "这就是何六诚，07mtf家长党 是一颗小仙人球",
+        "id": "1858186854526562304",
+        "name": "何六诚🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872109760369307648/im2B7nOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2627,
+          "following_count": 31,
+          "like_count": 426,
+          "listed_count": 9,
+          "media_count": 41,
+          "tweet_count": 146
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1902073211509973006",
+    "created_at": "2025-03-18T19:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T20:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902073211509973006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1901992477764014509",
+          "start": 10,
+          "url": "https://t.co/FxmotKlJuX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902073211509973006",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901992477764014509",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👍👍👍👍👍👍👍👍👍 https://t.co/FxmotKlJuX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 481,
+        "media_key": "3_1901990169307471873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmU5-1fbYAE1tWY.png",
+        "width": 702
+      },
+      {
+        "height": 1081,
+        "media_key": "3_1901990406176284672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmU6Mn5WoAAS5xJ.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1902073211509973006",
+        "created_at": "2025-03-18T19:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T20:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902073211509973006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1901992477764014509",
+              "start": 10,
+              "url": "https://t.co/FxmotKlJuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902073211509973006",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901992477764014509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👍👍👍👍👍👍👍👍👍 https://t.co/FxmotKlJuX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901990169307471873",
+            "3_1901990406176284672"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "1901992477764014509",
+        "created_at": "2025-03-18T13:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T14:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901992477764014509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnpJDl8tv2",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1901992477764014509/photo/1",
+              "media_key": "3_1901990169307471873",
+              "start": 142,
+              "url": "https://t.co/GnpJDl8tv2"
+            },
+            {
+              "display_url": "pic.x.com/GnpJDl8tv2",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1901992477764014509/photo/1",
+              "media_key": "3_1901990406176284672",
+              "start": 142,
+              "url": "https://t.co/GnpJDl8tv2"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1901642814280097985",
+              "start": 166,
+              "url": "https://t.co/rF4zAclZMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901992477764014509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 203213,
+          "like_count": 1329,
+          "quote_count": 20,
+          "reply_count": 83,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901642814280097985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "北海中学学生投稿：\n1，王建刚准备了两套课表，用来应对教育局检查\n2，王建刚谈及一个月内逼死两名学生时，对学生的死亡漠不关心，说他们是因为带了手机才导致的。\n3，学生谈及自己的感受，跳楼的学生不仅没有唤醒学校重视，反而在王建刚嘴里变成了不守规矩的反面教材，冷血的人在他身上变得具象。 https://t.co/GnpJDl8tv2 https://t.co/rF4zAclZMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 369,
+          "like_count": 1608,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2576
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960697,
+          "following_count": 940,
+          "like_count": 5908,
+          "listed_count": 8063,
+          "media_count": 24934,
+          "tweet_count": 31312
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

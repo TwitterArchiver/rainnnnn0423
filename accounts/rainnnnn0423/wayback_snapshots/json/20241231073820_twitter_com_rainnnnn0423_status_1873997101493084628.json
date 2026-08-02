@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873997098363875328"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "1873997101493084628",
+    "created_at": "2024-12-31T07:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T08:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873997101493084628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6yBVAErhhY",
+          "end": 108,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1873997101493084628/photo/1",
+          "media_key": "3_1873997098363875328",
+          "start": 85,
+          "url": "https://t.co/6yBVAErhhY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873997101493084628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在中国劳动法就是放屁😂😂😂我们中国人最大的竞争力就是优质廉价劳动力😔活得还不如牛马\n这个宿舍环境我看了一下，跟我们学校还有我妈妈之前在京东打工时的环境其实真的差不多…… https://t.co/6yBVAErhhY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_1873997098363875328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgHGbp4XcAAx-3p.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873997098363875328"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1873997101493084628",
+        "created_at": "2024-12-31T07:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T08:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873997101493084628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yBVAErhhY",
+              "end": 108,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1873997101493084628/photo/1",
+              "media_key": "3_1873997098363875328",
+              "start": 85,
+              "url": "https://t.co/6yBVAErhhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873997101493084628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在中国劳动法就是放屁😂😂😂我们中国人最大的竞争力就是优质廉价劳动力😔活得还不如牛马\n这个宿舍环境我看了一下，跟我们学校还有我妈妈之前在京东打工时的环境其实真的差不多…… https://t.co/6yBVAErhhY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 112,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 205
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1898965142278447401",
+    "created_at": "2025-03-10T12:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T13:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899069237916024873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401733664682102786",
+          "start": 0,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899069237916024873",
+    "in_reply_to_user_id": "1401733664682102786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898965142278447401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mukdengise 我会很心疼朋友。毕竟，这样的欺骗是有苦衷的。为了被社会接受而不得不披上面具表演，我也有过相同的经历。我线下没有和trans得很好的mtf接触过，不清楚自己的第六感能不能察觉出来。我自学心理学的所以洞察力应该较强一些。如果伪装让你痛苦，考虑一下不演了。朋友是需要筛选而非培养的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1898965142278447401",
+        "created_at": "2025-03-10T12:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T13:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899069237916024873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899069237916024873",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898965142278447401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise 我会很心疼朋友。毕竟，这样的欺骗是有苦衷的。为了被社会接受而不得不披上面具表演，我也有过相同的经历。我线下没有和trans得很好的mtf接触过，不清楚自己的第六感能不能察觉出来。我自学心理学的所以洞察力应该较强一些。如果伪装让你痛苦，考虑一下不演了。朋友是需要筛选而非培养的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1898965142278447401",
+        "created_at": "2025-03-10T05:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T06:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898965142278447401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898965142278447401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4863,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问下顺女推友，如果你在现实中认识了一位女性朋友，聊天感觉很投缘，也在女权议题上找到相当多的共鸣，平时会互相交流书目和电影，也会作为同性朋友讨论许多女性间的私事。但后来她告诉你自己是未术跨女并且为了隐瞒编造了许多自己的人生经历，你会觉得生气或者被欺骗吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博树洞🗑偷着键政 写点什么留下存在过的痕迹",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 362,
+          "like_count": 1442,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2358
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "东海渥集巫女/IG: ilhajugvn/looking for our Chalice and fighting against the Blade/裏：@fulgiyan/桔：@__Ju___Ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "fulgiyan"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜👉🏻",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865659207124664320/z7pLnQDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7955,
+          "following_count": 715,
+          "like_count": 124818,
+          "listed_count": 47,
+          "media_count": 1393,
+          "tweet_count": 17835
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

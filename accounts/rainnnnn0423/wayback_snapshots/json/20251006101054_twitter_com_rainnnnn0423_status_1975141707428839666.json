@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1975141707428839666",
+    "created_at": "2025-10-06T10:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T11:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975141707428839666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/404ADHD_DOG/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/404ADHD_DOG/status/1975108205555621950",
+          "start": 4,
+          "url": "https://t.co/3s1vwohDG9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975141707428839666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975108205555621950",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛魔的 https://t.co/3s1vwohDG9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1975141707428839666",
+        "created_at": "2025-10-06T10:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T11:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975141707428839666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/404ADHD_DOG/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/404ADHD_DOG/status/1975108205555621950",
+              "start": 4,
+              "url": "https://t.co/3s1vwohDG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975141707428839666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975108205555621950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛魔的 https://t.co/3s1vwohDG9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654159503921934337",
+        "conversation_id": "1975100573650403731",
+        "created_at": "2025-10-06T07:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975108205555621950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894777318121537536",
+              "start": 0,
+              "username": "634LIVINLIMBO"
+            },
+            {
+              "end": 31,
+              "id": "1928768097865052161",
+              "start": 15,
+              "username": "oolongisgood321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975108205555621950",
+        "in_reply_to_user_id": "1894777318121537536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975106382161645761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@634LIVINLIMBO @oolongisgood321 哼😤我已经计划好了死后葬礼上要放哈雪大冒险，嫉妒我吧੭ ᐕ)੭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 591,
+          "like_count": 4327,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 4058
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T16:22:21.000Z",
+        "description": "ADHD/兽医 让我们一起推翻旧日的主宰。 和@634LIVINLIMBO一起炉馆！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "634LIVINLIMBO"
+              }
+            ]
+          }
+        },
+        "id": "1654159503921934337",
+        "name": "最佳萌宠",
+        "pinned_tweet_id": "1962910991991415262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964040888356917250/TT8FrybT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 271,
+          "like_count": 2310,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 842
+        },
+        "username": "404ADHD_DOG",
+        "verified": false
+      }
+    ]
+  }
+}

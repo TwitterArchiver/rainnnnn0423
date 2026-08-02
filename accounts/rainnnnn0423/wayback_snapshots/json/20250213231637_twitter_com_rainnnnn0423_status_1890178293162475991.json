@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1890178293162475991",
+    "created_at": "2025-02-13T23:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T00:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890178293162475991"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890178293162475991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我确实比绝大多数oder自制力高多了，我宣称自己能驾驭药物而不是被药物控制。\n而且我的认知一直在线，我知道这是相当恶劣的事情。\n我也没有很强烈的痛苦了，反而我经常会感觉开心幸福。\n如果我又在写一堆毫无逻辑的140字，那一律打为我玉米症犯了。over"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1890178293162475991",
+        "created_at": "2025-02-13T23:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T00:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890178293162475991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890178293162475991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我确实比绝大多数oder自制力高多了，我宣称自己能驾驭药物而不是被药物控制。\n而且我的认知一直在线，我知道这是相当恶劣的事情。\n我也没有很强烈的痛苦了，反而我经常会感觉开心幸福。\n如果我又在写一堆毫无逻辑的140字，那一律打为我玉米症犯了。over"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 237,
+          "like_count": 713,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1159
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

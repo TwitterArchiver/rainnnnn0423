@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2076595209992024202",
+    "created_at": "2026-07-13T09:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076595209992024202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1304788054775791620",
+          "start": 3,
+          "username": "HereisJayGordon"
+        },
+        {
+          "end": 34,
+          "id": "1854817785140199428",
+          "start": 21,
+          "username": "rainnnnn0423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076595209992024202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075999672146301247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HereisJayGordon: @rainnnnn0423 天天说什么没练啊、休赛焦虑、亚运会，朋友我还以为你是看英雄联盟的，怎么是在看捞。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2076595209992024202",
+        "created_at": "2026-07-13T09:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076595209992024202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1304788054775791620",
+              "start": 3,
+              "username": "HereisJayGordon"
+            },
+            {
+              "end": 34,
+              "id": "1854817785140199428",
+              "start": 21,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076595209992024202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075999672146301247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HereisJayGordon: @rainnnnn0423 天天说什么没练啊、休赛焦虑、亚运会，朋友我还以为你是看英雄联盟的，怎么是在看捞。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304788054775791620",
+        "conversation_id": "2075641044029640736",
+        "created_at": "2026-07-11T17:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075999672146301247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075999672146301247",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075641044029640736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 天天说什么没练啊、休赛焦虑、亚运会，朋友我还以为你是看英雄联盟的，怎么是在看捞。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 661,
+          "like_count": 6055,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 4926
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-12T14:25:02.000Z",
+        "description": "A Socialist Who Likes EDM, ACGN, LEGO, Games on Xbox and Always Pays Close Attention to the International Hotspot.\n@ThisisJayGordon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 115,
+                "username": "ThisisJayGordon"
+              }
+            ]
+          }
+        },
+        "id": "1304788054775791620",
+        "location": "Hubei",
+        "name": "Jay Gordon不吃锅包肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1304788176318259200/nxb-2Nyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 32,
+          "like_count": 15548,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "HereisJayGordon",
+        "verified": false
+      }
+    ]
+  }
+}

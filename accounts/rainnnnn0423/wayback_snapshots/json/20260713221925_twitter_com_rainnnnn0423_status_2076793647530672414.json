@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076793598562246657",
+        "3_2076793598516117504",
+        "3_2076793598545448960",
+        "3_2076793598516027394"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076793647530672414",
+    "created_at": "2026-07-13T22:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T23:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076793647530672414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2076292469667532800",
+          "start": 1,
+          "username": "SankakuFuu3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qrPkZeg2TP",
+          "end": 37,
+          "expanded_url": "https://x.com/rainnnnn0423/status/2076793647530672414/photo/1",
+          "media_key": "3_2076793598562246657",
+          "start": 14,
+          "url": "https://t.co/qrPkZeg2TP"
+        },
+        {
+          "display_url": "pic.x.com/qrPkZeg2TP",
+          "end": 37,
+          "expanded_url": "https://x.com/rainnnnn0423/status/2076793647530672414/photo/1",
+          "media_key": "3_2076793598516117504",
+          "start": 14,
+          "url": "https://t.co/qrPkZeg2TP"
+        },
+        {
+          "display_url": "pic.x.com/qrPkZeg2TP",
+          "end": 37,
+          "expanded_url": "https://x.com/rainnnnn0423/status/2076793647530672414/photo/1",
+          "media_key": "3_2076793598545448960",
+          "start": 14,
+          "url": "https://t.co/qrPkZeg2TP"
+        },
+        {
+          "display_url": "pic.x.com/qrPkZeg2TP",
+          "end": 37,
+          "expanded_url": "https://x.com/rainnnnn0423/status/2076793647530672414/photo/1",
+          "media_key": "3_2076793598516027394",
+          "start": 14,
+          "url": "https://t.co/qrPkZeg2TP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076793647530672414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟@SankakuFuu3 https://t.co/qrPkZeg2TP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2076793598562246657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJAxkoboAEm9t3.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2076793598516117504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJAxkdbwAASspn.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2076793598545448960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJAxkkbUAA0m0D.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2076793598516027394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJAxkdaYAICkOl.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076793598562246657",
+            "3_2076793598516117504",
+            "3_2076793598545448960",
+            "3_2076793598516027394"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076793647530672414",
+        "created_at": "2026-07-13T22:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076793647530672414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2076292469667532800",
+              "start": 1,
+              "username": "SankakuFuu3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qrPkZeg2TP",
+              "end": 37,
+              "expanded_url": "https://x.com/rainnnnn0423/status/2076793647530672414/photo/1",
+              "media_key": "3_2076793598562246657",
+              "start": 14,
+              "url": "https://t.co/qrPkZeg2TP"
+            },
+            {
+              "display_url": "pic.x.com/qrPkZeg2TP",
+              "end": 37,
+              "expanded_url": "https://x.com/rainnnnn0423/status/2076793647530672414/photo/1",
+              "media_key": "3_2076793598516117504",
+              "start": 14,
+              "url": "https://t.co/qrPkZeg2TP"
+            },
+            {
+              "display_url": "pic.x.com/qrPkZeg2TP",
+              "end": 37,
+              "expanded_url": "https://x.com/rainnnnn0423/status/2076793647530672414/photo/1",
+              "media_key": "3_2076793598545448960",
+              "start": 14,
+              "url": "https://t.co/qrPkZeg2TP"
+            },
+            {
+              "display_url": "pic.x.com/qrPkZeg2TP",
+              "end": 37,
+              "expanded_url": "https://x.com/rainnnnn0423/status/2076793647530672414/photo/1",
+              "media_key": "3_2076793598516027394",
+              "start": 14,
+              "url": "https://t.co/qrPkZeg2TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076793647530672414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟@SankakuFuu3 https://t.co/qrPkZeg2TP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我 留言和私信容易吞，不定期查看",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 662,
+          "like_count": 6056,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 4928
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T13:13:09.000Z",
+        "description": "（百八十无常 冰川枫）三角枫的转世 audhd enby oder / atmosPheRe is now available/ 我爱大家 想成为不极端的人",
+        "id": "2076292469667532800",
+        "location": "守恒与虚无之地",
+        "name": "三角　楓🍥#参宿七（互关寻回）",
+        "pinned_tweet_id": "2076303353152438330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076294275546148864/FANgAHlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 130,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "SankakuFuu3",
+        "verified": false
+      }
+    ]
+  }
+}

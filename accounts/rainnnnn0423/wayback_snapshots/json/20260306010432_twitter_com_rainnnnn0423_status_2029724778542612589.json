@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2028966698510877069",
+    "created_at": "2026-03-06T01:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T02:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029724778542612589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654159503921934337",
+          "start": 0,
+          "username": "404ADHD_DOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029724778542612589",
+    "in_reply_to_user_id": "1654159503921934337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029537337693425745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404ADHD_DOG 那还说啥了，兄弟干了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2028966698510877069",
+        "created_at": "2026-03-06T01:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T02:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029724778542612589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654159503921934337",
+              "start": 0,
+              "username": "404ADHD_DOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029724778542612589",
+        "in_reply_to_user_id": "1654159503921934337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029537337693425745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404ADHD_DOG 那还说啥了，兄弟干了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654159503921934337",
+        "conversation_id": "2028966698510877069",
+        "created_at": "2026-03-05T12:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029537337693425745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029537337693425745",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029107196156416124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 每天都在光明正大的不幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2026316161751597531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 612,
+          "like_count": 5047,
+          "listed_count": 4,
+          "media_count": 336,
+          "tweet_count": 4545
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T16:22:21.000Z",
+        "description": "ADHD/兽医 让我们一起推翻旧日的主宰。 和@outcast7outcast一起炉馆！上海市最强沪奶@rainnnnn0423。三得利乌龙茶大王@oolongisgood321",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "outcast7outcast"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "rainnnnn0423"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "oolongisgood321"
+              }
+            ]
+          }
+        },
+        "id": "1654159503921934337",
+        "name": "赛级野狗",
+        "pinned_tweet_id": "1977956819655147691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000296103519080448/gozsHtSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 287,
+          "like_count": 2369,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1160
+        },
+        "username": "404ADHD_DOG",
+        "verified": false
+      }
+    ]
+  }
+}

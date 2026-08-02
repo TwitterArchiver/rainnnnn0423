@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2047395513742561417",
+    "created_at": "2026-04-23T23:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047452544176402888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817244141115609088",
+          "start": 0,
+          "username": "Nijika_Dark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047452544176402888",
+    "in_reply_to_user_id": "1817244141115609088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047395513742561417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_Dark xm😭我现在没有空玩这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2047395513742561417",
+        "created_at": "2026-04-23T23:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047452544176402888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817244141115609088",
+              "start": 0,
+              "username": "Nijika_Dark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047452544176402888",
+        "in_reply_to_user_id": "1817244141115609088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047395513742561417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark xm😭我现在没有空玩这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817244141115609088",
+        "conversation_id": "2047395513742561417",
+        "created_at": "2026-04-23T19:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047395513742561417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nijika_Dark/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Nijika_Dark/status/2047121204881019138",
+              "start": 9,
+              "url": "https://t.co/GqWso3PLlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047395513742561417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047121204881019138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去尼玛的玩力竭了 https://t.co/GqWso3PLlM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|本号转生为竞小妹|08infp女高|我不是键政曲吗怎么成⌚姐了|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122🚪88 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "si_an_1122"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2040862365714129402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 655,
+          "like_count": 5656,
+          "listed_count": 4,
+          "media_count": 346,
+          "tweet_count": 4777
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T17:02:37.000Z",
+        "description": "@Nijika_overdose的附庸丨应该是虹夏丨我的大脑空空如也丨买🍥hrt💊4ho日本普瑞下方群组❛˓◞˂̵✧❤️💙💜🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/70WOqFpsLV"
+              }
+            ]
+          }
+        },
+        "id": "1817244141115609088",
+        "location": "参宿四",
+        "name": "Nijika_Overdose",
+        "pinned_tweet_id": "2046754192954724675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817245083672145920/_Mn08Zha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 139,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/70WOqFpsLV",
+        "username": "Nijika_Dark",
+        "verified": false
+      }
+    ]
+  }
+}

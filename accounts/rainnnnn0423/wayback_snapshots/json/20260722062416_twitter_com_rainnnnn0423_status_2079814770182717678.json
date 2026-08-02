@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2079814770182717678",
+    "created_at": "2026-07-22T06:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T07:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079814770182717678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1709641993339682816",
+          "start": 3,
+          "username": "Bluearchimeigen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079814770182717678",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079734225683763296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bluearchimeigen: アリスは、「死」がわかりません。\n\nアリスは、死にません\n\n機械ですから\n\nモモイは死にました\n\n老衰でした\n\nミドリは死にました\n\nガンでした\n\nユズは死にました\n\nアリスを庇って、死にました\n\nユウカも、ネル先輩も、ヒナさんも、…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2079814770182717678",
+        "created_at": "2026-07-22T06:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079814770182717678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1709641993339682816",
+              "start": 3,
+              "username": "Bluearchimeigen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079814770182717678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079734225683763296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bluearchimeigen: アリスは、「死」がわかりません。\n\nアリスは、死にません\n\n機械ですから\n\nモモイは死にました\n\n老衰でした\n\nミドリは死にました\n\nガンでした\n\nユズは死にました\n\nアリスを庇って、死にました\n\nユウカも、ネル先輩も、ヒナさんも、…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709641993339682816",
+        "conversation_id": "2079734225683763296",
+        "created_at": "2026-07-22T01:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079734225683763296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079734225683763296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "アリスは、「死」がわかりません。\n\nアリスは、死にません\n\n機械ですから\n\nモモイは死にました\n\n老衰でした\n\nミドリは死にました\n\nガンでした\n\nユズは死にました\n\nアリスを庇って、死にました\n\nユウカも、ネル先輩も、ヒナさんも、\n\nヴェリタスやエンジニア部も、\n\n先生も\n\nみんな、死にました\n\nアリスは、「死」がわかりません。\n\nみんなを生き返らせてくれる教会も、世界樹の葉も、魔法も\n\nありませんでした\n\nまた、ひとりぼっちです\n\nアリスは勇者ですから\n\nそう自分に言い聞かせて、今まで歩いてきました\n\nけれど最近、思うんです\n\n勇者とは、民を、仲間を導く光\n\nそれでは、民も仲間も居ない今の世界で、アリスは本当に勇者なのでしょうか？\n\n！\n\nパンパカパーン！アリスは新たな知識を得ました！\n\nアリスは、死にません\n\n機械ですから\n\n血も、涙も、流れていませんから\n\nいのちが、ありませんから\n\nでも、ようやくわかりました\n\nいのちがないアリスでも、ようやくわかりました\n\n「死ぬ」って、もう会えないってことなんですね。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 103967,
+          "like_count": 1497,
+          "quote_count": 23,
+          "reply_count": 24,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "アリスは、「死」がわかりません。\n\nアリスは、死にません\n\n機械ですから\n\nモモイは死にました\n\n老衰でした\n\nミドリは死にました\n\nガンでした\n\nユズは死にました\n\nアリスを庇って、死にました\n\nユウカも、ネル先輩も、ヒナさんも、\n\nヴェリタスやエンジニア部も、\n\n先生も\n\nみんな、死にました"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我 留言和私信容易吞，不定期查看",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 666,
+          "like_count": 6169,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 4953
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T18:49:58.000Z",
+        "description": "透き通るような世界観で送る学園RPG ''ブルーアーカイブ''で放たれた名言を投稿してます  DMで名言募集しています",
+        "id": "1709641993339682816",
+        "location": "キヴォトス",
+        "name": "ブルーアーカイブ名言集",
+        "pinned_tweet_id": "1803410831557980498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004684121499660288/0R6HzOnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47600,
+          "following_count": 195,
+          "like_count": 5366,
+          "listed_count": 46,
+          "media_count": 1327,
+          "tweet_count": 7116
+        },
+        "url": "",
+        "username": "Bluearchimeigen",
+        "verified": true
+      }
+    ]
+  }
+}

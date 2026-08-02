@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884070326457569763",
+    "created_at": "2025-01-28T06:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T07:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884133169659851031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882901619601461248",
+          "start": 0,
+          "username": "Coldly_wind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884133169659851031",
+    "in_reply_to_user_id": "1882901619601461248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884070326457569763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coldly_wind 抱抱风风🫂🫂🫂我前女友就是这种无理取闹的人，一个只会吸他人的血的情绪黑洞。她在我和我最好的朋友之间挑拨离间，后来我和朋友解除误会远离烂人之后，日子都越来越好了！🫂🫂🫂对于不值得耗费精力劝说的傻逼，风风再碰到了一定不要内耗！😸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1884070326457569763].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1884070326457569763",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1884070326457569763"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884070326457569763",
+        "created_at": "2025-01-28T06:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T07:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884133169659851031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882901619601461248",
+              "start": 0,
+              "username": "Coldly_wind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884133169659851031",
+        "in_reply_to_user_id": "1882901619601461248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884070326457569763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coldly_wind 抱抱风风🫂🫂🫂我前女友就是这种无理取闹的人，一个只会吸他人的血的情绪黑洞。她在我和我最好的朋友之间挑拨离间，后来我和朋友解除误会远离烂人之后，日子都越来越好了！🫂🫂🫂对于不值得耗费精力劝说的傻逼，风风再碰到了一定不要内耗！😸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我碎碎念刷屏的里号！",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 210,
+          "like_count": 377,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 705
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T21:21:56.000Z",
+        "description": "这里是风风，一个立誓不对任何人暖言相向的冷漠机器人ෆ╹ _ ╹ෆ/不想去像暖言猫猫一样用语言温暖身边所有人的人(◍• _ •◍)✧*/会排斥任何观点和立场也会歧视任何人( ◜ _ ◝ )♡/在深渊中沉睡过所以尽力去忽略身边处于痛苦和迷茫的人♡ ᒪ∅ᐯᕮ ♡/有烦恼不要来和我说哦，自己去解决(´∩｡• _ •｡∩`)",
+        "id": "1882901619601461248",
+        "location": "异世界，王国都城，下城区",
+        "name": "寒冷的风穿堂过",
+        "pinned_tweet_id": "1883349688977617040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883507546151145472/g84JpsTg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 50,
+          "like_count": 252,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "Coldly_wind",
+        "verified": false
+      }
+    ]
+  }
+}

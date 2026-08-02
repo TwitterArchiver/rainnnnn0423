@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1957434176543858930",
+    "created_at": "2025-08-25T12:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T13:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959961914856935882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959961914856935882",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957434176543858930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1957434176543858930",
+        "created_at": "2025-08-25T12:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T13:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959961914856935882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959961914856935882",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957434176543858930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1957434176543858930",
+        "created_at": "2025-08-18T13:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T14:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957434176543858930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PaitangOfficia…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/PaitangOfficial/status/1956732306548576664",
+              "start": 146,
+              "url": "https://t.co/GGirJmtAhA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957434176543858930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15752,
+          "like_count": 67,
+          "quote_count": 3,
+          "reply_count": 52,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956732306548576664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月18-8月25日晚活动 开学囤货活动 转发+点赞参与\n\nIPPH 专注达平替 免费升级成15mg（无论数量） 活动结束变回10mg\n\n🍄送🌵\n\n4🌵送1🌵\n\nIPPH 50/100粒囤货价回归  超级低（老客户专享） \n\n⚠️评论区抽10个 幸运推油 送🍄/ 10 IPPH 二选一⚠️ https://t.co/GGirJmtAhA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 529,
+          "like_count": 4042,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 3952
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1957434176543858930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955346918139432960/NdXnRHYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9417,
+          "following_count": 512,
+          "like_count": 7582,
+          "listed_count": 25,
+          "media_count": 1556,
+          "tweet_count": 13000
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": true
+      }
+    ]
+  }
+}

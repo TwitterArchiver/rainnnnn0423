@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1892804172518441335",
+    "created_at": "2025-02-21T05:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T06:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892804172518441335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qwq_shark/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/qwq_shark/status/1892624650523304005",
+          "start": 5,
+          "url": "https://t.co/k1bZZ9WLYk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892804172518441335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892624650523304005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我直播： https://t.co/k1bZZ9WLYk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1892804172518441335",
+        "created_at": "2025-02-21T05:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T06:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892804172518441335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qwq_shark/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/qwq_shark/status/1892624650523304005",
+              "start": 5,
+              "url": "https://t.co/k1bZZ9WLYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892804172518441335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892624650523304005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我直播： https://t.co/k1bZZ9WLYk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580505223071641600",
+        "conversation_id": "1892624650523304005",
+        "created_at": "2025-02-20T17:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T18:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892624650523304005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892624650523304005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 766,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来打开阿b准备续上刚刚用电脑看的mygo，结果看到了同行。\n哎我我真的是个嫉妒心很强的贱人，看到我一直在原地踏步而她如日中天我嫉妒的牙都咬碎了。人各有命，但是她的命也太tm好了\n为什么她就可以遇到让她一炮而红的水友，我就只能天天硬着头皮面对着无人在意我的直播间？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 263,
+          "like_count": 870,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1471
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "你好，如果不知道怎么称呼我的话，你可以叫我小惨。欢迎来到我的精神世界倾听我的内心独白｜@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "location": "宇宙",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891155386117586944/Jt1tP4D3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 197,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4058
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

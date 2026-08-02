@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1895650545840635977",
+    "created_at": "2025-03-01T01:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T02:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895650545840635977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1790831068729229312",
+          "start": 3,
+          "username": "Fkmaomaochong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895650545840635977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806649466902204664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fkmaomaochong: 作为法学生给诸位科普一个小知识，在司法现场中，直接说事实的一般都是受害人，而不停的给自己的行为添加主观情感的，一般都是加害人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1895650545840635977",
+        "created_at": "2025-03-01T01:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T02:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895650545840635977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1790831068729229312",
+              "start": 3,
+              "username": "Fkmaomaochong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895650545840635977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806649466902204664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fkmaomaochong: 作为法学生给诸位科普一个小知识，在司法现场中，直接说事实的一般都是受害人，而不停的给自己的行为添加主观情感的，一般都是加害人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790831068729229312",
+        "conversation_id": "1806649466902204664",
+        "created_at": "2024-06-28T11:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T12:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806649466902204664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806649466902204664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 58198,
+          "like_count": 699,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "作为法学生给诸位科普一个小知识，在司法现场中，直接说事实的一般都是受害人，而不停的给自己的行为添加主观情感的，一般都是加害人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 308,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1880
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T19:47:54.000Z",
+        "description": "逻辑小猫没暹罗 ➡️ @qing2202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "qing2202"
+              }
+            ]
+          }
+        },
+        "id": "1790831068729229312",
+        "location": "极乐世界",
+        "name": "₊⁺ ·绒松松· ﾟ ₊",
+        "pinned_tweet_id": "1883918685175464242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834192244641062912/GEb3WfjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32531,
+          "following_count": 77,
+          "like_count": 17099,
+          "listed_count": 35,
+          "media_count": 136,
+          "tweet_count": 4274
+        },
+        "username": "Fkmaomaochong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1933144693958926774",
+    "created_at": "2025-06-12T23:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T00:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933304593171284334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794131217463615488",
+          "start": 0,
+          "username": "satsushou_sonn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933304593171284334",
+    "in_reply_to_user_id": "1794131217463615488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933183426091458951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsushou_sonn 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1933144693958926774",
+        "created_at": "2025-06-12T23:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T00:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933304593171284334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794131217463615488",
+              "start": 0,
+              "username": "satsushou_sonn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933304593171284334",
+        "in_reply_to_user_id": "1794131217463615488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933183426091458951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsushou_sonn 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794131217463615488",
+        "conversation_id": "1933144693958926774",
+        "created_at": "2025-06-12T15:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T16:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933183426091458951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933183426091458951",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933144693958926774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 精神病怎么了？？\n咱们就不配当人了吗？\n咱某些方面比别人强！\n他们遇到咱们的苦难请问能坚持下去吗？\n你要相信你是最棒的啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/双相Ⅱ型/一般路过女高/粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 510,
+          "like_count": 3423,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 3704
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "加奈ちゃん/カナちゃん（ka na chan） ｜希望和大家作为好朋友，基本上fo的都会回｜头像画师：@yangyan88596853｜中国からの友情，ご清聴ありがとうございました，私は日本語が話せませんが、英語または通訳を通してコミュニケーションを取ることができます。皆様のご無事をお祈り申し上げます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "yangyan88596853"
+              }
+            ]
+          }
+        },
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "加奈ちゃん",
+        "pinned_tweet_id": "1889937031511548353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876295299439939584/KPTvk2v1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 3874,
+          "like_count": 1869,
+          "listed_count": 9,
+          "media_count": 245,
+          "tweet_count": 4936
+        },
+        "username": "satsushou_sonn",
+        "verified": false
+      }
+    ]
+  }
+}

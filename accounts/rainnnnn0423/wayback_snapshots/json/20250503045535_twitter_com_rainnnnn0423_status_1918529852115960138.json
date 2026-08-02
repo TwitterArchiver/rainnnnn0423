@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1918529852115960138",
+    "created_at": "2025-05-03T04:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T05:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918529852115960138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1664431196917342210",
+          "start": 3,
+          "username": "ArthurDoyl221"
+        },
+        {
+          "end": 35,
+          "id": "1249525383797456898",
+          "start": 19,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918529852115960138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918097553243160880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArthurDoyl221: @jakobsonradical 工農兵大學生裡面那個最著名的博士還在指導人類發展方向，底下的這些不都是些小巫而已？房間裡的大象哪一頭能大過這一位？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1918529852115960138",
+        "created_at": "2025-05-03T04:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T05:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918529852115960138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1664431196917342210",
+              "start": 3,
+              "username": "ArthurDoyl221"
+            },
+            {
+              "end": 35,
+              "id": "1249525383797456898",
+              "start": 19,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918529852115960138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918097553243160880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArthurDoyl221: @jakobsonradical 工農兵大學生裡面那個最著名的博士還在指導人類發展方向，底下的這些不都是些小巫而已？房間裡的大象哪一頭能大過這一位？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664431196917342210",
+        "conversation_id": "1918088114096218118",
+        "created_at": "2025-05-02T00:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T01:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918097553243160880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918097553243160880",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8743,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918088114096218118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 工農兵大學生裡面那個最著名的博士還在指導人類發展方向，底下的這些不都是些小巫而已？房間裡的大象哪一頭能大過這一位？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 457,
+          "like_count": 2409,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3408
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T00:38:36.000Z",
+        "description": "There is only one truth.",
+        "id": "1664431196917342210",
+        "name": "Arthur Doyle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664431285304020992/QpjXQ2y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 283,
+          "like_count": 1296,
+          "listed_count": 15,
+          "media_count": 235,
+          "tweet_count": 18882
+        },
+        "username": "ArthurDoyl221",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237903,
+          "following_count": 1475,
+          "like_count": 41492,
+          "listed_count": 967,
+          "media_count": 18125,
+          "tweet_count": 25319
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

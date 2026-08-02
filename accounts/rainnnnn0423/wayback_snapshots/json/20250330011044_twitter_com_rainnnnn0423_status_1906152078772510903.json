@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906152075639361536"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1906152078772510903",
+    "created_at": "2025-03-30T01:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T02:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906152078772510903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7XJKAc1O3y",
+          "end": 37,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1906152078772510903/photo/1",
+          "media_key": "3_1906152075639361536",
+          "start": 14,
+          "url": "https://t.co/7XJKAc1O3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906152078772510903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑点解析：超过了4%的用户 https://t.co/7XJKAc1O3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_1906152075639361536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnQDNqxbkAAbjdp.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906152075639361536"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906152078772510903",
+        "created_at": "2025-03-30T01:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T02:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906152078772510903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XJKAc1O3y",
+              "end": 37,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1906152078772510903/photo/1",
+              "media_key": "3_1906152075639361536",
+              "start": 14,
+              "url": "https://t.co/7XJKAc1O3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906152078772510903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑点解析：超过了4%的用户 https://t.co/7XJKAc1O3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 386,
+          "like_count": 1683,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 2755
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

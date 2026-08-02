@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2023383426783654099",
+    "created_at": "2026-02-18T09:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T10:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024048303172894958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "Kikunashi30712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024048303172894958",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024025263420367355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikunashi30712 前任东北狗一条"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2023383426783654099",
+        "created_at": "2026-02-18T09:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024048303172894958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "Kikunashi30712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024048303172894958",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024025263420367355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikunashi30712 前任东北狗一条"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "2023383426783654099",
+        "created_at": "2026-02-18T07:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024025263420367355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024025263420367355",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023383426783654099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 我受不了东北入了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 606,
+          "like_count": 5108,
+          "listed_count": 4,
+          "media_count": 331,
+          "tweet_count": 4473
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kikunashi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kikunashi",
+                "start": 0,
+                "url": "https://t.co/5udd6ZSL5y"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015768177091936256/sDXcJM8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 209,
+          "like_count": 24439,
+          "listed_count": 3,
+          "media_count": 660,
+          "tweet_count": 13308
+        },
+        "url": "https://t.co/5udd6ZSL5y",
+        "username": "Kikunashi30712",
+        "verified": false
+      }
+    ]
+  }
+}

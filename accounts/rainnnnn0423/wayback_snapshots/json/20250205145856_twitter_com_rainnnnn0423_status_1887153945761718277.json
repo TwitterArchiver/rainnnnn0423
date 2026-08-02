@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1887023683048497360",
+    "created_at": "2025-02-05T14:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T15:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887153945761718277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877726238909100032",
+          "start": 0,
+          "username": "tearthecage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887153945761718277",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887152233944674633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tearthecage 做题蛆属于是生活不如意，哎\n我父母很爱我愿意为了我做出巨大转变，理解我想法支持我理想，每天开开心心吃喝玩乐，过自己想要的生活，每天不用卷死卷生，我不用靠做题就能幸福\n做题蛆们要在抖音发#原生家庭了，被父母控制，被体制控制，被中共洗脑听话地追求世俗利益而从未关心过真正的个人成长，可怜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887023683048497360",
+        "created_at": "2025-02-05T14:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T15:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887153945761718277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887153945761718277",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887152233944674633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 做题蛆属于是生活不如意，哎\n我父母很爱我愿意为了我做出巨大转变，理解我想法支持我理想，每天开开心心吃喝玩乐，过自己想要的生活，每天不用卷死卷生，我不用靠做题就能幸福\n做题蛆们要在抖音发#原生家庭了，被父母控制，被体制控制，被中共洗脑听话地追求世俗利益而从未关心过真正的个人成长，可怜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887023683048497360",
+        "created_at": "2025-02-05T14:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T15:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887152233944674633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887152233944674633",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887150983438106766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 我对自己从四校八大滑档到区重也无所谓，因为我当时已经尽可能去做了，很多人也夸我很厉害。有个被完全洗脑了的做题蛆当时还骂我 🤔当年因为躯体化破防好像还找你哭过一次。\n现在我挺可怜这帮做题蛆的，他们已经完全沦为中共想要的听话韭菜人矿了。简称失去自我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 231,
+          "like_count": 624,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 948
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T14:37:48.000Z",
+        "description": "_",
+        "id": "1877726238909100032",
+        "name": "766461575464645546455544231316647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877727242610196480/T2AwsvAH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 197
+        },
+        "username": "tearthecage",
+        "verified": false
+      }
+    ]
+  }
+}

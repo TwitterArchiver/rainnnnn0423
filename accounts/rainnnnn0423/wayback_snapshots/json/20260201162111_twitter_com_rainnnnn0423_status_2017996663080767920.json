@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2017996507639959696",
+    "created_at": "2026-02-01T16:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T17:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017996663080767920"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017996663080767920",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017996507639959696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "bq你给我一种疏离感…我想探寻你的真心，只看到了你的批在流水…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_2017996492766879744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFdHk1aoAAiiPF.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2017996507639959696",
+        "created_at": "2026-02-01T16:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017996663080767920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017996663080767920",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017996507639959696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bq你给我一种疏离感…我想探寻你的真心，只看到了你的批在流水…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017996492766879744"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "2017996507639959696",
+        "created_at": "2026-02-01T16:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017996507639959696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w2BKLgbbdt",
+              "end": 67,
+              "expanded_url": "https://x.com/rainnnnn0423/status/2017996507639959696/photo/1",
+              "media_key": "3_2017996492766879744",
+              "start": 44,
+              "url": "https://t.co/w2BKLgbbdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017996507639959696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bq还是有见解，我觉得他真就是一语中的了，站在这个位置就是包装好的商品了，还想做自己吗 https://t.co/w2BKLgbbdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 606,
+          "like_count": 5017,
+          "listed_count": 4,
+          "media_count": 331,
+          "tweet_count": 4416
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

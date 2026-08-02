@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894001101097009613",
+    "created_at": "2025-02-25T05:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T06:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894251035709075638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829391339833823232",
+          "start": 0,
+          "username": "ohotomosan"
+        },
+        {
+          "end": 27,
+          "id": "1552935113939267585",
+          "start": 12,
+          "username": "thenorthpole72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894251035709075638",
+    "in_reply_to_user_id": "829391339833823232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894151428484337805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohotomosan @thenorthpole72 这是中文互联网的一个梗www这个主播比较令人忍俊不禁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894001101097009613",
+        "created_at": "2025-02-25T05:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T06:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894251035709075638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829391339833823232",
+              "start": 0,
+              "username": "ohotomosan"
+            },
+            {
+              "end": 27,
+              "id": "1552935113939267585",
+              "start": 12,
+              "username": "thenorthpole72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894251035709075638",
+        "in_reply_to_user_id": "829391339833823232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894151428484337805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohotomosan @thenorthpole72 这是中文互联网的一个梗www这个主播比较令人忍俊不禁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829391339833823232",
+        "conversation_id": "1894001101097009613",
+        "created_at": "2025-02-24T22:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T23:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894151428484337805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552935113939267585",
+              "start": 0,
+              "username": "thenorthpole72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894151428484337805",
+        "in_reply_to_user_id": "1552935113939267585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894055496669118955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thenorthpole72 现在没有打算露出颜面的直播"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 295,
+          "like_count": 1011,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1734
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T18:07:59.000Z",
+        "description": "日語/中文/English.\n在學華語（普通話，粵台語）。發信日本語學，文化，生活情報。\n普通にゲームかペチの話題多め",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/oilmajor_ootom…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/oilmajor_ootomo?t=hjDNDa&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/irBXWMOAFM"
+              }
+            ]
+          }
+        },
+        "id": "829391339833823232",
+        "name": "おほとも（犬儒）",
+        "pinned_tweet_id": "1865254598644240617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865256573465149440/MJPtJwmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 4753,
+          "like_count": 43933,
+          "listed_count": 12,
+          "media_count": 3084,
+          "tweet_count": 82246
+        },
+        "url": "https://t.co/irBXWMOAFM",
+        "username": "ohotomosan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T08:32:46.000Z",
+        "description": "什么都混一点/二游主玩ba/音游/wota艺初学/日语学习中/cosplay/英语ok",
+        "id": "1552935113939267585",
+        "name": "thenorthpole",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875740612122832896/OrJhaFeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 564,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 78
+        },
+        "username": "thenorthpole72",
+        "verified": false
+      }
+    ]
+  }
+}

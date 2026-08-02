@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891047004974850465",
+    "created_at": "2025-02-16T09:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T10:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891055385471025178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545736499597307904",
+          "start": 0,
+          "username": "Andy1782010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891055385471025178",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891055276851089430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andy1782010 说实话还不太适应早睡早起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891047004974850465",
+        "created_at": "2025-02-16T09:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T10:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891055385471025178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545736499597307904",
+              "start": 0,
+              "username": "Andy1782010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891055385471025178",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891055276851089430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy1782010 说实话还不太适应早睡早起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891047004974850465",
+        "created_at": "2025-02-16T09:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T10:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891055276851089430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545736499597307904",
+              "start": 0,
+              "username": "Andy1782010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891055276851089430",
+        "in_reply_to_user_id": "1545736499597307904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891047004974850465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy1782010 我十点吃安眠药，六点电棍闹钟响，我过得也很惨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 240,
+          "like_count": 742,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1273
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学在读ENTP初三牲喵（2010.06）\n在思考要不要翻车喵（\ncrush @guo_lao32576\n主人@xvque5567 @fc1164283287992\n里推@Andy1782025\n友情链接：鹅鹅 @geeseartist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "xvque5567"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "fc1164283287992"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Andy1782025"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "geeseartist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andy17820101",
+                "end": 23,
+                "expanded_url": "http://ngl.link/andy17820101",
+                "start": 0,
+                "url": "https://t.co/N8iKz1oOco"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy1782010",
+        "pinned_tweet_id": "1876669495902917098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 2676,
+          "like_count": 4422,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/N8iKz1oOco",
+        "username": "Andy1782010",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1873267103052251373",
+    "created_at": "2024-12-29T07:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T08:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873267103052251373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Marionette_Sa/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Marionette_Sa/status/1872861245302596093",
+          "start": 7,
+          "url": "https://t.co/Qzk9ftxyG0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873267103052251373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872861245302596093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她真的我哭死 https://t.co/Qzk9ftxyG0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1873267103052251373",
+        "created_at": "2024-12-29T07:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T08:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873267103052251373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Marionette_Sa/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Marionette_Sa/status/1872861245302596093",
+              "start": 7,
+              "url": "https://t.co/Qzk9ftxyG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873267103052251373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872861245302596093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她真的我哭死 https://t.co/Qzk9ftxyG0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872861241804505091"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1872861245302596093",
+        "created_at": "2024-12-28T04:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T05:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872861245302596093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i54CVSkSHt",
+              "end": 23,
+              "expanded_url": "https://x.com/Marionette_Sa/status/1872861245302596093/photo/1",
+              "media_key": "3_1872861241804505091",
+              "start": 0,
+              "url": "https://t.co/i54CVSkSHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872861245302596093",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 92589,
+          "like_count": 1838,
+          "quote_count": 5,
+          "reply_count": 51,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i54CVSkSHt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 100,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 185
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌🌠|🏳️‍🌈🏳️‍⚧️友好|头像作者 @abi_marionette|加点东西：@huahuojiang_ |欢迎匿名给我发消息📦https://t.co/OJCInz4IdU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "abi_marionette"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "huahuojiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/marionette_sa1",
+                "end": 89,
+                "expanded_url": "https://ngl.link/marionette_sa1",
+                "start": 66,
+                "url": "https://t.co/OJCInz4IdU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/marionette_sa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/marionette_sa1",
+                "start": 0,
+                "url": "https://t.co/OJCInz4IdU"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "至冬宫",
+        "name": "木偶酱～🌠",
+        "pinned_tweet_id": "1843225828160860234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871178782482345984/h2ml46q-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15764,
+          "following_count": 9771,
+          "like_count": 60469,
+          "listed_count": 56,
+          "media_count": 2458,
+          "tweet_count": 10296
+        },
+        "url": "https://t.co/OJCInz4IdU",
+        "username": "Marionette_Sa",
+        "verified": false
+      }
+    ]
+  }
+}

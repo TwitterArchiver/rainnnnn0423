@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1889873681616388545",
+    "created_at": "2025-02-13T03:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T04:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889873681616388545"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1889873681616388545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽啊我花了快五百给朋友定的生日蛋糕翻车了，我不求100%完美能做到80%我就很满意了，但其实和我要求相差甚远\n我这么需求清楚的甲方说的都是简体中文还抓不住重点？？？吃一堑长一智，文字设翻车了再约痛糕我得画设计图🌚\n我不好意思说店家。。我这人品味非常好所以翻车了我会恼火😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889873681616388545",
+        "created_at": "2025-02-13T03:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T04:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889873681616388545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889873681616388545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽啊我花了快五百给朋友定的生日蛋糕翻车了，我不求100%完美能做到80%我就很满意了，但其实和我要求相差甚远\n我这么需求清楚的甲方说的都是简体中文还抓不住重点？？？吃一堑长一智，文字设翻车了再约痛糕我得画设计图🌚\n我不好意思说店家。。我这人品味非常好所以翻车了我会恼火😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 237,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1122
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

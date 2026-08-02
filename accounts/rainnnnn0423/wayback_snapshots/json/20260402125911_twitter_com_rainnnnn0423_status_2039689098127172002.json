@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2039635133167521914",
+    "created_at": "2026-04-02T12:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039689098127172002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889206585152741376",
+          "start": 0,
+          "username": "ChanaWeins89377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039689098127172002",
+    "in_reply_to_user_id": "1889206585152741376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039635133167521914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChanaWeins89377 好的，那我要和习近平做爱，用假阴茎狠狠地捅他的小穴，给他捅到前列腺高潮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2039635133167521914",
+        "created_at": "2026-04-02T12:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039689098127172002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889206585152741376",
+              "start": 0,
+              "username": "ChanaWeins89377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039689098127172002",
+        "in_reply_to_user_id": "1889206585152741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039635133167521914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChanaWeins89377 好的，那我要和习近平做爱，用假阴茎狠狠地捅他的小穴，给他捅到前列腺高潮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889206585152741376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2039635133167521914",
+        "created_at": "2026-04-02T09:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039635133167521914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039635133167521914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特到底是咋判断垃圾评论的。\n\n一堆🈷️跑、卖烟的不折叠，折我评论区要和习近平做爱的，，这明明是我帖子的精华，我发帖就是为了看这种评论的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88 我不吸毒谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 644,
+          "like_count": 5300,
+          "listed_count": 4,
+          "media_count": 341,
+          "tweet_count": 4637
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:56:59.000Z",
+        "description": "大陆文科高中生，社交能力很糟 精神状态堪忧 道德底线几乎没有，如果让你不高兴了对不起我没有恶意真的，欢迎所有人来找我玩。中⌚博爱。最大属性周飞辱追，看见他挨骂（各种意义上的）我都会很开心😋",
+        "id": "1889206585152741376",
+        "name": "Ender桓桓",
+        "pinned_tweet_id": "2013950943281529003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928588169009836034/cjk9Jz-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 102,
+          "like_count": 2759,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 443
+        },
+        "username": "ChanaWeins89377",
+        "verified": false
+      }
+    ]
+  }
+}

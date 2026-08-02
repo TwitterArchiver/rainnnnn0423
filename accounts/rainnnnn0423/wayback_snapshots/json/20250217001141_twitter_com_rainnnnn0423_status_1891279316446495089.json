@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891279316446495089",
+    "created_at": "2025-02-17T00:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T01:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891279316446495089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuRain_Is_Doll…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/YuRain_Is_Doll/status/1890756875311882461",
+          "start": 14,
+          "url": "https://t.co/pVA3AzPmt5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891279316446495089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890756875311882461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来是男娘啊，这下更喜欢了 https://t.co/pVA3AzPmt5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891279316446495089",
+        "created_at": "2025-02-17T00:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T01:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891279316446495089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuRain_Is_Doll…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/YuRain_Is_Doll/status/1890756875311882461",
+              "start": 14,
+              "url": "https://t.co/pVA3AzPmt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891279316446495089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890756875311882461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来是男娘啊，这下更喜欢了 https://t.co/pVA3AzPmt5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890756835227090944",
+            "3_1890756835227189248"
+          ]
+        },
+        "author_id": "1508408540360507393",
+        "conversation_id": "1890756875311882461",
+        "created_at": "2025-02-15T13:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T14:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890756875311882461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OzKBIbHQXH",
+              "end": 43,
+              "expanded_url": "https://x.com/YuRain_Is_Doll/status/1890756875311882461/photo/1",
+              "media_key": "3_1890756835227090944",
+              "start": 20,
+              "url": "https://t.co/OzKBIbHQXH"
+            },
+            {
+              "display_url": "pic.x.com/OzKBIbHQXH",
+              "end": 43,
+              "expanded_url": "https://x.com/YuRain_Is_Doll/status/1890756875311882461/photo/1",
+              "media_key": "3_1890756835227189248",
+              "start": 20,
+              "url": "https://t.co/OzKBIbHQXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890756875311882461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 10633,
+          "like_count": 210,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "笑點解析：支持性騷擾的蝻拳仔說別人噁心 https://t.co/OzKBIbHQXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 241,
+          "like_count": 746,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1299
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T11:40:34.000Z",
+        "description": "MTX但想變成女性，繩兔/寵物/brat/degradee/sub/girl/M，雙相/焦慮/憂鬱/失憶/亞斯/CPTSD                                                                                 會點歌詞創作，需要的可以合作",
+        "id": "1508408540360507393",
+        "location": "臺灣及福建群島蘇維埃聯邦共和國",
+        "name": "🏳️‍⚧️ꨄ︎可愛的阿宇摺耳貓🇺🇦🇵🇸🐋☭",
+        "pinned_tweet_id": "1857021269541036390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753662163594678272/cTXIexkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 2960,
+          "like_count": 3985,
+          "listed_count": 4,
+          "media_count": 2646,
+          "tweet_count": 41731
+        },
+        "username": "YuRain_Is_Doll",
+        "verified": false
+      }
+    ]
+  }
+}

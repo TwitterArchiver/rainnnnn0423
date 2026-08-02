@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891986460988891136",
+        "3_1891986482359042049"
+      ],
+      "media_source_tweet_id": [
+        "1891986494585438222",
+        "1891986494585438222"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1892396956753743974",
+    "created_at": "2025-02-20T02:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T03:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892396956753743974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5wqXtqcOQG",
+          "end": 125,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/1891986494585438222/photo/1",
+          "media_key": "3_1891986460988891136",
+          "start": 102,
+          "url": "https://t.co/5wqXtqcOQG"
+        },
+        {
+          "display_url": "pic.x.com/5wqXtqcOQG",
+          "end": 125,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/1891986494585438222/photo/1",
+          "media_key": "3_1891986482359042049",
+          "start": 102,
+          "url": "https://t.co/5wqXtqcOQG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892396956753743974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891986494585438222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 孩子用自己的压岁钱买手机，没告诉家长。\n家长要求手机店退款。因手机已拆封激活，店主不肯退。\n家长就和孩子一起跪在店门口。让你关不了门。\n这里每一个细节都非常老中。 https://t.co/5wqXtqcOQG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1891986460988891136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkGvqX8XYAA_EbE.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2796,
+        "media_key": "3_1891986482359042049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkGvrnjaAAE5r4H.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891986460988891136",
+            "3_1891986482359042049"
+          ],
+          "media_source_tweet_id": [
+            "1891986494585438222",
+            "1891986494585438222"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892396956753743974",
+        "created_at": "2025-02-20T02:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T03:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892396956753743974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wqXtqcOQG",
+              "end": 125,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1891986494585438222/photo/1",
+              "media_key": "3_1891986460988891136",
+              "start": 102,
+              "url": "https://t.co/5wqXtqcOQG"
+            },
+            {
+              "display_url": "pic.x.com/5wqXtqcOQG",
+              "end": 125,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1891986494585438222/photo/1",
+              "media_key": "3_1891986482359042049",
+              "start": 102,
+              "url": "https://t.co/5wqXtqcOQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892396956753743974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891986494585438222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 孩子用自己的压岁钱买手机，没告诉家长。\n家长要求手机店退款。因手机已拆封激活，店主不肯退。\n家长就和孩子一起跪在店门口。让你关不了门。\n这里每一个细节都非常老中。 https://t.co/5wqXtqcOQG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891986460988891136",
+            "3_1891986482359042049"
+          ]
+        },
+        "author_id": "44186175",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1891986494585438222",
+        "created_at": "2025-02-18T23:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T00:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891986494585438222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wqXtqcOQG",
+              "end": 105,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1891986494585438222/photo/1",
+              "media_key": "3_1891986460988891136",
+              "start": 82,
+              "url": "https://t.co/5wqXtqcOQG"
+            },
+            {
+              "display_url": "pic.x.com/5wqXtqcOQG",
+              "end": 105,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1891986494585438222/photo/1",
+              "media_key": "3_1891986482359042049",
+              "start": 82,
+              "url": "https://t.co/5wqXtqcOQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891986494585438222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 280523,
+          "like_count": 936,
+          "quote_count": 5,
+          "reply_count": 106,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "孩子用自己的压岁钱买手机，没告诉家长。\n家长要求手机店退款。因手机已拆封激活，店主不肯退。\n家长就和孩子一起跪在店门口。让你关不了门。\n这里每一个细节都非常老中。 https://t.co/5wqXtqcOQG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 246,
+          "like_count": 813,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1397
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232532,
+          "following_count": 1841,
+          "like_count": 189,
+          "listed_count": 1217,
+          "media_count": 24971,
+          "tweet_count": 32054
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

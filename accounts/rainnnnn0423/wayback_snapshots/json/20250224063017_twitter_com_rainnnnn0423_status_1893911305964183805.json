@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893599783656329448",
+    "created_at": "2025-02-24T06:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T07:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893911305964183805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774063407559512064",
+          "start": 0,
+          "username": "lightly_wind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893911305964183805",
+    "in_reply_to_user_id": "1774063407559512064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893599783656329448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightly_wind 兄弟兄弟我也想要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_1893599781026750464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkdq99bbYAA8kLA.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893599783656329448",
+        "created_at": "2025-02-24T06:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893911305964183805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774063407559512064",
+              "start": 0,
+              "username": "lightly_wind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893911305964183805",
+        "in_reply_to_user_id": "1774063407559512064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893599783656329448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightly_wind 兄弟兄弟我也想要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893599781026750464"
+          ]
+        },
+        "author_id": "1774063407559512064",
+        "conversation_id": "1893599783656329448",
+        "created_at": "2025-02-23T09:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893599783656329448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMZI4Rnznv",
+              "end": 52,
+              "expanded_url": "https://x.com/lightly_wind/status/1893599783656329448/photo/1",
+              "media_key": "3_1893599781026750464",
+              "start": 29,
+              "url": "https://t.co/VMZI4Rnznv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893599783656329448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3006,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备送好兄弟一个贵重的杯子\n这样他就不想找女朋友了🥰🥰🥰 https://t.co/VMZI4Rnznv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 288,
+          "like_count": 969,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1658
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T13:17:38.000Z",
+        "description": "这里是风风，一个立誓不对任何人恶语相向的笨蛋大猫猫ෆ╹ .̮ ╹ෆ/想成为像暖言猫猫一样用语言温暖身边所有人的人(◍•ᴗ•◍)✧*/不排斥任何观点和立场也不歧视任何人( ◜‿◝ )♡/从深渊中醒来过所以尽力去帮助身边处于痛苦和迷茫的人♡ ᒪ∅ᐯᕮ ♡/有烦恼可以和我说说哦，请你喝奶茶(´∩｡• ᵕ •｡∩`)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "limestart.cn",
+                "end": 23,
+                "expanded_url": "https://limestart.cn/",
+                "start": 0,
+                "url": "https://t.co/6iDsLyipfL"
+              }
+            ]
+          }
+        },
+        "id": "1774063407559512064",
+        "location": "异世界，王国都城，上城区",
+        "name": "温柔的风穿堂过 | ※吟游诗人※",
+        "pinned_tweet_id": "1886440954007269741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888802816195723264/7ghgfSrT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 791,
+          "like_count": 18188,
+          "listed_count": 16,
+          "media_count": 635,
+          "tweet_count": 6820
+        },
+        "url": "https://t.co/6iDsLyipfL",
+        "username": "lightly_wind",
+        "verified": false
+      }
+    ]
+  }
+}

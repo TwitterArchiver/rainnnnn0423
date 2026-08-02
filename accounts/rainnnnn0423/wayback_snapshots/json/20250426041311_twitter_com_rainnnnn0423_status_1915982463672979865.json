@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1915982463672979865",
+    "created_at": "2025-04-26T04:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T05:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915982463672979865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775807033540763648",
+          "start": 3,
+          "username": "Groundness"
+        },
+        {
+          "end": 28,
+          "id": "1599125227786608655",
+          "start": 16,
+          "username": "realeco8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915982463672979865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915777583695974753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Groundness: @realeco8964 习近平唾液送服；上午吃105片，下午吃106片；有一种丰收的喜悦，吃了之后非常开心，浑身充满了力量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1915982463672979865",
+        "created_at": "2025-04-26T04:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T05:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915982463672979865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775807033540763648",
+              "start": 3,
+              "username": "Groundness"
+            },
+            {
+              "end": 28,
+              "id": "1599125227786608655",
+              "start": 16,
+              "username": "realeco8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915982463672979865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915777583695974753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Groundness: @realeco8964 习近平唾液送服；上午吃105片，下午吃106片；有一种丰收的喜悦，吃了之后非常开心，浑身充满了力量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775807033540763648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1915413665701937273",
+        "created_at": "2025-04-25T14:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T15:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915777583695974753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599125227786608655",
+              "start": 0,
+              "username": "realeco8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915777583695974753",
+        "in_reply_to_user_id": "1599125227786608655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915413665701937273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realeco8964 习近平唾液送服；上午吃105片，下午吃106片；有一种丰收的喜悦，吃了之后非常开心，浑身充满了力量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 451,
+          "like_count": 2276,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 3312
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T08:46:23.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kekma.net",
+                "end": 23,
+                "expanded_url": "http://kekma.net",
+                "start": 0,
+                "url": "https://t.co/MOX7Ftk3fj"
+              }
+            ]
+          }
+        },
+        "id": "1775807033540763648",
+        "location": "人科之蛆",
+        "name": "特殊地上人",
+        "pinned_tweet_id": "1809337994308121084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884351040830726146/DwhntX-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 12,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/MOX7Ftk3fj",
+        "username": "Groundness",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去",
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1907447266241290338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912514434456596481/MuWW4MUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4543,
+          "following_count": 282,
+          "like_count": 17067,
+          "listed_count": 9,
+          "media_count": 914,
+          "tweet_count": 10820
+        },
+        "username": "realeco8964",
+        "verified": false
+      }
+    ]
+  }
+}

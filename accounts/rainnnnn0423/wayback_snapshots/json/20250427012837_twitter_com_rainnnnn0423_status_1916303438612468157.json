@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1916303438612468157",
+    "created_at": "2025-04-27T01:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T02:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916303438612468157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shinoaAwA/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/shinoaAwA/status/1915831780382568614",
+          "start": 8,
+          "url": "https://t.co/IFjqgPiTN8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916303438612468157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915831780382568614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我将速通全结局 https://t.co/IFjqgPiTN8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1916303438612468157",
+        "created_at": "2025-04-27T01:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T02:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916303438612468157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shinoaAwA/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/shinoaAwA/status/1915831780382568614",
+              "start": 8,
+              "url": "https://t.co/IFjqgPiTN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916303438612468157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915831780382568614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将速通全结局 https://t.co/IFjqgPiTN8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731900703919230976",
+        "conversation_id": "1915831780382568614",
+        "created_at": "2025-04-25T18:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T19:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915831780382568614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915831780382568614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 71239,
+          "like_count": 1225,
+          "quote_count": 43,
+          "reply_count": 109,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "在推特上分享自己的几个结局：\n1.零人在意，自我意识过剩\n2.福利求fo，从露肉到下海\n3.同城月抛，片姐私信轰炸\n4.被人攻击，玉玉割手退推\n5.讣告复活，大战原生家庭\n6.变成药娘，摸摸抱抱贴贴\n7.清水淡推，感觉浪费时间\n8.赛博丁真，支黑大战粉红\n9.莫名封号，怒杀埃隆马马\n10.晶哥上门，从此杳无音信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 453,
+          "like_count": 2310,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 3356
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T04:58:33.000Z",
+        "description": "@所有人 请fo我₍˄·͈༝·͈˄*₎◞ ̑̑|\n@所有人 請fo我|\n@everyone plz follow me|\n@みんなフォロミ|\n碎碎念清水|双流一学校本科在读|性向保密|我喜欢你|友跨|jpop/ボカロはいいのに|计算机科学与技术",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "everyone"
+              }
+            ]
+          }
+        },
+        "id": "1731900703919230976",
+        "location": "地球🌏",
+        "name": "shinoaAwA",
+        "pinned_tweet_id": "1843339927888769299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824989288523841536/X2YE8f6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 2901,
+          "like_count": 7984,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1465
+        },
+        "username": "shinoaAwA",
+        "verified": false
+      }
+    ]
+  }
+}

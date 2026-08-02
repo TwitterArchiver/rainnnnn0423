@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2036947067361517623",
+    "created_at": "2026-03-25T23:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036947067361517623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1734384953583132672",
+          "start": 3,
+          "username": "buberrychu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036947067361517623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035918560380538936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @buberrychu: 伯千　　グループ抽選から🍊を応援\n\nAXIZきた！いけKakiri！しんあんを倒せ！\n(グループBの雲行きが怪しくなってきた時)\nおわった！私のKakiriがぁぁ！\n(WolvesもグループBに)グループBやばいじゃん！ピエロ使い同士で潰し合って…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2036947067361517623",
+        "created_at": "2026-03-25T23:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036947067361517623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1734384953583132672",
+              "start": 3,
+              "username": "buberrychu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036947067361517623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035918560380538936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @buberrychu: 伯千　　グループ抽選から🍊を応援\n\nAXIZきた！いけKakiri！しんあんを倒せ！\n(グループBの雲行きが怪しくなってきた時)\nおわった！私のKakiriがぁぁ！\n(WolvesもグループBに)グループBやばいじゃん！ピエロ使い同士で潰し合って…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734384953583132672",
+        "conversation_id": "2035918560380538936",
+        "created_at": "2026-03-23T03:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035918560380538936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "简介：素材：爷 剪辑 ：爷 视频如有卡顿等问题请在评论区留言，；已有595名第五人格玩家向您推荐本视频，点击前往哔哩哔哩bilibili一起观看；更多实用攻略教学，爆笑沙雕集锦，你所不知道的游戏知识，热门游戏视频7*24小时持续更新,尽在哔哩哔哩bilibili 视频播放量 23405、弹幕量 242、点赞数 595、投硬币枚数 32、收藏人数 101、转发人数 56, 视频作者 虎牙伯千, 作者简介 【虎牙伯千】 直播间：298142 直播通知：1074690731，相关视频：【凉哈皮】凉哈皮ob深渊9小组赛抽签仪式：B组真的是死亡分组，X电竞误入“B组绞肉机”，相对而已C，D组强度真的差点一点。，潮神抽签时，人类的悲欢并不相通……，“玩毛啊 滚吧第五”“RC怎么打啊”桃已被逼疯！wbg rc 桃晚安ob第五人格深渊的呼唤八coa8全球总决赛淘汰赛抽签仪式 成都gg mrc，虎牙伯千ob深渊小组赛抽签：恭喜X电竞🤣14冠小组把校长当陀螺打🤣，[日本主播ob]深渊九抽签仪式！做法成功？潮神再次发力！B组你几个冠军？！，【深渊IX抽签】救救他，他还是个孩子，起初人们对这个视频不以为然，露：来MRC第一年的深渊就是好签！，【小程】点击收看瓜葛小子分析深渊抽签+正经分析B组，【全明星ob】深渊九小组赛b组抽签 潮神又神了！",
+              "display_url": "b23.tv/AUKGhs2",
+              "end": 162,
+              "expanded_url": "https://b23.tv/AUKGhs2",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2035918610515017728/4U5wuFy6?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2035918610515017728/4U5wuFy6?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 139,
+              "status": 200,
+              "title": "【伯千OB】深渊9小组赛抽签！_第五人格",
+              "unwound_url": "https://www.bilibili.com/video/BV1BfA3zpEbX/?buvid=Y64EB161C9B22DF243D69B5472EB726B00C8&from_spmid=search.search-result.0.0&is_story_h5=false&mid=vqooRb567MtaFDz8ZszpMH8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=353762A6-E3C7-46A0-A0D9-AADAFA02C8B7&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1774235530&unique_k=AUKGhs2&up_id=56881254",
+              "url": "https://t.co/AmrdEYWVFY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035918560380538936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 16724,
+          "like_count": 406,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "following",
+        "text": "伯千　　グループ抽選から🍊を応援\n\nAXIZきた！いけKakiri！しんあんを倒せ！\n(グループBの雲行きが怪しくなってきた時)\nおわった！私のKakiriがぁぁ！\n(WolvesもグループBに)グループBやばいじゃん！ピエロ使い同士で潰し合ってどうするんだよ！ふざけるな！！\nhttps://t.co/AmrdEYWVFY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88 我不吸毒谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2029885847835922693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 628,
+          "like_count": 5217,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 4603
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T01:29:44.000Z",
+        "description": "^ ̳ට ̫ ට ̳^ 💤🩶",
+        "id": "1734384953583132672",
+        "location": "𝒛𝒆𝒕𝒂𝒘𝒊𝒏⚡️",
+        "name": "なな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969381891288809477/i2yc7o-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3745,
+          "following_count": 338,
+          "like_count": 2481,
+          "listed_count": 9,
+          "media_count": 147,
+          "tweet_count": 1351
+        },
+        "username": "buberrychu",
+        "verified": false
+      }
+    ]
+  }
+}

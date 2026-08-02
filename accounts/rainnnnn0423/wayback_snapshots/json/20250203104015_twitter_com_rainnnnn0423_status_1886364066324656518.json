@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1886364066324656518",
+    "created_at": "2025-02-03T10:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T11:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886364066324656518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1886132153748250786",
+          "start": 11,
+          "url": "https://t.co/NH6M7xE1aT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886364066324656518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886132153748250786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当日记记了 很好用👍 https://t.co/NH6M7xE1aT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886364066324656518",
+        "created_at": "2025-02-03T10:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T11:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886364066324656518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1886132153748250786",
+              "start": 11,
+              "url": "https://t.co/NH6M7xE1aT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886364066324656518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886132153748250786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当日记记了 很好用👍 https://t.co/NH6M7xE1aT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886132151088975872"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886132153748250786",
+        "created_at": "2025-02-02T19:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T20:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886132153748250786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiygsNHSNf",
+              "end": 64,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1886132153748250786/photo/1",
+              "media_key": "3_1886132151088975872",
+              "start": 41,
+              "url": "https://t.co/IiygsNHSNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886132153748250786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的tg频道\n纯胡言乱语 会试着用它的即时性（几号几点几分很清楚）来对抗一下解离 https://t.co/IiygsNHSNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 230,
+          "like_count": 607,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 935
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

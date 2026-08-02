@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1881752956334412024",
+    "created_at": "2025-01-21T17:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T18:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881752956334412024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hsn8086/status/1881557541408403693",
+          "start": 9,
+          "url": "https://t.co/FNZnpF3wYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881752956334412024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881557541408403693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也对屏幕哈气了 https://t.co/FNZnpF3wYg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1881752956334412024",
+        "created_at": "2025-01-21T17:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T18:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881752956334412024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hsn8086/status/1881557541408403693",
+              "start": 9,
+              "url": "https://t.co/FNZnpF3wYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881752956334412024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881557541408403693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也对屏幕哈气了 https://t.co/FNZnpF3wYg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881557538732466176"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1881557541408403693",
+        "created_at": "2025-01-21T04:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T05:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881557541408403693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXTY0tzykY",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1881557541408403693/photo/1",
+              "media_key": "3_1881557538732466176",
+              "start": 0,
+              "url": "https://t.co/RXTY0tzykY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881557541408403693",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 115102,
+          "like_count": 1157,
+          "quote_count": 10,
+          "reply_count": 86,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RXTY0tzykY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 186,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 510
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1869317700327199087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31272,
+          "following_count": 902,
+          "like_count": 36393,
+          "listed_count": 89,
+          "media_count": 5294,
+          "tweet_count": 10164
+        },
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

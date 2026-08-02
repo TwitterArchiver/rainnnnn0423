@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1927273927224475655",
+    "created_at": "2025-05-27T08:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T09:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927283086380638633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870808293838573568",
+          "start": 0,
+          "username": "wanzi4416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927283086380638633",
+    "in_reply_to_user_id": "1870808293838573568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927273927224475655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanzi4416 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1927273919364349953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8NaySWQAEMjdE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1136,
+        "media_key": "3_1927273919406288896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8NaycWMAAIYFI.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1927273927224475655",
+        "created_at": "2025-05-27T08:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T09:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927283086380638633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870808293838573568",
+              "start": 0,
+              "username": "wanzi4416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927283086380638633",
+        "in_reply_to_user_id": "1870808293838573568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927273927224475655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanzi4416 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927273919364349953",
+            "3_1927273919406288896"
+          ]
+        },
+        "author_id": "1870808293838573568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1927273927224475655",
+        "created_at": "2025-05-27T08:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T09:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927273927224475655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wwPuKowUm0",
+              "end": 37,
+              "expanded_url": "https://x.com/wanzi4416/status/1927273927224475655/photo/1",
+              "media_key": "3_1927273919364349953",
+              "start": 14,
+              "url": "https://t.co/wwPuKowUm0"
+            },
+            {
+              "display_url": "pic.x.com/wwPuKowUm0",
+              "end": 37,
+              "expanded_url": "https://x.com/wanzi4416/status/1927273927224475655/photo/1",
+              "media_key": "3_1927273919406288896",
+              "start": 14,
+              "url": "https://t.co/wwPuKowUm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927273927224475655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前cos乐奈酱的照片喵🥺 https://t.co/wwPuKowUm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 490,
+          "like_count": 3049,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 3626
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T12:27:19.000Z",
+        "description": "",
+        "id": "1870808293838573568",
+        "name": "丸🍡",
+        "pinned_tweet_id": "1870812500905898221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870808618540638208/WfOaRAgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 73,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 121
+        },
+        "username": "wanzi4416",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1893658150898639264",
+    "created_at": "2025-02-23T13:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T14:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893658150898639264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1153970326604144640",
+          "start": 3,
+          "username": "Ruters0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893658150898639264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893632109711069222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruters0615: 全球人政治水平降低一百万倍，我摇身一变成为互联网民主皇帝\n\n清晨醒来，我像往常一样打开 Reddit，进入…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1893658150898639264",
+        "created_at": "2025-02-23T13:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T14:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893658150898639264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1153970326604144640",
+              "start": 3,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893658150898639264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893632109711069222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruters0615: 全球人政治水平降低一百万倍，我摇身一变成为互联网民主皇帝\n\n清晨醒来，我像往常一样打开 Reddit，进入…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153970326604144640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1893632109711069222",
+        "created_at": "2025-02-23T12:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T13:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893632109711069222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893632109711069222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "全球人政治水平降低一百万倍，我摇身一变成为互联网民主皇帝\n\n清晨醒来，我像往常一样打开 Reddit，进入 r/WeeklyPlayboyJapan，期待欣赏花友们发布的令人捧腹的新帖子。然而，映入眼帘的却是清一色的弱智帖文：“习近平太坏了”“共产党太坏了”“我爱日本，我爱美国”。我愣住了，刷新几次页面后才确认，那些曾经妙趣横生的帖子早已经不复存在。\n\n疑虑重重之下，我又登录哔哩哔哩。没想到，这些坐拥数百万粉丝的知名UP主们，居然也只能机械地重复“美国太坏了”“日本太坏了”的苍白论调。此刻，我意识到，属于我的时代即将来临。\n\n我抿嘴一笑，飞快地在键盘上敲出“习下李上”四个大字。短短三十分钟，我在红迪发布的帖子便收获了500多条评论：“我靠！这个，值得思考……”“还真有可能”“OP是中南海内部人员吗？” 短短几天，我迅速成为 Reddit 上炙手可热的反共高手，声名鹊起。\n\n一周后，我在个人账户上挂了捐赠链接。没过一会儿，就有匿名账户留言：“太民主了，给你李币！”并转来了1000李币。紧接着，又有人转来3000喜马拉雅币，只留下一个“🙏”符号，叫人浮想联翩。想到有这么多热心的粉丝在背后默默支持我，我不禁泪流满面。\n\n但我很快意识到，光靠打赏维生并不稳定。于是，我果断创建了一个油管账号。每天发几期七步民主化的陈词滥调，再配上国内负面新闻的炒作解读。视频一经发布，民主爱好者们立刻被煽动得高潮迭起，纷纷慷慨解囊助我众筹反共，加上油管本身的广告收益，我的收入节节攀升。短短几个月后，我便喜提兰博基尼。\n\n望着车库中闪闪发光的跑车，我深感民主的美妙力量！然而，内心深处却始终萦绕着一个挥之不去的疑惑：除了我之外，似乎还有另一个人的政治水平没有受到影响，那就是我们伟大的总书记。难道说....."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6309,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "全球人政治水平降低一百万倍，我摇身一变成为互联网民主皇帝\n\n清晨醒来，我像往常一样打开 Reddit，进入…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 282,
+          "like_count": 957,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1623
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "1799954634494431512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279234,
+          "following_count": 2232,
+          "like_count": 2147,
+          "listed_count": 872,
+          "media_count": 2007,
+          "tweet_count": 2658
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

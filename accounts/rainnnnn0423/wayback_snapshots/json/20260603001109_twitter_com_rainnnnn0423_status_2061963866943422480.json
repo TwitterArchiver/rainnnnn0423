@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2061963866943422480",
+    "created_at": "2026-06-03T00:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T01:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061963866943422480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhiyun114514/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/zhiyun114514/status/2060608209086505314",
+          "start": 33,
+          "url": "https://t.co/Qolzl04gve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061963866943422480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060608209086505314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "qqkj那帮唐货说最近不能换头像是因为高考，，，哦哦小平高考加油 https://t.co/Qolzl04gve"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2061963866943422480",
+        "created_at": "2026-06-03T00:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061963866943422480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiyun114514/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/zhiyun114514/status/2060608209086505314",
+              "start": 33,
+              "url": "https://t.co/Qolzl04gve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061963866943422480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060608209086505314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "qqkj那帮唐货说最近不能换头像是因为高考，，，哦哦小平高考加油 https://t.co/Qolzl04gve"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839865017392394240",
+        "conversation_id": "2060608209086505314",
+        "created_at": "2026-05-30T06:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060608209086505314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060608209086505314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 1391566,
+          "like_count": 2912,
+          "quote_count": 19,
+          "reply_count": 450,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "我很期待6月4日推特中文圈的场景"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122🚪88 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 639,
+          "like_count": 5695,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 4812
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "我叫知雲！(三世)\n中国人\n(有多少人认识我？)\n二世:@zhi96886   小号:@mmj199747\n一世找不到了\n日本語を勉強したいのですが、今のところ五十音図しかできません🥺/社民/历史/想要互fo/拙见如有错误请指出来🥹/尽量的不极端\n\nI want to make more friend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "zhi96886"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "mmj199747"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "name": "矢口雨云",
+        "pinned_tweet_id": "2061319443222057072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036083407361642496/EoLSSXvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 1312,
+          "like_count": 8571,
+          "listed_count": 3,
+          "media_count": 727,
+          "tweet_count": 4482
+        },
+        "username": "zhiyun114514",
+        "verified": true
+      }
+    ]
+  }
+}

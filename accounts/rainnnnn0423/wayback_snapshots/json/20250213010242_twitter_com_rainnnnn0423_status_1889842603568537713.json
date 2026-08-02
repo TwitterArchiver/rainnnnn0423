@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1889630065840755091",
+    "created_at": "2025-02-13T01:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T02:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889842603568537713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1789586690400800769",
+          "start": 0,
+          "username": "ameear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889842603568537713",
+    "in_reply_to_user_id": "1789586690400800769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889630065840755091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameear8964 我恨你😡😡😡赔我眼睛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889630065840755091",
+        "created_at": "2025-02-13T01:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T02:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889842603568537713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789586690400800769",
+              "start": 0,
+              "username": "ameear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889842603568537713",
+        "in_reply_to_user_id": "1789586690400800769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889630065840755091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameear8964 我恨你😡😡😡赔我眼睛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889630060531032064",
+            "3_1889630060522692608",
+            "3_1889630060531134464"
+          ]
+        },
+        "author_id": "1789586690400800769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1889630065840755091",
+        "created_at": "2025-02-12T10:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T11:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889630065840755091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ugv0M4dI0z",
+              "end": 48,
+              "expanded_url": "https://x.com/ameear8964/status/1889630065840755091/photo/1",
+              "media_key": "3_1889630060531032064",
+              "start": 25,
+              "url": "https://t.co/Ugv0M4dI0z"
+            },
+            {
+              "display_url": "pic.x.com/Ugv0M4dI0z",
+              "end": 48,
+              "expanded_url": "https://x.com/ameear8964/status/1889630065840755091/photo/1",
+              "media_key": "3_1889630060522692608",
+              "start": 25,
+              "url": "https://t.co/Ugv0M4dI0z"
+            },
+            {
+              "display_url": "pic.x.com/Ugv0M4dI0z",
+              "end": 48,
+              "expanded_url": "https://x.com/ameear8964/status/1889630065840755091/photo/1",
+              "media_key": "3_1889630060531134464",
+              "start": 25,
+              "url": "https://t.co/Ugv0M4dI0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889630065840755091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 19646,
+          "like_count": 217,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢、中推圈。每次吃饭时脑海里都会浮现这些照片。 https://t.co/Ugv0M4dI0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 237,
+          "like_count": 691,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1116
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T09:21:43.000Z",
+        "description": "EARHART AMELIA M. 896489648USN BN CHRISTIAN",
+        "id": "1789586690400800769",
+        "location": "미해군항공대 제8964항모항공단",
+        "name": "아멜리아 에어하트",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862830820064432129/g7Hpsfzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 1279,
+          "like_count": 27617,
+          "listed_count": 13,
+          "media_count": 613,
+          "tweet_count": 7381
+        },
+        "username": "ameear8964",
+        "verified": false
+      }
+    ]
+  }
+}

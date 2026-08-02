@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1967546252494877074",
+    "created_at": "2025-09-15T11:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T12:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967546252494877074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176535991454064640",
+          "start": 3,
+          "username": "nekomakiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967546252494877074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967457047546671186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekomakiQAQ: 有点怀念那个十几块钱一盒右美的时代了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1967546252494877074",
+        "created_at": "2025-09-15T11:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T12:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967546252494877074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176535991454064640",
+              "start": 3,
+              "username": "nekomakiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967546252494877074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967457047546671186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekomakiQAQ: 有点怀念那个十几块钱一盒右美的时代了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1967456569307857395",
+        "created_at": "2025-09-15T05:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T06:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967457047546671186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967457047546671186",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967456569307857395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点怀念那个十几块钱一盒右美的时代了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 555,
+          "like_count": 4217,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 4006
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "| 💌 @HobartR6 | 🐱 @_FurryFur_ // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "http://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/HjMp9NwpfI"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "绿猫卷（日雌380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967527889387372544/D0jljL4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 948,
+          "like_count": 28027,
+          "listed_count": 15,
+          "media_count": 1191,
+          "tweet_count": 14420
+        },
+        "url": "https://t.co/HjMp9NwpfI",
+        "username": "nekomakiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

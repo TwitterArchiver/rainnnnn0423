@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1913031789331026424",
+    "created_at": "2025-04-19T05:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T06:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913458989536342115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841626911228780545",
+          "start": 0,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913458989536342115",
+    "in_reply_to_user_id": "1841626911228780545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913367172002533719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujou_king 🤓我上网一直不遗余力地黑河南人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1913031789331026424",
+        "created_at": "2025-04-19T05:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T06:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913458989536342115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913458989536342115",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913367172002533719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_king 🤓我上网一直不遗余力地黑河南人！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841626911228780545",
+        "conversation_id": "1913031789331026424",
+        "created_at": "2025-04-18T23:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T00:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913367172002533719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913367172002533719",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913031789331026424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 老夫现在宣布，河南入最棒，河南入最牛逼河南入最天才啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 433,
+          "like_count": 2125,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 3153
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "测评结果:有一定程度的王的资质，欢迎私信入我门槛，我非常需要钱。傻逼儿子@_SAGAWAASHSAHI_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "_SAGAWAASHSAHI_"
+              }
+            ]
+          }
+        },
+        "id": "1841626911228780545",
+        "location": "无垠猪圈",
+        "name": "🧸猪界王者愛莉莎殿下🍻",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911961125664550912/pYO6RxO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2555,
+          "following_count": 518,
+          "like_count": 3742,
+          "listed_count": 17,
+          "media_count": 159,
+          "tweet_count": 2042
+        },
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

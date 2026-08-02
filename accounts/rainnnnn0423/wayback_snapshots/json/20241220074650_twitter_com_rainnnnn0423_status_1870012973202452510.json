@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1870012973202452510",
+    "created_at": "2024-12-20T07:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T08:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870012973202452510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/torontobigface…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/torontobigface/status/1869853500579905694",
+          "start": 10,
+          "url": "https://t.co/00W18DqBMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870012973202452510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869853500579905694",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下真一丘之貉了🤣 https://t.co/00W18DqBMO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1870012973202452510",
+        "created_at": "2024-12-20T07:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T08:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870012973202452510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/torontobigface…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/torontobigface/status/1869853500579905694",
+              "start": 10,
+              "url": "https://t.co/00W18DqBMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870012973202452510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869853500579905694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下真一丘之貉了🤣 https://t.co/00W18DqBMO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477342523555135490",
+        "conversation_id": "1869853500579905694",
+        "created_at": "2024-12-19T21:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T22:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869853500579905694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/li_memecoin/st…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/li_memecoin/status/1869851472189420036",
+              "start": 131,
+              "url": "https://t.co/qxodtRuXoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869853500579905694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "经过和李老师的讨论，和对李老师项目，愿景的了解\n\n决定成为$LI的雪花基金共同管理人，监督资金的用途\n\n以后我会和李老师，徐某人，一起讨论雪花基金会的钱，会用去哪个项目里，或者资助哪些需要帮助的人士，这些钱的用途也会公开\n我保证绝不会支持这个基金用做私人盈利\n\n后续也可能会公开，像大家征集可行的项目，可行的想法\n也会邀请更多的人加入这个基金会，共同决定资金的用途\n\n希望以此建立一个公开，透明的方式，改变现在的生态，做出一些真正的改变\n\nPS\n利益声明:我个人买过一些$LI，但是目前没有卖出过任何一枚$LI，也没有依靠这个套利盈利"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 557859,
+          "like_count": 746,
+          "quote_count": 58,
+          "reply_count": 374,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869851472189420036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经过和李老师的讨论，和对李老师项目，愿景的了解\n\n决定成为$LI的雪花基金共同管理人，监督资金的用途\n\n以后我会和李老师，徐某人，一起讨论雪花基金会的钱，会用去哪个项目里，或者资助哪些需要帮助的人士，这些钱的用途也会公开\n我保证绝不会支持这个基金用做私人盈利… https://t.co/qxodtRuXoa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号不互粉 键政初学者&岁静人 本人口嗨不与观点100%相符",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 49,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 74
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNcDSW 投稿邮箱:Torontosquareface@gmail.com 电报群https://t.co/7fI2XsnFaH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNcDSW"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 68,
+                "url": "https://t.co/7fI2XsnFaH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrn0gco"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，温哥华",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1869306619302937086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660956,
+          "following_count": 247,
+          "like_count": 4011,
+          "listed_count": 2068,
+          "media_count": 4700,
+          "tweet_count": 15998
+        },
+        "url": "https://t.co/t3lSrn0gco",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

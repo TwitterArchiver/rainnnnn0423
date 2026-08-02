@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1881044461440192842",
+    "created_at": "2025-01-19T18:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T19:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881045736403747218"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1881045736403747218",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881044461440192842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没错啊我就是什么都想不起来回忆一片混沌，别人的症状是捅人捅自己闹自杀大吼大叫，我只是无助而且失忆连午饭吃没吃都不知道。问女咨询师我们上周聊了什么，她全部回忆了起来，说她干这行主要靠好记性。羡慕好记性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1881044461440192842",
+        "created_at": "2025-01-19T18:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T19:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881045736403747218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881045736403747218",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881044461440192842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没错啊我就是什么都想不起来回忆一片混沌，别人的症状是捅人捅自己闹自杀大吼大叫，我只是无助而且失忆连午饭吃没吃都不知道。问女咨询师我们上周聊了什么，她全部回忆了起来，说她干这行主要靠好记性。羡慕好记性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1881044461440192842",
+        "created_at": "2025-01-19T18:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T19:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881044461440192842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881044461440192842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接上条，碰到过很傻逼的男咨询师质疑我你连我们刚刚对话的内容都记不住你是不是能力有问题\n要我给你塞200t舍曲林尝尝吗？我怼回去说又不是记不住宇宙就要毁灭吗，难道要我在一次咨询里面付出100%的注意力和精力吗，我中考都没那么认真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 176,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 457
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

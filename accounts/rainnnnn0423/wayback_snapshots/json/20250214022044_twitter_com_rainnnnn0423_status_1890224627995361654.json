@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1890224627995361654",
+    "created_at": "2025-02-14T02:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T03:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890224627995361654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bang_dream_inf…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/bang_dream_info/status/1890045232932389037",
+          "start": 12,
+          "url": "https://t.co/6kxTFIDnuq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890224627995361654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890045232932389037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈了个逼，我先贷款骂 https://t.co/6kxTFIDnuq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1890224627995361654",
+        "created_at": "2025-02-14T02:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T03:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890224627995361654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1890045232932389037",
+              "start": 12,
+              "url": "https://t.co/6kxTFIDnuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890224627995361654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890045232932389037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈了个逼，我先贷款骂 https://t.co/6kxTFIDnuq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890040160374624258"
+          ]
+        },
+        "author_id": "3009772568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1890045232932389037",
+        "created_at": "2025-02-13T14:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T15:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890045232932389037"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Ave Mujica 合同",
+              "probability": 0.3838,
+              "start": 34,
+              "type": "Organization"
+            },
+            {
+              "end": 61,
+              "normalized_text": "わかれ道の、その先へ",
+              "probability": 0.4619,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "MyGO"
+            },
+            {
+              "end": 137,
+              "start": 127,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "バンドリ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」について掲載中。",
+              "display_url": "bang-dream.com/events/mygo-av…",
+              "end": 119,
+              "expanded_url": "https://bang-dream.com/events/mygo-avemujica2025",
+              "images": [
+                {
+                  "height": 418,
+                  "url": "https://pbs.twimg.com/news_img/1889517183186939904/JOwm05a5?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1889517183186939904/JOwm05a5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 96,
+              "status": 200,
+              "title": "MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」 | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/events/mygo-avemujica2025",
+              "url": "https://t.co/Ej3akgd0Bz"
+            },
+            {
+              "display_url": "pic.x.com/FqlHlYYv1A",
+              "end": 167,
+              "expanded_url": "https://x.com/bang_dream_info/status/1890045232932389037/photo/1",
+              "media_key": "3_1890040160374624258",
+              "start": 144,
+              "url": "https://t.co/FqlHlYYv1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890045232932389037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1677,
+          "impression_count": 1589391,
+          "like_count": 24808,
+          "quote_count": 3075,
+          "reply_count": 351,
+          "retweet_count": 10895
+        },
+        "reply_settings": "everyone",
+        "text": "【出演決定】\n\n4月26日(土)・27日(日)\nMyGO!!!!!×Ave Mujica 合同ライブ\n「わかれ道の、その先へ」\n\nCRYCHICの出演が決定しました。\n\n▼チケット先行受付中\nhttps://t.co/Ej3akgd0Bz\n\n#MyGO #AveMujica\n#バンドリ https://t.co/FqlHlYYv1A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 237,
+          "like_count": 713,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1170
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T05:23:23.000Z",
+        "description": "キャラクター×リアルライブがリンクする次世代ガールズバンドプロジェクト「バンドリ！」公式ツイッターです。 #バンドリ ｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "バンドリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream.com",
+                "end": 23,
+                "expanded_url": "https://bang-dream.com/",
+                "start": 0,
+                "url": "https://t.co/x8S68YHJ5p"
+              }
+            ]
+          }
+        },
+        "id": "3009772568",
+        "location": "Instagram→bang_dream_official_",
+        "name": "バンドリ！ BanG Dream! 公式",
+        "pinned_tweet_id": "1868264751811424749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868264841347227648/9YO9CI7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769638,
+          "following_count": 135,
+          "like_count": 350,
+          "listed_count": 4672,
+          "media_count": 13807,
+          "tweet_count": 29844
+        },
+        "url": "https://t.co/x8S68YHJ5p",
+        "username": "bang_dream_info",
+        "verified": true
+      }
+    ]
+  }
+}

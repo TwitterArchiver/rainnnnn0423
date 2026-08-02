@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896375633124667623",
+    "created_at": "2025-03-03T13:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T14:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896559601484718456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696410116097257472",
+          "start": 0,
+          "username": "RST_AloneStar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896559601484718456",
+    "in_reply_to_user_id": "1696410116097257472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896549363012559139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RST_AloneStar 那很爽了，阳痿是福报 我是被激素周期波动控制了，难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896375633124667623",
+        "created_at": "2025-03-03T13:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896559601484718456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696410116097257472",
+              "start": 0,
+              "username": "RST_AloneStar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896559601484718456",
+        "in_reply_to_user_id": "1696410116097257472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896549363012559139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RST_AloneStar 那很爽了，阳痿是福报 我是被激素周期波动控制了，难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696410116097257472",
+        "conversation_id": "1896375633124667623",
+        "created_at": "2025-03-03T13:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896549363012559139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896549363012559139",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896509369661235645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 我也不用冲（x）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑包蜜",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 329,
+          "like_count": 1221,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2047
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T06:31:14.000Z",
+        "description": "CN/EN OK! JP下手 MUG Player |\nBiliBili：_AloneStar_ |\nSister：@Jidu00488470 |\nCouple Partner：@trifoliateor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Jidu00488470"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "trifoliateor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/KeFhX2Z",
+                "end": 23,
+                "expanded_url": "https://b23.tv/KeFhX2Z",
+                "start": 0,
+                "url": "https://t.co/0ibihKmT3t"
+              }
+            ]
+          }
+        },
+        "id": "1696410116097257472",
+        "location": "Mars",
+        "name": "_AloneStar_🍥@QueenStudio",
+        "pinned_tweet_id": "1893544236189901220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852924042577342464/wA7u-hqd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 648,
+          "like_count": 567,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/0ibihKmT3t",
+        "username": "RST_AloneStar",
+        "verified": false
+      }
+    ]
+  }
+}

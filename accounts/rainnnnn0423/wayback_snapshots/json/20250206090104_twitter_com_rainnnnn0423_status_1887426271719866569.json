@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1887426271719866569",
+    "created_at": "2025-02-06T09:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T10:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887426271719866569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1254753492586999808",
+          "start": 3,
+          "username": "BaudelaireOct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887426271719866569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887342829435035992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaudelaireOct: 事实上就是，大部分基本盘地区（山河四省、安徽黄淮等）地方的孩子既痛苦，早六晚十一地学习、精神及生理疾病发病率高，最后起早贪黑只能上大专或者二本，最后还是进厂打螺丝，既痛苦又没法改变命运。如果应试教育真的像很多人的那么公平，那学区房、不同户籍…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1887426271719866569",
+        "created_at": "2025-02-06T09:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T10:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887426271719866569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1254753492586999808",
+              "start": 3,
+              "username": "BaudelaireOct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887426271719866569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887342829435035992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaudelaireOct: 事实上就是，大部分基本盘地区（山河四省、安徽黄淮等）地方的孩子既痛苦，早六晚十一地学习、精神及生理疾病发病率高，最后起早贪黑只能上大专或者二本，最后还是进厂打螺丝，既痛苦又没法改变命运。如果应试教育真的像很多人的那么公平，那学区房、不同户籍…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254753492586999808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1887342829435035992",
+        "created_at": "2025-02-06T03:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T04:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887342829435035992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SFbearface/sta…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/SFbearface/status/1887125741969809713",
+              "start": 140,
+              "url": "https://t.co/jwOIcBQtqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887342829435035992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 19090,
+          "like_count": 336,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887125741969809713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实上就是，大部分基本盘地区（山河四省、安徽黄淮等）地方的孩子既痛苦，早六晚十一地学习、精神及生理疾病发病率高，最后起早贪黑只能上大专或者二本，最后还是进厂打螺丝，既痛苦又没法改变命运。如果应试教育真的像很多人的那么公平，那学区房、不同户籍的录取率是公平吗？鼓吹应试教育非蠢即坏 https://t.co/jwOIcBQtqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 232,
+          "like_count": 645,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 967
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-27T12:45:34.000Z",
+        "description": "忙，只看推不发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/baudelai…",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/baudelaireoct",
+                "start": 0,
+                "url": "https://t.co/fyeHpUAtZC"
+              }
+            ]
+          }
+        },
+        "id": "1254753492586999808",
+        "location": "中国人民大学",
+        "name": "波德莱尔在十月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1260393873412485120/133lDHaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8536,
+          "following_count": 1286,
+          "like_count": 46224,
+          "listed_count": 61,
+          "media_count": 638,
+          "tweet_count": 4421
+        },
+        "url": "https://t.co/fyeHpUAtZC",
+        "username": "BaudelaireOct",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1996171657694838976",
+    "created_at": "2025-12-03T10:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996171657694838976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cafe_treasure/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/cafe_treasure/status/1996142369767555268",
+          "start": 13,
+          "url": "https://t.co/7UAcOaPQy4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996171657694838976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996142369767555268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真有砍死这个画师的冲动 https://t.co/7UAcOaPQy4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1407,
+        "media_key": "3_1996036470386425860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NYmCgbgAQJEes.jpg",
+        "width": 2501
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1996171657694838976",
+        "created_at": "2025-12-03T10:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996171657694838976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cafe_treasure/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/cafe_treasure/status/1996142369767555268",
+              "start": 13,
+              "url": "https://t.co/7UAcOaPQy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996171657694838976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996142369767555268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真有砍死这个画师的冲动 https://t.co/7UAcOaPQy4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996036470386425860"
+          ]
+        },
+        "author_id": "1484485606264619012",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1996142369767555268",
+        "created_at": "2025-12-03T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996142369767555268"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 105,
+              "normalized_text": "魔法少女ノ魔女裁判",
+              "probability": 0.5896,
+              "start": 97,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 130,
+              "id": "1363900251954798594",
+              "start": 123,
+              "username": "Omu23_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/huq2UwUxAN",
+              "end": 187,
+              "expanded_url": "https://x.com/cafe_treasure/status/1996142369767555268/photo/1",
+              "media_key": "3_1996036470386425860",
+              "start": 164,
+              "url": "https://t.co/huq2UwUxAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996142369767555268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 194,
+                "start": 189,
+                "tag": "まのさば"
+              },
+              {
+                "end": 203,
+                "start": 195,
+                "tag": "エノトレカフェ"
+              },
+              {
+                "end": 211,
+                "start": 204,
+                "tag": "コラボカフェ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "id": "1363900251954798594",
+                "start": 123,
+                "username": "Omu23_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "treasurecafe.jp/news/1700/",
+                "end": 187,
+                "expanded_url": "https://treasurecafe.jp/news/1700/",
+                "start": 164,
+                "url": "https://t.co/t9RUsREL18"
+              }
+            ]
+          },
+          "text": ".\n━━━━ ◦🦋◦ ━━━━\nエノシマトレジャーカフェ\n                  ×\n   魔法少女ノ魔女裁判\n━━━━ ◦🦋◦ ━━━━\n\nコラボカフェ開催決定！\nイラストは『魔法少女ノ魔女裁判』アートディレクターのすがわら おむ(@Omu23_)様描き下ろし！\n予約は【12/15(月)】詳細発表👉\n\n🔽詳細🔽\nhttps://t.co/t9RUsREL18\n\n#まのさば #エノトレカフェ\n#コラボカフェ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 884,
+          "impression_count": 156619,
+          "like_count": 4530,
+          "quote_count": 454,
+          "reply_count": 9,
+          "retweet_count": 2123
+        },
+        "reply_settings": "everyone",
+        "text": ".\n━━━━ ◦🦋◦ ━━━━\nエノシマトレジャーカフェ\n                  ×\n   魔法少女ノ魔女裁判\n━━━━ ◦🦋◦ ━━━━\n\nコラボカフェ開催決定！\nイラストは『魔法少女ノ魔女裁判』アートディレクターのすがわら おむ(@Omu23_)様描き下ろし！\n予約は【12/15(月)】詳細発表👉\n\n🔽詳細🔽 https://t.co/huq2UwUxAN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 599,
+          "like_count": 4746,
+          "listed_count": 4,
+          "media_count": 323,
+          "tweet_count": 4279
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T11:18:59.000Z",
+        "description": "\" ドラゴンがいるカフェ \"｜江の島大橋徒歩2分🚶‍♂️｜営業時間：平日 10時～18時/休日 10時～19時｜水曜定休",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "treasurecafe.jp",
+                "end": 23,
+                "expanded_url": "https://treasurecafe.jp/",
+                "start": 0,
+                "url": "https://t.co/8E9UrXVXUs"
+              }
+            ]
+          }
+        },
+        "id": "1484485606264619012",
+        "location": "神奈川県藤沢市江の島1丁目3−8  江の島ホテル1F",
+        "name": "ENOSHIMA_TREASURE_CAFE",
+        "pinned_tweet_id": "1996142369767555268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484486191038677003/frQ8zPtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 11,
+          "like_count": 172,
+          "listed_count": 10,
+          "media_count": 807,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/8E9UrXVXUs",
+        "username": "cafe_treasure",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893913986841612750",
+    "created_at": "2025-02-24T06:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T07:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893913986841612750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ElinaIsStrivin…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ElinaIsStriving/status/1893612502660894974",
+          "start": 4,
+          "url": "https://t.co/7rn8QdzPfx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893913986841612750",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893612502660894974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😋😋😋 https://t.co/7rn8QdzPfx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893913986841612750",
+        "created_at": "2025-02-24T06:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893913986841612750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ElinaIsStrivin…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ElinaIsStriving/status/1893612502660894974",
+              "start": 4,
+              "url": "https://t.co/7rn8QdzPfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893913986841612750",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893612502660894974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋😋😋 https://t.co/7rn8QdzPfx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848428041976082432",
+        "conversation_id": "1893612502660894974",
+        "created_at": "2025-02-23T10:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893612502660894974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893612502660894974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5497,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "唉当坏女人真的太爽了…\n就是不是那种性欲上的兴奋感 真的就是纯粹的爽。\n一种畅快又清晰的感觉，一种能够随意控制他人的满足感。\n玩弄着别人的身体和心绪…看着他们或者她们欲火中烧……\n哇啊真的太可爱太可爱了。\n真让人忍不住再玩狠一点呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 289,
+          "like_count": 971,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1660
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T18:16:10.000Z",
+        "description": "（更新：暂停接新单！）是我，Еlinа。双性恋，暂时在当女同。职业跑团GM，特立独行的高中在读优等生文援。擅长感情戏。品味比较挑剔。 其实还是比较希望能陪着大伙聊天。想给大伙在这世上提供些安心和依靠。Q：3931233921 tg：@ElinaIsWorking 以及，可以为营收不顺利的文援免费提供免费写作指导。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "ElinaIsWorking"
+              }
+            ]
+          }
+        },
+        "id": "1848428041976082432",
+        "name": "Еlinа",
+        "pinned_tweet_id": "1887116080986079576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848428124851343360/YurWdx0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 181,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 95
+        },
+        "username": "ElinaIsStriving",
+        "verified": false
+      }
+    ]
+  }
+}

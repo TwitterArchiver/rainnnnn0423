@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885102045742666202",
+    "created_at": "2025-01-30T23:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T00:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885102045742666202"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 37,
+          "tag": "16Personalities"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 73,
+          "id": "612476419",
+          "start": 57,
+          "username": "16Personalities"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "16personalities.com/ch/infp-%e4%ba…",
+          "end": 36,
+          "expanded_url": "https://www.16personalities.com/ch/infp-%e4%ba%ba%e6%a0%bc",
+          "start": 13,
+          "status": 200,
+          "title": "INFP性格 (调停者) | 16Personalities",
+          "unwound_url": "https://www.16personalities.com/ch/infp-%e4%ba%ba%e6%a0%bc",
+          "url": "https://t.co/gIEnkLj85u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885102045742666202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "INFP性格 (调停者) https://t.co/gIEnkLj85u #16Personalities 来自 @16Personalities"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885102045742666202",
+        "created_at": "2025-01-30T23:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T00:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885102045742666202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 37,
+              "tag": "16Personalities"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 73,
+              "id": "612476419",
+              "start": 57,
+              "username": "16Personalities"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "16personalities.com/ch/infp-%e4%ba…",
+              "end": 36,
+              "expanded_url": "https://www.16personalities.com/ch/infp-%e4%ba%ba%e6%a0%bc",
+              "start": 13,
+              "status": 200,
+              "title": "INFP性格 (调停者) | 16Personalities",
+              "unwound_url": "https://www.16personalities.com/ch/infp-%e4%ba%ba%e6%a0%bc",
+              "url": "https://t.co/gIEnkLj85u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885102045742666202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "INFP性格 (调停者) https://t.co/gIEnkLj85u #16Personalities 来自 @16Personalities"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主说悄悄话的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 220,
+          "like_count": 488,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 792
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-19T11:11:51.000Z",
+        "description": "https://t.co/AMS5x0ddZ3 - free personality test, type descriptions, relationship and career advice.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "16personalities.com",
+                "end": 23,
+                "expanded_url": "http://16personalities.com",
+                "start": 0,
+                "url": "https://t.co/AMS5x0ddZ3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "16personalities.com",
+                "end": 23,
+                "expanded_url": "https://www.16personalities.com",
+                "start": 0,
+                "url": "https://t.co/FlTE6wJvTp"
+              }
+            ]
+          }
+        },
+        "id": "612476419",
+        "name": "16Personalities",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702248698963488768/m1Pspaw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29830,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 137,
+          "media_count": 277,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/FlTE6wJvTp",
+        "username": "16Personalities",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1889667232680063386",
+    "created_at": "2025-02-12T13:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T14:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889667942553625051"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1889667942553625051",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889667232680063386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骂我ylg请先写1500字你看吉吉国的心得，我2小时内写得出来。\n骂我入脑：我是婉约派我就喜欢上强度，怎么你了？我看整天乱咬人的才魔怔。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889667232680063386",
+        "created_at": "2025-02-12T13:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T14:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889667942553625051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889667942553625051",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889667232680063386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骂我ylg请先写1500字你看吉吉国的心得，我2小时内写得出来。\n骂我入脑：我是婉约派我就喜欢上强度，怎么你了？我看整天乱咬人的才魔怔。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889667232680063386",
+        "created_at": "2025-02-12T13:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T14:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889667232680063386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889667232680063386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大年三十在生病，元宵节看动物园拜年祭给我爽到了♿♿♿\n最近好多被ccb引来的ylg，ylg们看吉吉国拜年祭人认得全吗我请问了？这帮神人我全部如数家珍，你们这些ylg动物园鬼畜一个也没看过寄吧看到个梗就乱刷。\n我不是老资历撸狗我之前听中术的，但我从来没乱刷过而且后面也在补票lol，我不是ylg。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 235,
+          "like_count": 680,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1095
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

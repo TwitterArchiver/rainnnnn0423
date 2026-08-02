@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1918547446956761537",
+    "created_at": "2025-05-03T06:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T07:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918547446956761537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RJDAIGOGO/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/RJDAIGOGO/status/1918276089442648264",
+          "start": 4,
+          "url": "https://t.co/ct092eFucT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918547446956761537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918276089442648264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈基菊 https://t.co/ct092eFucT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84395,
+        "height": 1080,
+        "media_key": "13_1918275869707218944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1918275869707218944/img/OzDDeq6GK9MvOOwi.jpg",
+        "public_metrics": {
+          "view_count": 193139
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918275869707218944/vid/avc1/1920x1080/HEd3qQ-DOV1QTdeE.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918275869707218944/vid/avc1/640x360/CJXl7RgO56sv4scS.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1918275869707218944/pl/OgxTPVZ7b7dB1DUb.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918275869707218944/vid/avc1/480x270/MRIzp3SxHdEf_OjP.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918275869707218944/vid/avc1/1280x720/Q-HVHUEupDdnz2Vf.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1918547446956761537",
+        "created_at": "2025-05-03T06:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T07:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918547446956761537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RJDAIGOGO/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/RJDAIGOGO/status/1918276089442648264",
+              "start": 4,
+              "url": "https://t.co/ct092eFucT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918547446956761537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918276089442648264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈基菊 https://t.co/ct092eFucT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1918275869707218944"
+          ]
+        },
+        "author_id": "1506847564171124736",
+        "conversation_id": "1918276089442648264",
+        "created_at": "2025-05-02T12:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T13:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918276089442648264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XkW0UM3OKS",
+              "end": 52,
+              "expanded_url": "https://x.com/RJDAIGOGO/status/1918276089442648264/video/1",
+              "media_key": "13_1918275869707218944",
+              "start": 29,
+              "url": "https://t.co/XkW0UM3OKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918276089442648264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 433975,
+          "like_count": 948,
+          "quote_count": 66,
+          "reply_count": 277,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "看看是观众先崩溃，还是老王先崩溃😨\n\n王局日语直播中…… https://t.co/XkW0UM3OKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 458,
+          "like_count": 2412,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3415
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T04:17:40.000Z",
+        "description": "纯纯纯理中客",
+        "id": "1506847564171124736",
+        "name": "RJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645072499405881344/UX7zH8Ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4100,
+          "following_count": 2049,
+          "like_count": 16785,
+          "listed_count": 26,
+          "media_count": 1539,
+          "tweet_count": 20928
+        },
+        "username": "RJDAIGOGO",
+        "verified": true
+      }
+    ]
+  }
+}

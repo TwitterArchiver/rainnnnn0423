@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1866037051419955539",
+    "created_at": "2024-12-09T08:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T09:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866037734621762037"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1866037734621762037",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866037051419955539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这边对未成年还是会管一下手机的，但至少不是关着你不给的，哎我要出院。这住一趟几万得打水漂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1866037051419955539",
+        "created_at": "2024-12-09T08:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T09:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866037734621762037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866037734621762037",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866037051419955539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这边对未成年还是会管一下手机的，但至少不是关着你不给的，哎我要出院。这住一趟几万得打水漂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1866037051419955539",
+        "created_at": "2024-12-09T08:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T09:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866037051419955539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866037051419955539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想出院。住得挺舒服的，有外卖有网每天躺着键政，就是太贵了😂\n住的这段时间睡眠也基本调过来了，之前昼夜颠倒跟怨鬼一样。。。虽然我现在其实睡眠质量也一般🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "树洞日记 看乐子的小号 键政初学者",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 30,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

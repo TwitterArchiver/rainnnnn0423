@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074458953354776576"
+      ],
+      "media_source_tweet_id": [
+        "2074458955758047658"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2074531531763355917",
+    "created_at": "2026-07-07T16:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074531531763355917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239457591417171973",
+          "start": 3,
+          "username": "GFWfrog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N92nhOT3gp",
+          "end": 67,
+          "expanded_url": "https://x.com/GFWfrog/status/2074458955758047658/photo/1",
+          "media_key": "3_2074458953354776576",
+          "start": 44,
+          "url": "https://t.co/N92nhOT3gp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074531531763355917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074458955758047658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GFWfrog: 广西同胞们喜欢我习近平治水的大思想吗🥵🥵🥵？\n\n😎 匿名投稿 https://t.co/N92nhOT3gp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 335,
+        "media_key": "3_2074458953354776576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMn1bVfXEAAtkRq.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074458953354776576"
+          ],
+          "media_source_tweet_id": [
+            "2074458955758047658"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2074531531763355917",
+        "created_at": "2026-07-07T16:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074531531763355917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239457591417171973",
+              "start": 3,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N92nhOT3gp",
+              "end": 67,
+              "expanded_url": "https://x.com/GFWfrog/status/2074458955758047658/photo/1",
+              "media_key": "3_2074458953354776576",
+              "start": 44,
+              "url": "https://t.co/N92nhOT3gp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074531531763355917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074458955758047658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GFWfrog: 广西同胞们喜欢我习近平治水的大思想吗🥵🥵🥵？\n\n😎 匿名投稿 https://t.co/N92nhOT3gp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074458953354776576"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2074458955758047658",
+        "created_at": "2026-07-07T11:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074458955758047658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N92nhOT3gp",
+              "end": 54,
+              "expanded_url": "https://x.com/GFWfrog/status/2074458955758047658/photo/1",
+              "media_key": "3_2074458953354776576",
+              "start": 31,
+              "url": "https://t.co/N92nhOT3gp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074458955758047658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 16227,
+          "like_count": 198,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "广西同胞们喜欢我习近平治水的大思想吗🥵🥵🥵？\n\n😎 匿名投稿 https://t.co/N92nhOT3gp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 650,
+          "like_count": 5899,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4880
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/aVPvX0T16B 网页投稿 150岁爷习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大躺平运动 #不正确记忆\n邮箱：gfwfrog@gmail.com 🐸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 105,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 130,
+                "start": 124,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "大躺平运动"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "不正确记忆"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 33,
+                "expanded_url": "http://gfwbao.com",
+                "start": 10,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 74,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 51,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 103,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 80,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2070472888860160123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265770,
+          "following_count": 2554,
+          "like_count": 130128,
+          "listed_count": 919,
+          "media_count": 7641,
+          "tweet_count": 14408
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

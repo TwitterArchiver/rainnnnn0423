@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896142788376576115",
+    "created_at": "2025-03-02T10:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T11:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896142788376576115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nokta_gardisto…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Nokta_gardisto/status/1896021843976601888",
+          "start": 5,
+          "url": "https://t.co/dXMu3x92f3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896142788376576115",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896021843976601888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绷好好笑 https://t.co/dXMu3x92f3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 413,
+        "media_key": "3_1896021841325801474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlAF0bKbQAIcB94.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896142788376576115",
+        "created_at": "2025-03-02T10:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T11:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896142788376576115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nokta_gardisto…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Nokta_gardisto/status/1896021843976601888",
+              "start": 5,
+              "url": "https://t.co/dXMu3x92f3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896142788376576115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896021843976601888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷好好笑 https://t.co/dXMu3x92f3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896021841325801474"
+          ]
+        },
+        "author_id": "888172653881638912",
+        "conversation_id": "1896021843976601888",
+        "created_at": "2025-03-02T02:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T03:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896021843976601888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2WDlUuoR1",
+              "end": 23,
+              "expanded_url": "https://x.com/Nokta_gardisto/status/1896021843976601888/photo/1",
+              "media_key": "3_1896021841325801474",
+              "start": 0,
+              "url": "https://t.co/X2WDlUuoR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896021843976601888",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 88046,
+          "like_count": 1114,
+          "quote_count": 17,
+          "reply_count": 50,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X2WDlUuoR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑里垢",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 318,
+          "like_count": 1189,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1955
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "#跨性别奸奇神选（非二元）(她/she）\\Asexual\\Manchu研究\\海盗党\\#啤酒安那其主义\\SISU\n\\queer/女性主义\\#儒林外史 栏目总编辑\\#民哲\\虚元\\Proud of what I am !\\辽北精神分析研究所\\被转发内容不代表个人观点\\Bluesky:https://t.co/OUGHO96twB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "跨性别奸奇神选"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "啤酒安那其主义"
+              },
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "儒林外史"
+              },
+              {
+                "end": 83,
+                "start": 80,
+                "tag": "民哲"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yovahti.bsky.social",
+                "end": 162,
+                "expanded_url": "http://yovahti.bsky.social",
+                "start": 139,
+                "url": "https://t.co/OUGHO96twB"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yöttevakt|sama⚪🏴‍☠️💙🇫🇮🏴🏳️‍⚧️（國外）",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870866101372108800/jOqBDW6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9884,
+          "following_count": 743,
+          "like_count": 41397,
+          "listed_count": 46,
+          "media_count": 1039,
+          "tweet_count": 4064
+        },
+        "username": "Nokta_gardisto",
+        "verified": false
+      }
+    ]
+  }
+}

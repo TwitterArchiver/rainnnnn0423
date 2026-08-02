@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894296417600246145",
+    "created_at": "2025-02-25T08:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T09:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894296417600246145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cathy213924/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/cathy213924/status/1894175413485592749",
+          "start": 15,
+          "url": "https://t.co/yPZ7mLvYYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894296417600246145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894175413485592749",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一时不知道是串的还是认真的。 https://t.co/yPZ7mLvYYA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894296417600246145",
+        "created_at": "2025-02-25T08:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T09:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894296417600246145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cathy213924/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/cathy213924/status/1894175413485592749",
+              "start": 15,
+              "url": "https://t.co/yPZ7mLvYYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894296417600246145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894175413485592749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一时不知道是串的还是认真的。 https://t.co/yPZ7mLvYYA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617138994227339265",
+        "conversation_id": "1894175413485592749",
+        "created_at": "2025-02-24T23:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T00:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894175413485592749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894175413485592749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13822,
+          "like_count": 43,
+          "quote_count": 23,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有考虑过建立一个多国联动的跨性別互助小组\n英国有Nagi，德国有史莱姆，荷兰有北雁东翼，加拿大有咴咴\n以及可以和海外的民主人士如多伦多方脸，杨若晖合作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 298,
+          "like_count": 1030,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1774
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T12:36:17.000Z",
+        "description": "she/her | trans girl | asexual🖤🩶🤍💜 | social liberalism & transgender nationalism | hate imperialism & communism | HRT 2023.12.11",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cathy213924",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/cathy213924",
+                "start": 0,
+                "url": "https://t.co/0HrD0nLTu5"
+              }
+            ]
+          }
+        },
+        "id": "1617138994227339265",
+        "location": "Republic of Transland🏳️‍⚧️",
+        "name": "Cathy🍥🏳️‍⚧️🇹🇼🇺🇦",
+        "pinned_tweet_id": "1820800626856509794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729445425055248384/2sTIZPo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 845,
+          "like_count": 6448,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 3246
+        },
+        "url": "https://t.co/0HrD0nLTu5",
+        "username": "cathy213924",
+        "verified": true
+      }
+    ]
+  }
+}

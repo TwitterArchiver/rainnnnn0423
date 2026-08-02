@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1945654059538760110",
+    "created_at": "2025-07-17T09:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T10:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945783288674890140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766452473840173056",
+          "start": 0,
+          "username": "mikotossd0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945783288674890140",
+    "in_reply_to_user_id": "1766452473840173056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945654059538760110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikotossd0106 野史记载，建安二十五年，曹丕代汉称帝，建立曹魏，时为武德侯的曹叡向曹丕进言：“陛下登台受禅，承袭大统，然眼下近在市井，远及吴蜀，皆有陛下篡汉之言，三人成虎，众口铄金，不可不察。”\n曹丕微微一笑，对曹叡说：\n“爸爸没有篡汉，这是魏代，大魏代。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1945654059538760110",
+        "created_at": "2025-07-17T09:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945783288674890140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766452473840173056",
+              "start": 0,
+              "username": "mikotossd0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945783288674890140",
+        "in_reply_to_user_id": "1766452473840173056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945654059538760110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotossd0106 野史记载，建安二十五年，曹丕代汉称帝，建立曹魏，时为武德侯的曹叡向曹丕进言：“陛下登台受禅，承袭大统，然眼下近在市井，远及吴蜀，皆有陛下篡汉之言，三人成虎，众口铄金，不可不察。”\n曹丕微微一笑，对曹叡说：\n“爸爸没有篡汉，这是魏代，大魏代。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766452473840173056",
+        "conversation_id": "1945654059538760110",
+        "created_at": "2025-07-17T01:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945654059538760110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945654059538760110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2217,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想要一堆莫名其妙的回复"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "在剩余价值消耗殆尽之前，珍惜相处的时光吧。|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 523,
+          "like_count": 3890,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 3831
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.top",
+                "end": 23,
+                "expanded_url": "http://www.mikotossd.top",
+                "start": 0,
+                "url": "https://t.co/ONd86sCN43"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼板",
+        "pinned_tweet_id": "1938978644548034645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879226218350075904/jFCN5grB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 1073,
+          "like_count": 53239,
+          "listed_count": 5,
+          "media_count": 427,
+          "tweet_count": 1974
+        },
+        "url": "https://t.co/ONd86sCN43",
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

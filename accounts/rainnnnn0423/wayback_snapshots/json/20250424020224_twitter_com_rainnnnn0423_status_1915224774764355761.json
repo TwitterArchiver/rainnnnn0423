@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      }
+    ],
+    "conversation_id": "1915224774764355761",
+    "created_at": "2025-04-24T02:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T03:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915224774764355761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Windd767657O/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Windd767657O/status/1914143488742199416",
+          "start": 13,
+          "url": "https://t.co/1E5vNPf8Iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915224774764355761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914143488742199416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎卧槽支那人怎么这么坏！ https://t.co/1E5vNPf8Iz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914143481435693056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpBnWtQaoAAG60v.jpg",
+        "width": 992
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1914143481435734016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpBnWtQbQAAbEcw.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          }
+        ],
+        "conversation_id": "1915224774764355761",
+        "created_at": "2025-04-24T02:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T03:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915224774764355761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Windd767657O/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Windd767657O/status/1914143488742199416",
+              "start": 13,
+              "url": "https://t.co/1E5vNPf8Iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915224774764355761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914143488742199416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎卧槽支那人怎么这么坏！ https://t.co/1E5vNPf8Iz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914143481435693056",
+            "3_1914143481435734016"
+          ]
+        },
+        "author_id": "1746842844994691072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          }
+        ],
+        "conversation_id": "1914143488742199416",
+        "created_at": "2025-04-21T02:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T03:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914143488742199416"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "China",
+              "probability": 0.9855,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 158,
+              "normalized_text": "Chinese",
+              "probability": 0.675,
+              "start": 152,
+              "type": "Other"
+            },
+            {
+              "end": 174,
+              "normalized_text": "Cat Abuse Forum",
+              "probability": 0.6441,
+              "start": 160,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMjaa10KwJ",
+              "end": 200,
+              "expanded_url": "https://x.com/Windd767657O/status/1914143488742199416/photo/1",
+              "media_key": "3_1914143481435693056",
+              "start": 177,
+              "url": "https://t.co/QMjaa10KwJ"
+            },
+            {
+              "display_url": "pic.x.com/QMjaa10KwJ",
+              "end": 200,
+              "expanded_url": "https://x.com/Windd767657O/status/1914143488742199416/photo/1",
+              "media_key": "3_1914143481435734016",
+              "start": 177,
+              "url": "https://t.co/QMjaa10KwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914143488742199416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20176,
+          "like_count": 43,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "In China, more and more post-2010s are imitating cat abuse. They think animal abuse is cool and fashionable. Currently, there are 72,000 members in the Chinese Cat Abuse Forum. https://t.co/QMjaa10KwJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 443,
+          "like_count": 2239,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 3267
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T10:32:57.000Z",
+        "description": "民间救助的力量非常微弱，很难救助所有的流浪动物，政府其实可以建设救助站，设立像街猫一样的投喂机器，让善良的人出钱投喂，这样既可以减少财政支出甚至增加财政收入，又能救助流浪动物。。。我支持虐待动物入刑！施虐者信息：https://t.co/1fCxPN1ryI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/lookbbvc/statu…",
+                "end": 129,
+                "expanded_url": "https://x.com/lookbbvc/status/1771749157461426368?s=46",
+                "start": 106,
+                "url": "https://t.co/1fCxPN1ryI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "felineguardians.org",
+                "end": 23,
+                "expanded_url": "https://www.felineguardians.org/",
+                "start": 0,
+                "url": "https://t.co/gWm8mG6j73"
+              }
+            ]
+          }
+        },
+        "id": "1746842844994691072",
+        "name": "Call for anti-animal cruelty laws",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870178883959697410/_szDf3hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 84,
+          "like_count": 4467,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/gWm8mG6j73",
+        "username": "Windd767657O",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897623220804870272",
+    "created_at": "2025-03-06T12:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T13:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897623220804870272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lilaoshizuikea…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1897592567190999289",
+          "start": 10,
+          "url": "https://t.co/neNc0CPLks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897623220804870272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897592567190999289",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "境外势力加油💪💪💪 https://t.co/neNc0CPLks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897623220804870272",
+        "created_at": "2025-03-06T12:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T13:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897623220804870272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lilaoshizuikea…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1897592567190999289",
+              "start": 10,
+              "url": "https://t.co/neNc0CPLks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897623220804870272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897592567190999289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "境外势力加油💪💪💪 https://t.co/neNc0CPLks"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "conversation_id": "1897592567190999289",
+        "created_at": "2025-03-06T10:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T11:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897592567190999289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "611.ICU",
+              "end": 23,
+              "expanded_url": "http://611.ICU",
+              "start": 0,
+              "unwound_url": "http://611.ICU",
+              "url": "https://t.co/Otcpq9S7gB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897592567190999289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "611.ICU",
+                "end": 23,
+                "expanded_url": "http://611.ICU",
+                "start": 0,
+                "url": "https://t.co/g9fzpZVfdz"
+              },
+              {
+                "display_url": "611.ICU",
+                "end": 263,
+                "expanded_url": "http://611.ICU",
+                "start": 240,
+                "url": "https://t.co/g9fzpZVfdz"
+              },
+              {
+                "display_url": "611.ICU",
+                "end": 337,
+                "expanded_url": "http://611.ICU",
+                "start": 314,
+                "url": "https://t.co/g9fzpZVfdz"
+              },
+              {
+                "display_url": "611.ICU",
+                "end": 430,
+                "expanded_url": "http://611.ICU",
+                "start": 407,
+                "url": "https://t.co/g9fzpZVfdz"
+              },
+              {
+                "display_url": "611.ICU",
+                "end": 506,
+                "expanded_url": "http://611.ICU",
+                "start": 483,
+                "url": "https://t.co/g9fzpZVfdz"
+              }
+            ]
+          },
+          "text": "https://t.co/g9fzpZVfdz刚发布的时候，一些人喊着这样做没用，没意义\n现在全国各地强制要求双休了，又开始说双休是国家早就布局好的。\n这让我想起当年白纸运动的时候一些人也是这样，举白纸的那几天说举白纸没意义，之后又开始说国家早就要放开了。\n把别人为自己争取来的当作奴隶主给自己的恩赐，这本身也是一种无力感的体现。\n从最开始上榜学校陆续延迟开学，到有学校发通知要求学生禁止翻墙填写表格，再到各地教育局下发文件不准提前开学，陆续恢复双休，再到全国普遍恢复双休，实际上https://t.co/g9fzpZVfdz在其中的作用的脉络非常清晰，只是大部分人没感知而已。\n另外我还想补充一个大家没感知的点，从疫情放开到 https://t.co/g9fzpZVfdz之前，全国已经因为放假和超时学习问题发生了很多次校园抗议。这些抗议学校为了争取单个学校的一两天假期，往往发起者都要付出严重的后果和代价。而 https://t.co/g9fzpZVfdz则是通过每个人填写自己的学校情况，最终形成了更大的合力，去推动所有人的权益得到保护。而最大的代价，其实是 https://t.co/g9fzpZVfdz 团队在承担。如果这样的行动也是在吃国内学生的人血馒头，那真的以后大家都不要做事了，乖乖等着习近平天降甘霖就好了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 58630,
+          "like_count": 1075,
+          "quote_count": 7,
+          "reply_count": 75,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Otcpq9S7gB刚发布的时候，一些人喊着这样做没用，没意义\n现在全国各地强制要求双休了，又开始说双休是国家早就布局好的。\n这让我想起当年白纸运动的时候一些人也是这样，举白纸的那几天说举白纸没意义，之后又开始说国家早就要放开了。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭上推发发疯",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 349,
+          "like_count": 1346,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2230
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234455,
+          "following_count": 662,
+          "like_count": 4664,
+          "listed_count": 1279,
+          "media_count": 1317,
+          "tweet_count": 6675
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

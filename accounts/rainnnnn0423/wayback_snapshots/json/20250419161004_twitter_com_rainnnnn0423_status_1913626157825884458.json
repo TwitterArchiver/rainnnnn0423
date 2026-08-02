@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1913626157825884458",
+    "created_at": "2025-04-19T16:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T17:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913626157825884458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kujou_king/sta…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/kujou_king/status/1913387116601680191",
+          "start": 38,
+          "url": "https://t.co/LdzoHOV77e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913626157825884458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913387116601680191",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我跟你们讲，我妈跟我讲她小时候不少老乡真偷井盖，还有一个村去北京组团诈骗😅 https://t.co/LdzoHOV77e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1913626157825884458",
+        "created_at": "2025-04-19T16:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T17:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913626157825884458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kujou_king/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/kujou_king/status/1913387116601680191",
+              "start": 38,
+              "url": "https://t.co/LdzoHOV77e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913626157825884458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913387116601680191",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我跟你们讲，我妈跟我讲她小时候不少老乡真偷井盖，还有一个村去北京组团诈骗😅 https://t.co/LdzoHOV77e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841626911228780545",
+        "conversation_id": "1913387116601680191",
+        "created_at": "2025-04-19T00:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T01:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913387116601680191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913387116601680191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 886,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个人黑河南入说明不了什麽问题 如果全网都在黑河南入，那说明河南入确实有偷井盖的民风民俗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 434,
+          "like_count": 2128,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 3156
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "测评结果:有一定程度的王的资质，欢迎私信入我门槛，我非常需要钱。傻逼儿子@_SAGAWAASHSAHI_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "_SAGAWAASHSAHI_"
+              }
+            ]
+          }
+        },
+        "id": "1841626911228780545",
+        "location": "无垠猪圈",
+        "name": "🧸猪界王者愛莉莎殿下🍻",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911961125664550912/pYO6RxO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 517,
+          "like_count": 3746,
+          "listed_count": 17,
+          "media_count": 160,
+          "tweet_count": 2047
+        },
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

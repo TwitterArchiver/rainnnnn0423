@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1949763422691918228",
+    "created_at": "2025-07-28T09:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T10:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949763422691918228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lidangzzz/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/lidangzzz/status/1949640547716477300",
+          "start": 19,
+          "url": "https://t.co/lFgEdhkLDE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949763422691918228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949640547716477300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈，天天价值焦虑然后上纲上线攻击我 https://t.co/lFgEdhkLDE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1949763422691918228",
+        "created_at": "2025-07-28T09:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949763422691918228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lidangzzz/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/lidangzzz/status/1949640547716477300",
+              "start": 19,
+              "url": "https://t.co/lFgEdhkLDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949763422691918228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949640547716477300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈，天天价值焦虑然后上纲上线攻击我 https://t.co/lFgEdhkLDE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28940967",
+        "conversation_id": "1949640547716477300",
+        "created_at": "2025-07-28T01:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T02:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949640547716477300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949640547716477300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么说全职妈妈在中国社会里是个祸害？\n\n全职妈妈天天在家刷抖音打游戏，却不让孩子刷抖音打游戏，孩子一玩手机就会被全职妈妈臭骂；\n\n全职妈妈自己初中学历、学习差、智商低，偏偏把所有考985的希望全寄托在孩子身上，逼着孩子天天当学习机器，除了学习什么都不能干；\n\n全职妈妈自己0社会价值地位， 却天天吸爸爸的血，把自身价值焦虑转化为“家庭价值”、“教育价值”，只要逼爸爸爆足够多的金币，给孩子上辅导班，我就是有价值的；\n\n无数人的成长经历，回忆起来就一句话：\n\n全职妈妈是一种典型的爽了自己、毁了全家的位置，是家庭鸡飞狗跳天天吵架的根源，是孩子被家庭语言暴力的根源，是家庭无休止无意义花钱爆金币花在垃圾辅导班和各种智商税产品的根源。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 41460,
+          "like_count": 149,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "为什么说全职妈妈在中国社会里是个祸害？\n\n全职妈妈天天在家刷抖音打游戏，却不让孩子刷抖音打游戏，孩子一玩手机就会被全职妈妈臭骂；\n\n全职妈妈自己初中学历、学习差、智商低，偏偏把所有考985的希望全寄托在孩子身上，逼着孩子天天当学习机器，除了学习什么都不能干；\n\n全职妈妈自己0社会价值地位，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "请听雨的声音。|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 521,
+          "like_count": 3962,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 3875
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594212,
+          "following_count": 2695,
+          "like_count": 26907,
+          "listed_count": 3651,
+          "media_count": 8315,
+          "tweet_count": 40224
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

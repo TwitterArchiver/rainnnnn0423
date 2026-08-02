@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1893859241913364583",
+    "created_at": "2025-02-24T03:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T04:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893859241913364583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_SAGAWAASHSAHI…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/_SAGAWAASHSAHI_/status/1893495136757424570",
+          "start": 11,
+          "url": "https://t.co/FQ5u6kzhxa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893859241913364583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893495136757424570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑点解析：龙凤胎兄妹 https://t.co/FQ5u6kzhxa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_1893495134081179648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkcLytLW4AAYlbv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1893859241913364583",
+        "created_at": "2025-02-24T03:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T04:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893859241913364583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_SAGAWAASHSAHI…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/_SAGAWAASHSAHI_/status/1893495136757424570",
+              "start": 11,
+              "url": "https://t.co/FQ5u6kzhxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893859241913364583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893495136757424570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析：龙凤胎兄妹 https://t.co/FQ5u6kzhxa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893495134081179648"
+          ]
+        },
+        "author_id": "1688223582277541888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1893495136757424570",
+        "created_at": "2025-02-23T02:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T03:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893495136757424570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHbYY8Vz6R",
+              "end": 35,
+              "expanded_url": "https://x.com/_SAGAWAASHSAHI_/status/1893495136757424570/photo/1",
+              "media_key": "3_1893495134081179648",
+              "start": 12,
+              "url": "https://t.co/FHbYY8Vz6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893495136757424570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 82951,
+          "like_count": 759,
+          "quote_count": 11,
+          "reply_count": 56,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "做题蛆tv之汉奸与双休 https://t.co/FHbYY8Vz6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 286,
+          "like_count": 966,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1649
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T16:20:51.000Z",
+        "description": "萬道龍守譜於八輪七天二十四地：\n“汝等毀其屍首，割其喉，徒忘后土之歌照應生命百萬，滔天惡罪，當葬大荒。后土將永遠安葬，億萬年無人可尋。”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/_SAGAWAASHSAHI…",
+                "end": 23,
+                "expanded_url": "https://x.com/_SAGAWAASHSAHI_/status/1866402583914647887?t=ryVJvctxQ9HgQn7jkKLh9Q&s=19",
+                "start": 0,
+                "url": "https://t.co/tXrqdCwaXB"
+              }
+            ]
+          }
+        },
+        "id": "1688223582277541888",
+        "location": "群山 礦業聯盟第一空域 倫敦市 伍佰壹拾貳號",
+        "name": "浅绯 紗和",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875953759727316995/Z1lC78Ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 470,
+          "like_count": 22505,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 5743
+        },
+        "url": "https://t.co/tXrqdCwaXB",
+        "username": "_SAGAWAASHSAHI_",
+        "verified": false
+      }
+    ]
+  }
+}

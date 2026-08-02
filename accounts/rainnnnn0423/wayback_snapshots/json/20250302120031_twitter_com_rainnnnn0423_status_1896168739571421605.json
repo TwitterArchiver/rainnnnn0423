@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896168739571421605",
+    "created_at": "2025-03-02T12:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T13:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896168739571421605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1896161239195390024",
+          "start": 58,
+          "url": "https://t.co/Xw8LghUeaD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896168739571421605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896161239195390024",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "噢那画师是个蠢的。墙内外用一样的id还在可达鸭下面留言，粉丝十多万发言还不谨慎点，养了一大堆小腿毛搁那当互联网女神 https://t.co/Xw8LghUeaD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896168739571421605",
+        "created_at": "2025-03-02T12:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T13:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896168739571421605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1896161239195390024",
+              "start": 58,
+              "url": "https://t.co/Xw8LghUeaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896168739571421605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896161239195390024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "噢那画师是个蠢的。墙内外用一样的id还在可达鸭下面留言，粉丝十多万发言还不谨慎点，养了一大堆小腿毛搁那当互联网女神 https://t.co/Xw8LghUeaD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896161239195390024",
+        "created_at": "2025-03-02T11:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T12:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896161239195390024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896161239195390024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "b站刷到过的两个“天才”，一个曲师一个画师一看都爆出抄袭了😂😂😂\n我最近也有些自恋倾向 但我打心底鄙夷抄袭者 享受廉价的赞美把自己捧上神坛满足自己那点虚荣心可不可怜？不是靠自己的努力与才华而是靠欺骗得来的成绩，半夜睡得着不？忘了你们这些🕷素质低半夜睡得香得很的😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑里垢",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 318,
+          "like_count": 1191,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1965
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

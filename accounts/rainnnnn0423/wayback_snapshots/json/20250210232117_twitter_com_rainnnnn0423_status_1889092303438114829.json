@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1888856972897964109",
+    "created_at": "2025-02-10T23:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T00:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889092303438114829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1840696853324795905",
+          "start": 0,
+          "username": "smartest8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889092303438114829",
+    "in_reply_to_user_id": "1840696853324795905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888856972897964109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smartest8964 恁妈了个吧子的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1888856972897964109",
+        "created_at": "2025-02-10T23:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T00:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889092303438114829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1840696853324795905",
+              "start": 0,
+              "username": "smartest8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889092303438114829",
+        "in_reply_to_user_id": "1840696853324795905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888856972897964109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smartest8964 恁妈了个吧子的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888856969592885248"
+          ]
+        },
+        "author_id": "1840696853324795905",
+        "conversation_id": "1888856972897964109",
+        "created_at": "2025-02-10T07:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T08:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888856972897964109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BMAHJWnNhX",
+              "end": 38,
+              "expanded_url": "https://x.com/smartest8964/status/1888856972897964109/photo/1",
+              "media_key": "3_1888856969592885248",
+              "start": 15,
+              "url": "https://t.co/BMAHJWnNhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888856972897964109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 83706,
+          "like_count": 475,
+          "quote_count": 21,
+          "reply_count": 365,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "说一句你们那地方方言骂人的话 https://t.co/BMAHJWnNhX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 234,
+          "like_count": 667,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1050
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T10:15:12.000Z",
+        "description": "是一只因为上辈子鉴证过多而被打入万丈深渊的可怜猫猫😿\n上帝说这一世我要好好做🐱为大家带来欢乐和愉悦喵\n大家的fo和私信都会回哒😘😘😘\n提问箱https://t.co/0pl5RlWtgl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/smartest8964",
+                "end": 93,
+                "expanded_url": "https://ngl.link/smartest8964",
+                "start": 70,
+                "url": "https://t.co/0pl5RlWtgl"
+              }
+            ]
+          }
+        },
+        "id": "1840696853324795905",
+        "location": "打飞机",
+        "name": "✝️🎮电子游戏重度依赖🎮✝️",
+        "pinned_tweet_id": "1840704449330786644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840697876139450368/VDogEhXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 212,
+          "like_count": 1137,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 622
+        },
+        "username": "smartest8964",
+        "verified": true
+      }
+    ]
+  }
+}

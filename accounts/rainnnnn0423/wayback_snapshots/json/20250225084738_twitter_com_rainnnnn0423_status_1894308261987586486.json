@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894308261987586486",
+    "created_at": "2025-02-25T08:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T09:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894308261987586486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/snbokini131461…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/snbokini131461/status/1893974376401527058",
+          "start": 7,
+          "url": "https://t.co/tdqEKvhjRh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894308261987586486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893974376401527058",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那很地狱了。 https://t.co/tdqEKvhjRh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 158,
+        "media_key": "3_1893974367488356352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gki_pwvWsAAqcAS.jpg",
+        "width": 198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894308261987586486",
+        "created_at": "2025-02-25T08:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T09:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894308261987586486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snbokini131461…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/snbokini131461/status/1893974376401527058",
+              "start": 7,
+              "url": "https://t.co/tdqEKvhjRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894308261987586486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893974376401527058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那很地狱了。 https://t.co/tdqEKvhjRh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893974367488356352"
+          ]
+        },
+        "author_id": "1649968703977447425",
+        "conversation_id": "1893962364644683899",
+        "created_at": "2025-02-24T10:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893974376401527058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1780837272126132224",
+              "start": 0,
+              "username": "qn52157"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3zkTwSegL",
+              "end": 75,
+              "expanded_url": "https://x.com/snbokini131461/status/1893974376401527058/photo/1",
+              "media_key": "3_1893974367488356352",
+              "start": 52,
+              "url": "https://t.co/h3zkTwSegL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893974376401527058",
+        "in_reply_to_user_id": "1780837272126132224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893962364644683899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qn52157 炸柜老爸被气晕，醒来说：“咱家就没一个喜欢女的？”一边的妹妹羞涩的说：“怎么会呢？” https://t.co/h3zkTwSegL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 298,
+          "like_count": 1030,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1780
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T02:49:48.000Z",
+        "description": "",
+        "id": "1649968703977447425",
+        "location": "须弥",
+        "name": "散宝可爱捏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649969482071265282/VwpfRMWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 571,
+          "like_count": 4953,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 306
+        },
+        "username": "snbokini131461",
+        "verified": false
+      }
+    ]
+  }
+}

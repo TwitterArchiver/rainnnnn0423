@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896757301001978262",
+    "created_at": "2025-03-04T02:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T03:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896757301001978262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aut_islet/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/aut_islet/status/1896440061488742643",
+          "start": 4,
+          "url": "https://t.co/THeO59MZan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896757301001978262",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896440061488742643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好崩溃 https://t.co/THeO59MZan"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_1896440050516443136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlGCLZzbQAAZSZj.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896757301001978262",
+        "created_at": "2025-03-04T02:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T03:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896757301001978262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aut_islet/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/aut_islet/status/1896440061488742643",
+              "start": 4,
+              "url": "https://t.co/THeO59MZan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896757301001978262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896440061488742643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好崩溃 https://t.co/THeO59MZan"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896440050516443136"
+          ]
+        },
+        "author_id": "1674607455735799809",
+        "conversation_id": "1896440061488742643",
+        "created_at": "2025-03-03T05:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T06:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896440061488742643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbIlzuJEV7",
+              "end": 39,
+              "expanded_url": "https://x.com/aut_islet/status/1896440061488742643/photo/1",
+              "media_key": "3_1896440050516443136",
+              "start": 16,
+              "url": "https://t.co/vbIlzuJEV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896440061488742643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17566,
+          "like_count": 269,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "山东暴雨是因为被河南内设了是吧 https://t.co/vbIlzuJEV7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 332,
+          "like_count": 1236,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2084
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T02:35:15.000Z",
+        "description": "这里是秋屿啦～很高兴认识你！丨喊咱秋秋    叶子什么的都可以w🐾丨山东济宁人    假期青岛刷新丨通信工程丨MBTI:ENFP-A丨🥺@xiyuawa🥰丨猫（猫猫教狂热信徒  对猫猫毫无抵抗力🥺🥺）丨苦壁武汉大学生一只丨⚠️没有里推⚠️丨快来捕捉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "xiyuawa"
+              }
+            ]
+          }
+        },
+        "id": "1674607455735799809",
+        "location": "武汉-青岛杂交",
+        "name": "禾🔥山与",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782221782638063616/S7tgnJyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 761,
+          "like_count": 1331,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 438
+        },
+        "username": "aut_islet",
+        "verified": false
+      }
+    ]
+  }
+}

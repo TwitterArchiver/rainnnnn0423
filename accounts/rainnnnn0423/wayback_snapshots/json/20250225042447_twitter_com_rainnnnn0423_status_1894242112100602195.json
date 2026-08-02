@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894242112100602195",
+    "created_at": "2025-02-25T04:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T05:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894242112100602195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LCA176232/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/LCA176232/status/1893970405704253872",
+          "start": 14,
+          "url": "https://t.co/gz3tQWtYq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894242112100602195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893970405704253872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑点解析：#彩礼#女权主义 https://t.co/gz3tQWtYq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1413,
+        "media_key": "3_1893970402889609216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gki8C_dWsAA-HFI.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894242112100602195",
+        "created_at": "2025-02-25T04:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T05:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894242112100602195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LCA176232/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/LCA176232/status/1893970405704253872",
+              "start": 14,
+              "url": "https://t.co/gz3tQWtYq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894242112100602195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893970405704253872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析：#彩礼#女权主义 https://t.co/gz3tQWtYq9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893970402889609216"
+          ]
+        },
+        "author_id": "1479510124079185921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1893970405704253872",
+        "created_at": "2025-02-24T10:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893970405704253872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dl1U4qt1qI",
+              "end": 42,
+              "expanded_url": "https://x.com/LCA176232/status/1893970405704253872/photo/1",
+              "media_key": "3_1893970402889609216",
+              "start": 19,
+              "url": "https://t.co/Dl1U4qt1qI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893970405704253872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 15542,
+          "like_count": 176,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "“如何把国内彩礼文化传播到西方国家” https://t.co/Dl1U4qt1qI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 292,
+          "like_count": 1002,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1724
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T17:48:08.000Z",
+        "description": "只有这个号和小号@FPL99386519是本人的，其他的均为假冒。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "FPL99386519"
+              }
+            ]
+          }
+        },
+        "id": "1479510124079185921",
+        "location": "Hong Kong",
+        "name": "大漠孤鹰⛓",
+        "pinned_tweet_id": "1742419839220887816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837533564059242499/yQxLlDc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33731,
+          "following_count": 946,
+          "like_count": 83170,
+          "listed_count": 92,
+          "media_count": 9257,
+          "tweet_count": 12684
+        },
+        "username": "LCA176232",
+        "verified": true
+      }
+    ]
+  }
+}

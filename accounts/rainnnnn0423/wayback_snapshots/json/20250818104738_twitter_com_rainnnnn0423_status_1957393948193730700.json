@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1957004481864101950",
+    "created_at": "2025-08-18T10:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T11:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957393948193730700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957393948193730700",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957004481864101950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 人不乳支支自乳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_1956991662498123776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyihjGeaEAAsfms.jpg",
+        "width": 1024
+      },
+      {
+        "height": 702,
+        "media_key": "3_1956991877179404288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyihvmOacAAqX1A.png",
+        "width": 486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1957004481864101950",
+        "created_at": "2025-08-18T10:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957393948193730700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957393948193730700",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957004481864101950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 人不乳支支自乳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956991662498123776",
+            "3_1956991877179404288"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1957004481864101950",
+        "created_at": "2025-08-17T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957004481864101950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9WOkNkv7F",
+              "end": 72,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1957004481864101950/photo/1",
+              "media_key": "3_1956991662498123776",
+              "start": 49,
+              "url": "https://t.co/C9WOkNkv7F"
+            },
+            {
+              "display_url": "pic.x.com/C9WOkNkv7F",
+              "end": 72,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1957004481864101950/photo/1",
+              "media_key": "3_1956991877179404288",
+              "start": 49,
+              "url": "https://t.co/C9WOkNkv7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957004481864101950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 564747,
+          "like_count": 1356,
+          "quote_count": 29,
+          "reply_count": 293,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "8月16日，瑞士手表品牌Swatch网站模特“眯眯眼”图片被指辱华，Swatch删除图片并致歉。 https://t.co/C9WOkNkv7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 527,
+          "like_count": 3996,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 3936
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082142,
+          "following_count": 983,
+          "like_count": 7938,
+          "listed_count": 8269,
+          "media_count": 33614,
+          "tweet_count": 40366
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1901244756413567281",
+    "created_at": "2025-03-16T12:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T13:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901244834297545044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1901244834297545044",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901244756413567281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心平气和地开始回忆往事了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1901244756413567281",
+        "created_at": "2025-03-16T12:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T13:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901244834297545044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901244834297545044",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901244756413567281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心平气和地开始回忆往事了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1901244756413567281",
+        "created_at": "2025-03-16T12:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T13:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901244756413567281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1900853335793823950",
+              "start": 62,
+              "url": "https://t.co/G52Y5qs073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901244756413567281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900853335793823950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那段时间我想的最多的就是四人组没有好下场。我第六感很灵，其余三个人在北京玩没带我我就知道我又被孤立了。和初中一模一样的事情 https://t.co/G52Y5qs073"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政乐子人",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 370,
+          "like_count": 1586,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2529
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

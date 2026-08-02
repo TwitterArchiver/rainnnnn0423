@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2075819126921351537",
+    "created_at": "2026-07-12T05:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076176778595615162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2023709793807200256",
+          "start": 0,
+          "username": "Hms1357212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076176778595615162",
+    "in_reply_to_user_id": "2023709793807200256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076163905844617486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hms1357212 周一dm我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2075819126921351537",
+        "created_at": "2026-07-12T05:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076176778595615162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2023709793807200256",
+              "start": 0,
+              "username": "Hms1357212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076176778595615162",
+        "in_reply_to_user_id": "2023709793807200256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076163905844617486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hms1357212 周一dm我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023709793807200256",
+        "conversation_id": "2075819126921351537",
+        "created_at": "2026-07-12T04:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076163905844617486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076163905844617486",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075819126921351537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 我可以么（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 661,
+          "like_count": 6030,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 4922
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T10:43:17.000Z",
+        "description": "",
+        "id": "2023709793807200256",
+        "name": "Hms",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023710014641221632/haIB0Mzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "Hms1357212",
+        "verified": false
+      }
+    ]
+  }
+}

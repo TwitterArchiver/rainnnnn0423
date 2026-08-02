@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1885099150112678384",
+    "created_at": "2025-01-30T22:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T23:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885099150112678384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LongLiveSalotS…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/LongLiveSalotSa/status/1884607772974854367",
+          "start": 32,
+          "url": "https://t.co/olpmqO5TfM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885099150112678384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884607772974854367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "滞纳特色教育体系一年图5800不轻轻松松？我都差点成为被图的。 https://t.co/olpmqO5TfM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1885099150112678384",
+        "created_at": "2025-01-30T22:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T23:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885099150112678384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LongLiveSalotS…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/LongLiveSalotSa/status/1884607772974854367",
+              "start": 32,
+              "url": "https://t.co/olpmqO5TfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885099150112678384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884607772974854367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滞纳特色教育体系一年图5800不轻轻松松？我都差点成为被图的。 https://t.co/olpmqO5TfM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884607769426399233",
+            "3_1884607769602600960"
+          ]
+        },
+        "author_id": "1026825498645524480",
+        "conversation_id": "1884607772974854367",
+        "created_at": "2025-01-29T14:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T15:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884607772974854367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vDyZH7GDO2",
+              "end": 63,
+              "expanded_url": "https://x.com/LongLiveSalotSa/status/1884607772974854367/photo/1",
+              "media_key": "3_1884607769426399233",
+              "start": 40,
+              "url": "https://t.co/vDyZH7GDO2"
+            },
+            {
+              "display_url": "pic.x.com/vDyZH7GDO2",
+              "end": 63,
+              "expanded_url": "https://x.com/LongLiveSalotSa/status/1884607772974854367/photo/1",
+              "media_key": "3_1884607769602600960",
+              "start": 40,
+              "url": "https://t.co/vDyZH7GDO2"
+            },
+            {
+              "display_url": "x.com/YahooNewsTopic…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/YahooNewsTopics/status/1884417427683041425",
+              "start": 64,
+              "url": "https://t.co/nB4ZMPssvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884607772974854367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 139651,
+          "like_count": 506,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884417427683041425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按照人口比例来算大支得一年跳大約5800个小学生中学生高校生才能被你日継続嘲笑 https://t.co/vDyZH7GDO2 https://t.co/nB4ZMPssvw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主说悄悄话的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 220,
+          "like_count": 488,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 791
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-07T13:40:51.000Z",
+        "description": "中国語ネイティブレベル\n\n鯊魚防务公司顧員\n\nANCAP🌗\n\n以前以為赫兰老乡和共趣左蛆是最劣等的\n\n現在発現似乎精日東百币和低智支黒在支味浓郁程度上更勝一筹\n\nCommunist NMSL\n\nBy the way, f-ucking Chinamen.",
+        "id": "1026825498645524480",
+        "location": "滅共の松明の下 or 中国人の墳頭",
+        "name": "シノダ🌗",
+        "pinned_tweet_id": "1496447080579362820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636422765057290240/DUf_Na0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 778,
+          "like_count": 5281,
+          "listed_count": 14,
+          "media_count": 1224,
+          "tweet_count": 15193
+        },
+        "username": "LongLiveSalotSa",
+        "verified": false
+      }
+    ]
+  }
+}

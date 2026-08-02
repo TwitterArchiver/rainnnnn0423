@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916691907574685696"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1916691911953338498",
+    "created_at": "2025-04-28T03:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T04:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916691911953338498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nvZ95edQKs",
+          "end": 56,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1916691911953338498/photo/1",
+          "media_key": "3_1916691907574685696",
+          "start": 33,
+          "url": "https://t.co/nvZ95edQKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916691911953338498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我就是个学都不上的啃老废物🥲活着已经很困难的人还是现实一点吧 https://t.co/nvZ95edQKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 162,
+        "media_key": "3_1916691907574685696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpl1Ioba4AA1dU4.jpg",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916691907574685696"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916691911953338498",
+        "created_at": "2025-04-28T03:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T04:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916691911953338498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvZ95edQKs",
+              "end": 56,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1916691911953338498/photo/1",
+              "media_key": "3_1916691907574685696",
+              "start": 33,
+              "url": "https://t.co/nvZ95edQKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916691911953338498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我就是个学都不上的啃老废物🥲活着已经很困难的人还是现实一点吧 https://t.co/nvZ95edQKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 457,
+          "like_count": 2328,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 3364
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

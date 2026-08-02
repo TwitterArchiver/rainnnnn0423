@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      }
+    ],
+    "conversation_id": "2047215055608127965",
+    "created_at": "2026-04-25T01:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047852473898115279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652200117494231043",
+          "start": 0,
+          "username": "OuO_QwQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047852473898115279",
+    "in_reply_to_user_id": "1652200117494231043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047215055608127965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO_QwQg 打第五人格被四跑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2047215055608127965",
+        "created_at": "2026-04-25T01:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047852473898115279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "OuO_QwQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047852473898115279",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047215055608127965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO_QwQg 打第五人格被四跑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2047215055608127965",
+        "created_at": "2026-04-23T07:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047215055608127965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047215055608127965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 98772,
+          "like_count": 284,
+          "quote_count": 3,
+          "reply_count": 159,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "说真的除了od吸毒抽烟喝酒还有黄之外还有什么给大脑直接刺激的方式吗…\n要又快又起效的那种……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|本号转生为竞小妹|08infp女高|我不是键政曲吗怎么成⌚姐了|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122🚪88 互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "si_an_1122"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2040862365714129402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 653,
+          "like_count": 5662,
+          "listed_count": 4,
+          "media_count": 346,
+          "tweet_count": 4780
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxian1527\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "maoxian1527"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 116,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 93,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2020621499112272132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 66,
+          "like_count": 7954,
+          "listed_count": 3,
+          "media_count": 263,
+          "tweet_count": 2949
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "OuO_QwQg",
+        "verified": false
+      }
+    ]
+  }
+}

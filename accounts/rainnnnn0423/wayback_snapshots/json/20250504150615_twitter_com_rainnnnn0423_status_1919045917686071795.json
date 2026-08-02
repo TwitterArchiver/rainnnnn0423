@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1919045917686071795",
+    "created_at": "2025-05-04T15:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T16:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919045917686071795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Cldeop/status/1918964819983499298",
+          "start": 11,
+          "url": "https://t.co/KLTq9BxUZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919045917686071795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918964819983499298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我服了你们上海人了。 https://t.co/KLTq9BxUZs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1918678052118368256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqCDhdbakAADLfQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1919045917686071795",
+        "created_at": "2025-05-04T15:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T16:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919045917686071795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Cldeop/status/1918964819983499298",
+              "start": 11,
+              "url": "https://t.co/KLTq9BxUZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919045917686071795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918964819983499298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我服了你们上海人了。 https://t.co/KLTq9BxUZs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918678052118368256"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1918964819983499298",
+        "created_at": "2025-05-04T09:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T10:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918964819983499298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3tAS88AEP",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1918964819983499298/photo/1",
+              "media_key": "3_1918678052118368256",
+              "start": 0,
+              "url": "https://t.co/Y3tAS88AEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918964819983499298",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 41735,
+          "like_count": 711,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Y3tAS88AEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 461,
+          "like_count": 2481,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 3444
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63764,
+          "following_count": 568,
+          "like_count": 28543,
+          "listed_count": 217,
+          "media_count": 9390,
+          "tweet_count": 13370
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

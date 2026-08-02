@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1909680824074879146",
+    "created_at": "2025-04-09T01:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T02:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909785499063271795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894777318121537536",
+          "start": 0,
+          "username": "634LIVINLIMBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909785499063271795",
+    "in_reply_to_user_id": "1894777318121537536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909680824074879146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@634LIVINLIMBO 每个人都有自己的苦难。痛苦是无法被比较的。🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1909680824074879146",
+        "created_at": "2025-04-09T01:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T02:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909785499063271795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894777318121537536",
+              "start": 0,
+              "username": "634LIVINLIMBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909785499063271795",
+        "in_reply_to_user_id": "1894777318121537536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909680824074879146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@634LIVINLIMBO 每个人都有自己的苦难。痛苦是无法被比较的。🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894777318121537536",
+        "conversation_id": "1909680824074879146",
+        "created_at": "2025-04-08T18:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T19:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909680824074879146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909680824074879146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好心疼我新交的朋友，\n\n眼看着他们安慰我安慰的自己都快碎了，就感觉好心疼，好愧疚，\n\n感觉自己没有资格悲伤，明明我可能是病更少的那个，\n\n对不起我又难过了，\n\n对不起对不起对不起对不起对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 最近私信箱又挂了",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 414,
+          "like_count": 1890,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 2938
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T15:51:41.000Z",
+        "description": "634 woes",
+        "id": "1894777318121537536",
+        "name": "6orn3MO4ever",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909670301417586688/OXEuglsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 490,
+          "like_count": 5881,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1100
+        },
+        "username": "634LIVINLIMBO",
+        "verified": false
+      }
+    ]
+  }
+}

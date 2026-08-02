@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900521660882767872"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "1900521663319671166",
+    "created_at": "2025-03-14T12:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T13:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900521663319671166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XuEoahrflF",
+          "end": 54,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1900521663319671166/photo/1",
+          "media_key": "3_1900521660882767872",
+          "start": 31,
+          "url": "https://t.co/XuEoahrflF"
+        },
+        {
+          "display_url": "x.com/iamcheyan/stat…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/iamcheyan/status/1900425663850700836",
+          "start": 55,
+          "url": "https://t.co/6eM7W6cZQO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900521663319671166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900425663850700836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "师太牛逼👍复仇大计成功了👍👍👍王菊花现在是名誉扫地一败涂地了 https://t.co/XuEoahrflF https://t.co/6eM7W6cZQO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_1900521660882767872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmACYZTaUAAcTl8.jpg",
+        "width": 764
+      },
+      {
+        "height": 1415,
+        "media_key": "3_1900424924453560320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl-qZmBaYAAvDnq.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2556,
+        "media_key": "3_1900424941146955776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl-qakNbYAAApS4.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900521660882767872"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1900521663319671166",
+        "created_at": "2025-03-14T12:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T13:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900521663319671166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XuEoahrflF",
+              "end": 54,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1900521663319671166/photo/1",
+              "media_key": "3_1900521660882767872",
+              "start": 31,
+              "url": "https://t.co/XuEoahrflF"
+            },
+            {
+              "display_url": "x.com/iamcheyan/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/iamcheyan/status/1900425663850700836",
+              "start": 55,
+              "url": "https://t.co/6eM7W6cZQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900521663319671166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900425663850700836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "师太牛逼👍复仇大计成功了👍👍👍王菊花现在是名誉扫地一败涂地了 https://t.co/XuEoahrflF https://t.co/6eM7W6cZQO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900424924453560320",
+            "3_1900424941146955776"
+          ]
+        },
+        "author_id": "345437084",
+        "conversation_id": "1900425663850700836",
+        "created_at": "2025-03-14T05:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T06:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900425663850700836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xxHe2TVToa",
+              "end": 164,
+              "expanded_url": "https://x.com/iamcheyan/status/1900425663850700836/photo/1",
+              "media_key": "3_1900424924453560320",
+              "start": 141,
+              "url": "https://t.co/xxHe2TVToa"
+            },
+            {
+              "display_url": "pic.x.com/xxHe2TVToa",
+              "end": 164,
+              "expanded_url": "https://x.com/iamcheyan/status/1900425663850700836/photo/1",
+              "media_key": "3_1900424941146955776",
+              "start": 141,
+              "url": "https://t.co/xxHe2TVToa"
+            },
+            {
+              "display_url": "x.com/iamcheyan/stat…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/iamcheyan/status/1900214659015467387",
+              "start": 165,
+              "url": "https://t.co/5h03W8UqQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900425663850700836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "核心问题是：\n王志安太看不起师太了。  \n\n1\n之前艾森做了AI微表情分析，说师太在直播中表现出「大量愉悦的神情」。\n于是视频被很多人骂下架了……\n但其实他分析得没错。  \n\n师太就是有备而来。\n她算准了孩子生产的时间。\n\n选在这个节点发难，目的很明确：\n就是要公开处刑王志安。  \n\n于是，王志安一步步地走进了她的镜头里。\n一个推特130万粉丝、油管170万粉丝的公众人物。\n以直播的方式成为了被人群嘲的表情包。\n\n在师太的面前彻底失态。\n\n师太的笑意，确实难以掩饰。\n因为这就是她复仇计划的一部分。 \n爽文小说都不敢这么写。  \n\n2\n视频风波后，王志安有三个选择：  \n\n上策：低头认错，诚恳道歉，尽可能满足师太的诉求，然后交给律师处理，之后不再回应，任由师太去闹，自己保持体面。\n\n中策：装死，当作什么事都没发生，继续做节目，虽然评论区会被阴阳怪气的留言淹没，但时间久了，风波总会过去。\n\n下策：硬杠师太，试图用一篇义正言辞的声明压制对方。  \n\n他选择了最糟糕的方案。  \n洋洋洒洒地写了篇漏洞百出的声明。\n把自己塑造成一个被迫回应的无辜者。\n\n按理说，两个人一起生活了这么久，早就知根知底。\n他应该清楚，声明里的那些问题，师太不可能会轻易放过。\n可他还是头铁地发了。\n\n为什么？\n\n因为他根本没把师太当回事。  \n只是一个有抑郁症的家庭妇女，能把他怎么样呢？\n他有媒体经验，有舆论影响力，以为可以用一篇声明轻松拿捏师太，带着公众的认知走。\n但却低估了师太的战斗力。  \n\n结局大家也看到了：\n师太人根本不虚，火力全开，坦坦荡荡地逐条拆解，刀刀见血。\n\n每一下都精准致命。\n圈粉无数。  \n最后，师太把他送上了祭坛，被全网围观审判。\n\n而当师太步步紧逼，他竟然开始在推特上撒泼打滚。\n拿一些不着边际的无聊段子来回避问题。\n\n一个「调查记者」。\n应该靠冷静、理性、深度剖析事件而建立起公信力。\n可如今，他却只能靠东拉西扯的笑话硬撑场面。\n试图用「一点也不幽默的幽默」缓解尴尬。\n用插科打诨来模糊焦点。\n太LOW了。\n\n3\n很多人在讨论师太时。\n总是强调她是「重度抑郁症患者」。\n试图用这一点来削弱她的理性。\n仿佛她的一切行动都是冲动之举。  \n\n但师太毕竟是中科院气象学博士后，智商摆在那里。\n一个研究复杂气象模型的学者，深谙逻辑推理。\n擅长各种分析。\n\n她有学术训练的缜密思维，长年积累的逻辑能力。\n不是一个传统意义上被动承受的女性。\n\n还有最重要的：\n她有隐忍多年的怒火。  \n\n她算准了时机、舆论、公众心理。\n精准得像气象预报中的等压线分布。\n\n当她决定不再忍耐的时候，很多人连她的影子都追不上。\n\n4\n看师太复盘她跟王志安相处的生活细节。\n总能想起我爸妈吵架的场景。\n\n我爸就是单方面对我妈进行冷暴力。\n不管事情的对错，他是绝不会认错的。  \n\n我妈呢？\n能忍就忍，忍不了就自己消化。  \n\n似乎很多家庭都是这样，没有沟通的余地，总有一个人要默默忍耐。 \n\n婚姻需要彼此体谅，毕竟大家都会犯错。\n但师太本身就伶牙俐齿，又有学识，不是那种忍气吞声的人。\n而王志安的性格，决定了他不可能去沟通，爱咋咋地。  \n\n师太曾经想维系这段婚姻，所以她选择了隐忍，让自己处于弱势。\n久而久之，抑郁症就这样来了。  \n\n现在分开了，对双方其实都是解脱。  \n但师太还想要一个说法。\n我支持师太。  \n\n毕竟，王志安现在还在宣传「真善忍」。\n可如果他真的践行了「真善忍」。\n又怎么会把师太逼到今天这个地步？  \n\n5\n2021年，知乎刚开始做「盐选小说」。\n有个女性作者说，想写女性复仇题材的故事，让我帮忙看一些初稿。  \n\n我翻了几页，情节狗血、冲突激烈。\n充满了出轨、背叛、职场陷害、家庭压迫等戏剧化元素。\n女主一路隐忍、筹谋、反杀。\n最后踩着渣男和绿茶上位，拿回属于自己的一切。\n\n我当时的评价是：\n确实爽，但也太狗血了吧？\n\n她胸有成竹地说，肯定有人看。\n果然，上线后爆了。  \n\n后来我问她：为什么想到写这个题材？ \n\n她说：  \n永远不要小看你身边的女性。\n她们为了生活，已经隐忍得太多了。\n\n6\n这些故事能火，是因为它们道出了社会的某种隐痛。\n\n现实中的女性，可能不会真的像小说里的女主那样：\n一夜之间逆袭、手撕渣男、复仇成功。\n\n但她们确实在无数个日夜里。\n被生活逼着一次次忍让、退让、隐忍、承受。\n\n她们在婚姻里，在职场里，在家庭里，\n被迫压抑情绪，被迫妥协。\n被迫「顾全大局」。\n\n可如果有一天，她们决定不忍了呢？\n如果有一天，她们不再沉默，不再逆来顺受，不再害怕撕破脸呢？\n如果有一天，她们像师太一样，把所有隐忍的愤怒化作最锋利的武器，冷静、克制、精准地反击呢？\n\n这世上，多少人低估过女性的复仇？\n\n7\n永远不要小看你身边的女性。\n她们为了生活，已经隐忍得太多了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 93348,
+          "like_count": 330,
+          "quote_count": 11,
+          "reply_count": 146,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900214659015467387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "核心问题是：\n王志安太看不起师太了。  \n\n1\n之前艾森做了AI微表情分析，说师太在直播中表现出「大量愉悦的神情」。\n于是视频被很多人骂下架了……\n但其实他分析得没错。  \n\n师太就是有备而来。\n她算准了孩子生产的时间。\n\n选在这个节点发难，目的很明确：\n就是要公开处刑王志安。… https://t.co/xxHe2TVToa https://t.co/5h03W8UqQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博日记🗑偷着键 粉红滚建制派滚懒得吵架 最近私信箱被msk搞了打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 362,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2447
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-30T16:05:20.000Z",
+        "description": "作家 · 编剧 · 程序员 / 東京都在住 🗼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iamcheyan.com",
+                "end": 23,
+                "expanded_url": "http://iamcheyan.com",
+                "start": 0,
+                "url": "https://t.co/IoKuPngzUE"
+              }
+            ]
+          }
+        },
+        "id": "345437084",
+        "location": "Katsushika-ku, Tokyo",
+        "name": "徹言",
+        "pinned_tweet_id": "1779190836405924114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752946036358909952/o_vVoTim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37027,
+          "following_count": 7419,
+          "like_count": 64873,
+          "listed_count": 173,
+          "media_count": 1465,
+          "tweet_count": 8634
+        },
+        "url": "https://t.co/IoKuPngzUE",
+        "username": "iamcheyan",
+        "verified": true
+      }
+    ]
+  }
+}

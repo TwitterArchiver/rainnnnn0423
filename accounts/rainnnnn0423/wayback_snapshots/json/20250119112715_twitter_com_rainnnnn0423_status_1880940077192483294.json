@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1880491523693048057",
+    "created_at": "2025-01-19T11:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T12:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880940077192483294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1383854391229173760",
+          "start": 0,
+          "username": "Soooooy18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880940077192483294",
+    "in_reply_to_user_id": "1383854391229173760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880491523693048057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Soooooy18 对除非我自己高兴给 我张不开口找朋友要钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1880491523693048057",
+        "created_at": "2025-01-19T11:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T12:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880940077192483294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1383854391229173760",
+              "start": 0,
+              "username": "Soooooy18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880940077192483294",
+        "in_reply_to_user_id": "1383854391229173760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880491523693048057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Soooooy18 对除非我自己高兴给 我张不开口找朋友要钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383854391229173760",
+        "conversation_id": "1880491523693048057",
+        "created_at": "2025-01-18T05:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T06:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880491523693048057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880491523693048057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 76427,
+          "like_count": 519,
+          "quote_count": 8,
+          "reply_count": 62,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "一直觉得男生问女生要钱的真的是纯飞舞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 173,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 425
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-18T18:46:22.000Z",
+        "description": "盗图替我挡灾/infp/直直直直直直直直直直直的",
+        "id": "1383854391229173760",
+        "location": "广东",
+        "name": "关于小熊",
+        "pinned_tweet_id": "1787451233063809448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556009415332937729/L_c3acCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 397,
+          "like_count": 4525,
+          "listed_count": 21,
+          "media_count": 106,
+          "tweet_count": 2964
+        },
+        "username": "Soooooy18",
+        "verified": false
+      }
+    ]
+  }
+}

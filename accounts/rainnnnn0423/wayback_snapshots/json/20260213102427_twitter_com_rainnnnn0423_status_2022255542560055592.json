@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2022255542560055592",
+    "created_at": "2026-02-13T10:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022255542560055592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928768097865052161",
+          "start": 0,
+          "username": "oolongisgood321"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/shirochankawa1…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/shirochankawa1/status/2021915972119278075",
+          "start": 26,
+          "url": "https://t.co/fZQA88Sb1Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022255542560055592",
+    "in_reply_to_user_id": "1928768097865052161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021915972119278075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oolongisgood321 我们也这样好不好 https://t.co/fZQA88Sb1Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2022255542560055592",
+        "created_at": "2026-02-13T10:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022255542560055592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928768097865052161",
+              "start": 0,
+              "username": "oolongisgood321"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/shirochankawa1…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/shirochankawa1/status/2021915972119278075",
+              "start": 26,
+              "url": "https://t.co/fZQA88Sb1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022255542560055592",
+        "in_reply_to_user_id": "1928768097865052161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021915972119278075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oolongisgood321 我们也这样好不好 https://t.co/fZQA88Sb1Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2021915972119278075",
+        "created_at": "2026-02-12T11:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021915972119278075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021915972119278075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 21711,
+          "like_count": 820,
+          "quote_count": 20,
+          "reply_count": 11,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "我对家产最顶级的场景幻想就是二人躺在床上拥抱着 一个有搭没搭地抚摸着另一个的头发 ，什么都不想 ，此刻只有怀里的彼此真实存在于世界上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 607,
+          "like_count": 5070,
+          "listed_count": 4,
+          "media_count": 331,
+          "tweet_count": 4455
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T10:59:36.000Z",
+        "description": "@rainnnnn0423 把我的中药换成了三得利无糖乌龙茶｜地球说唱之神@634LIVINLIMBO ｜最佳野狗@404ADHD_DOG 欢迎互关但是咯咯哒可以走掉吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "rainnnnn0423"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "634LIVINLIMBO"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1928768097865052161",
+        "location": "三得利无糖乌龙茶瓶内",
+        "name": "“看我会在乎离别吗？”",
+        "pinned_tweet_id": "1951960570942706099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007377953798184960/mmIxHjpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 145,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 270
+        },
+        "username": "oolongisgood321",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145,
+          "following_count": 1976,
+          "like_count": 64253,
+          "listed_count": 8,
+          "media_count": 1481,
+          "tweet_count": 9971
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

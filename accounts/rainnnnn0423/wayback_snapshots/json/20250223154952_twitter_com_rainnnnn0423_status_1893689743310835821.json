@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893689743310835821",
+    "created_at": "2025-02-23T15:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T16:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893689743310835821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aspirinpills53…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Aspirinpills534/status/1893209323645374578",
+          "start": 13,
+          "url": "https://t.co/XI2Y2QdbM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893689743310835821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893209323645374578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有反贼小男娘让我操？ https://t.co/XI2Y2QdbM1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893689743310835821",
+        "created_at": "2025-02-23T15:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T16:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893689743310835821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aspirinpills53…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Aspirinpills534/status/1893209323645374578",
+              "start": 13,
+              "url": "https://t.co/XI2Y2QdbM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893689743310835821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893209323645374578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有反贼小男娘让我操？ https://t.co/XI2Y2QdbM1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847901231920140294",
+        "conversation_id": "1893209323645374578",
+        "created_at": "2025-02-22T08:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T09:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893209323645374578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893209323645374578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3826,
+          "like_count": 133,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想操法西斯小男娘，想操毛左小男娘，想操皇汉小男娘，想操支黑小男娘，想操各种各样的小男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 282,
+          "like_count": 961,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1644
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:22:53.000Z",
+        "description": "推友寻回中，最高学历是胎教，政治启蒙是《母猪的产后护理》，意识形态是欧码吉利曼波，二次元马警察，特雷森评论家，拜😹教教主  ，赛马娘忠实的拥护者 无特定立场 拒绝极民 一般不对线 主要搞抽象 傻了吧唧研究中心院长兼头号研究对象  Market anarchism 🏴三号机@demo53420 星怒@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "demo53420"
+              },
+              {
+                "end": 158,
+                "start": 149,
+                "username": "elonmusk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnmmusknmsl.com",
+                "end": 23,
+                "expanded_url": "http://www.cnmmusknmsl.com",
+                "start": 0,
+                "url": "https://t.co/7yooNKFSz9"
+              }
+            ]
+          }
+        },
+        "id": "1847901231920140294",
+        "location": "傻了吧唧研究中心",
+        "name": "特雷森の虎 最唐传说の曼波唐怀瑟",
+        "pinned_tweet_id": "1868148551097909408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881293885504421888/4ngbArzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 489,
+          "like_count": 36675,
+          "listed_count": 4,
+          "media_count": 809,
+          "tweet_count": 6234
+        },
+        "url": "https://t.co/7yooNKFSz9",
+        "username": "Aspirinpills534",
+        "verified": false
+      }
+    ]
+  }
+}

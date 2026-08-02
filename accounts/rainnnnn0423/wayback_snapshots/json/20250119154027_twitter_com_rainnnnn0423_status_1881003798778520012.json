@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1881003798778520012",
+    "created_at": "2025-01-19T15:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T16:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881003798778520012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bboczeng/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/bboczeng/status/1880987197605900363",
+          "start": 12,
+          "url": "https://t.co/2DR4VXKXvt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881003798778520012",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880987197605900363",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "勃勃是不是玉米症犯了？ https://t.co/2DR4VXKXvt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1881003798778520012",
+        "created_at": "2025-01-19T15:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T16:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881003798778520012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bboczeng/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bboczeng/status/1880987197605900363",
+              "start": 12,
+              "url": "https://t.co/2DR4VXKXvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881003798778520012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880987197605900363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "勃勃是不是玉米症犯了？ https://t.co/2DR4VXKXvt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "215939847",
+        "conversation_id": "1880987197605900363",
+        "created_at": "2025-01-19T14:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:32:21.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880986659124322313",
+          "1880986940708975016",
+          "1880987108388876364",
+          "1880987197605900363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880987197605900363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4297,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "只有成功，是这个地球上唯一值得追求的东西\n\n女人的爱\n\n只是荷尔蒙内分泌失调的\n\n产物\n\n所以大部分女性比较失败\n\n主要是他们无法控制自己的荷尔蒙\n\n竟然认为爱情\n\n感情\n\n情绪\n\n比一切都重要\n\n而且他们居然蠢到\n\n以为男人和他们一样\n\n也需要这些东西\n\n真是一群废物。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 174,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 434
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1880804119407214920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160830,
+          "following_count": 637,
+          "like_count": 73724,
+          "listed_count": 812,
+          "media_count": 12262,
+          "tweet_count": 69449
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1886296123582914813",
+    "created_at": "2025-02-03T06:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T07:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886296123582914813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3022697779",
+          "start": 3,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886296123582914813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885945383261712843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RXdruglab: 快万粉了，搞个万粉福利吧，和第一次千粉福利一样，送大麻糕或者大麻花吧。千粉送1份，万粉就送10份吧。\n关注转推+回复参与抽奖。\n抽奖时候录入ID用AI进行随机选择。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886296123582914813",
+        "created_at": "2025-02-03T06:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T07:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886296123582914813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3022697779",
+              "start": 3,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886296123582914813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885945383261712843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RXdruglab: 快万粉了，搞个万粉福利吧，和第一次千粉福利一样，送大麻糕或者大麻花吧。千粉送1份，万粉就送10份吧。\n关注转推+回复参与抽奖。\n抽奖时候录入ID用AI进行随机选择。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1885945383261712843",
+        "created_at": "2025-02-02T06:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T07:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885945383261712843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885945383261712843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 61601,
+          "like_count": 135,
+          "quote_count": 3,
+          "reply_count": 151,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "快万粉了，搞个万粉福利吧，和第一次千粉福利一样，送大麻糕或者大麻花吧。千粉送1份，万粉就送10份吧。\n关注转推+回复参与抽奖。\n抽奖时候录入ID用AI进行随机选择。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 229,
+          "like_count": 600,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 925
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11393,
+          "following_count": 16,
+          "like_count": 11,
+          "listed_count": 11,
+          "media_count": 23,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2066821357011415089",
+    "created_at": "2026-06-16T09:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066821357011415089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802704441961017344",
+          "start": 3,
+          "username": "misumikaede3"
+        },
+        {
+          "end": 29,
+          "id": "1748688710307115008",
+          "start": 18,
+          "username": "nine_and_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066821357011415089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066781690685788506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misumikaede3: @nine_and_9 去的全是毒虫，粉丝见面会说是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2066821357011415089",
+        "created_at": "2026-06-16T09:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066821357011415089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1802704441961017344",
+              "start": 3,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 29,
+              "id": "1748688710307115008",
+              "start": 18,
+              "username": "nine_and_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066821357011415089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066781690685788506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @misumikaede3: @nine_and_9 去的全是毒虫，粉丝见面会说是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2066102046005375243",
+        "created_at": "2026-06-16T07:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066781690685788506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748688710307115008",
+              "start": 0,
+              "username": "nine_and_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066781690685788506",
+        "in_reply_to_user_id": "1748688710307115008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066102046005375243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nine_and_9 去的全是毒虫，粉丝见面会说是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 648,
+          "like_count": 5779,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4839
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉 小号的我：你猜",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#锦绣三",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 1233,
+          "like_count": 36400,
+          "listed_count": 5,
+          "media_count": 367,
+          "tweet_count": 11554
+        },
+        "username": "misumikaede3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T12:47:43.000Z",
+        "description": "",
+        "id": "1748688710307115008",
+        "name": "九某人",
+        "pinned_tweet_id": "2040311755105255633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748689466552942592/cN2J5xLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 217,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1262
+        },
+        "username": "nine_and_9",
+        "verified": true
+      }
+    ]
+  }
+}

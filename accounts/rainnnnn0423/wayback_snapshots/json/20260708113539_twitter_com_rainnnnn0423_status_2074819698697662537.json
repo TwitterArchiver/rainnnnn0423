@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074806880300584960",
+        "3_2074806880300634112",
+        "3_2074806880623575040",
+        "3_2074806880296382464"
+      ],
+      "media_source_tweet_id": [
+        "2074806892409540807",
+        "2074806892409540807",
+        "2074806892409540807",
+        "2074806892409540807"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074819698697662537",
+    "created_at": "2026-07-08T11:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074819698697662537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738375202168532992",
+          "start": 3,
+          "username": "Wanzi5450"
+        },
+        {
+          "end": 34,
+          "id": "1854817785140199428",
+          "start": 21,
+          "username": "rainnnnn0423"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/duIA1HtY9h",
+          "end": 58,
+          "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+          "media_key": "3_2074806880300584960",
+          "start": 35,
+          "url": "https://t.co/duIA1HtY9h"
+        },
+        {
+          "display_url": "pic.x.com/duIA1HtY9h",
+          "end": 58,
+          "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+          "media_key": "3_2074806880300634112",
+          "start": 35,
+          "url": "https://t.co/duIA1HtY9h"
+        },
+        {
+          "display_url": "pic.x.com/duIA1HtY9h",
+          "end": 58,
+          "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+          "media_key": "3_2074806880623575040",
+          "start": 35,
+          "url": "https://t.co/duIA1HtY9h"
+        },
+        {
+          "display_url": "pic.x.com/duIA1HtY9h",
+          "end": 58,
+          "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+          "media_key": "3_2074806880296382464",
+          "start": 35,
+          "url": "https://t.co/duIA1HtY9h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074819698697662537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074806892409540807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wanzi5450: 和小雨🥰🥰🥰@rainnnnn0423 https://t.co/duIA1HtY9h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074806880300584960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsx3WXaUAAzAcR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2074806880300634112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsx3WXbEAAnG1j.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2074806880623575040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsx3XkawAAZK4o.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2074806880296382464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsx3WWaMAAfEAB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074806880300584960",
+            "3_2074806880300634112",
+            "3_2074806880623575040",
+            "3_2074806880296382464"
+          ],
+          "media_source_tweet_id": [
+            "2074806892409540807",
+            "2074806892409540807",
+            "2074806892409540807",
+            "2074806892409540807"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074819698697662537",
+        "created_at": "2026-07-08T11:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074819698697662537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738375202168532992",
+              "start": 3,
+              "username": "Wanzi5450"
+            },
+            {
+              "end": 34,
+              "id": "1854817785140199428",
+              "start": 21,
+              "username": "rainnnnn0423"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/duIA1HtY9h",
+              "end": 58,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+              "media_key": "3_2074806880300584960",
+              "start": 35,
+              "url": "https://t.co/duIA1HtY9h"
+            },
+            {
+              "display_url": "pic.x.com/duIA1HtY9h",
+              "end": 58,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+              "media_key": "3_2074806880300634112",
+              "start": 35,
+              "url": "https://t.co/duIA1HtY9h"
+            },
+            {
+              "display_url": "pic.x.com/duIA1HtY9h",
+              "end": 58,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+              "media_key": "3_2074806880623575040",
+              "start": 35,
+              "url": "https://t.co/duIA1HtY9h"
+            },
+            {
+              "display_url": "pic.x.com/duIA1HtY9h",
+              "end": 58,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+              "media_key": "3_2074806880296382464",
+              "start": 35,
+              "url": "https://t.co/duIA1HtY9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074819698697662537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074806892409540807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wanzi5450: 和小雨🥰🥰🥰@rainnnnn0423 https://t.co/duIA1HtY9h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074806880300584960",
+            "3_2074806880300634112",
+            "3_2074806880623575040",
+            "3_2074806880296382464"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074806892409540807",
+        "created_at": "2026-07-08T10:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074806892409540807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1854817785140199428",
+              "start": 6,
+              "username": "rainnnnn0423"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/duIA1HtY9h",
+              "end": 43,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+              "media_key": "3_2074806880300584960",
+              "start": 20,
+              "url": "https://t.co/duIA1HtY9h"
+            },
+            {
+              "display_url": "pic.x.com/duIA1HtY9h",
+              "end": 43,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+              "media_key": "3_2074806880300634112",
+              "start": 20,
+              "url": "https://t.co/duIA1HtY9h"
+            },
+            {
+              "display_url": "pic.x.com/duIA1HtY9h",
+              "end": 43,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+              "media_key": "3_2074806880623575040",
+              "start": 20,
+              "url": "https://t.co/duIA1HtY9h"
+            },
+            {
+              "display_url": "pic.x.com/duIA1HtY9h",
+              "end": 43,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074806892409540807/photo/1",
+              "media_key": "3_2074806880296382464",
+              "start": 20,
+              "url": "https://t.co/duIA1HtY9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074806892409540807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和小雨🥰🥰🥰@rainnnnn0423 https://t.co/duIA1HtY9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 655,
+          "like_count": 5928,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4887
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 357,
+          "like_count": 21647,
+          "listed_count": 0,
+          "media_count": 599,
+          "tweet_count": 4721
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

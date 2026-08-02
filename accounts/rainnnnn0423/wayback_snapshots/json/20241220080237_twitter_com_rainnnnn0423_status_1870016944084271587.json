@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1870016944084271587",
+    "created_at": "2024-12-20T08:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T09:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870016944084271587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangzhian8848/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/wangzhian8848/status/1869778079507493320",
+          "start": 6,
+          "url": "https://t.co/6OWSWX7V9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870016944084271587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869778079507493320",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我逗笑了 https://t.co/6OWSWX7V9n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1870016944084271587",
+        "created_at": "2024-12-20T08:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T09:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870016944084271587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangzhian8848/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/wangzhian8848/status/1869778079507493320",
+              "start": 6,
+              "url": "https://t.co/6OWSWX7V9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870016944084271587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869778079507493320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我逗笑了 https://t.co/6OWSWX7V9n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072109417200414720",
+        "conversation_id": "1869778079507493320",
+        "created_at": "2024-12-19T16:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T17:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869778079507493320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869778079507493320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 327711,
+          "like_count": 1606,
+          "quote_count": 13,
+          "reply_count": 274,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "今天又有人问我要不要帮我发币，我说发。\n\n名字叫什么局币王币都太陋了，名字我想好了，叫“人民币”。\n\n一切为了人民，人民有权利获益。这名字大气吧？\n\n对方吓得直哆嗦，说这个可能要被判死刑，走了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号不互粉 键政初学者&岁静人 本人口嗨不与观点100%相符",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 50,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 78
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "name": "王局志安",
+        "pinned_tweet_id": "1542817702275715072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304803,
+          "following_count": 639,
+          "like_count": 218,
+          "listed_count": 3531,
+          "media_count": 3405,
+          "tweet_count": 14126
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true
+      }
+    ]
+  }
+}

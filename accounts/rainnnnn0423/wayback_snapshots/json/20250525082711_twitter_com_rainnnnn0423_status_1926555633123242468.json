@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1926555633123242468",
+    "created_at": "2025-05-25T08:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T09:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926555633123242468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ppjiangjiang/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ppjiangjiang/status/1920681294607843591",
+          "start": 11,
+          "url": "https://t.co/km4Bg8vzvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926555633123242468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920681294607843591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯。所以我从来不备注 https://t.co/km4Bg8vzvZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1926555633123242468",
+        "created_at": "2025-05-25T08:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T09:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926555633123242468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ppjiangjiang/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ppjiangjiang/status/1920681294607843591",
+              "start": 11,
+              "url": "https://t.co/km4Bg8vzvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926555633123242468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920681294607843591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯。所以我从来不备注 https://t.co/km4Bg8vzvZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491828502886330368",
+        "conversation_id": "1920681294607843591",
+        "created_at": "2025-05-09T03:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T04:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920681294607843591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920681294607843591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 40096,
+          "like_count": 490,
+          "quote_count": 13,
+          "reply_count": 62,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "你闲得没事在名字后面备注他生日干嘛，你们能玩到那天吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 486,
+          "like_count": 2991,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 3617
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T17:37:35.000Z",
+        "description": "屁话大王嘟日记本^^小！抓！饱！@nekomeow_uu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "nekomeow_uu"
+              }
+            ]
+          }
+        },
+        "id": "1491828502886330368",
+        "name": "pp •ᴗ⁃͈ ✧",
+        "pinned_tweet_id": "1907007074858627180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916523979352993792/rGr54pz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 389,
+          "like_count": 52848,
+          "listed_count": 9,
+          "media_count": 1514,
+          "tweet_count": 11546
+        },
+        "username": "ppjiangjiang",
+        "verified": false
+      }
+    ]
+  }
+}

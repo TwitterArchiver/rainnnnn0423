@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1984138460723343675",
+    "created_at": "2025-10-31T06:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T07:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984138460723343675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pyke2076/statu…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/pyke2076/status/1984063473580700028",
+          "start": 145,
+          "url": "https://t.co/sTdhH67cjM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984138460723343675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984063473580700028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是否击杀熙雨以获得全部财产\n包括： \n※明日方舟通行证十箱\n※鸣潮，1999，原神，术力口等ip周边\n※cos服20套，假发20顶\n※ipad一个，内含色图\n※兔子一只，猫一只\n※高二沪教版教科书若干本&amp;一些od药物\n※我能给你的什么也没有\n击杀熙雨：Y      不击杀熙雨：N https://t.co/sTdhH67cjM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1984138460723343675",
+        "created_at": "2025-10-31T06:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T07:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984138460723343675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pyke2076/statu…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/pyke2076/status/1984063473580700028",
+              "start": 145,
+              "url": "https://t.co/sTdhH67cjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984138460723343675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984063473580700028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是否击杀熙雨以获得全部财产\n包括： \n※明日方舟通行证十箱\n※鸣潮，1999，原神，术力口等ip周边\n※cos服20套，假发20顶\n※ipad一个，内含色图\n※兔子一只，猫一只\n※高二沪教版教科书若干本&amp;一些od药物\n※我能给你的什么也没有\n击杀熙雨：Y      不击杀熙雨：N https://t.co/sTdhH67cjM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "1984063473580700028",
+        "created_at": "2025-10-31T01:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T02:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984063473580700028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dxm8964lxm/sta…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/dxm8964lxm/status/1983910946499334592",
+              "start": 89,
+              "url": "https://t.co/pu7l2a5jV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984063473580700028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 958,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983910946499334592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是否击杀Bunny以获得全部财产\n包括： \n※氰化钠氰化钾共计70g\n※猫猫兔肉（\n※鼠鼠小弟\n※各种麻醉品以及一堆危化品\n击杀Bunny：J       不击杀Bunny：N https://t.co/pu7l2a5jV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态风#昂宿六",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983897626530779136/J2LS7NoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 586,
+          "like_count": 4430,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 4128
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyke2077",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pyke2077",
+                "start": 0,
+                "url": "https://t.co/OVd42ruoYd"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8031,
+          "following_count": 1243,
+          "like_count": 62411,
+          "listed_count": 9,
+          "media_count": 2840,
+          "tweet_count": 16958
+        },
+        "url": "https://t.co/OVd42ruoYd",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

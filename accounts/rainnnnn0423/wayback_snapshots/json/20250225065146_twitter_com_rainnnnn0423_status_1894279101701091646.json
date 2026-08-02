@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894279101701091646",
+    "created_at": "2025-02-25T06:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T07:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894279101701091646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moYUDTIvNs6419…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/moYUDTIvNs64199/status/1893917875540283691",
+          "start": 5,
+          "url": "https://t.co/H0lga18Pkw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894279101701091646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893917875540283691",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ip瞩目 https://t.co/H0lga18Pkw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894279101701091646",
+        "created_at": "2025-02-25T06:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T07:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894279101701091646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moYUDTIvNs6419…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/moYUDTIvNs64199/status/1893917875540283691",
+              "start": 5,
+              "url": "https://t.co/H0lga18Pkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894279101701091646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893917875540283691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ip瞩目 https://t.co/H0lga18Pkw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847963434102747136",
+        "conversation_id": "1893917875540283691",
+        "created_at": "2025-02-24T06:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893917875540283691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NmsleseResearc…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/NmsleseResearch/status/1893885933981716691",
+              "start": 38,
+              "url": "https://t.co/MsgI2XzrVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893917875540283691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 15932,
+          "like_count": 254,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893885933981716691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又幻想了，虽然班上女生瞧不起我，但是我可以艹毛妹\n经典观察者网性压抑小鬼 https://t.co/MsgI2XzrVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 298,
+          "like_count": 1024,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1758
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T11:30:00.000Z",
+        "description": "十分期待，使用埃尔温·隆美尔头像与 id 的对手出现",
+        "id": "1847963434102747136",
+        "location": "广西，南宁一中，广西师范大学，南宁百货大楼打工仔",
+        "name": "沙漠之蝎·隆美尔拼尽全力都无法战胜的氰化钾",
+        "pinned_tweet_id": "1877581335038144975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885987421785083905/h17XFcym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5017,
+          "following_count": 676,
+          "like_count": 2888,
+          "listed_count": 11,
+          "media_count": 2693,
+          "tweet_count": 6297
+        },
+        "username": "moYUDTIvNs64199",
+        "verified": false
+      }
+    ]
+  }
+}

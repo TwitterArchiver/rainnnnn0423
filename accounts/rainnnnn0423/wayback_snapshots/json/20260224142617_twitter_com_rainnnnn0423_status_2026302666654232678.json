@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2026302666654232678",
+    "created_at": "2026-02-24T14:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026302666654232678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/muskinpingviru…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/muskinpingvirus/status/2025874262444114264",
+          "start": 9,
+          "url": "https://t.co/fFIsIEMPd1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026302666654232678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025874262444114264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我搜索记录被曝光 https://t.co/fFIsIEMPd1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1502,
+        "media_key": "3_2025874253539934208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1Z5mnbgAApDxT.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2026302666654232678",
+        "created_at": "2026-02-24T14:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026302666654232678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/muskinpingviru…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/muskinpingvirus/status/2025874262444114264",
+              "start": 9,
+              "url": "https://t.co/fFIsIEMPd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026302666654232678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025874262444114264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我搜索记录被曝光 https://t.co/fFIsIEMPd1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025874253539934208"
+          ]
+        },
+        "author_id": "1658468118497472514",
+        "conversation_id": "2025874262444114264",
+        "created_at": "2026-02-23T10:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025874262444114264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFM10Nl80b",
+              "end": 30,
+              "expanded_url": "https://x.com/muskinpingvirus/status/2025874262444114264/photo/1",
+              "media_key": "3_2025874253539934208",
+              "start": 7,
+              "url": "https://t.co/HFM10Nl80b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025874262444114264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 444286,
+          "like_count": 2492,
+          "quote_count": 24,
+          "reply_count": 157,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症好惨😢 https://t.co/HFM10Nl80b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 609,
+          "like_count": 4966,
+          "listed_count": 4,
+          "media_count": 334,
+          "tweet_count": 4503
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T13:43:22.000Z",
+        "description": "😭马大人我错了我再不有事没事切节点玩了您摇了我吧",
+        "id": "1658468118497472514",
+        "name": "凉拌见手青（😭推友寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996087803013464065/sXAZKmSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 719,
+          "like_count": 6917,
+          "listed_count": 6,
+          "media_count": 838,
+          "tweet_count": 4102
+        },
+        "username": "muskinpingvirus",
+        "verified": false
+      }
+    ]
+  }
+}

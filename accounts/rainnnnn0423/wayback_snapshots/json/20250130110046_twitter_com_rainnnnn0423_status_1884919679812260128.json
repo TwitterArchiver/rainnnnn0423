@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884919679812260128",
+    "created_at": "2025-01-30T11:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T12:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884919679812260128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JFrohmans/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/JFrohmans/status/1884621089734815976",
+          "start": 12,
+          "url": "https://t.co/8CM1FqoQAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884919679812260128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884621089734815976",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "符合我对网左刻板印象😂 https://t.co/8CM1FqoQAn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884919679812260128",
+        "created_at": "2025-01-30T11:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T12:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884919679812260128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JFrohmans/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/JFrohmans/status/1884621089734815976",
+              "start": 12,
+              "url": "https://t.co/8CM1FqoQAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884919679812260128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884621089734815976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "符合我对网左刻板印象😂 https://t.co/8CM1FqoQAn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501533589418045443",
+        "conversation_id": "1884621089734815976",
+        "created_at": "2025-01-29T15:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T16:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884621089734815976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884621089734815976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2417,
+          "like_count": 73,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "左圈来个女的就被当燕妮众星捧月，说啥话都被龟左男热捧，要不要太搞笑了😹没有一个无辜的😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主半夜睡不着bb的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 217,
+          "like_count": 460,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 769
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-09T12:21:49.000Z",
+        "description": "不率先使用Zword武器。\n我一直很温和友好呀🥺，但是我也有脾气哦。😈",
+        "id": "1501533589418045443",
+        "location": "魔鼠废都",
+        "name": "大角鼠🐀",
+        "pinned_tweet_id": "1686821067149697024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686821897227657216/31CiYLIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 2015,
+          "like_count": 147966,
+          "listed_count": 7,
+          "media_count": 562,
+          "tweet_count": 9711
+        },
+        "username": "JFrohmans",
+        "verified": false
+      }
+    ]
+  }
+}

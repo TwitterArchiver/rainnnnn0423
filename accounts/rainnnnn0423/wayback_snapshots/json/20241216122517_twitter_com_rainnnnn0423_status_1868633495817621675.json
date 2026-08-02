@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1868633495817621675",
+    "created_at": "2024-12-16T12:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T13:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868633495817621675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1868617458241949994",
+          "start": 6,
+          "url": "https://t.co/U5vGFE5cgI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868633495817621675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868617458241949994",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "毛病一样的 https://t.co/U5vGFE5cgI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1868633495817621675",
+        "created_at": "2024-12-16T12:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T13:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868633495817621675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1868617458241949994",
+              "start": 6,
+              "url": "https://t.co/U5vGFE5cgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868633495817621675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868617458241949994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "毛病一样的 https://t.co/U5vGFE5cgI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868617423789924353",
+            "3_1868617423798345728"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1868617458241949994",
+        "created_at": "2024-12-16T11:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T12:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868617458241949994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjfwLLwMra",
+              "end": 64,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1868617458241949994/photo/1",
+              "media_key": "3_1868617423789924353",
+              "start": 41,
+              "url": "https://t.co/hjfwLLwMra"
+            },
+            {
+              "display_url": "pic.x.com/hjfwLLwMra",
+              "end": 64,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1868617458241949994/photo/1",
+              "media_key": "3_1868617423798345728",
+              "start": 41,
+              "url": "https://t.co/hjfwLLwMra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868617458241949994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 129868,
+          "like_count": 1130,
+          "quote_count": 32,
+          "reply_count": 210,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "12月16日(发布) 网曝成都石室成象中学，学生食堂设为普通就餐区和学霸就餐区。 https://t.co/hjfwLLwMra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号不互粉 键政初学者&岁静人",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 63
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873070,
+          "following_count": 932,
+          "like_count": 5517,
+          "listed_count": 8027,
+          "media_count": 20371,
+          "tweet_count": 26597
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

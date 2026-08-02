@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1891296825396609434",
+    "created_at": "2025-02-17T01:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T02:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891296825396609434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1891278659681431564",
+          "start": 47,
+          "url": "https://t.co/SbUEHkV3BK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891296825396609434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891278659681431564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高中生早六这种极端泯灭人性的酷刑和上班族996一样，都是极度榨取人矿价值，毕竟我们是消耗品。 https://t.co/SbUEHkV3BK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891296825396609434",
+        "created_at": "2025-02-17T01:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T02:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891296825396609434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1891278659681431564",
+              "start": 47,
+              "url": "https://t.co/SbUEHkV3BK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891296825396609434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891278659681431564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高中生早六这种极端泯灭人性的酷刑和上班族996一样，都是极度榨取人矿价值，毕竟我们是消耗品。 https://t.co/SbUEHkV3BK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1891278659681431564",
+        "created_at": "2025-02-17T00:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T01:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891278659681431564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891278659681431564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好恶心好恶心好恶心好恶心\n第一天开学大家精神状态都不怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 241,
+          "like_count": 748,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1302
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

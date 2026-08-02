@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896206091786334436",
+    "created_at": "2025-03-03T09:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T10:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896489054428131824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647904361778122752",
+          "start": 0,
+          "username": "Maferccaxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896489054428131824",
+    "in_reply_to_user_id": "1647904361778122752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896206091786334436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maferccaxxx 有没有集美版的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2100,
+        "media_key": "3_1896206042255732736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlCtWVGaMAAxpIS.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896206091786334436",
+        "created_at": "2025-03-03T09:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896489054428131824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647904361778122752",
+              "start": 0,
+              "username": "Maferccaxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896489054428131824",
+        "in_reply_to_user_id": "1647904361778122752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896206091786334436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maferccaxxx 有没有集美版的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896206042255732736"
+          ]
+        },
+        "author_id": "1647904361778122752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896206091786334436",
+        "created_at": "2025-03-02T14:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T15:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896206091786334436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/13lDzVEjE6",
+              "end": 42,
+              "expanded_url": "https://x.com/Maferccaxxx/status/1896206091786334436/photo/1",
+              "media_key": "3_1896206042255732736",
+              "start": 19,
+              "url": "https://t.co/13lDzVEjE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896206091786334436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 61761,
+          "like_count": 489,
+          "quote_count": 19,
+          "reply_count": 89,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "给你15分你能缝合出什么样的玩网贵物 https://t.co/13lDzVEjE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑包蜜",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 329,
+          "like_count": 1210,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2006
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T10:06:47.000Z",
+        "description": "注定被遗忘者",
+        "id": "1647904361778122752",
+        "location": "桥洞",
+        "name": "玛菲卡回归现实",
+        "pinned_tweet_id": "1718487677660766249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681634803249221632/HWIVAmlR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3227,
+          "following_count": 721,
+          "like_count": 2361,
+          "listed_count": 17,
+          "media_count": 281,
+          "tweet_count": 2062
+        },
+        "username": "Maferccaxxx",
+        "verified": false
+      }
+    ]
+  }
+}

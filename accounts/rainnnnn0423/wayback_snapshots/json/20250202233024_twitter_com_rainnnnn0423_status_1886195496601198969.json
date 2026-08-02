@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1886040388592697420",
+    "created_at": "2025-02-02T23:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T00:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886195496601198969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836782122037874688",
+          "start": 0,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886195496601198969",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886194148505690382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio1738468 线下玩法就不同了，聚会谁限那个三分钟啊，按plq的思路就好。\n我玩的应该是官方软件，appleid切美区直接搜的uno，能和全球网友匹配。数字牌扣分少功能牌扣分很多，我运气不好打40倍场一把能输几千金币。😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886040388592697420",
+        "created_at": "2025-02-02T23:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T00:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886195496601198969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836782122037874688",
+              "start": 0,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886195496601198969",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886194148505690382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio1738468 线下玩法就不同了，聚会谁限那个三分钟啊，按plq的思路就好。\n我玩的应该是官方软件，appleid切美区直接搜的uno，能和全球网友匹配。数字牌扣分少功能牌扣分很多，我运气不好打40倍场一把能输几千金币。😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886040388592697420",
+        "created_at": "2025-02-02T23:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T00:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886194148505690382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836782122037874688",
+              "start": 0,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886194148505690382",
+        "in_reply_to_user_id": "1836782122037874688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886040388592697420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio1738468 看你打线上还是线下局。线上一局三分钟限时，要是手里功能牌捂着没打出去就结算了，那输了的金币都得爆给赢家。我过年从一万多金币输到破产了给我气的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 229,
+          "like_count": 593,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 922
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/清水推/🚪20好友位/50纯绿陪聊/粥批接代打/紫菜小号@jingyu14369 /谢谢你和我一起玩，我会记得你😽/手作围巾长期有售/奇怪的人私信前请过门，否则不予回复",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "jingyu14369"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1877205095386939593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4360,
+          "following_count": 490,
+          "like_count": 11306,
+          "listed_count": 6,
+          "media_count": 951,
+          "tweet_count": 8719
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

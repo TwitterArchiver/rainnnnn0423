@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1899471979935404417",
+    "created_at": "2025-03-11T14:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T15:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899471979935404417"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1899471979935404417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我之前一直觉得我朋友精神病比我严重多了 数值反馈常年处于慢性高压力状态\n后面我发现我感受不到压力数据也比较正常 是解离干的 所以中度解离我已经不满足了，加速！解离是把双刃剑对我有很大的伤害也有很大的功劳，不如加以引导扬长避短。我学那么多也不是白学的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1899471979935404417",
+        "created_at": "2025-03-11T14:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T15:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899471979935404417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899471979935404417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前一直觉得我朋友精神病比我严重多了 数值反馈常年处于慢性高压力状态\n后面我发现我感受不到压力数据也比较正常 是解离干的 所以中度解离我已经不满足了，加速！解离是把双刃剑对我有很大的伤害也有很大的功劳，不如加以引导扬长避短。我学那么多也不是白学的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博树洞🗑偷着键政 写点什么留下存在过的痕迹",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 363,
+          "like_count": 1459,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2372
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

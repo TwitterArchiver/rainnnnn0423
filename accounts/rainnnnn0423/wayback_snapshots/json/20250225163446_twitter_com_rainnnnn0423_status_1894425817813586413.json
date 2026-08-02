@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1894402506694037609",
+    "created_at": "2025-02-25T16:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T17:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894425817813586413"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1894425817813586413",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894423764890534291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好搞笑，半夜脑子不清楚一开始把嫁妆打成彩礼了。\n今天晚上有互关和我表白。我sj他推特sj了一晚上因为看两条傻逼马斯克家的傻逼前端就回到开头了我重新划拉了有十几遍。皮下底子还可以，我在考虑要不要把他调成符合我口味的样子。我至少理论知识丰富\n哎，我还是不想辜负别人的心意啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894402506694037609",
+        "created_at": "2025-02-25T16:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T17:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894425817813586413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894425817813586413",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894423764890534291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好搞笑，半夜脑子不清楚一开始把嫁妆打成彩礼了。\n今天晚上有互关和我表白。我sj他推特sj了一晚上因为看两条傻逼马斯克家的傻逼前端就回到开头了我重新划拉了有十几遍。皮下底子还可以，我在考虑要不要把他调成符合我口味的样子。我至少理论知识丰富\n哎，我还是不想辜负别人的心意啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1894402506694037609",
+        "created_at": "2025-02-25T16:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T17:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894423764890534291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894423764890534291",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894402506694037609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎。为什么我自我定位是泛而不是双呢？从小我就很反感我妈说给你攒嫁妆，还有让我别窝在家里找个小男友吧这种定式思维，我就直接说妈我喜欢女人。\n大多数妹子喜欢肌肉男或者很man的什么的，而我喜欢的是带把的女的不好意思。然后我骂猪头肉mtf实在是伤害到我眼睛了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 299,
+          "like_count": 1056,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1812
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

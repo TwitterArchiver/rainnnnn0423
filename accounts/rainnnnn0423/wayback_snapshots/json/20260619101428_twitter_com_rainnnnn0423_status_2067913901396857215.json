@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067905077889933312"
+      ],
+      "media_source_tweet_id": [
+        "2067905387391856806"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067913901396857215",
+    "created_at": "2026-06-19T10:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067913901396857215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1985030184379273216",
+          "start": 3,
+          "username": "outcast7outcast"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9bBi5sIf5",
+          "end": 60,
+          "expanded_url": "https://x.com/outcast7outcast/status/2067905387391856806/video/1",
+          "media_key": "13_2067905077889933312",
+          "start": 37,
+          "url": "https://t.co/L9bBi5sIf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067913901396857215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067905387391856806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @outcast7outcast: 等我找到机会一定给你们全都杀了 https://t.co/L9bBi5sIf5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93971,
+        "height": 1200,
+        "media_key": "13_2067905077889933312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067905077889933312/img/A-SQX0niQryENLPl.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067905077889933312/vid/avc1/360x270/HtEY0KWtsqtXN_l5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067905077889933312/vid/avc1/480x360/7jlpaFRcRjA79MPA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067905077889933312/vid/avc1/960x720/AwmPsylLqOiaNHS7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067905077889933312/pl/-wQijyvzvC6qicuY.m3u8?tag=14"
+          }
+        ],
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067905077889933312"
+          ],
+          "media_source_tweet_id": [
+            "2067905387391856806"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067913901396857215",
+        "created_at": "2026-06-19T10:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067913901396857215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1985030184379273216",
+              "start": 3,
+              "username": "outcast7outcast"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9bBi5sIf5",
+              "end": 60,
+              "expanded_url": "https://x.com/outcast7outcast/status/2067905387391856806/video/1",
+              "media_key": "13_2067905077889933312",
+              "start": 37,
+              "url": "https://t.co/L9bBi5sIf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067913901396857215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067905387391856806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @outcast7outcast: 等我找到机会一定给你们全都杀了 https://t.co/L9bBi5sIf5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067905077889933312"
+          ]
+        },
+        "author_id": "1985030184379273216",
+        "conversation_id": "2067905387391856806",
+        "created_at": "2026-06-19T09:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067905387391856806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9bBi5sIf5",
+              "end": 39,
+              "expanded_url": "https://x.com/outcast7outcast/status/2067905387391856806/video/1",
+              "media_key": "13_2067905077889933312",
+              "start": 16,
+              "url": "https://t.co/L9bBi5sIf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067905387391856806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "等我找到机会一定给你们全都杀了 https://t.co/L9bBi5sIf5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 649,
+          "like_count": 5801,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4850
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T17:04:11.000Z",
+        "description": "",
+        "id": "1985030184379273216",
+        "location": "LIMBO",
+        "name": "我不懂他們都為啥要討厭我",
+        "pinned_tweet_id": "2012500896245051627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022397321900875776/zjyRNC_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 92,
+          "like_count": 3101,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 521
+        },
+        "url": "",
+        "username": "outcast7outcast",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1878713185840345480",
+    "created_at": "2025-01-13T07:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T08:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878713519040061818"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1878713519040061818",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878713185840345480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一窝品种猫都是富贵命，生下来就被人好吃好喝宠着，那贱命的呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1878713185840345480",
+        "created_at": "2025-01-13T07:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T08:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878713519040061818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878713519040061818",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878713185840345480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一窝品种猫都是富贵命，生下来就被人好吃好喝宠着，那贱命的呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1878713185840345480",
+        "created_at": "2025-01-13T07:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T08:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878713185840345480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878713185840345480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接上条。我家猫发情过一次就绝育了，没让它配种生小猫的打算。猫妈妈生它那一窝的时候，我去邻居家里挑要哪只小猫，我看到猫妈妈生完之后还要带孩子其实挺憔悴的。猫也一样人也一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 160,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 322
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

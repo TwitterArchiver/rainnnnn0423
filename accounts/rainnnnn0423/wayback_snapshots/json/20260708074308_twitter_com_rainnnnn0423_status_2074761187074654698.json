@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2074761187074654698",
+    "created_at": "2026-07-08T07:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074761187074654698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wanzi5450/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Wanzi5450/status/2074760990114406651",
+          "start": 4,
+          "url": "https://t.co/b12LHVeIJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074761187074654698",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074760990114406651",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🙀🙀🙀 https://t.co/b12LHVeIJI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51680,
+        "height": 1280,
+        "media_key": "13_2074760894387830784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074760894387830784/img/xap_cIgFW8QBMTxc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074760894387830784/vid/avc1/320x568/50xqGDAzUjSue8Vb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074760894387830784/vid/avc1/480x852/QMNAh2tI5TfAlVM8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074760894387830784/vid/avc1/720x1280/qZjXi3wcJlF0wd4Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074760894387830784/pl/ZCi6d-t2FAyD6kWl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2074761187074654698",
+        "created_at": "2026-07-08T07:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074761187074654698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wanzi5450/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Wanzi5450/status/2074760990114406651",
+              "start": 4,
+              "url": "https://t.co/b12LHVeIJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074761187074654698",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074760990114406651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🙀🙀🙀 https://t.co/b12LHVeIJI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074760894387830784"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2074760990114406651",
+        "created_at": "2026-07-08T07:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074760990114406651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1854817785140199428",
+              "start": 5,
+              "username": "rainnnnn0423"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwLIwcq9xL",
+              "end": 42,
+              "expanded_url": "https://x.com/Wanzi5450/status/2074760990114406651/video/1",
+              "media_key": "13_2074760894387830784",
+              "start": 19,
+              "url": "https://t.co/SwLIwcq9xL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074760990114406651",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "with @rainnnnn0423 https://t.co/SwLIwcq9xL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 653,
+          "like_count": 5921,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4884
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好\n08/od/sh\n@zxndkbb 只过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zxndkbb"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2073399176994697257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 356,
+          "like_count": 21611,
+          "listed_count": 0,
+          "media_count": 597,
+          "tweet_count": 4716
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

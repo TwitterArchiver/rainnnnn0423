@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1905767966941307148",
+    "created_at": "2025-03-28T23:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T00:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905767966941307148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1894777318121537536",
+          "start": 3,
+          "username": "634LIVINLIMBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905767966941307148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905480027120054344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @634LIVINLIMBO: 我也经常陷入这种状态，大部分时候是因为真正想聊天的那个人不在导致的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1905767966941307148",
+        "created_at": "2025-03-28T23:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T00:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905767966941307148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1894777318121537536",
+              "start": 3,
+              "username": "634LIVINLIMBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905767966941307148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905480027120054344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @634LIVINLIMBO: 我也经常陷入这种状态，大部分时候是因为真正想聊天的那个人不在导致的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894777318121537536",
+        "conversation_id": "1905480027120054344",
+        "created_at": "2025-03-28T04:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T05:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905480027120054344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AmongQAQ/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/AmongQAQ/status/1904864844194746386",
+              "start": 34,
+              "url": "https://t.co/q93KtGwXtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905480027120054344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904864844194746386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也经常陷入这种状态，大部分时候是因为真正想聊天的那个人不在导致的 https://t.co/q93KtGwXtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高，忙了偶尔上推 最近msk又炸我私信箱一直打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 386,
+          "like_count": 1670,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2701
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T15:51:41.000Z",
+        "description": "634 woes",
+        "id": "1894777318121537536",
+        "name": "6orn3MO4ever",
+        "pinned_tweet_id": "1897904981270786466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895016445601296384/3epZh_ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 399,
+          "like_count": 4753,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 999
+        },
+        "username": "634LIVINLIMBO",
+        "verified": false
+      }
+    ]
+  }
+}

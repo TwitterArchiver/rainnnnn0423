@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1914473569251434972",
+    "created_at": "2025-04-22T00:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T01:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914473569251434972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1770600121778233344",
+          "start": 3,
+          "username": "hasbeentaken99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914473569251434972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914229907552653529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hasbeentaken99: 这件事情让我意识到性缘脑有多害人 在浪漫面前道德人性公平对他人造成的伤害都是可以被忽视的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1914473569251434972",
+        "created_at": "2025-04-22T00:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T01:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914473569251434972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1770600121778233344",
+              "start": 3,
+              "username": "hasbeentaken99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914473569251434972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914229907552653529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hasbeentaken99: 这件事情让我意识到性缘脑有多害人 在浪漫面前道德人性公平对他人造成的伤害都是可以被忽视的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770600121778233344",
+        "conversation_id": "1914229907552653529",
+        "created_at": "2025-04-21T08:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914229907552653529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/macpook_bro/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/macpook_bro/status/1913942966705770794",
+              "start": 46,
+              "url": "https://t.co/ETYfze6rtH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914229907552653529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 45303,
+          "like_count": 471,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913942966705770794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这件事情让我意识到性缘脑有多害人 在浪漫面前道德人性公平对他人造成的伤害都是可以被忽视的… https://t.co/ETYfze6rtH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 438,
+          "like_count": 2163,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 3219
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T23:55:51.000Z",
+        "description": "自我意识过剩｜来这发点墙内不能发的｜认出勿扰｜没门槛因为没门",
+        "id": "1770600121778233344",
+        "name": "幻想试验箱",
+        "pinned_tweet_id": "1778699600121221334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842251347380649984/o1g5CsD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33329,
+          "following_count": 98,
+          "like_count": 6095,
+          "listed_count": 27,
+          "media_count": 130,
+          "tweet_count": 6315
+        },
+        "username": "hasbeentaken99",
+        "verified": false
+      }
+    ]
+  }
+}

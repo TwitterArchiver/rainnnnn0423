@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893657140457287886",
+    "created_at": "2025-02-23T13:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T14:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893659110047883394"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1893659110047883394",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893657140457287886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "使用例见引用推文。我不是傻逼我不会乱使用。唯一标准就是惹我。学校惹我了所以我天天跟老师茶言茶语说我精神病严重影响生活但是我特别坚强一直在努力生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893657140457287886",
+        "created_at": "2025-02-23T13:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T14:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893659110047883394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893659110047883394",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893657140457287886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "使用例见引用推文。我不是傻逼我不会乱使用。唯一标准就是惹我。学校惹我了所以我天天跟老师茶言茶语说我精神病严重影响生活但是我特别坚强一直在努力生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893657140457287886",
+        "created_at": "2025-02-23T13:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T14:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893657140457287886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1893578063310725417",
+              "start": 144,
+              "url": "https://t.co/QKmLjyWc6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893657140457287886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893578063310725417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸说别给自己贴标签，求你了要不换你ptsd闪回到头撞学校墙，幻觉解离在学校里吐，眼花得字都打不清楚，记忆丧失到生活困难，工作的时候会极端焦虑发作，时间空间感扭曲，每天入睡前心脏不适翻来覆去睡不着？\n“标签”我写过很多次了：标签是把双刃剑，对我不利的标签我早撕掉了 我贴这个是给自己套盾 https://t.co/QKmLjyWc6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 282,
+          "like_count": 957,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1625
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

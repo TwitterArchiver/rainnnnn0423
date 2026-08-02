@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1883981298399862968",
+    "created_at": "2025-01-27T20:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T21:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883981298399862968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/honhon_MaoMao/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/honhon_MaoMao/status/1822909889057825230",
+          "start": 5,
+          "url": "https://t.co/74tr7j0SoB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883981298399862968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822909889057825230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "俺不中嘞 https://t.co/74tr7j0SoB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1883981298399862968",
+        "created_at": "2025-01-27T20:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T21:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883981298399862968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/honhon_MaoMao/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/honhon_MaoMao/status/1822909889057825230",
+              "start": 5,
+              "url": "https://t.co/74tr7j0SoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883981298399862968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822909889057825230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俺不中嘞 https://t.co/74tr7j0SoB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822589634280656896"
+          ]
+        },
+        "author_id": "1655860389899550721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1822909889057825230",
+        "created_at": "2024-08-12T08:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T09:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822909889057825230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbiyS6E6MJ",
+              "end": 27,
+              "expanded_url": "https://x.com/honhon_MaoMao/status/1822909889057825230/photo/1",
+              "media_key": "3_1822589634280656896",
+              "start": 4,
+              "url": "https://t.co/lbiyS6E6MJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822909889057825230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 26411,
+          "like_count": 188,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "习近平 https://t.co/lbiyS6E6MJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 如果看到我半夜大量发推那就是我玉米症犯了。",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 210,
+          "like_count": 362,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 693
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T09:01:05.000Z",
+        "description": "日本账号→@honhonMAOMAO\n\n🇯🇵我是日本人17歳♀\n\n好きな人は毛沢東です！毛沢東ガチ恋勢　⚠️同嫁拒否\n我最爱的人是毛泽东！\n毛泽东是世界上最可爱的人❤️🩷💞\n\n🔞性的つぶやき有\n\n没有任何政治目的！！！\n我没有侮辱他！！！\n\n我不会说中文😭\n我总是使用翻译😭\n妹→@bikabaka12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "honhonMAOMAO"
+              },
+              {
+                "end": 151,
+                "start": 140,
+                "username": "bikabaka12"
+              }
+            ]
+          }
+        },
+        "id": "1655860389899550721",
+        "location": "日本",
+        "name": "🇯🇵毛红红@💖毛沢東夢女子💖　❤🇨🇳🌞😺❤　💖毛泽东梦女💖⚠️毛泽东同担拒否⚠️",
+        "pinned_tweet_id": "1871949024288194762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765005343187488768/FYkv7P1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8986,
+          "following_count": 8134,
+          "like_count": 33311,
+          "listed_count": 13,
+          "media_count": 1238,
+          "tweet_count": 16951
+        },
+        "username": "honhon_MaoMao",
+        "verified": false
+      }
+    ]
+  }
+}

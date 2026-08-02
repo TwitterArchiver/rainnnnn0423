@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1872497773108707653",
+    "created_at": "2024-12-27T04:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T05:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872497773108707653"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "鈴代紗弓"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1237586987969687555",
+          "start": 3,
+          "username": "Blue_ArchiveJP"
+        },
+        {
+          "end": 119,
+          "id": "1237586987969687555",
+          "start": 104,
+          "username": "Blue_ArchiveJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872497773108707653",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36144
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872205718738321879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blue_ArchiveJP: 【フォロー&amp;RPキャンペーン】\nTVCM放送記念🎉\n抽選で2名様に『ノア(パジャマ)役 #鈴代紗弓 さん直筆サイン入りポストカード』をプレゼント🎁\n\n参加方法\n@Blue_ArchiveJPをフォロー\nこのポストをRP\n締め切り:2025…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1872497773108707653",
+        "created_at": "2024-12-27T04:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T05:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872497773108707653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "鈴代紗弓"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1237586987969687555",
+              "start": 3,
+              "username": "Blue_ArchiveJP"
+            },
+            {
+              "end": 119,
+              "id": "1237586987969687555",
+              "start": 104,
+              "username": "Blue_ArchiveJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872497773108707653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36144
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872205718738321879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blue_ArchiveJP: 【フォロー&amp;RPキャンペーン】\nTVCM放送記念🎉\n抽選で2名様に『ノア(パジャマ)役 #鈴代紗弓 さん直筆サイン入りポストカード』をプレゼント🎁\n\n参加方法\n@Blue_ArchiveJPをフォロー\nこのポストをRP\n締め切り:2025…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237586987969687555",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1872205718738321879",
+        "created_at": "2024-12-26T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872205718738321879"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "鈴代紗弓"
+            },
+            {
+              "end": 181,
+              "start": 176,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 99,
+              "id": "1237586987969687555",
+              "start": 84,
+              "username": "Blue_ArchiveJP"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Yostarより好評配信中のアプリゲーム「ブルーアーカイブ」のノア(パジャマ)のPVです。公式サイト:https://bluearchive.jp/公式X(旧Twitter):https://twitter.com/Blue_ArchiveJP▼アプリダウンロードはこちら▼https://bit.ly/3lsu1...",
+              "display_url": "youtu.be/NA6mn4qoq6c",
+              "end": 174,
+              "expanded_url": "https://youtu.be/NA6mn4qoq6c",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1872205763424530432/RyqYIDA8?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1872205763424530432/RyqYIDA8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 151,
+              "status": 200,
+              "title": "【ブルアカ】ノア(パジャマ) PV",
+              "unwound_url": "https://www.youtube.com/watch?v=NA6mn4qoq6c&feature=youtu.be",
+              "url": "https://t.co/49YECCW9M1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872205718738321879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 719620,
+          "like_count": 19174,
+          "quote_count": 47,
+          "reply_count": 99,
+          "retweet_count": 36144
+        },
+        "reply_settings": "everyone",
+        "text": "【フォロー&amp;RPキャンペーン】\nTVCM放送記念🎉\n抽選で2名様に『ノア(パジャマ)役 #鈴代紗弓 さん直筆サイン入りポストカード』をプレゼント🎁\n\n参加方法\n@Blue_ArchiveJPをフォロー\nこのポストをRP\n締め切り:2025年1月7日(火) 23:59まで\n\n▼ノア(パジャマ)\nhttps://t.co/49YECCW9M1\n\n#ブルアカ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号不互粉 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 81,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 153
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-11T03:51:59.000Z",
+        "description": "Yostar&NEXON Gamesが贈る学園×青春×物語RPGアプリ『ブルーアーカイブ 』公式X (旧Twitter)です。 ゲーム内最新情報やキヴォトスの出来事などを、私、アロナがお届けします！お問い合わせ・ご要望はこちら：https://t.co/Q6PjW5sPv4 #ブルアカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "ブルアカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3t88nyr",
+                "end": 137,
+                "expanded_url": "http://bit.ly/3t88nyr",
+                "start": 114,
+                "url": "https://t.co/Q6PjW5sPv4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.jp",
+                "end": 23,
+                "expanded_url": "https://bluearchive.jp/",
+                "start": 0,
+                "url": "https://t.co/q9A85kcKI3"
+              }
+            ]
+          }
+        },
+        "id": "1237586987969687555",
+        "location": "シッテムの箱",
+        "name": "ブルーアーカイブ公式",
+        "pinned_tweet_id": "1871028143236248021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686315947550965760/9JfkH8rT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245911,
+          "following_count": 153,
+          "like_count": 669,
+          "listed_count": 6895,
+          "media_count": 3619,
+          "tweet_count": 5574
+        },
+        "url": "https://t.co/q9A85kcKI3",
+        "username": "Blue_ArchiveJP",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2068864578386276718",
+    "created_at": "2026-06-22T01:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068864578386276718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NL8526/status/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/NL8526/status/2068691203852476639",
+          "start": 22,
+          "url": "https://t.co/zKbTDTqg8Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068864578386276718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068691203852476639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没打过架，因为体力比较弱鸡所以避免该活动 https://t.co/zKbTDTqg8Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2068690432817876992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV2_P5b0AA7qxJ.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2068864578386276718",
+        "created_at": "2026-06-22T01:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068864578386276718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/NL8526/status/2068691203852476639",
+              "start": 22,
+              "url": "https://t.co/zKbTDTqg8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068864578386276718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068691203852476639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没打过架，因为体力比较弱鸡所以避免该活动 https://t.co/zKbTDTqg8Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068690432817876992"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2068691203852476639",
+        "created_at": "2026-06-21T13:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:40:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068690435124670912",
+          "2068691203852476639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3D49HPl22F",
+              "end": 37,
+              "expanded_url": "https://x.com/NL8526/status/2068691203852476639/photo/1",
+              "media_key": "3_2068690432817876992",
+              "start": 14,
+              "url": "https://t.co/3D49HPl22F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068691203852476639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4849,
+          "like_count": 15,
+          "quote_count": 18,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "35678 我是好学生嘛😌 https://t.co/3D49HPl22F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 649,
+          "like_count": 5822,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4860
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 842,
+          "like_count": 17842,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

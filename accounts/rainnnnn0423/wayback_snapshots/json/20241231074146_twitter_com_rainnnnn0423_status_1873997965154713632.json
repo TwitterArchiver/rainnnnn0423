@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1873997965154713632",
+    "created_at": "2024-12-31T07:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T08:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873997965154713632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaojingcanxue…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/xiaojingcanxue/status/1873868773926854782",
+          "start": 6,
+          "url": "https://t.co/jgb06WBPUR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873997965154713632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873868773926854782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幸存者偏差 https://t.co/jgb06WBPUR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1873997965154713632",
+        "created_at": "2024-12-31T07:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T08:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873997965154713632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaojingcanxue…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/xiaojingcanxue/status/1873868773926854782",
+              "start": 6,
+              "url": "https://t.co/jgb06WBPUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873997965154713632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873868773926854782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幸存者偏差 https://t.co/jgb06WBPUR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873868768272932868",
+            "3_1873868768306487299",
+            "3_1873868768306487298",
+            "3_1873868768352624640"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "1873868773926854782",
+        "created_at": "2024-12-30T23:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T00:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873868773926854782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w40z77zrfd",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1873868773926854782/photo/1",
+              "media_key": "3_1873868768272932868",
+              "start": 11,
+              "url": "https://t.co/w40z77zrfd"
+            },
+            {
+              "display_url": "pic.x.com/w40z77zrfd",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1873868773926854782/photo/1",
+              "media_key": "3_1873868768306487299",
+              "start": 11,
+              "url": "https://t.co/w40z77zrfd"
+            },
+            {
+              "display_url": "pic.x.com/w40z77zrfd",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1873868773926854782/photo/1",
+              "media_key": "3_1873868768306487298",
+              "start": 11,
+              "url": "https://t.co/w40z77zrfd"
+            },
+            {
+              "display_url": "pic.x.com/w40z77zrfd",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1873868773926854782/photo/1",
+              "media_key": "3_1873868768352624640",
+              "start": 11,
+              "url": "https://t.co/w40z77zrfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873868773926854782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 222410,
+          "like_count": 986,
+          "quote_count": 35,
+          "reply_count": 199,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "真诚的感恩中式教育。 https://t.co/w40z77zrfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 112,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 206
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228089,
+          "following_count": 1843,
+          "like_count": 188,
+          "listed_count": 1191,
+          "media_count": 23933,
+          "tweet_count": 30918
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

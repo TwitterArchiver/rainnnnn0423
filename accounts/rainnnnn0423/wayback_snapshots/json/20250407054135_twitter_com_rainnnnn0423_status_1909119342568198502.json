@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1909119342568198502",
+    "created_at": "2025-04-07T05:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T06:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909119342568198502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_AkitaYura/sta…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/_AkitaYura/status/1900036988906229884",
+          "start": 28,
+          "url": "https://t.co/d0F3yt3INe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909119342568198502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900036988906229884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是为什么我在做避雨小屋的企划 做得我都快did了😅 https://t.co/d0F3yt3INe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1909119342568198502",
+        "created_at": "2025-04-07T05:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909119342568198502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_AkitaYura/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/_AkitaYura/status/1900036988906229884",
+              "start": 28,
+              "url": "https://t.co/d0F3yt3INe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909119342568198502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900036988906229884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是为什么我在做避雨小屋的企划 做得我都快did了😅 https://t.co/d0F3yt3INe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764856941151596549",
+        "conversation_id": "1900036988906229884",
+        "created_at": "2025-03-13T04:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T05:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900036988906229884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900036988906229884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好希望自己可以永远沉浸在一个幻想的世界里，我完全不想睁开眼睛思考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 412,
+          "like_count": 1870,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 2922
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "短发棕毛假小子🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控🐱|\n▫️姐姐@Sugita_Midoriko💗\n▫️叶子@fallenleavesw😽\n▫️青@qingshixiang258😺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "Sugita_Midoriko"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "qingshixiang258"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1908920859651342567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 641,
+          "like_count": 40236,
+          "listed_count": 7,
+          "media_count": 868,
+          "tweet_count": 9224
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1881689451040215067",
+    "created_at": "2025-01-21T20:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T21:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881808040586068025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595960282345414657",
+          "start": 0,
+          "username": "StillVanderbilt"
+        },
+        {
+          "end": 26,
+          "id": "215939847",
+          "start": 17,
+          "username": "bboczeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881808040586068025",
+    "in_reply_to_user_id": "1595960282345414657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881705734917980531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StillVanderbilt @bboczeng 啊呀，骇死我力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1881689451040215067",
+        "created_at": "2025-01-21T20:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T21:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881808040586068025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595960282345414657",
+              "start": 0,
+              "username": "StillVanderbilt"
+            },
+            {
+              "end": 26,
+              "id": "215939847",
+              "start": 17,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881808040586068025",
+        "in_reply_to_user_id": "1595960282345414657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881705734917980531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StillVanderbilt @bboczeng 啊呀，骇死我力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881705726739148800"
+          ]
+        },
+        "author_id": "1595960282345414657",
+        "conversation_id": "1881689451040215067",
+        "created_at": "2025-01-21T14:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T15:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881705734917980531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmlMSj7a8N",
+              "end": 50,
+              "expanded_url": "https://x.com/StillVanderbilt/status/1881705734917980531/photo/1",
+              "media_key": "3_1881705726739148800",
+              "start": 27,
+              "url": "https://t.co/GmlMSj7a8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881705734917980531",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1723,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881689451040215067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng 胶原蛋白充实，面白肌美，笑容饱满 https://t.co/GmlMSj7a8N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 186,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 519
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T01:59:27.000Z",
+        "description": "人生就像豆角，你永远不知道下一口有没有煮熟。",
+        "id": "1595960282345414657",
+        "location": "维多利亚国际广场",
+        "name": "彪彪OC",
+        "pinned_tweet_id": "1854011799726907653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875579480615342080/5JmNMfGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 320,
+          "like_count": 12557,
+          "listed_count": 12,
+          "media_count": 714,
+          "tweet_count": 4581
+        },
+        "username": "StillVanderbilt",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1881328517423796412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161115,
+          "following_count": 639,
+          "like_count": 74070,
+          "listed_count": 814,
+          "media_count": 12305,
+          "tweet_count": 69691
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1892721662094704680",
+    "created_at": "2025-02-20T23:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T00:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892721662094704680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1795679601601007616",
+          "start": 3,
+          "username": "waitingforsnow7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892721662094704680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892282383644152208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @waitingforsnow7: 我的朋友只要不背刺我就算再怎么十恶不赦我都能原谅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1892721662094704680",
+        "created_at": "2025-02-20T23:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T00:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892721662094704680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1795679601601007616",
+              "start": 3,
+              "username": "waitingforsnow7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892721662094704680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892282383644152208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @waitingforsnow7: 我的朋友只要不背刺我就算再怎么十恶不赦我都能原谅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795679601601007616",
+        "conversation_id": "1892282383644152208",
+        "created_at": "2025-02-19T18:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T19:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892282383644152208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892282383644152208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1643,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的朋友只要不背刺我就算再怎么十恶不赦我都能原谅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 262,
+          "like_count": 857,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1438
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T04:52:54.000Z",
+        "description": "我是小等 私信只回口令 门槛不退冒犯到我会删好友 喜欢有礼貌的人  问问题给我30 链接是提问箱  已过隔壁大叔 日理万姬认证\n防走丢@LaiTrula74488",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "LaiTrula74488"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/waitingforsnow7",
+                "end": 23,
+                "expanded_url": "https://ngl.link/waitingforsnow7",
+                "start": 0,
+                "url": "https://t.co/7OOlevmMyE"
+              }
+            ]
+          }
+        },
+        "id": "1795679601601007616",
+        "location": "距离你4.2km",
+        "name": "萌狗狗",
+        "pinned_tweet_id": "1891062986304790736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876508118189842432/CBWDzHds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13817,
+          "following_count": 122,
+          "like_count": 257,
+          "listed_count": 50,
+          "media_count": 118,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/7OOlevmMyE",
+        "username": "waitingforsnow7",
+        "verified": false
+      }
+    ]
+  }
+}

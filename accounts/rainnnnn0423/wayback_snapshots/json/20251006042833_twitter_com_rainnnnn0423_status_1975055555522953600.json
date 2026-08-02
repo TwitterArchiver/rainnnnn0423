@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1974862439549448405",
+    "created_at": "2025-10-06T04:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T05:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975055555522953600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812858934593814528",
+          "start": 0,
+          "username": "bibng367036qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975055555522953600",
+    "in_reply_to_user_id": "1812858934593814528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974862439549448405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibng367036qwq 女神…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974862424554532864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ge6W_W8AAYCWX.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1974862439549448405",
+        "created_at": "2025-10-06T04:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975055555522953600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812858934593814528",
+              "start": 0,
+              "username": "bibng367036qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975055555522953600",
+        "in_reply_to_user_id": "1812858934593814528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974862439549448405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibng367036qwq 女神…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974862424554532864"
+          ]
+        },
+        "author_id": "1812858934593814528",
+        "conversation_id": "1974862439549448405",
+        "created_at": "2025-10-05T15:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974862439549448405"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "胡温新政",
+              "probability": 0.293,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNE92JmGOp",
+              "end": 28,
+              "expanded_url": "https://x.com/bibng367036qwq/status/1974862439549448405/photo/1",
+              "media_key": "3_1974862424554532864",
+              "start": 5,
+              "url": "https://t.co/WNE92JmGOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974862439549448405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1128,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "胡温新政 https://t.co/WNE92JmGOp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 592,
+          "like_count": 4321,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 4055
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T14:37:20.000Z",
+        "description": "糖笼中雀",
+        "id": "1812858934593814528",
+        "name": "白饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812859101107384320/nn7m7etY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 67,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 34
+        },
+        "username": "bibng367036qwq",
+        "verified": false
+      }
+    ]
+  }
+}

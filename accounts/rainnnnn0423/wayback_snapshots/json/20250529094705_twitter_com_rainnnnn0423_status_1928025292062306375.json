@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1928025292062306375",
+    "created_at": "2025-05-29T09:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T10:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928025292062306375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638896631549493249",
+          "start": 3,
+          "username": "bows_bob9694"
+        },
+        {
+          "end": 31,
+          "id": "4319693115",
+          "start": 18,
+          "username": "OttoHuang120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928025292062306375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927532106839974050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bows_bob9694: @OttoHuang120 两年前，搞习下李上，结果让李克强死得不明不白。现在，又恭维汪洋胡春华。不把团派坑光，誓不罢休。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1928025292062306375",
+        "created_at": "2025-05-29T09:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T10:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928025292062306375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638896631549493249",
+              "start": 3,
+              "username": "bows_bob9694"
+            },
+            {
+              "end": 31,
+              "id": "4319693115",
+              "start": 18,
+              "username": "OttoHuang120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928025292062306375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927532106839974050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bows_bob9694: @OttoHuang120 两年前，搞习下李上，结果让李克强死得不明不白。现在，又恭维汪洋胡春华。不把团派坑光，誓不罢休。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638896631549493249",
+        "conversation_id": "1927323481793773702",
+        "created_at": "2025-05-28T01:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T02:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927532106839974050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4319693115",
+              "start": 0,
+              "username": "OttoHuang120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927532106839974050",
+        "in_reply_to_user_id": "4319693115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1908,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927323481793773702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OttoHuang120 两年前，搞习下李上，结果让李克强死得不明不白。现在，又恭维汪洋胡春华。不把团派坑光，誓不罢休。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 492,
+          "like_count": 3149,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 3633
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:33:24.000Z",
+        "description": "本名侯纪富，好似 Hugefool ，出生于一个水多的地方。 自由民主犹如树木与青草，笃信能在我的故里生长，对此期冀与希望。",
+        "id": "1638896631549493249",
+        "name": "BobBows",
+        "pinned_tweet_id": "1760042939156504596",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 489,
+          "like_count": 18164,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 18467
+        },
+        "username": "bows_bob9694",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-29T16:28:56.000Z",
+        "description": "來自台灣新竹市 Taiwan 人民最大，民主制度，才是最好的制度",
+        "id": "4319693115",
+        "location": "Taiwan",
+        "name": "Otto Huang ",
+        "pinned_tweet_id": "1864546641220690273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/972127298760589312/H78zqcRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62561,
+          "following_count": 7086,
+          "like_count": 245731,
+          "listed_count": 326,
+          "media_count": 49736,
+          "tweet_count": 96719
+        },
+        "username": "OttoHuang120",
+        "verified": true
+      }
+    ]
+  }
+}

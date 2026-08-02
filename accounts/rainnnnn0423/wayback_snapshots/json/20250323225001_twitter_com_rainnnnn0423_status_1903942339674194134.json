@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1903815002487665123",
+    "created_at": "2025-03-23T22:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T23:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903942339674194134"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903942339674194134",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903815002487665123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请务必来听一下♿♿♿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1903815002487665123",
+        "created_at": "2025-03-23T22:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T23:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903942339674194134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903942339674194134",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903815002487665123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请务必来听一下♿♿♿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1903815002487665123",
+        "created_at": "2025-03-23T14:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T15:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903815002487665123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903815002487665123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“做了件很了不起的事情”\n“欧内的”\n“古神的歌曲 学着调了”\n“为了调这首歌”\n“去聆听了古神的指导 为了能够耳熟”\n“去哈姆了一下”\n“是怎么样的歌曲我就先保密一下”\n“真的很难啊 要欧内那首歌”\n“好汉真的记不住”\n“我了不起吧 这么一把米诺的歌”\n“歌词用了击败”\n“所以啊 歌曲发布的时候 请务必来听一下”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 372,
+          "like_count": 1647,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2651
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

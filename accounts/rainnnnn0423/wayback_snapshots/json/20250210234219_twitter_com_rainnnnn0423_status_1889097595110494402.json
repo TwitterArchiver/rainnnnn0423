@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1889096982637281780",
+    "created_at": "2025-02-10T23:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T00:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889097595110494402"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1889097595110494402",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889096982637281780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我自己道德感会有挣扎，之前还能骗骗自己说是止咳药 ，后面优美精二了，再o得不能自理的那帮人就抓去公安厅测试纸血药浓度查查你有没有系度。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889096982637281780",
+        "created_at": "2025-02-10T23:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T00:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889097595110494402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889097595110494402",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889096982637281780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我自己道德感会有挣扎，之前还能骗骗自己说是止咳药 ，后面优美精二了，再o得不能自理的那帮人就抓去公安厅测试纸血药浓度查查你有没有系度。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1889096982637281780",
+        "created_at": "2025-02-10T23:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T00:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889096982637281780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889096982637281780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当年还真有人骂过我系度祝我早日把自己磕死的。能把自己弄死的都是被药物骑在头上的蠢货，而且我心情是没有资料总结的话，多少人他妈的在那乱o搞出一条又一条人命。我强烈劝阻所有想要药物滥用的人，我是从来没瘾然后也万分小心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 234,
+          "like_count": 667,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1053
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

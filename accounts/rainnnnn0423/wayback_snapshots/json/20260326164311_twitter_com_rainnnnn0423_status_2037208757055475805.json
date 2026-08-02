@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2037127570316239289",
+    "created_at": "2026-03-26T16:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T17:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037208757055475805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929159802477010944",
+          "start": 0,
+          "username": "1207auggnoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037208757055475805",
+    "in_reply_to_user_id": "1929159802477010944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037127570316239289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1207auggnoD 咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2037127570316239289",
+        "created_at": "2026-03-26T16:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037208757055475805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037208757055475805",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037127570316239289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1207auggnoD 咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929159802477010944",
+        "conversation_id": "2037127570316239289",
+        "created_at": "2026-03-26T11:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037127570316239289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037127570316239289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3220,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "测试一下新的推特连坐\n只有我的fo和我的fo的fo可以回复"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88 我不吸毒谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2029885847835922693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 631,
+          "like_count": 5227,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 4608
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "edd的花语是耐心，等待，惊喜。edd玩家每一局都在用自己的bigbrain创造奇迹，用充满战术的布置击退对手。他们待人和蔼，性格阳光，表面粗犷实则有一个幽默风趣的细致内心，玩edd的玩家是受人尊敬的，令人敬仰的，西格玛的，使人波奇的，充满同性吸引力的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "http://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/KeoonVLuS7"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL62",
+        "name": "Benincasa pruriens",
+        "pinned_tweet_id": "2008588788411625920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991500844714598400/LWmbvH_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 267,
+          "like_count": 25773,
+          "listed_count": 1,
+          "media_count": 1088,
+          "tweet_count": 4545
+        },
+        "url": "https://t.co/KeoonVLuS7",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

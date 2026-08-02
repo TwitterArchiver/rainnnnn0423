@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2075635571247268210",
+    "created_at": "2026-07-11T06:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075829207960330725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075829207960330725",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075828121132282091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 可是茶白就是要99啊。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2075635571247268210",
+        "created_at": "2026-07-11T06:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075829207960330725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075829207960330725",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075828121132282091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 可是茶白就是要99啊。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2075635571247268210",
+        "created_at": "2026-07-11T06:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075828121132282091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075828121132282091",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075635571247268210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 我家产"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 659,
+          "like_count": 5998,
+          "listed_count": 3,
+          "media_count": 353,
+          "tweet_count": 4910
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7 只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2066102990159921445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6658,
+          "following_count": 747,
+          "like_count": 24645,
+          "listed_count": 19,
+          "media_count": 1167,
+          "tweet_count": 16860
+        },
+        "url": "",
+        "username": "8964_Y",
+        "verified": true
+      }
+    ]
+  }
+}

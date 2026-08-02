@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1897979237082316912",
+    "created_at": "2025-03-07T13:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T14:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898007195775889741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894777318121537536",
+          "start": 0,
+          "username": "LIVINLIMBO634"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898007195775889741",
+    "in_reply_to_user_id": "1894777318121537536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897979237082316912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LIVINLIMBO634 我初三精神病爆之前成绩一直四校水平（上海第一梯队的高中），初三一年没学中考考了个区重，蛮宽的反而蛮开心，比去四校八大抗压好。一切让我产生压力的事情我都不做了，放过自己。休了一年现在是能去就去。\n🫂玩的时候别焦虑，学的时候别压力自己，还是得有好心态\n不然下场就是像我一样住进精神病院😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1897979237082316912",
+        "created_at": "2025-03-07T13:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T14:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898007195775889741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894777318121537536",
+              "start": 0,
+              "username": "LIVINLIMBO634"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898007195775889741",
+        "in_reply_to_user_id": "1894777318121537536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897979237082316912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LIVINLIMBO634 我初三精神病爆之前成绩一直四校水平（上海第一梯队的高中），初三一年没学中考考了个区重，蛮宽的反而蛮开心，比去四校八大抗压好。一切让我产生压力的事情我都不做了，放过自己。休了一年现在是能去就去。\n🫂玩的时候别焦虑，学的时候别压力自己，还是得有好心态\n不然下场就是像我一样住进精神病院😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894777318121537536",
+        "conversation_id": "1897979237082316912",
+        "created_at": "2025-03-07T11:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T12:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897979237082316912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1897964524365660577",
+              "start": 48,
+              "url": "https://t.co/repr6JyPHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897979237082316912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897964524365660577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上学好似上刑，最适合我的其实是大专奈何发挥失常考了个臭本科，睡的心乱玩的心烦，学的也是一地鸡毛 https://t.co/repr6JyPHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭上推发发疯",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 353,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2266
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T15:51:41.000Z",
+        "description": "777 woes",
+        "id": "1894777318121537536",
+        "name": "6orn3MO4ever",
+        "pinned_tweet_id": "1897904981270786466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895016445601296384/3epZh_ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 134,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 378
+        },
+        "username": "LIVINLIMBO634",
+        "verified": false
+      }
+    ]
+  }
+}

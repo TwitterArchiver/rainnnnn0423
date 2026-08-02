@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899066139357175808"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1899066143115296911",
+    "created_at": "2025-03-10T11:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T12:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899066143115296911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinityweet.me/interaction-ci…",
+          "end": 40,
+          "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1898584008855818240/m20rzGsp?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1898584008855818240/m20rzGsp?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/tm2ZcXXeJR"
+        },
+        {
+          "display_url": "pic.x.com/3ItRFnNmz7",
+          "end": 64,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1899066143115296911/photo/1",
+          "media_key": "3_1899066139357175808",
+          "start": 41,
+          "url": "https://t.co/3ItRFnNmz7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899066143115296911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ https://t.co/tm2ZcXXeJR https://t.co/3ItRFnNmz7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1899066139357175808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlrWl5FbYAAvIR6.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899066139357175808"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1899066143115296911",
+        "created_at": "2025-03-10T11:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T12:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899066143115296911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1898584008855818240/m20rzGsp?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1898584008855818240/m20rzGsp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/tm2ZcXXeJR"
+            },
+            {
+              "display_url": "pic.x.com/3ItRFnNmz7",
+              "end": 64,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1899066143115296911/photo/1",
+              "media_key": "3_1899066139357175808",
+              "start": 41,
+              "url": "https://t.co/3ItRFnNmz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899066143115296911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/tm2ZcXXeJR https://t.co/3ItRFnNmz7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博树洞🗑偷着键政 写点什么留下存在过的痕迹",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 362,
+          "like_count": 1442,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2358
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

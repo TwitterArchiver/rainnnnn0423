@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2039236757791838432",
+    "created_at": "2026-04-01T07:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039236757791838432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Hn9wRV",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/Hn9wRV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039236757791838432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039216186106491273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿：3月29日，中国ip全职高手的周边绘图被粉丝网暴，原因是周边画师被扒出之前给《我的英雄学院》粉丝绘制稿件。\n画师鱼鱼虫虫鱼现在已经销号。\n阅文集团在微博和小红书发布了画师触碰红线的声明。… https://t.co/Hn9wRV…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2039112802183294977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HExiSjcWMAEvRRe.jpg",
+        "width": 1799
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2039113054039031808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HExihNrbwAAgC_O.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2039236757791838432",
+        "created_at": "2026-04-01T07:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039236757791838432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Hn9wRV",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/Hn9wRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039236757791838432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039216186106491273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿：3月29日，中国ip全职高手的周边绘图被粉丝网暴，原因是周边画师被扒出之前给《我的英雄学院》粉丝绘制稿件。\n画师鱼鱼虫虫鱼现在已经销号。\n阅文集团在微博和小红书发布了画师触碰红线的声明。… https://t.co/Hn9wRV…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039112802183294977",
+            "3_2039113054039031808"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2039216186106491273",
+        "created_at": "2026-04-01T05:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039216186106491273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hn9wRVFdsz",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2039216186106491273/photo/1",
+              "media_key": "3_2039112802183294977",
+              "start": 99,
+              "url": "https://t.co/Hn9wRVFdsz"
+            },
+            {
+              "display_url": "pic.x.com/Hn9wRVFdsz",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2039216186106491273/photo/1",
+              "media_key": "3_2039113054039031808",
+              "start": 99,
+              "url": "https://t.co/Hn9wRVFdsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039216186106491273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "网友投稿：3月29日，中国ip全职高手的周边绘图被粉丝网暴，原因是周边画师被扒出之前给《我的英雄学院》粉丝绘制稿件。\n画师鱼鱼虫虫鱼现在已经销号。\n阅文集团在微博和小红书发布了画师触碰红线的声明。\n然而其他辱华品牌并没有什么水花，比如英伟达黄仁勋台独，nba港独，耐克新疆棉，只有我的英雄学院会引起中国人的应激反应"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 25922,
+          "like_count": 226,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：3月29日，中国ip全职高手的周边绘图被粉丝网暴，原因是周边画师被扒出之前给《我的英雄学院》粉丝绘制稿件。\n画师鱼鱼虫虫鱼现在已经销号。\n阅文集团在微博和小红书发布了画师触碰红线的声明。 https://t.co/Hn9wRVFdsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88 我不吸毒谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 641,
+          "like_count": 5286,
+          "listed_count": 4,
+          "media_count": 340,
+          "tweet_count": 4631
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197645,
+          "following_count": 1027,
+          "like_count": 9360,
+          "listed_count": 8633,
+          "media_count": 44503,
+          "tweet_count": 51568
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

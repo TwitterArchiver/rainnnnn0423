@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884838534156349566",
+    "created_at": "2025-01-30T07:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T08:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884867308386210257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877726238909100032",
+          "start": 0,
+          "username": "tearthecage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884867308386210257",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884865344386584932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tearthecage 哇靠恨140字\n🤔鸡狗应该是我搞上的坑“因为别人的创作而共情”的完全top1了，玩二游我逻辑还真的一直是看脸看感觉爱上，然后只看ta相关剧情，被ta治愈然后砰砰砰爆米。然后比起同人女小打小闹撕咬，还是更爱关心dps并关注zng的二游社区抽象大混战👍\n这么一复盘 我搞铜仁也是蛮有生活的还有自己独特逻辑啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884838534156349566",
+        "created_at": "2025-01-30T07:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T08:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884867308386210257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884867308386210257",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884865344386584932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 哇靠恨140字\n🤔鸡狗应该是我搞上的坑“因为别人的创作而共情”的完全top1了，玩二游我逻辑还真的一直是看脸看感觉爱上，然后只看ta相关剧情，被ta治愈然后砰砰砰爆米。然后比起同人女小打小闹撕咬，还是更爱关心dps并关注zng的二游社区抽象大混战👍\n这么一复盘 我搞铜仁也是蛮有生活的还有自己独特逻辑啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884838534156349566",
+        "created_at": "2025-01-30T07:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T08:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884865344386584932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877726238909100032",
+              "start": 0,
+              "username": "tearthecage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884865344386584932",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884862971136110931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tearthecage 接上 摒弃搞同人撕逼大战这些负面体验后，搞后者也爽爽嘟🤓✌一切服务于我自己开心😄混圈搞什么小团体 沉醉于自家的簇拥出去出征别家 前者我根本不擅长后者我极度厌恶 撕逼看多了太烦 说来特别好笑 我大手子们如数家珍的反而是抽象鬼畜圈👍大家攻击性都很强我也很享受搞抽象时不伤害具体的人的娱乐解构"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主半夜睡不着大量发表私人思考见解与分享生活点滴的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 214,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 758
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T14:37:48.000Z",
+        "description": "_",
+        "id": "1877726238909100032",
+        "name": "646167846167518187332278878012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877727242610196480/T2AwsvAH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 131
+        },
+        "username": "tearthecage",
+        "verified": false
+      }
+    ]
+  }
+}

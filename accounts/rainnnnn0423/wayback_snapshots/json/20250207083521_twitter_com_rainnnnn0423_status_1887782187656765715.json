@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1887782187656765715",
+    "created_at": "2025-02-07T08:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T09:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887782187656765715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/islime_l/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/islime_l/status/1559506121508802560",
+          "start": 5,
+          "url": "https://t.co/Otm6OvV03b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887782187656765715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1559506121508802560",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "懒得喷。 https://t.co/Otm6OvV03b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887782187656765715",
+        "created_at": "2025-02-07T08:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T09:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887782187656765715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/islime_l/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/islime_l/status/1559506121508802560",
+              "start": 5,
+              "url": "https://t.co/Otm6OvV03b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887782187656765715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1559506121508802560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懒得喷。 https://t.co/Otm6OvV03b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1559506117851353088"
+          ]
+        },
+        "author_id": "1445231833080385538",
+        "conversation_id": "1559506121508802560",
+        "created_at": "2022-08-16T11:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2022-08-16T12:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1559506121508802560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVFDNS38vk",
+              "end": 29,
+              "expanded_url": "https://x.com/islime_l/status/1559506121508802560/photo/1",
+              "media_key": "3_1559506117851353088",
+              "start": 6,
+              "url": "https://t.co/oVFDNS38vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1559506121508802560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔幻的现实 https://t.co/oVFDNS38vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 233,
+          "like_count": 649,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 986
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T03:38:25.000Z",
+        "description": "一只可爱的slime～\n不能戳!",
+        "id": "1445231833080385538",
+        "location": "Shanghai",
+        "name": "LIslime",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500078720219947009/k2D7DEIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 98,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 405
+        },
+        "username": "islime_l",
+        "verified": false
+      }
+    ]
+  }
+}

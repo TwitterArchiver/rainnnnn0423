@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893608659076178003",
+    "created_at": "2025-02-23T10:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T11:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893609636747448710"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1893609636747448710",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893608659076178003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的工种想变现分一杯羹做大做强很难，和娱乐圈网红一样是二八定律。\n我现在还在摸索阶段，毕竟我才16要现在就挣得盆满钵满有点难为我了。\n未成年就能赚大钱的是极少数努力的天赋b（泛指）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893608659076178003",
+        "created_at": "2025-02-23T10:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893609636747448710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893609636747448710",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893608659076178003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的工种想变现分一杯羹做大做强很难，和娱乐圈网红一样是二八定律。\n我现在还在摸索阶段，毕竟我才16要现在就挣得盆满钵满有点难为我了。\n未成年就能赚大钱的是极少数努力的天赋b（泛指）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893608659076178003",
+        "created_at": "2025-02-23T10:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893608659076178003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CuplRusttt/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/CuplRusttt/status/1893596844263092625",
+              "start": 22,
+              "url": "https://t.co/jlsNRXM1Jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893608659076178003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893596844263092625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好厉害，我三十岁前攒不到一百万至少攒十万。 https://t.co/jlsNRXM1Jz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 279,
+          "like_count": 947,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1595
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

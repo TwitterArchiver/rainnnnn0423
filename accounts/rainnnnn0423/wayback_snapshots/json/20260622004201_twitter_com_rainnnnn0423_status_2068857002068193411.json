@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2068634742229196809",
+    "created_at": "2026-06-22T00:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068857002068193411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1946471478184247297",
+          "start": 0,
+          "username": "zxndkbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068857002068193411",
+    "in_reply_to_user_id": "1946471478184247297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068741024894370098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxndkbb 宝宝😭🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2068741024894370098].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2068741024894370098",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2068741024894370098"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2068634742229196809",
+        "created_at": "2026-06-22T00:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068857002068193411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1946471478184247297",
+              "start": 0,
+              "username": "zxndkbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068857002068193411",
+        "in_reply_to_user_id": "1946471478184247297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068741024894370098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxndkbb 宝宝😭🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 648,
+          "like_count": 5817,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4855
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T07:25:47.000Z",
+        "description": "我爱你们♡",
+        "id": "1946471478184247297",
+        "name": "aaaaoekjdkd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066532591923286016/vCfyyfMV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 126,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "zxndkbb",
+        "verified": false
+      }
+    ]
+  }
+}

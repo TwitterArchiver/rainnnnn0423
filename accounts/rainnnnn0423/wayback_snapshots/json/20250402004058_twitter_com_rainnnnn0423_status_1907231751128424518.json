@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907231751128424518",
+    "created_at": "2025-04-02T00:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T01:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907231751128424518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oshio_heihachi…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/oshio_heihachir/status/1906755814041571405",
+          "start": 11,
+          "url": "https://t.co/4ZFttUZVze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907231751128424518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906755814041571405",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "粉蛆bu我已经骂累了 https://t.co/4ZFttUZVze"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907231751128424518",
+        "created_at": "2025-04-02T00:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T01:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907231751128424518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oshio_heihachi…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/oshio_heihachir/status/1906755814041571405",
+              "start": 11,
+              "url": "https://t.co/4ZFttUZVze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907231751128424518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906755814041571405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "粉蛆bu我已经骂累了 https://t.co/4ZFttUZVze"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294962246410412032",
+        "conversation_id": "1906743699448500498",
+        "created_at": "2025-03-31T17:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906755814041571405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906755814041571405",
+        "in_reply_to_user_id": "1294962246410412032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 23574,
+          "like_count": 672,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906743699448500498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "b站用户们在评论区集体大义凛然地出警、网暴、威胁开盒等等，彰显自己正义感的同时，还语重心长地教导说，你如果要玩梗、整活、玩种族主义、玩节目效果、玩乐子、侮辱黑人取乐，唱阳光彩虹小白马多好啊，还能让我们大家一起开心，为什么要那么直白，扫我们的兴，还可能让我们的名声在洋人那里受损😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 402,
+          "like_count": 1728,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2821
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T11:40:42.000Z",
+        "description": "知莫大乎棄疑，行莫大乎無過，事莫大乎無悔。事至無悔而止矣，成不可必矣。",
+        "id": "1294962246410412032",
+        "name": "洗心洞箚記",
+        "pinned_tweet_id": "1388502964122308614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708143260953346048/LUigz4vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 515,
+          "like_count": 3001,
+          "listed_count": 10,
+          "media_count": 340,
+          "tweet_count": 2809
+        },
+        "username": "oshio_heihachir",
+        "verified": false
+      }
+    ]
+  }
+}

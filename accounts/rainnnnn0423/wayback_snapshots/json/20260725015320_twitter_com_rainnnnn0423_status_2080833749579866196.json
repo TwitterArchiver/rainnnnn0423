@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2080833749579866196",
+    "created_at": "2026-07-25T01:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080833749579866196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931755143101587456",
+          "start": 3,
+          "username": "allforteresa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080833749579866196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080583341255110850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @allforteresa: 我精挑细选的杯子，居然是别人眼里敬爱的领导干部……天呐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2080833749579866196",
+        "created_at": "2026-07-25T01:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080833749579866196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931755143101587456",
+              "start": 3,
+              "username": "allforteresa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080833749579866196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080583341255110850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @allforteresa: 我精挑细选的杯子，居然是别人眼里敬爱的领导干部……天呐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931755143101587456",
+        "conversation_id": "2080583341255110850",
+        "created_at": "2026-07-24T09:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080583341255110850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080583341255110850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 741,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我精挑细选的杯子，居然是别人眼里敬爱的领导干部……天呐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我 留言和私信容易吞，不定期查看",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 664,
+          "like_count": 6191,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 4961
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T16:49:16.000Z",
+        "description": "大家揣测了这么多，也只是怕你不幸福而已。\n再见了，所有的政治生涯。——致那位永远不为自己留退路的薄部长。\n——————————————————\n我是中华秋海棠叶。\n@whitnora_⬅ 慎关\n脆➡️晚风秋雨问海棠。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "whitnora_"
+              }
+            ]
+          }
+        },
+        "id": "1931755143101587456",
+        "location": "“民族的哀歌。”",
+        "name": "我的眼泪再也不能滴穿你的心",
+        "pinned_tweet_id": "2061126314527264830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058599197608378368/P9nbCFPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 78,
+          "like_count": 1295,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 922
+        },
+        "url": "",
+        "username": "allforteresa",
+        "verified": false
+      }
+    ]
+  }
+}

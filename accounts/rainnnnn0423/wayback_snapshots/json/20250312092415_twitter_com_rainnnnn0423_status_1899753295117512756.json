@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1899753295117512756",
+    "created_at": "2025-03-12T09:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T10:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899753295117512756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chucimm/status…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/chucimm/status/1899327050022006957",
+          "start": 49,
+          "url": "https://t.co/osd0DWn8kj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899753295117512756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899327050022006957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我教你，每天1.5t舍曲林＋2t喹硫平😋不出俩月不仅无欲无求还能药源性情绪稳定😋😋😋哭都哭不出来 https://t.co/osd0DWn8kj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1899753295117512756",
+        "created_at": "2025-03-12T09:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T10:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899753295117512756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chucimm/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/chucimm/status/1899327050022006957",
+              "start": 49,
+              "url": "https://t.co/osd0DWn8kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899753295117512756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899327050022006957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我教你，每天1.5t舍曲林＋2t喹硫平😋不出俩月不仅无欲无求还能药源性情绪稳定😋😋😋哭都哭不出来 https://t.co/osd0DWn8kj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583720184895877121",
+        "conversation_id": "1899327050022006957",
+        "created_at": "2025-03-11T05:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T06:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899327050022006957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899327050022006957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 73492,
+          "like_count": 238,
+          "quote_count": 7,
+          "reply_count": 198,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "友友们怎样才能变得没有性欲。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博日记🗑偷着键 粉红滚建制派滚懒得吵架",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 363,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 2410
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T07:21:42.000Z",
+        "description": "朋友圈什么都发 自用vpn推荐👇：https://t.co/tO5whMwr7l",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 40,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=MQRRkPrN",
+                "start": 17,
+                "url": "https://t.co/tO5whMwr7l"
+              }
+            ]
+          }
+        },
+        "id": "1583720184895877121",
+        "location": "v🚪288",
+        "name": "香菜杀手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894812386621825025/oI1YU76A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15047,
+          "following_count": 189,
+          "like_count": 7537,
+          "listed_count": 35,
+          "media_count": 314,
+          "tweet_count": 3342
+        },
+        "username": "chucimm",
+        "verified": false
+      }
+    ]
+  }
+}

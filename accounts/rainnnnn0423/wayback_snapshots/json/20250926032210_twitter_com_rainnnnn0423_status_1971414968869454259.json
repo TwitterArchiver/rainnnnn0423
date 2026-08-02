@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1971228496501538879",
+    "created_at": "2025-09-26T03:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T04:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971414968869454259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "hongpigu980"
+        },
+        {
+          "end": 22,
+          "id": "427144756",
+          "start": 13,
+          "username": "zaza3386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971414968869454259",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971228496501538879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongpigu980 @zaza3386 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1971228488003969024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1s13aabYAAuYIK.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1971228496501538879",
+        "created_at": "2025-09-26T03:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T04:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971414968869454259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            },
+            {
+              "end": 22,
+              "id": "427144756",
+              "start": 13,
+              "username": "zaza3386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971414968869454259",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971228496501538879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 @zaza3386 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971228488003969024"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1971228496501538879",
+        "created_at": "2025-09-25T15:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T16:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971228496501538879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 100,
+              "id": "427144756",
+              "start": 91,
+              "username": "zaza3386"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iT3KafHUUX",
+              "end": 149,
+              "expanded_url": "https://x.com/hongpigu980/status/1971228496501538879/photo/1",
+              "media_key": "3_1971228488003969024",
+              "start": 126,
+              "url": "https://t.co/iT3KafHUUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971228496501538879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 100,
+                "id": "427144756",
+                "start": 91,
+                "username": "zaza3386"
+              }
+            ]
+          },
+          "text": "抽奖继续！🎁 上次礼物的赞助方准备再给大家抽一个COACH蔻驰包  Rowan 18，送人和自用都很有面子～奖品可折现（1406元），按礼盒当日售价直接发红包！参与方式：关注我和 \n@zaza3386\n（帮缺钱的宝子找金主），并评论+转发此条推文 ✅ 开奖时间：下个月的今天（10月15日）拒绝黑幕！开奖当天用随机数抽奖～希望大家喜欢 💕"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 22912,
+          "like_count": 132,
+          "quote_count": 11,
+          "reply_count": 270,
+          "retweet_count": 224
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖继续！🎁 上次礼物的赞助方准备再给大家抽一个COACH蔻驰包  Rowan 18，送人和自用都很有面子～奖品可折现（1406元），按礼盒当日售价直接发红包！参与方式：关注我和 \n@zaza3386\n（帮缺钱的宝子找金主），并评论+转发此条推文 ✅ https://t.co/iT3KafHUUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 563,
+          "like_count": 4298,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 4042
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "dy：yiyiio3o “用性对抗平庸的生活”推广自辨/关评为广 🥇全球外围质量最高选➡️ @yunle111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "yunle111"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1971228496501538879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80670,
+          "following_count": 71,
+          "like_count": 81,
+          "listed_count": 81,
+          "media_count": 1250,
+          "tweet_count": 1626
+        },
+        "username": "hongpigu980",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-03T05:09:58.000Z",
+        "description": "Mei包养平台官方的小可爱\n做到最匹配的牵单/尊重女生/女生友好/ghg\n老板： \n@DennisA11510633\n官方账号： \n@Meibaoyang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "DennisA11510633"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "Meibaoyang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qingqingdekeai…",
+                "end": 23,
+                "expanded_url": "https://t.me/qingqingdekeairichang",
+                "start": 0,
+                "url": "https://t.co/Ar0pvmX8t1"
+              }
+            ]
+          }
+        },
+        "id": "427144756",
+        "location": "需要牵线的可以进官方tg社群见👉",
+        "name": "暖暖 包养（帮找金🐷）",
+        "pinned_tweet_id": "1971197822184849521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787786235244900352/te4jCrAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2813,
+          "following_count": 21,
+          "like_count": 214,
+          "listed_count": 7,
+          "media_count": 4,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/Ar0pvmX8t1",
+        "username": "zaza3386",
+        "verified": false
+      }
+    ]
+  }
+}

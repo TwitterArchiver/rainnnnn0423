@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896948426014892311",
+    "created_at": "2025-03-04T15:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T16:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896948426014892311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1896878694146470338",
+          "start": 48,
+          "url": "https://t.co/7VlqVVPHio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896948426014892311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896878694146470338",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说我可能osdd，因为我时常有几个人格在打架的错觉……如果你是我那你也会觉得我的里世界很精彩 https://t.co/7VlqVVPHio"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896948426014892311",
+        "created_at": "2025-03-04T15:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T16:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896948426014892311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1896878694146470338",
+              "start": 48,
+              "url": "https://t.co/7VlqVVPHio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896948426014892311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896878694146470338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说我可能osdd，因为我时常有几个人格在打架的错觉……如果你是我那你也会觉得我的里世界很精彩 https://t.co/7VlqVVPHio"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896878694146470338",
+        "created_at": "2025-03-04T11:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T12:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896878694146470338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896878694146470338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画色图发泄性欲的自己很好笑\n在东亚社会成长环境下压抑扭曲说不出口闹别扭的自己更好笑\n缺失的情感表达 无法正视的内心 忽高忽低的情商 羞耻心，尴尬感，对强权谄媚讨好完了背后偷偷咒骂的可悲可怜\n我的一切都是真实的，我只是有osdd的倾向，如果有得选我肯定不想得精神病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 337,
+          "like_count": 1250,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2124
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

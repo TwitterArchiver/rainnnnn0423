@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1987465878364135481",
+    "created_at": "2025-11-09T10:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T11:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987465878364135481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1811812787058016257",
+          "start": 3,
+          "username": "kanakosama0223f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987465878364135481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987139913561870468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanakosama0223f: 回来吧我的餐券 我最骄傲的信仰 历历在目的右美 我的眼泪在流淌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1987465878364135481",
+        "created_at": "2025-11-09T10:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T11:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987465878364135481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1811812787058016257",
+              "start": 3,
+              "username": "kanakosama0223f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987465878364135481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987139913561870468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanakosama0223f: 回来吧我的餐券 我最骄傲的信仰 历历在目的右美 我的眼泪在流淌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811812787058016257",
+        "conversation_id": "1987139913561870468",
+        "created_at": "2025-11-08T12:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T13:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987139913561870468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987139913561870468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "回来吧我的餐券 我最骄傲的信仰 历历在目的右美 我的眼泪在流淌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985641105418043393/UeNp94ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 590,
+          "like_count": 4533,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 4165
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "kanako0223ff"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1901264285399122208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984204969285939200/35wL_0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13636,
+          "following_count": 94,
+          "like_count": 6024,
+          "listed_count": 19,
+          "media_count": 637,
+          "tweet_count": 4002
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

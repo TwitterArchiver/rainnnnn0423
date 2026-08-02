@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1887420119250239762",
+    "created_at": "2025-02-06T17:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T18:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887558898032259165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1670634886779240449",
+          "start": 0,
+          "username": "Shika_zige"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887558898032259165",
+    "in_reply_to_user_id": "1670634886779240449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887555799825944738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shika_zige 哈哈谢谢你！我也只是在墙外悄悄骂几句不吐不快，因为我不喜欢刻板印象。我自己也用微博小红书，其实女sensei一般是自己玩自己的。有的魔怔女sensei会攻击官方卖ml让老师跟学生贴贴，我觉得她们和“女的玩什么ba这是我们男的玩的”的男的没什么两样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887420119250239762",
+        "created_at": "2025-02-06T17:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T18:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887558898032259165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1670634886779240449",
+              "start": 0,
+              "username": "Shika_zige"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887558898032259165",
+        "in_reply_to_user_id": "1670634886779240449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887555799825944738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shika_zige 哈哈谢谢你！我也只是在墙外悄悄骂几句不吐不快，因为我不喜欢刻板印象。我自己也用微博小红书，其实女sensei一般是自己玩自己的。有的魔怔女sensei会攻击官方卖ml让老师跟学生贴贴，我觉得她们和“女的玩什么ba这是我们男的玩的”的男的没什么两样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670634886779240449",
+        "conversation_id": "1887420119250239762",
+        "created_at": "2025-02-06T17:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T18:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887555799825944738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887555799825944738",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887420119250239762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 抱抱，其实从小红书能看出来ba确实有不少女玩家的，大家都是热爱自己的学生没有什么高低贵贱₍˄·͈༝·͈˄*₎◞ ̑̑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 231,
+          "like_count": 646,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 969
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T03:29:40.000Z",
+        "description": "中文/eng/日本語\n阳光明媚，世界可爱。\n不键政/NO political topic",
+        "id": "1670634886779240449",
+        "location": "中国",
+        "name": "檜山志賀🦌",
+        "pinned_tweet_id": "1873430815495123023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679880302704082944/kcykRqHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 84,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 218
+        },
+        "username": "Shika_zige",
+        "verified": false
+      }
+    ]
+  }
+}

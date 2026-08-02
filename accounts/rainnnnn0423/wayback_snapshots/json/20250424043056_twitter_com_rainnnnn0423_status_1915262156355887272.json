@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1915262156355887272",
+    "created_at": "2025-04-24T04:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T05:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915262156355887272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dhqqwww/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/dhqqwww/status/1914941228266725609",
+          "start": 6,
+          "url": "https://t.co/bzfAx8HV4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915262156355887272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914941228266725609",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "青年大学习 https://t.co/bzfAx8HV4w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1915262156355887272",
+        "created_at": "2025-04-24T04:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T05:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915262156355887272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dhqqwww/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/dhqqwww/status/1914941228266725609",
+              "start": 6,
+              "url": "https://t.co/bzfAx8HV4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915262156355887272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914941228266725609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青年大学习 https://t.co/bzfAx8HV4w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183028604248027137",
+        "conversation_id": "1914941228266725609",
+        "created_at": "2025-04-23T07:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914941228266725609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914941228266725609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 180467,
+          "like_count": 1519,
+          "quote_count": 13,
+          "reply_count": 42,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "性爱小技巧：\n把女生口到高潮的要点是“持续、专一、有规律”。\n简单来说，就是最好持续刺激一个地方，不要舔两下就换位置，那样快感会分散变弱；同时舔的力道要从轻到重，让快感由弱变强让小穴适应，而不是一上来就用全力猛亲。\nP.S.口累了可以把动作放缓但尽量别停，因为动作一停快感就会断崖式下跌…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 447,
+          "like_count": 2247,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 3279
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T14:36:19.000Z",
+        "description": "来了可以点个关注。",
+        "id": "1183028604248027137",
+        "location": "🚪299",
+        "name": "灯火千秋.",
+        "pinned_tweet_id": "1913533253396676772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400440744435847171/4IUONslj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235663,
+          "following_count": 278,
+          "like_count": 514,
+          "listed_count": 626,
+          "media_count": 39,
+          "tweet_count": 631
+        },
+        "username": "dhqqwww",
+        "verified": false
+      }
+    ]
+  }
+}

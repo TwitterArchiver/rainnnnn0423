@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2037086527352955166",
+    "created_at": "2026-03-26T16:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T17:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037208361016713353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1794446081197277185",
+          "start": 0,
+          "username": "DZM_007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037208361016713353",
+    "in_reply_to_user_id": "1794446081197277185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037086527352955166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DZM_007 17，休学过一年，复学读得乱七八糟的，家里管饭管住，混日子中\n学校有我的病例，对我就是基本不管了，想来来想走走，作业爱写不写"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2037086527352955166",
+        "created_at": "2026-03-26T16:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037208361016713353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1794446081197277185",
+              "start": 0,
+              "username": "DZM_007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037208361016713353",
+        "in_reply_to_user_id": "1794446081197277185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037086527352955166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DZM_007 17，休学过一年，复学读得乱七八糟的，家里管饭管住，混日子中\n学校有我的病例，对我就是基本不管了，想来来想走走，作业爱写不写"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794446081197277185",
+        "conversation_id": "2037086527352955166",
+        "created_at": "2026-03-26T08:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037086527352955166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037086527352955166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6521,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想知道各位oder、自伤的宝宝们都多大呀(´･ω･`)平时都在干些什么 是不是休学或者辍学了？没有休学辍学的话学校对自己是什么态度(´･ω･`)？如果休学/辍学了的话 衣食住行该怎么解决 经济来源又是什么(´･ω･`)从哪获得购入药物和雷服的money(＞人＜;)还有房租水电什么的都该如何解决…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88 我不吸毒谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2029885847835922693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 631,
+          "like_count": 5227,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 4607
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T19:11:23.000Z",
+        "description": "🐈‍⬛·☆₊⁺🦴🐾 🐈‍⬛·☆₊⁺🦴🐾 🐈‍⬛·☆₊⁺🦴🐈‍⬛·\n🖤人类学不会飞翔 但却很容易堕落\n🖤我是失電巫，可以叫我電子貓/小巫\n🖤线下查无此人，我来自p图软件",
+        "id": "1794446081197277185",
+        "name": "失電巫",
+        "pinned_tweet_id": "2037204733333823653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037205536341712897/M4t3R3QV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 71,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 90
+        },
+        "username": "DZM_007",
+        "verified": false
+      }
+    ]
+  }
+}

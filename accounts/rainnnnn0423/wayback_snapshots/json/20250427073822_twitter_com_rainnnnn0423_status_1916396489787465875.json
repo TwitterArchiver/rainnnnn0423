@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1916396489787465875",
+    "created_at": "2025-04-27T07:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T08:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916396489787465875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1792463719563419648",
+          "start": 3,
+          "username": "hyouhakusha8964"
+        },
+        {
+          "end": 37,
+          "id": "1702925354132992000",
+          "start": 21,
+          "username": "remilia_servant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916396489787465875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916141516369600768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hyouhakusha8964: @remilia_servant 别造谣，根本没有什么新疆，其实整个中国就是一个巨大的奥斯维辛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1916396489787465875",
+        "created_at": "2025-04-27T07:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T08:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916396489787465875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1792463719563419648",
+              "start": 3,
+              "username": "hyouhakusha8964"
+            },
+            {
+              "end": 37,
+              "id": "1702925354132992000",
+              "start": 21,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916396489787465875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916141516369600768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hyouhakusha8964: @remilia_servant 别造谣，根本没有什么新疆，其实整个中国就是一个巨大的奥斯维辛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792463719563419648",
+        "conversation_id": "1915979152068644991",
+        "created_at": "2025-04-26T14:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916141516369600768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702925354132992000",
+              "start": 0,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916141516369600768",
+        "in_reply_to_user_id": "1702925354132992000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2355,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915979152068644991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remilia_servant 别造谣，根本没有什么新疆，其实整个中国就是一个巨大的奥斯维辛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 454,
+          "like_count": 2314,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 3357
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T07:54:17.000Z",
+        "description": "主要发长文",
+        "id": "1792463719563419648",
+        "location": "你的肩旁",
+        "name": "漂泊者（仅剩此号）",
+        "pinned_tweet_id": "1857931783498834135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911035535784570880/rGNS-Igg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 315,
+          "like_count": 8921,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 4768
+        },
+        "username": "hyouhakusha8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "即將過期高中生 | DSE已完、我恨EDB | 左翼香港本土🟦⬜ | 會譯些廢梗片爛梗圖 | 東方廚 | 頭貼是好朋友幫忙畫的 | 裏帳號 @tnavres_ailimer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "tnavres_ailimer"
+              }
+            ]
+          }
+        },
+        "id": "1702925354132992000",
+        "location": "Silent Hill",
+        "name": "//蕾米米//",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913497390289743872/qTHbrTMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14124,
+          "following_count": 1414,
+          "like_count": 89049,
+          "listed_count": 53,
+          "media_count": 27,
+          "tweet_count": 275
+        },
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

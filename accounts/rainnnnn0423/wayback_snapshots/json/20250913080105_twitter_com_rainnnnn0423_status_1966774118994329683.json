@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1966768465580314974",
+    "created_at": "2025-09-13T08:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T09:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966774118994329683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2704551668",
+          "start": 0,
+          "username": "LaplaceMio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966774118994329683",
+    "in_reply_to_user_id": "2704551668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966772680667131947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaplaceMio 想拿臭臭的地方换香香的钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1966768465580314974",
+        "created_at": "2025-09-13T08:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966774118994329683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2704551668",
+              "start": 0,
+              "username": "LaplaceMio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966774118994329683",
+        "in_reply_to_user_id": "2704551668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966772680667131947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaplaceMio 想拿臭臭的地方换香香的钱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2704551668",
+        "conversation_id": "1966768465580314974",
+        "created_at": "2025-09-13T07:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T08:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966772680667131947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966772680667131947",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966768465580314974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 为何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 552,
+          "like_count": 4202,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 3995
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-03T17:25:55.000Z",
+        "description": "随便聊聊就行 随时可能会消失",
+        "id": "2704551668",
+        "name": "LaplaceMio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956391084252442624/IZt91jqa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 234,
+          "like_count": 8622,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1748
+        },
+        "username": "LaplaceMio",
+        "verified": false
+      }
+    ]
+  }
+}

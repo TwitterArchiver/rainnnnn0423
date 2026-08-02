@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1895639734636200286",
+    "created_at": "2025-03-01T00:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T01:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895639734636200286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qiu0147/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/qiu0147/status/1895379514995417236",
+          "start": 4,
+          "url": "https://t.co/f93kLz6dVh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895639734636200286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895379514995417236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我服了 https://t.co/f93kLz6dVh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_1895379485484068864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk29mZLXMAAJsBt.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1895639734636200286",
+        "created_at": "2025-03-01T00:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T01:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895639734636200286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiu0147/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/qiu0147/status/1895379514995417236",
+              "start": 4,
+              "url": "https://t.co/f93kLz6dVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895639734636200286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895379514995417236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我服了 https://t.co/f93kLz6dVh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895379485484068864"
+          ]
+        },
+        "author_id": "1656334148447944704",
+        "conversation_id": "1895379514995417236",
+        "created_at": "2025-02-28T07:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T08:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895379514995417236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/snDki4cJTi",
+              "end": 28,
+              "expanded_url": "https://x.com/qiu0147/status/1895379514995417236/photo/1",
+              "media_key": "3_1895379485484068864",
+              "start": 5,
+              "url": "https://t.co/snDki4cJTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895379514995417236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 185987,
+          "like_count": 983,
+          "quote_count": 45,
+          "reply_count": 161,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "推特现状 https://t.co/snDki4cJTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 307,
+          "like_count": 1145,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1871
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T16:23:48.000Z",
+        "description": "v🚪88",
+        "id": "1656334148447944704",
+        "name": "唉",
+        "pinned_tweet_id": "1895536146459083007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893284982765789184/xo3J_oCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19613,
+          "following_count": 50,
+          "like_count": 2929,
+          "listed_count": 62,
+          "media_count": 31,
+          "tweet_count": 198
+        },
+        "username": "qiu0147",
+        "verified": false
+      }
+    ]
+  }
+}

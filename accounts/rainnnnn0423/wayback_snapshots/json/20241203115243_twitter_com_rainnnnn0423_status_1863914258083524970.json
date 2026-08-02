@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1863914258083524970",
+    "created_at": "2024-12-03T11:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T12:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863914258083524970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ipaulcanada/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ipaulcanada/status/1863565474157514906",
+          "start": 2,
+          "url": "https://t.co/R1qgHOE9Ha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863914258083524970",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863565474157514906",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣 https://t.co/R1qgHOE9Ha"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1863914258083524970",
+        "created_at": "2024-12-03T11:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T12:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863914258083524970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ipaulcanada/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ipaulcanada/status/1863565474157514906",
+              "start": 2,
+              "url": "https://t.co/R1qgHOE9Ha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863914258083524970",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863565474157514906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣 https://t.co/R1qgHOE9Ha"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863565470302896128"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1863565474157514906",
+        "created_at": "2024-12-02T12:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T13:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863565474157514906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jpn27fGlyc",
+              "end": 35,
+              "expanded_url": "https://x.com/iPaulCanada/status/1863565474157514906/photo/1",
+              "media_key": "3_1863565470302896128",
+              "start": 12,
+              "url": "https://t.co/jpn27fGlyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863565474157514906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 372360,
+          "like_count": 1570,
+          "quote_count": 19,
+          "reply_count": 240,
+          "retweet_count": 288
+        },
+        "reply_settings": "everyone",
+        "text": "怎么不坚持100年啊？ https://t.co/jpn27fGlyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "树洞日记 看乐子的小号 键政初学者",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul🇨🇦🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123462,
+          "following_count": 417,
+          "like_count": 6724,
+          "listed_count": 528,
+          "media_count": 8343,
+          "tweet_count": 13470
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1880320740232425944",
+    "created_at": "2025-01-17T18:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T19:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880320740232425944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FurinaDF/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/FurinaDF/status/1880168925675299130",
+          "start": 4,
+          "url": "https://t.co/gvUNjnHLy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880320740232425944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880168925675299130",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "合订本 https://t.co/gvUNjnHLy7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1880320740232425944",
+        "created_at": "2025-01-17T18:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T19:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880320740232425944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FurinaDF/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/FurinaDF/status/1880168925675299130",
+              "start": 4,
+              "url": "https://t.co/gvUNjnHLy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880320740232425944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880168925675299130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "合订本 https://t.co/gvUNjnHLy7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880168647705886720"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1880168925675299130",
+        "created_at": "2025-01-17T08:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T09:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880168925675299130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjAzmTNThh",
+              "end": 25,
+              "expanded_url": "https://x.com/FurinaDF/status/1880168925675299130/photo/1",
+              "media_key": "3_1880168647705886720",
+              "start": 2,
+              "url": "https://t.co/kjAzmTNThh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880168925675299130",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 47503,
+          "like_count": 413,
+          "quote_count": 16,
+          "reply_count": 64,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "😮 https://t.co/kjAzmTNThh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 173,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 395
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "a member of Chinese Genshin Party(CGP) who committed to advancing human political civilization and exploring AI's role in governance",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "中国原神党",
+        "name": "𝐅𝐮𝐫𝐢𝐧𝐚 𝐝𝐞 𝐅𝐨𝐧𝐭𝐚𝐢𝐧𝐞💙",
+        "pinned_tweet_id": "1880300682038899069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870862200082235393/gfYowbA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12214,
+          "following_count": 1540,
+          "like_count": 17257,
+          "listed_count": 39,
+          "media_count": 3098,
+          "tweet_count": 6175
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

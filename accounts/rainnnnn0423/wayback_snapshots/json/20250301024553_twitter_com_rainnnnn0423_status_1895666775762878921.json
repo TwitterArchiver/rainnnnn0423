@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1895662601121751447",
+    "created_at": "2025-03-01T02:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T03:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895666775762878921"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1895666775762878921",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895664260178723045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么这么说。甩锅泼别人脏水（我不会指责完全无辜的人）也是我后来才学会的，这样能让我心里好受一点。已经饱受精神疾病折磨了我能怎么办。\n我一直苛责自己，以前我希望自己一直是年级第一，现在我的野心更大我想成为真正意义上的天才，即使我自残嗑药或者活腻歪了开枪自杀也会获得世俗的理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1895662601121751447",
+        "created_at": "2025-03-01T02:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T03:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895666775762878921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895666775762878921",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895664260178723045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么这么说。甩锅泼别人脏水（我不会指责完全无辜的人）也是我后来才学会的，这样能让我心里好受一点。已经饱受精神疾病折磨了我能怎么办。\n我一直苛责自己，以前我希望自己一直是年级第一，现在我的野心更大我想成为真正意义上的天才，即使我自残嗑药或者活腻歪了开枪自杀也会获得世俗的理解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1895662601121751447",
+        "created_at": "2025-03-01T02:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T03:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895664260178723045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895664260178723045",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895662601121751447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我脾气好，让我感觉不舒服我会一而再再而三地忍让。我从来不主动挑起矛盾也从来不主动跟人吵架。\n也许现在的我和多年前那个一而再再而三被抛弃而抑郁的孩子仍然没有本质区别。我不是世俗意义上的好孩子，所以我是不被选择的也很正常。我永远只会真正意义上地责怪自己而非别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 308,
+          "like_count": 1154,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1887
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

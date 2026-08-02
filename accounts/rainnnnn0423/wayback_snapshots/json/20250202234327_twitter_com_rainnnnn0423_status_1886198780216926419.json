@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1886198780216926419",
+    "created_at": "2025-02-02T23:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T00:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886198780216926419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1885767940131234257",
+          "start": 6,
+          "url": "https://t.co/L5V9fQp8TE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886198780216926419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885767940131234257",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看得我想死 https://t.co/L5V9fQp8TE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886198780216926419",
+        "created_at": "2025-02-02T23:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T00:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886198780216926419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1885767940131234257",
+              "start": 6,
+              "url": "https://t.co/L5V9fQp8TE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886198780216926419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885767940131234257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看得我想死 https://t.co/L5V9fQp8TE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885767376110575616",
+            "3_1885767522911244288",
+            "3_1885767638413967360",
+            "3_1885767852340150272"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1885767940131234257",
+        "created_at": "2025-02-01T19:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T20:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885767940131234257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gng3shZN8M",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1885767940131234257/photo/1",
+              "media_key": "3_1885767376110575616",
+              "start": 144,
+              "url": "https://t.co/gng3shZN8M"
+            },
+            {
+              "display_url": "pic.x.com/gng3shZN8M",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1885767940131234257/photo/1",
+              "media_key": "3_1885767522911244288",
+              "start": 144,
+              "url": "https://t.co/gng3shZN8M"
+            },
+            {
+              "display_url": "pic.x.com/gng3shZN8M",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1885767940131234257/photo/1",
+              "media_key": "3_1885767638413967360",
+              "start": 144,
+              "url": "https://t.co/gng3shZN8M"
+            },
+            {
+              "display_url": "pic.x.com/gng3shZN8M",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1885767940131234257/photo/1",
+              "media_key": "3_1885767852340150272",
+              "start": 144,
+              "url": "https://t.co/gng3shZN8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885767940131234257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 309900,
+          "like_count": 1003,
+          "quote_count": 15,
+          "reply_count": 160,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "目前收到一些学生投稿\n希望更多人可以关注到他们的境遇。 \n河南焦作 温县一中，山西吕梁 汾阳中学，江苏宿迁 青华中学，山西省大同市部分高中\n平时一周甚至两周才休息一次，早上6点18开始跑操，晚上最晚10点40才放学。如今寒假更是只放6天，初五晚上就要开学。 \n学生们压力巨大，投诉无门。 https://t.co/gng3shZN8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 229,
+          "like_count": 597,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 924
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916374,
+          "following_count": 931,
+          "like_count": 5687,
+          "listed_count": 8023,
+          "media_count": 22835,
+          "tweet_count": 29143
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

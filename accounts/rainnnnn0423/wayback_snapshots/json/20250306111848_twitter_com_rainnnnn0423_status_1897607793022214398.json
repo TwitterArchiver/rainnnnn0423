@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896872318930169873",
+    "created_at": "2025-03-06T11:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T12:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897607793022214398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822203600526876672",
+          "start": 0,
+          "username": "Kiiri_072918"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897607793022214398",
+    "in_reply_to_user_id": "1822203600526876672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896873618501697988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiiri_072918 找我得了因为学校里没人跟我玩都点头之交😅我都懒得去上学没意思，明天带课也是一帮现充哥萌二姐…希望不要出啥岔子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896872318930169873",
+        "created_at": "2025-03-06T11:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T12:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897607793022214398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822203600526876672",
+              "start": 0,
+              "username": "Kiiri_072918"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897607793022214398",
+        "in_reply_to_user_id": "1822203600526876672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896873618501697988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiiri_072918 找我得了因为学校里没人跟我玩都点头之交😅我都懒得去上学没意思，明天带课也是一帮现充哥萌二姐…希望不要出啥岔子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822203600526876672",
+        "conversation_id": "1896872318930169873",
+        "created_at": "2025-03-04T10:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T11:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896873618501697988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896873618501697988",
+        "in_reply_to_user_id": "1822203600526876672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896872806736158795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我正常的每一天应该是在座位上看书睡觉 下课找隔壁班的zp玩 而不是天天听同学讲乙游和原耽。我他妈还怕撕破脸了搁背后骂我 我现在就想去集训能远离一天是一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot🌧看乐子的里号😗胡言乱语的赛博树洞🗑偷着键政😭上推发发疯",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 349,
+          "like_count": 1343,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2225
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T09:29:47.000Z",
+        "description": "喵",
+        "id": "1822203600526876672",
+        "name": "假如我們相隔兩個夏天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888249605458120705/XtJ-OLqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 55
+        },
+        "username": "Kiiri_072918",
+        "verified": false
+      }
+    ]
+  }
+}

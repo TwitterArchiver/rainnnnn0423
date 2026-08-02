@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1902545480422453393",
+    "created_at": "2025-03-20T02:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T03:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902545480422453393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaosong23_3/s…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/xiaosong23_3/status/1899794373807837539",
+          "start": 90,
+          "url": "https://t.co/KwZJ6dVPNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902545480422453393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899794373807837539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看哭了 当年在600号当着医生的面被揭穿药滥的事情 给我整哈气了把我喹硫平加到五片还是一共五片 我当时真没躁狂，现在不清楚因为我怀疑寒假我全网跟别人小窗敲键盘那个起劲是有点躁狂了 https://t.co/KwZJ6dVPNu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1902545480422453393",
+        "created_at": "2025-03-20T02:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T03:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902545480422453393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosong23_3/s…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/xiaosong23_3/status/1899794373807837539",
+              "start": 90,
+              "url": "https://t.co/KwZJ6dVPNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902545480422453393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899794373807837539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看哭了 当年在600号当着医生的面被揭穿药滥的事情 给我整哈气了把我喹硫平加到五片还是一共五片 我当时真没躁狂，现在不清楚因为我怀疑寒假我全网跟别人小窗敲键盘那个起劲是有点躁狂了 https://t.co/KwZJ6dVPNu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658222935717580800",
+        "conversation_id": "1899793972232634731",
+        "created_at": "2025-03-12T12:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T13:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899794373807837539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899794373807837539",
+        "in_reply_to_user_id": "1658222935717580800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1084,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899793972232634731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "躁狂这一综合症的判定是较为严格的，部分医生一听这人爱发脾气就算作躁狂，这是种不负责任。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 371,
+          "like_count": 1628,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2608
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T21:29:02.000Z",
+        "description": "也许是xiaosong。 \n钢丝｜战争后霆｜充军 喜欢日术 \n接精神障碍咨询，详见置顶 \n有事找我的话 https://t.co/Astgqj3Uap \n水论坛https://t.co/xv2wq7KSUy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 75,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 52,
+                "url": "https://t.co/Astgqj3Uap"
+              },
+              {
+                "display_url": "mizuame.chat",
+                "end": 103,
+                "expanded_url": "http://mizuame.chat",
+                "start": 80,
+                "url": "https://t.co/xv2wq7KSUy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuame.chat",
+                "end": 23,
+                "expanded_url": "http://mizuame.chat",
+                "start": 0,
+                "url": "https://t.co/xv2wq7KSUy"
+              }
+            ]
+          }
+        },
+        "id": "1658222935717580800",
+        "name": "xiaosong",
+        "pinned_tweet_id": "1902232770660986904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704482710830620672/ET3tOMIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 341,
+          "like_count": 19179,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2920
+        },
+        "url": "https://t.co/xv2wq7KSUy",
+        "username": "xiaosong23_3",
+        "verified": false
+      }
+    ]
+  }
+}

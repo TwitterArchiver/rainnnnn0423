@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907600192255512628",
+    "created_at": "2025-04-03T01:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T02:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907600192255512628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/keeganlike/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/keeganlike/status/1907456083398181006",
+          "start": 31,
+          "url": "https://t.co/wJqfhysBDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907600192255512628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907456083398181006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原推是男的吗，其实女的也是不行的。我自己冲一次就贤者时间了。 https://t.co/wJqfhysBDR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907600192255512628",
+        "created_at": "2025-04-03T01:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T02:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907600192255512628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keeganlike/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/keeganlike/status/1907456083398181006",
+              "start": 31,
+              "url": "https://t.co/wJqfhysBDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907600192255512628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907456083398181006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原推是男的吗，其实女的也是不行的。我自己冲一次就贤者时间了。 https://t.co/wJqfhysBDR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842423358216142849",
+        "conversation_id": "1907456083398181006",
+        "created_at": "2025-04-02T15:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T16:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907456083398181006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907456083398181006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15856,
+          "like_count": 195,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在才知道女生紫薇可以无限续次数但是男的不行啊🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 410,
+          "like_count": 1796,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2855
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "istp 多云转晴 喜欢小猫 这里是我的小世界🫧 不爱看给我滚 谁他妈管你",
+        "id": "1842423358216142849",
+        "location": "该死的情绪化主包",
+        "name": "泡泡",
+        "pinned_tweet_id": "1905663779826008348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843181486243287041/5smTRKPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4424,
+          "following_count": 437,
+          "like_count": 4723,
+          "listed_count": 4,
+          "media_count": 234,
+          "tweet_count": 6806
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

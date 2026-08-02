@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1965901274022556100",
+    "created_at": "2025-09-11T07:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T08:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966035924304695537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966035924304695537",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965901274022556100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 乡屋宁 滚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1753,
+        "media_key": "3_1965901270985879555",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0hIykiaMAMLyDO.jpg",
+        "width": 960
+      },
+      {
+        "height": 1433,
+        "media_key": "3_1965901269991829507",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0hIyg1aMAMGzAf.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1965901274022556100",
+        "created_at": "2025-09-11T07:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T08:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966035924304695537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966035924304695537",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965901274022556100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 乡屋宁 滚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965901270985879555",
+            "3_1965901269991829507"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1965901274022556100",
+        "created_at": "2025-09-10T22:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T23:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965901274022556100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/diMGYEQWDZ",
+              "end": 39,
+              "expanded_url": "https://x.com/jianlvup/status/1965901274022556100/photo/1",
+              "media_key": "3_1965901270985879555",
+              "start": 16,
+              "url": "https://t.co/diMGYEQWDZ"
+            },
+            {
+              "display_url": "pic.x.com/diMGYEQWDZ",
+              "end": 39,
+              "expanded_url": "https://x.com/jianlvup/status/1965901274022556100/photo/1",
+              "media_key": "3_1965901269991829507",
+              "start": 16,
+              "url": "https://t.co/diMGYEQWDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965901274022556100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 20962,
+          "like_count": 267,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "“别把你们乡下的陋习带到上海” https://t.co/diMGYEQWDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 551,
+          "like_count": 4175,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 3987
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1964902382867001591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7192,
+          "following_count": 987,
+          "like_count": 38622,
+          "listed_count": 25,
+          "media_count": 1435,
+          "tweet_count": 3515
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

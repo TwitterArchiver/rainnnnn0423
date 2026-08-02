@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1943984518769389806",
+    "created_at": "2025-07-12T10:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T11:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943984518769389806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "BaoFan7551"
+        },
+        {
+          "end": 25,
+          "id": "1790370144755351552",
+          "start": 16,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943984518769389806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943710491077193824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaoFan7551: @FurinaDF 把文科生那个狗链子上写个立党谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1943984518769389806",
+        "created_at": "2025-07-12T10:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T11:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943984518769389806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "BaoFan7551"
+            },
+            {
+              "end": 25,
+              "id": "1790370144755351552",
+              "start": 16,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943984518769389806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943710491077193824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaoFan7551: @FurinaDF 把文科生那个狗链子上写个立党谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "conversation_id": "1943705778323608006",
+        "created_at": "2025-07-11T16:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943710491077193824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943710491077193824",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5468,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943705778323608006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 把文科生那个狗链子上写个立党谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/双相Ⅱ型/一般路过女高/粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 518,
+          "like_count": 3763,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 3813
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅/19 目前在大陆 生理性别男/友跨友双友同无任何政治倾向/抽象 b",
+        "id": "1756909109788753920",
+        "location": "china mainland",
+        "name": "包着番茄籽的番茄",
+        "pinned_tweet_id": "1941851781727912126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941512092768665607/NxcT0bRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 1278,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2699
+        },
+        "username": "BaoFan7551",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "Powered by 浪人新闻 Ronin News",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/realRoninNews",
+                "end": 23,
+                "expanded_url": "http://t.me/realRoninNews",
+                "start": 0,
+                "url": "https://t.co/nHbDzdtdX8"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "河南驻马店",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35558,
+          "following_count": 2260,
+          "like_count": 27090,
+          "listed_count": 80,
+          "media_count": 5637,
+          "tweet_count": 9905
+        },
+        "url": "https://t.co/nHbDzdtdX8",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

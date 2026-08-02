@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1919919120029557169",
+    "created_at": "2025-05-07T02:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T03:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919942380704432566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894777318121537536",
+          "start": 0,
+          "username": "634LIVINLIMBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919942380704432566",
+    "in_reply_to_user_id": "1894777318121537536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919919120029557169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@634LIVINLIMBO 好命苦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1919919120029557169].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919919120029557169",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1919919120029557169"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1919919120029557169",
+        "created_at": "2025-05-07T02:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T03:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919942380704432566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894777318121537536",
+              "start": 0,
+              "username": "634LIVINLIMBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919942380704432566",
+        "in_reply_to_user_id": "1894777318121537536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919919120029557169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@634LIVINLIMBO 好命苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 460,
+          "like_count": 2549,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 3493
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T15:51:41.000Z",
+        "description": "634 woes",
+        "id": "1894777318121537536",
+        "name": "6orn3MO4ever",
+        "pinned_tweet_id": "1915659360518230402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915811100349894660/YG690TQz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 673,
+          "like_count": 7802,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1436
+        },
+        "username": "634LIVINLIMBO",
+        "verified": false
+      }
+    ]
+  }
+}

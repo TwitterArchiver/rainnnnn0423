@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896398481763500305",
+    "created_at": "2025-03-03T03:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T04:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896398481763500305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kujou_king/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kujou_king/status/1896396564400382458",
+          "start": 2,
+          "url": "https://t.co/yUXhQh4SoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896398481763500305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896396564400382458",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/yUXhQh4SoH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896398481763500305",
+        "created_at": "2025-03-03T03:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T04:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896398481763500305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kujou_king/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kujou_king/status/1896396564400382458",
+              "start": 2,
+              "url": "https://t.co/yUXhQh4SoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896398481763500305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896396564400382458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/yUXhQh4SoH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841626911228780545",
+        "conversation_id": "1896396564400382458",
+        "created_at": "2025-03-03T03:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T04:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896396564400382458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896396564400382458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些因精神疾病而被耽误学业的人。。  。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑包蜜",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 324,
+          "like_count": 1199,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1992
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "不建政，你的毒就是我的解药\n\n還有，如果我死了你就要负挑唆自杀的法律刑事责任\n\n电子骨灰盒:@LCA176232",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "LCA176232"
+              }
+            ]
+          }
+        },
+        "id": "1841626911228780545",
+        "location": "Chinese and dogs not admitted",
+        "name": "🧸愛丽莎铁锅炖熊掌🍻",
+        "pinned_tweet_id": "1896068659434631399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892150164170969088/2V72XvcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 511,
+          "like_count": 3173,
+          "listed_count": 15,
+          "media_count": 125,
+          "tweet_count": 1626
+        },
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

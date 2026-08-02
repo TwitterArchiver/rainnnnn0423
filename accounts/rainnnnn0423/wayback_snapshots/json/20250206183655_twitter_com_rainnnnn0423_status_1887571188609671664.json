@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1887561869436842183",
+    "created_at": "2025-02-06T18:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T19:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887571188609671664"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1887571188609671664",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887568541089735085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你对我最近在写的企划有兴趣：一支中国女高中生组成的乐队，一个在现实中寻求出路获得成长与自我实现的故事。主题是“反叛”。想探讨现实压力与梦想的冲突，应试教育，青少年心理健康与人际关系，以及友谊与浪漫关系。\n愿我们都有展翅飞向天空，拥抱自由的勇气。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1887561869436842183",
+        "created_at": "2025-02-06T18:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T19:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887571188609671664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887571188609671664",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887568541089735085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你对我最近在写的企划有兴趣：一支中国女高中生组成的乐队，一个在现实中寻求出路获得成长与自我实现的故事。主题是“反叛”。想探讨现实压力与梦想的冲突，应试教育，青少年心理健康与人际关系，以及友谊与浪漫关系。\n愿我们都有展翅飞向天空，拥抱自由的勇气。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1887561869436842183",
+        "created_at": "2025-02-06T18:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T19:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887568541089735085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887568541089735085",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887566897287151888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我远远没有鲁迅那么伟大和牛逼，但我也有这份想拿起笔杆子创作的心情。在互联网时代，呐喊是能传播得更加广泛的。\n看不惯我那你滚啊，我不会为了迁就别人而委屈自己的。我这人就是有反建制的勇气，就是想呐喊出我的所思所想。我也无所谓被国安找喝茶，出事情我一个人扛，不想影响家人朋友。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 231,
+          "like_count": 646,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 975
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

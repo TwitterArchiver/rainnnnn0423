@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896437279897575872",
+    "created_at": "2025-03-03T05:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T06:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896437279897575872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1485158225167413248",
+          "start": 3,
+          "username": "chihorishizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896437279897575872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896250409297297700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chihorishizuku: 恳请大家帮帮忙。\n全网寻找在江苏省无锡市暴雨天出车祸去世的一位男子。\n如果有相关新闻或者确切的死亡消息，价格50-200r。\n\n转发内抽5人20r。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896437279897575872",
+        "created_at": "2025-03-03T05:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T06:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896437279897575872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1485158225167413248",
+              "start": 3,
+              "username": "chihorishizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896437279897575872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896250409297297700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chihorishizuku: 恳请大家帮帮忙。\n全网寻找在江苏省无锡市暴雨天出车祸去世的一位男子。\n如果有相关新闻或者确切的死亡消息，价格50-200r。\n\n转发内抽5人20r。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485158225167413248",
+        "conversation_id": "1896250409297297700",
+        "created_at": "2025-03-02T17:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896250409297297700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896250409297297700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10088,
+          "like_count": 79,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "恳请大家帮帮忙。\n全网寻找在江苏省无锡市暴雨天出车祸去世的一位男子。\n如果有相关新闻或者确切的死亡消息，价格50-200r。\n\n转发内抽5人20r。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑包蜜",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 325,
+          "like_count": 1202,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1998
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:51:38.000Z",
+        "description": "INTP-A｜LGBT🏳️‍🌈｜Sub/M｜06｜ASD｜BPD｜ADHD｜焦虑｜管人痴🥕☔️｜第五人格｜直fo查成分回｜岁静日常推｜拒粉红｜推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推！🔗：https://t.co/4vU1YBQXXO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=H0wBxWpB",
+                "start": 101,
+                "url": "https://t.co/4vU1YBQXXO"
+              }
+            ]
+          }
+        },
+        "id": "1485158225167413248",
+        "location": "中间",
+        "name": "游吟诗人Sirelia",
+        "pinned_tweet_id": "1896250409297297700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803609568053956608/i-j1XAmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3556,
+          "following_count": 721,
+          "like_count": 22017,
+          "listed_count": 11,
+          "media_count": 396,
+          "tweet_count": 4414
+        },
+        "username": "chihorishizuku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1875920437898875132",
+    "created_at": "2025-01-05T15:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T16:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875920437898875132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Marionette_Sa/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Marionette_Sa/status/1875799119006199953",
+          "start": 16,
+          "url": "https://t.co/aP4IPGKQQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875920437898875132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875799119006199953",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "炫压抑了这下\n中国家长的窒息感 https://t.co/aP4IPGKQQn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1875920437898875132",
+        "created_at": "2025-01-05T15:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T16:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875920437898875132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Marionette_Sa/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Marionette_Sa/status/1875799119006199953",
+              "start": 16,
+              "url": "https://t.co/aP4IPGKQQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875920437898875132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875799119006199953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炫压抑了这下\n中国家长的窒息感 https://t.co/aP4IPGKQQn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875799115227127808"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1875799119006199953",
+        "created_at": "2025-01-05T06:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T07:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875799119006199953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EpAzGIi7SM",
+              "end": 23,
+              "expanded_url": "https://x.com/Marionette_Sa/status/1875799119006199953/photo/1",
+              "media_key": "3_1875799115227127808",
+              "start": 0,
+              "url": "https://t.co/EpAzGIi7SM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875799119006199953",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 123956,
+          "like_count": 1569,
+          "quote_count": 7,
+          "reply_count": 84,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EpAzGIi7SM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 129,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 244
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌🌠|🏳️‍🌈🏳️‍⚧️友好|头像作者 @abi_marionette|加点东西：@huahuojiang_ |欢迎匿名给我发消息📦https://t.co/OJCInz4IdU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "abi_marionette"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "huahuojiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/marionette_sa1",
+                "end": 89,
+                "expanded_url": "https://ngl.link/marionette_sa1",
+                "start": 66,
+                "url": "https://t.co/OJCInz4IdU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/marionette_sa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/marionette_sa1",
+                "start": 0,
+                "url": "https://t.co/OJCInz4IdU"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "至冬宫",
+        "name": "木偶酱～🌠",
+        "pinned_tweet_id": "1843225828160860234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875833525947244544/PYmKZ5fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16171,
+          "following_count": 9844,
+          "like_count": 60927,
+          "listed_count": 55,
+          "media_count": 2493,
+          "tweet_count": 10447
+        },
+        "url": "https://t.co/OJCInz4IdU",
+        "username": "Marionette_Sa",
+        "verified": false
+      }
+    ]
+  }
+}

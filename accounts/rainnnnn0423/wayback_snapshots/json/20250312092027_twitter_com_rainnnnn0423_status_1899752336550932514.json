@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1899689660378489244",
+    "created_at": "2025-03-12T09:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T10:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899752336550932514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881369782911746049",
+          "start": 0,
+          "username": "jxp20070102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899752336550932514",
+    "in_reply_to_user_id": "1881369782911746049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899745894700052581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxp20070102 对的兄弟对的🤓👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1899689660378489244",
+        "created_at": "2025-03-12T09:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T10:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899752336550932514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881369782911746049",
+              "start": 0,
+              "username": "jxp20070102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899752336550932514",
+        "in_reply_to_user_id": "1881369782911746049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899745894700052581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxp20070102 对的兄弟对的🤓👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881369782911746049",
+        "conversation_id": "1899689660378489244",
+        "created_at": "2025-03-12T08:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T09:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899745894700052581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899745894700052581",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899736661535457498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 那你是地雷女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博日记🗑偷着键 粉红滚建制派滚懒得吵架",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 363,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 2409
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T15:54:53.000Z",
+        "description": "高三在读，刚满十八岁\n喜欢动漫、电影、小说、游戏、TRPG，不时掉落烘焙和烹饪碎片。\n自制美食乃是人生一大乐事。\n半个兵击人，玩长剑和迅捷\n异性恋switch，反lgbt/mtf/跨。\n目前志愿是心理医生/律师。\n沉迷俳句ing\n头像与背景为本人约稿，禁止下载转载",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jxp200701021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jxp200701021",
+                "start": 0,
+                "url": "https://t.co/CVTXYKHvgA"
+              }
+            ]
+          }
+        },
+        "id": "1881369782911746049",
+        "location": "辽宁省大连市/匿名提问↓",
+        "name": "司",
+        "pinned_tweet_id": "1884071426896126032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895451762133266432/qRRYGZBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 351,
+          "like_count": 3235,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/CVTXYKHvgA",
+        "username": "jxp20070102",
+        "verified": false
+      }
+    ]
+  }
+}

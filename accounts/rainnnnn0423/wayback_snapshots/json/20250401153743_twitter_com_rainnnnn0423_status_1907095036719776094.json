@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907095036719776094",
+    "created_at": "2025-04-01T15:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T16:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907095036719776094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NaturalSith/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/NaturalSith/status/1907092960606364010",
+          "start": 18,
+          "url": "https://t.co/HCXND5Vnl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907095036719776094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907092960606364010",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽尼玛机器人 为啥点我我跟你没仇 https://t.co/HCXND5Vnl9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907095036719776094",
+        "created_at": "2025-04-01T15:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907095036719776094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NaturalSith/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/NaturalSith/status/1907092960606364010",
+              "start": 18,
+              "url": "https://t.co/HCXND5Vnl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907095036719776094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907092960606364010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛机器人 为啥点我我跟你没仇 https://t.co/HCXND5Vnl9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "579748524",
+        "conversation_id": "1907092960606364010",
+        "created_at": "2025-04-01T15:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907092960606364010"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "Monad Airdrop",
+              "probability": 0.753,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 127,
+              "id": "1618049029539041280",
+              "start": 114,
+              "username": "Airdrops2050"
+            },
+            {
+              "end": 141,
+              "id": "285554310",
+              "start": 128,
+              "username": "VanZylMulder"
+            },
+            {
+              "end": 151,
+              "id": "1808689259928563712",
+              "start": 142,
+              "username": "ruhuaadu"
+            },
+            {
+              "end": 163,
+              "id": "1342970633211228163",
+              "start": 152,
+              "username": "ThiagoSCP1"
+            },
+            {
+              "end": 180,
+              "id": "1818475207096778753",
+              "start": 164,
+              "username": "JessicaWal62027"
+            },
+            {
+              "end": 194,
+              "id": "1854817785140199428",
+              "start": 181,
+              "username": "rainnnnn0423"
+            },
+            {
+              "end": 210,
+              "id": "1808970700260323329",
+              "start": 195,
+              "username": "sssyyyrrrfff12"
+            },
+            {
+              "end": 224,
+              "id": "1360514631505227782",
+              "start": 211,
+              "username": "eduardinvest"
+            },
+            {
+              "end": 237,
+              "id": "1721154286413811712",
+              "start": 225,
+              "username": "sly_chima10"
+            },
+            {
+              "end": 251,
+              "id": "1792462478053457920",
+              "start": 238,
+              "username": "bossk1365133"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/monad_ntwrk/st…",
+              "end": 101,
+              "expanded_url": "https://x.com/monad_ntwrk/status/1907051070607511789/likes",
+              "start": 78,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/dkxCpxyGbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907092960606364010",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Starting today, users can claim their Monad Airdrop.\n\n▶️  Claim your airdrop: https://t.co/dkxCpxyGbJ\n\n✅Eligible: @Airdrops2050 @VanZylMulder @ruhuaadu @ThiagoSCP1 @JessicaWal62027 @rainnnnn0423 @sssyyyrrrfff12 @eduardinvest @sly_chima10 @bossk1365133 \nFUVVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 398,
+          "like_count": 1714,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2805
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-14T08:05:30.000Z",
+        "description": "",
+        "id": "579748524",
+        "location": "région de verviers",
+        "name": "Jean-Yves Vdb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907035656280264704/J2XRzZcI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "username": "NaturalSith",
+        "verified": false
+      }
+    ]
+  }
+}

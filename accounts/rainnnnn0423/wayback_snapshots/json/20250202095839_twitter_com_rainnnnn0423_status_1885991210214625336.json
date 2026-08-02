@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885900406401925613",
+    "created_at": "2025-02-02T09:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T10:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885991210214625336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774063407559512064",
+          "start": 0,
+          "username": "lightly_wind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885991210214625336",
+    "in_reply_to_user_id": "1774063407559512064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885900406401925613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightly_wind 😭😭😭😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885900406401925613",
+        "created_at": "2025-02-02T09:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T10:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885991210214625336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774063407559512064",
+              "start": 0,
+              "username": "lightly_wind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885991210214625336",
+        "in_reply_to_user_id": "1774063407559512064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885900406401925613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightly_wind 😭😭😭😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885900403960889344"
+          ]
+        },
+        "author_id": "1774063407559512064",
+        "conversation_id": "1885900406401925613",
+        "created_at": "2025-02-02T03:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T04:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885900406401925613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UseU3iqpv",
+              "end": 65,
+              "expanded_url": "https://x.com/lightly_wind/status/1885900406401925613/photo/1",
+              "media_key": "3_1885900403960889344",
+              "start": 42,
+              "url": "https://t.co/3UseU3iqpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885900406401925613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 285,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刪刪改改了好多遍，一句話概括\n鼓勵我活下去的人\n他自己沒有活下去\n而且他很想活下去 https://t.co/3UseU3iqpv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 226,
+          "like_count": 569,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 892
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T13:17:38.000Z",
+        "description": "追求現世的幸福生活ing",
+        "id": "1774063407559512064",
+        "location": "异世界，王国都城，上城区",
+        "name": "🐱温柔的风穿堂过🐱",
+        "pinned_tweet_id": "1885969804907188374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774063486559207424/dSsXFsSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 644,
+          "like_count": 12135,
+          "listed_count": 17,
+          "media_count": 474,
+          "tweet_count": 4212
+        },
+        "username": "lightly_wind",
+        "verified": false
+      }
+    ]
+  }
+}

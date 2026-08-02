@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884946837075071292",
+    "created_at": "2025-01-30T12:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T13:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884946837075071292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KawaiiCheshire…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/KawaiiCheshire_/status/1884896988665356637",
+          "start": 7,
+          "url": "https://t.co/NSlIJbWCpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884946837075071292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884896988665356637",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我是这个👍 https://t.co/NSlIJbWCpd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884946837075071292",
+        "created_at": "2025-01-30T12:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884946837075071292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KawaiiCheshire…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/KawaiiCheshire_/status/1884896988665356637",
+              "start": 7,
+              "url": "https://t.co/NSlIJbWCpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884946837075071292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884896988665356637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我是这个👍 https://t.co/NSlIJbWCpd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884896980771778560",
+            "3_1884896981681864705",
+            "3_1884896982428454912",
+            "3_1884896982029979648"
+          ]
+        },
+        "author_id": "1796349415650664448",
+        "conversation_id": "1884896988665356637",
+        "created_at": "2025-01-30T09:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T10:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884896988665356637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sXlp3p0T4",
+              "end": 33,
+              "expanded_url": "https://x.com/KawaiiCheshire_/status/1884896988665356637/photo/1",
+              "media_key": "3_1884896980771778560",
+              "start": 10,
+              "url": "https://t.co/5sXlp3p0T4"
+            },
+            {
+              "display_url": "pic.x.com/5sXlp3p0T4",
+              "end": 33,
+              "expanded_url": "https://x.com/KawaiiCheshire_/status/1884896988665356637/photo/1",
+              "media_key": "3_1884896981681864705",
+              "start": 10,
+              "url": "https://t.co/5sXlp3p0T4"
+            },
+            {
+              "display_url": "pic.x.com/5sXlp3p0T4",
+              "end": 33,
+              "expanded_url": "https://x.com/KawaiiCheshire_/status/1884896988665356637/photo/1",
+              "media_key": "3_1884896982428454912",
+              "start": 10,
+              "url": "https://t.co/5sXlp3p0T4"
+            },
+            {
+              "display_url": "pic.x.com/5sXlp3p0T4",
+              "end": 33,
+              "expanded_url": "https://x.com/KawaiiCheshire_/status/1884896988665356637/photo/1",
+              "media_key": "3_1884896982029979648",
+              "start": 10,
+              "url": "https://t.co/5sXlp3p0T4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884896988665356637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 41255,
+          "like_count": 715,
+          "quote_count": 10,
+          "reply_count": 54,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "看完不笑的是抑郁症 https://t.co/5sXlp3p0T4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主半夜睡不着bb的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 219,
+          "like_count": 467,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 773
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T01:14:22.000Z",
+        "description": "友跨/#fo我之前请不要锁推/不会单取（除非为了查成分而回fo），最多双取/主人@saksamalah2nd脑婆@zhao_mama琉璃花@zhao_flowers13甜雨@Romanorum_杂鱼@Inwal3310/小号：@LovelyCheshire_/可以叫我猫猫，头像是本人/什么都发",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 3,
+                "tag": "fo我之前请不要锁推"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "zhao_mama"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "zhao_flowers13"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "Inwal3310"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "LovelyCheshire_"
+              }
+            ]
+          }
+        },
+        "id": "1796349415650664448",
+        "location": "距离你1m",
+        "name": "坂下たまこ🐱",
+        "pinned_tweet_id": "1860958109939958103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884645151773249536/tHA8PNvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 312,
+          "like_count": 16471,
+          "listed_count": 5,
+          "media_count": 1691,
+          "tweet_count": 8395
+        },
+        "username": "KawaiiCheshire_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1877768345253990811",
+    "created_at": "2025-01-11T08:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T09:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877995045241974847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865838810283601920",
+          "start": 0,
+          "username": "Li_memecoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877995045241974847",
+    "in_reply_to_user_id": "1865838810283601920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877768345253990811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li_memecoin 😅😅😅😅😅😅😅😅😅😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1877768345253990811",
+        "created_at": "2025-01-11T08:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T09:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877995045241974847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865838810283601920",
+              "start": 0,
+              "username": "Li_memecoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877995045241974847",
+        "in_reply_to_user_id": "1865838810283601920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877768345253990811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li_memecoin 😅😅😅😅😅😅😅😅😅😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877764840271269888",
+            "3_1877767881267507200",
+            "3_1877768030345691136",
+            "3_1877768147098308609"
+          ]
+        },
+        "author_id": "1865838810283601920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1877768345253990811",
+        "created_at": "2025-01-10T17:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T18:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877768345253990811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YRIzO4YPUI",
+              "end": 172,
+              "expanded_url": "https://x.com/Li_memecoin/status/1877768345253990811/photo/1",
+              "media_key": "3_1877764840271269888",
+              "start": 149,
+              "url": "https://t.co/YRIzO4YPUI"
+            },
+            {
+              "display_url": "pic.x.com/YRIzO4YPUI",
+              "end": 172,
+              "expanded_url": "https://x.com/Li_memecoin/status/1877768345253990811/photo/1",
+              "media_key": "3_1877767881267507200",
+              "start": 149,
+              "url": "https://t.co/YRIzO4YPUI"
+            },
+            {
+              "display_url": "pic.x.com/YRIzO4YPUI",
+              "end": 172,
+              "expanded_url": "https://x.com/Li_memecoin/status/1877768345253990811/photo/1",
+              "media_key": "3_1877768030345691136",
+              "start": 149,
+              "url": "https://t.co/YRIzO4YPUI"
+            },
+            {
+              "display_url": "pic.x.com/YRIzO4YPUI",
+              "end": 172,
+              "expanded_url": "https://x.com/Li_memecoin/status/1877768345253990811/photo/1",
+              "media_key": "3_1877768147098308609",
+              "start": 149,
+              "url": "https://t.co/YRIzO4YPUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877768345253990811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 175,
+                "start": 172,
+                "tag": "Li"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 187,
+                "start": 176,
+                "tag": "StayStrong"
+              },
+              {
+                "end": 197,
+                "start": 188,
+                "tag": "memecoin"
+              }
+            ]
+          },
+          "text": "喵喵通告！🚨 \n\n今天我们的邮箱被上百封垃圾邮件轰炸，试图干扰我们的YouTube大赛评选工作。\n  \n不过嘛...看到有骚扰邮件说让本喵\"3天告别皱纹\"，本喵确实没忍住笑场了。本喵可是天生丝滑毛茸茸的，不需要去皱纹啦！🐱✨ \n \n骚扰邮件是吓不倒我们的！ \nYouTube大赛依然稳步进行中～  \n\n继续投稿喵！=͟͟͞͞(=^☆ω☆^=)\n$Li #StayStrong #memecoin"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 28559,
+          "like_count": 141,
+          "quote_count": 52,
+          "reply_count": 56,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵通告！🚨 \n\n今天我们的邮箱被上百封垃圾邮件轰炸，试图干扰我们的YouTube大赛评选工作。\n  \n不过嘛...看到有骚扰邮件说让本喵\"3天告别皱纹\"，本喵确实没忍住笑场了。本喵可是天生丝滑毛茸茸的，不需要去皱纹啦！🐱✨ \n \n骚扰邮件是吓不倒我们的！ \nYouTube大赛依然稳步进行中～… https://t.co/YRIzO4YPUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 147,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 287
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T19:20:30.000Z",
+        "description": "\"The most dangerous cat in China.\" @whyyoutouzhele $LI HhUVkZ1qz8vfMqZDemLyxBFxrHFKVSYAk7a6227Lpump",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 54,
+                "start": 51,
+                "tag": "LI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "whyyoutouzhele"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 23,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 0,
+                "url": "https://t.co/5Z1meSkAlZ"
+              }
+            ]
+          }
+        },
+        "id": "1865838810283601920",
+        "name": "Li",
+        "pinned_tweet_id": "1873715376342667556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865839445305446400/CXdIxN_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8876,
+          "following_count": 34,
+          "like_count": 17,
+          "listed_count": 37,
+          "media_count": 59,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/5Z1meSkAlZ",
+        "username": "Li_memecoin",
+        "verified": true
+      }
+    ]
+  }
+}

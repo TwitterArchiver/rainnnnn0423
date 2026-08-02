@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907559641326006367",
+    "created_at": "2025-04-02T22:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T23:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907559641326006367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ougou_404/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ougou_404/status/1906165003469959305",
+          "start": 6,
+          "url": "https://t.co/67uEykT1nK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907559641326006367",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906165003469959305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要吐了。 https://t.co/67uEykT1nK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907559641326006367",
+        "created_at": "2025-04-02T22:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T23:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907559641326006367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ougou_404/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ougou_404/status/1906165003469959305",
+              "start": 6,
+              "url": "https://t.co/67uEykT1nK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907559641326006367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906165003469959305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要吐了。 https://t.co/67uEykT1nK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654159503921934337",
+        "conversation_id": "1906165003469959305",
+        "created_at": "2025-03-30T02:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T03:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906165003469959305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906165003469959305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点好奇，为什么家这个本应该是承载爱和包容的地方，在牢中这里绝大部分家庭就是高压和责骂还有强迫。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 406,
+          "like_count": 1763,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2839
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T16:22:21.000Z",
+        "description": "ADHD/友跨友同友od/戒酒戒烟戒OD",
+        "id": "1654159503921934337",
+        "name": "最佳萌宠",
+        "pinned_tweet_id": "1901244910218666200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907104728699613184/nx-e69pE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 199,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 409
+        },
+        "username": "ougou_404",
+        "verified": false
+      }
+    ]
+  }
+}

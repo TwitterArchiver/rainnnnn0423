@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1991864699756200355",
+    "created_at": "2025-11-21T13:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991864699756200355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bookoff_anime/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Bookoff_anime/status/1991810164807405954",
+          "start": 27,
+          "url": "https://t.co/cNwlKLzuVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991864699756200355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991810164807405954",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新柄说不上来的诡异，又一次暴露了梅老师人体不行的硬伤 https://t.co/cNwlKLzuVl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_1991809172669960192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6RT47VbkAAx5Az.jpg",
+        "width": 1754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1991864699756200355",
+        "created_at": "2025-11-21T13:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991864699756200355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bookoff_anime/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Bookoff_anime/status/1991810164807405954",
+              "start": 27,
+              "url": "https://t.co/cNwlKLzuVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991864699756200355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991810164807405954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新柄说不上来的诡异，又一次暴露了梅老师人体不行的硬伤 https://t.co/cNwlKLzuVl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991809172669960192"
+          ]
+        },
+        "author_id": "1621366330795655168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1991810164807405954",
+        "created_at": "2025-11-21T10:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991810164807405954"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "#魔法少女ノ魔女裁判",
+              "probability": 0.3692,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 26,
+              "normalized_text": "BOOKOFF",
+              "probability": 0.7987,
+              "start": 20,
+              "type": "Organization"
+            },
+            {
+              "end": 41,
+              "normalized_text": "梅まろ氏",
+              "probability": 0.6065,
+              "start": 38,
+              "type": "Person"
+            },
+            {
+              "end": 71,
+              "normalized_text": "ガーリーファッション",
+              "probability": 0.5105,
+              "start": 62,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "魔法少女ノ魔女裁判"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 56,
+              "id": "830107331182489600",
+              "start": 43,
+              "username": "umeboshimaro"
+            }
+          ],
+          "urls": [
+            {
+              "description": "イラストレーター・梅まろ氏による「ガーリーファッション」テーマの新規描き下ろしイラストが登場♪",
+              "display_url": "bookoff.co.jp/buy/anime/new_…",
+              "end": 156,
+              "expanded_url": "https://www.bookoff.co.jp/buy/anime/new_ltd_0029_manosaba.html",
+              "start": 133,
+              "status": 200,
+              "title": "『魔法少女ノ魔女裁判』×BOOKOFFコラボ",
+              "unwound_url": "https://www.bookoff.co.jp/buy/anime/new_ltd_0029_manosaba.html",
+              "url": "https://t.co/NaSmGCBm8R"
+            },
+            {
+              "display_url": "pic.x.com/TO7Ln8KxMh",
+              "end": 180,
+              "expanded_url": "https://x.com/Bookoff_anime/status/1991810164807405954/photo/1",
+              "media_key": "3_1991809172669960192",
+              "start": 157,
+              "url": "https://t.co/TO7Ln8KxMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991810164807405954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1638,
+          "impression_count": 466395,
+          "like_count": 9904,
+          "quote_count": 959,
+          "reply_count": 30,
+          "retweet_count": 4194
+        },
+        "reply_settings": "everyone",
+        "text": "＼開催決定／\n『#魔法少女ノ魔女裁判』×BOOKOFF\n\nイラストレーター・梅まろ氏（@umeboshimaro）による\n「ガーリーファッション」テーマの新規描き下ろしイラストが登場❤️\n\n🗓️2025/12/19(金)～2026/1/18(日)\n\n詳細はこちら👇\nhttps://t.co/NaSmGCBm8R https://t.co/TO7Ln8KxMh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 588,
+          "like_count": 4646,
+          "listed_count": 4,
+          "media_count": 320,
+          "tweet_count": 4212
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T04:34:07.000Z",
+        "description": "ブックオフのアニメ専門アカウントです。アニメグッズを中心にアニメ・ゲーム関連の商品情報や店舗情報をお届けいたします。本アカウントへのお問い合わせにはお答えしておりませんのでご了承下さい。コラボ・イベント情報などはこちら→https://t.co/pu12NgLPw3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bookoff.co.jp/buy/anime/new.…",
+                "end": 133,
+                "expanded_url": "https://www.bookoff.co.jp/buy/anime/new.html",
+                "start": 110,
+                "url": "https://t.co/pu12NgLPw3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bookoff.co.jp/buy/anime/inde…",
+                "end": 23,
+                "expanded_url": "https://www.bookoff.co.jp/buy/anime/index.html",
+                "start": 0,
+                "url": "https://t.co/cn512EEfEO"
+              }
+            ]
+          }
+        },
+        "id": "1621366330795655168",
+        "name": "ブックオフ【公式】アニメ専門アカウント",
+        "pinned_tweet_id": "1983806074819113005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731713898663936/hCvXpqGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19396,
+          "following_count": 22,
+          "like_count": 583,
+          "listed_count": 24,
+          "media_count": 3586,
+          "tweet_count": 4132
+        },
+        "url": "https://t.co/cn512EEfEO",
+        "username": "Bookoff_anime",
+        "verified": false
+      }
+    ]
+  }
+}

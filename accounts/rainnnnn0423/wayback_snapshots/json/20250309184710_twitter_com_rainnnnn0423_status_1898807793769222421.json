@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1898807793769222421",
+    "created_at": "2025-03-09T18:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T19:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898807793769222421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whatasillyworl…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/whatasillyworld/status/1898691771292582238",
+          "start": 28,
+          "url": "https://t.co/P0b59QyZUD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898807793769222421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898691771292582238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要崩溃了 我爸就用这个痔疮膏\n每次闻到那味我都恶心。 https://t.co/P0b59QyZUD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1898807793769222421",
+        "created_at": "2025-03-09T18:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T19:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898807793769222421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whatasillyworl…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/whatasillyworld/status/1898691771292582238",
+              "start": 28,
+              "url": "https://t.co/P0b59QyZUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898807793769222421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898691771292582238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要崩溃了 我爸就用这个痔疮膏\n每次闻到那味我都恶心。 https://t.co/P0b59QyZUD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "438953796",
+        "conversation_id": "1898643708645626011",
+        "created_at": "2025-03-09T11:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T12:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898691771292582238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898691771292582238",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11161,
+          "like_count": 307,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898643708645626011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 想起一个男生写的感性文章，说年轻时在电梯里偶遇有着若有若无却沁人心脾香气的美女，那一瞬间仿佛触动了少男心底里最柔软的部分。可惜当时年少腼腆，怯弱退缩，此后人海茫茫，难觅香踪。多少年来对那芬芳淡雅的邂逅念念不忘。\n\n后来机缘巧合知道了那是马应龙痔疮膏的味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博树洞🗑偷着键政 写点什么留下存在过的痕迹",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 357,
+          "like_count": 1436,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2345
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-17T06:15:37.000Z",
+        "description": "",
+        "id": "438953796",
+        "location": "North Carolina, USA",
+        "name": "人类💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637874196645814272/HBZHPFvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 269,
+          "like_count": 19766,
+          "listed_count": 5,
+          "media_count": 625,
+          "tweet_count": 7285
+        },
+        "username": "whatasillyworld",
+        "verified": true
+      }
+    ]
+  }
+}

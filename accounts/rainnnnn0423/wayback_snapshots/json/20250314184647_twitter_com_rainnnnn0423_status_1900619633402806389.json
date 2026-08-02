@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1900619633402806389",
+    "created_at": "2025-03-14T18:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T19:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900619633402806389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1477342523555135490",
+          "start": 3,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900619633402806389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900330986790932807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @torontobigface: 王局的公关手段确实值得学习👍👍👍\n在事情出现后\n第一步，在油管上发帖，测试民意\n第二步，发长文，回避不利指控，隐晦攻击对方，打造受害者人设\n第三步，虚空索敌，转移火力，通过攻击刘洋，提及法轮功转移注意力\n\n期待王局的第四步，看王局如何把谩…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1900619633402806389",
+        "created_at": "2025-03-14T18:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T19:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900619633402806389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1477342523555135490",
+              "start": 3,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900619633402806389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900330986790932807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @torontobigface: 王局的公关手段确实值得学习👍👍👍\n在事情出现后\n第一步，在油管上发帖，测试民意\n第二步，发长文，回避不利指控，隐晦攻击对方，打造受害者人设\n第三步，虚空索敌，转移火力，通过攻击刘洋，提及法轮功转移注意力\n\n期待王局的第四步，看王局如何把谩…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477342523555135490",
+        "conversation_id": "1900330986790932807",
+        "created_at": "2025-03-13T23:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T00:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900330986790932807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900330986790932807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 224723,
+          "like_count": 1404,
+          "quote_count": 8,
+          "reply_count": 274,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "王局的公关手段确实值得学习👍👍👍\n在事情出现后\n第一步，在油管上发帖，测试民意\n第二步，发长文，回避不利指控，隐晦攻击对方，打造受害者人设\n第三步，虚空索敌，转移火力，通过攻击刘洋，提及法轮功转移注意力\n\n期待王局的第四步，看王局如何把谩骂变成打赏\n步步为营，都是经验，都是知识👍👍👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博日记🗑请让我忘记一切痛苦与不安吧",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 364,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2458
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，温哥华",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1900109592345886978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690444,
+          "following_count": 252,
+          "like_count": 4063,
+          "listed_count": 2112,
+          "media_count": 5003,
+          "tweet_count": 16480
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

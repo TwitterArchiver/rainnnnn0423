@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2067186673910514153",
+    "created_at": "2026-06-17T10:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067186673910514153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sexytoxiaoshu/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Sexytoxiaoshu/status/2066490177124790778",
+          "start": 11,
+          "url": "https://t.co/xogQfRrbRh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067186673910514153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066490177124790778",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别搞，这招我好像玩过 https://t.co/xogQfRrbRh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 715,
+        "media_key": "3_2066490171340763136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2l3LKaMAAcd0x.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2067186673910514153",
+        "created_at": "2026-06-17T10:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067186673910514153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sexytoxiaoshu/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Sexytoxiaoshu/status/2066490177124790778",
+              "start": 11,
+              "url": "https://t.co/xogQfRrbRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067186673910514153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066490177124790778",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别搞，这招我好像玩过 https://t.co/xogQfRrbRh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066490171340763136"
+          ]
+        },
+        "author_id": "1824335360031330305",
+        "conversation_id": "2066490177124790778",
+        "created_at": "2026-06-15T11:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066490177124790778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dD5Nc0w9xk",
+              "end": 23,
+              "expanded_url": "https://x.com/Sexytoxiaoshu/status/2066490177124790778/photo/1",
+              "media_key": "3_2066490171340763136",
+              "start": 0,
+              "url": "https://t.co/dD5Nc0w9xk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066490177124790778",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 663219,
+          "like_count": 705,
+          "quote_count": 10,
+          "reply_count": 47,
+          "retweet_count": 9
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/dD5Nc0w9xk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 649,
+          "like_count": 5790,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4845
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T06:40:25.000Z",
+        "description": "小助理@bigovo888『 解答粉丝各种小问题·分享网友日常小故事·原创创作者知心叔叔』以我的名义主动联系你们的都是骗子!叔永远不会做骗人之事,希望大家能在X上开心快乐冲浪!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "bigovo888"
+              }
+            ]
+          }
+        },
+        "id": "1824335360031330305",
+        "name": "沈万姬",
+        "pinned_tweet_id": "2066392715118678504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911798911594856448/CC5qa7t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991360,
+          "following_count": 920,
+          "like_count": 24,
+          "listed_count": 959,
+          "media_count": 3885,
+          "tweet_count": 6727
+        },
+        "username": "Sexytoxiaoshu",
+        "verified": true
+      }
+    ]
+  }
+}

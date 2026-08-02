@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1884662977426841623",
+    "created_at": "2025-01-29T18:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T19:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884662977426841623"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1884662977426841623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别喜欢跟我亲友聊天，她会回我的每一句话。而且她知道我分享欲很强然后爱bb😄😄很开心认识这几年她一直听我bb😄😄\n亲友姐睡觉时间比我健康（我重度失眠作息太阴间了），导致我经常恬不知耻在她发了晚安之后，有想说的就发给她她第二天会一一回😄\n在被烂人挑唆，解开误会和好之后好像关系还更牢固了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1884662977426841623",
+        "created_at": "2025-01-29T18:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T19:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884662977426841623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884662977426841623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别喜欢跟我亲友聊天，她会回我的每一句话。而且她知道我分享欲很强然后爱bb😄😄很开心认识这几年她一直听我bb😄😄\n亲友姐睡觉时间比我健康（我重度失眠作息太阴间了），导致我经常恬不知耻在她发了晚安之后，有想说的就发给她她第二天会一一回😄\n在被烂人挑唆，解开误会和好之后好像关系还更牢固了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我碎碎念刷屏的里号！",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 211,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 730
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

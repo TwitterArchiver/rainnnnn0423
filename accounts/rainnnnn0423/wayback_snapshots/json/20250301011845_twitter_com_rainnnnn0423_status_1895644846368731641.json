@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1895644846368731641",
+    "created_at": "2025-03-01T01:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T02:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895644846368731641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vir_coconut/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/vir_coconut/status/1895634331290517784",
+          "start": 28,
+          "url": "https://t.co/KxeJKBA75G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895644846368731641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895634331290517784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃我当时纯抑郁给我开公式喹硫平，我没双相没躁狂没精分😂 https://t.co/KxeJKBA75G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1895644846368731641",
+        "created_at": "2025-03-01T01:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T02:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895644846368731641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vir_coconut/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/vir_coconut/status/1895634331290517784",
+              "start": 28,
+              "url": "https://t.co/KxeJKBA75G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895644846368731641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895634331290517784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃我当时纯抑郁给我开公式喹硫平，我没双相没躁狂没精分😂 https://t.co/KxeJKBA75G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2596381225",
+        "conversation_id": "1895634331290517784",
+        "created_at": "2025-03-01T00:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T01:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895634331290517784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895634331290517784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国心理医生参差不齐 多数都非常没用还非常贱 我初中第一次去精神科查出来中度抑郁 那个死妈的医生给我开奥氮平 吃的我越来越肥被欺负的更惨 从这里开始我就体重焦虑到后面进食障碍反复暴食绝食 我那个时候还喜欢在心情最差劲的时候吞药 我草泥马可以的吞了一堆睡了三四天没起爸妈也不送医院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 307,
+          "like_count": 1150,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1874
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "男生/mtx｜坐标广州｜照片媒体",
+        "id": "2596381225",
+        "location": "🚪88好友位无朋友圈/188线下咨询/520陪聊/1314",
+        "name": "椰",
+        "pinned_tweet_id": "1894500793996513511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889759508567826434/YKreL3Kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6150,
+          "following_count": 204,
+          "like_count": 2653,
+          "listed_count": 14,
+          "media_count": 19,
+          "tweet_count": 1338
+        },
+        "username": "vir_coconut",
+        "verified": false
+      }
+    ]
+  }
+}

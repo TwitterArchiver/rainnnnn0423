@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896492787841061226",
+    "created_at": "2025-03-03T09:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T10:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896492787841061226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hsn8086/status/1896154746253414468",
+          "start": 18,
+          "url": "https://t.co/J0hyB192c2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896492787841061226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896154746253414468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别卖课了行不。难以想象买课的啥智商 https://t.co/J0hyB192c2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1896154739592548352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlB-sHyWUAAweQz.jpg",
+        "width": 815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896492787841061226",
+        "created_at": "2025-03-03T09:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896492787841061226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hsn8086/status/1896154746253414468",
+              "start": 18,
+              "url": "https://t.co/J0hyB192c2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896492787841061226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896154746253414468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别卖课了行不。难以想象买课的啥智商 https://t.co/J0hyB192c2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896154739592548352"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1896154746253414468",
+        "created_at": "2025-03-02T11:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T12:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896154746253414468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSbdeMEHmP",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1896154746253414468/photo/1",
+              "media_key": "3_1896154739592548352",
+              "start": 0,
+              "url": "https://t.co/TSbdeMEHmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896154746253414468",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 115790,
+          "like_count": 809,
+          "quote_count": 11,
+          "reply_count": 90,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TSbdeMEHmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑包蜜",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 329,
+          "like_count": 1212,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2014
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1895271678005125582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43321,
+          "following_count": 919,
+          "like_count": 36678,
+          "listed_count": 109,
+          "media_count": 6958,
+          "tweet_count": 12242
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

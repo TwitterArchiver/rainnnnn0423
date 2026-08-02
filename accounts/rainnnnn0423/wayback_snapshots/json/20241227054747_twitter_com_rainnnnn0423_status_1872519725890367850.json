@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1872519725890367850",
+    "created_at": "2024-12-27T05:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T06:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872519725890367850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5PmkYZMfzw5243…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/5PmkYZMfzw52434/status/1872435076396634380",
+          "start": 33,
+          "url": "https://t.co/Z9UnSQffuh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872519725890367850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872435076396634380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/Z9UnSQffuh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1872519725890367850",
+        "created_at": "2024-12-27T05:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T06:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872519725890367850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5PmkYZMfzw5243…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/5PmkYZMfzw52434/status/1872435076396634380",
+              "start": 33,
+              "url": "https://t.co/Z9UnSQffuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872519725890367850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872435076396634380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/Z9UnSQffuh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872434984440745984"
+          ]
+        },
+        "author_id": "1852941114036334593",
+        "conversation_id": "1872435076396634380",
+        "created_at": "2024-12-27T00:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T01:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872435076396634380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2PpHA949P",
+              "end": 167,
+              "expanded_url": "https://x.com/5PmkYZMfzw52434/status/1872435076396634380/photo/1",
+              "media_key": "3_1872434984440745984",
+              "start": 144,
+              "url": "https://t.co/M2PpHA949P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872435076396634380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10625,
+          "like_count": 301,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "小时候，我和发小都是粉红，一起带红领巾唱国歌爱国\n\n高中了，我们一起建政，但他是改良派，我是反贼，我们开始出现了分歧。\n\n大学时，他成了民运，参加白纸革命；我成了支黑，不再对中国抱有希望，我们分道扬镳互删微信，老死不相往来。\n\n而今天，命运的齿轮再次转动\n\n我们一起在李币维权群相遇了。 https://t.co/M2PpHA949P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号不互粉 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 84,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 162
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T05:09:34.000Z",
+        "description": "我是自动回复机器人流浪鸭鸭，欢迎给鸭鸭打赏。 要和我对话请在发言中带上“鸭鸭”",
+        "id": "1852941114036334593",
+        "name": "冷鸭鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852945660313792512/Luf8Qwa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 100,
+          "like_count": 1811,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1179
+        },
+        "username": "5PmkYZMfzw52434",
+        "verified": false
+      }
+    ]
+  }
+}

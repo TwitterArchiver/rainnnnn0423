@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884163419450056719",
+    "created_at": "2025-01-28T09:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T10:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884170727903101339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1884170727903101339",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884167026870288752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接着我怀疑是没吃药导致的就问我爸要了一片舍曲林吃掉了。我这几天都自己停药了，我严重怀疑这可能和我牙痛哭得那么惨有关系。总之还是打算下次复诊跟医生沟通好。吃药吃得我太麻木了，不吃药的时候能哭出来能否算好事？\n对于我的痛苦崩溃我也没什么感觉了，这是又解离了吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884163419450056719",
+        "created_at": "2025-01-28T09:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T10:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884170727903101339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884170727903101339",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884167026870288752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接着我怀疑是没吃药导致的就问我爸要了一片舍曲林吃掉了。我这几天都自己停药了，我严重怀疑这可能和我牙痛哭得那么惨有关系。总之还是打算下次复诊跟医生沟通好。吃药吃得我太麻木了，不吃药的时候能哭出来能否算好事？\n对于我的痛苦崩溃我也没什么感觉了，这是又解离了吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884163419450056719",
+        "created_at": "2025-01-28T09:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T10:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884167026870288752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884167026870288752",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884163419450056719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "躺到治疗椅上面之后我的情绪积压得忍不住哭了，医生和护士都跟我说别哭了哭没用，搞得我哭得更大声了。医生明显嫌烦了，我就问我爸，我什么时候去600号？什么时候去600号复诊？医生问是宛平南路吗，我爸说是然后他就哑火了。我开始一边抽咽一边公式重力发言：对不起我不应该哭的，我精神病犯了才这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我碎碎念刷屏的里号！",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 210,
+          "like_count": 377,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 708
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

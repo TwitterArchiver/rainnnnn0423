@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885819667740311779",
+    "created_at": "2025-02-01T22:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T23:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885820890249892198"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1885820890249892198",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885819667740311779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刻板印象就是在一次又一次看到符合我刻板印象的言论后加深的。\n逃离微博极端女拳之后我是吊子和xxn都骂，“小仙女”这词真的完美概括xhs用户群体。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885819667740311779",
+        "created_at": "2025-02-01T22:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T23:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885820890249892198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885820890249892198",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885819667740311779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刻板印象就是在一次又一次看到符合我刻板印象的言论后加深的。\n逃离微博极端女拳之后我是吊子和xxn都骂，“小仙女”这词真的完美概括xhs用户群体。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885819667740311779",
+        "created_at": "2025-02-01T22:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T23:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885819667740311779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/three5533_fift…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/three5533_fifty/status/1884938061794173056",
+              "start": 54,
+              "url": "https://t.co/6GYbsOyC7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885819667740311779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884938061794173056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xhs用户画像就是蠢人。\n每天都有层出不穷的弱智在xhs上发表逆天言论，什么时候智力障碍人士也学会上网了。 https://t.co/6GYbsOyC7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 224,
+          "like_count": 556,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 874
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

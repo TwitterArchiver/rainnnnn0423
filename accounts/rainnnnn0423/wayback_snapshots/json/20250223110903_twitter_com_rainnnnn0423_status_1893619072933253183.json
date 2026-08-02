@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893339671700144419",
+    "created_at": "2025-02-23T11:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T12:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893619072933253183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1856869593052237824",
+          "start": 0,
+          "username": "cyberknight4396"
+        },
+        {
+          "end": 29,
+          "id": "1765034185448636416",
+          "start": 17,
+          "username": "camille8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893619072933253183",
+    "in_reply_to_user_id": "1856869593052237824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893364043462639943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyberknight4396 @camille8964 棍公加油我是棍嬷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_1893364032985264128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkaUjniWcAAaFox.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893339671700144419",
+        "created_at": "2025-02-23T11:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T12:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893619072933253183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1856869593052237824",
+              "start": 0,
+              "username": "cyberknight4396"
+            },
+            {
+              "end": 29,
+              "id": "1765034185448636416",
+              "start": 17,
+              "username": "camille8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893619072933253183",
+        "in_reply_to_user_id": "1856869593052237824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893364043462639943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyberknight4396 @camille8964 棍公加油我是棍嬷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893364032985264128"
+          ]
+        },
+        "author_id": "1856869593052237824",
+        "conversation_id": "1893339671700144419",
+        "created_at": "2025-02-22T18:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T19:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893364043462639943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765034185448636416",
+              "start": 0,
+              "username": "camille8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8duUkhKUM7",
+              "end": 58,
+              "expanded_url": "https://x.com/cyberknight4396/status/1893364043462639943/photo/1",
+              "media_key": "3_1893364032985264128",
+              "start": 35,
+              "url": "https://t.co/8duUkhKUM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893364043462639943",
+        "in_reply_to_user_id": "1765034185448636416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893339671700144419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camille8964 侯国玉忙着操我呢，我甚至能solo过棍哥😨 https://t.co/8duUkhKUM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 280,
+          "like_count": 947,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1603
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T01:20:03.000Z",
+        "description": "激进跨权主义｜无政府共产主义｜推翻性别二元｜打倒父亲｜摧毁婚姻制｜极左恐怖分子☠️｜超人类主义👾｜全世界被压迫者联合起来🏳️‍🌈🏳️‍⚧️🏴‍☠️🏴🚩🌐💪🏾🦾🔥🍾｜🧙: @BAnarchistKUNIN｜📡: @Fareastelecommi ｜🌐: @gherojamslava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "BAnarchistKUNIN"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "Fareastelecommi"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "gherojamslava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/synthetic_dawn",
+                "end": 23,
+                "expanded_url": "https://t.me/synthetic_dawn",
+                "start": 0,
+                "url": "https://t.co/7ojej5TXBN"
+              }
+            ]
+          }
+        },
+        "id": "1856869593052237824",
+        "location": "凯尔·莫罕",
+        "name": "Ⓐ赛博骑士☭ 🐺白狼崛起⚔️",
+        "pinned_tweet_id": "1857484112480841873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880706994031714304/b38bVTZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 328,
+          "like_count": 12987,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 5562
+        },
+        "url": "https://t.co/7ojej5TXBN",
+        "username": "cyberknight4396",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T15:19:03.000Z",
+        "description": "//精神錯亂//",
+        "id": "1765034185448636416",
+        "location": "潮酷騷孩共和國",
+        "name": "ଳ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892917591858880512/HauaLiV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 549,
+          "like_count": 20142,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 15907
+        },
+        "username": "camille8964",
+        "verified": false
+      }
+    ]
+  }
+}

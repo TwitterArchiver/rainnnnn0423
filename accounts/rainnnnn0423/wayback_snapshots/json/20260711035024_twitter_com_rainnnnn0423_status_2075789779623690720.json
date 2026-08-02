@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2075789779623690720",
+    "created_at": "2026-07-11T03:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075789779623690720"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "まのさば"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "149103254",
+          "start": 3,
+          "username": "kadokawasneaker"
+        },
+        {
+          "end": 83,
+          "id": "1794989776845836288",
+          "start": 72,
+          "username": "n_mikitani"
+        },
+        {
+          "end": 133,
+          "id": "149103254",
+          "start": 117,
+          "username": "kadokawasneaker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075789779623690720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3940
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075505556303790106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kadokawasneaker: ◆#まのさば 小説発売記念◆\n\n小説『魔法少女ノ魔女裁判』発売を記念して\n桜羽エマ役 三木谷奈々さん（@n_mikitani）の\nサイン色紙を抽選で3名様に贈呈いたします。\n\n応募方法 \n① @kadokawasneaker をフォロー…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2075116782994821120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxLuD3bkAAbPWU.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2075789779623690720",
+        "created_at": "2026-07-11T03:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075789779623690720"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "まのさば"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "149103254",
+              "start": 3,
+              "username": "kadokawasneaker"
+            },
+            {
+              "end": 83,
+              "id": "1794989776845836288",
+              "start": 72,
+              "username": "n_mikitani"
+            },
+            {
+              "end": 133,
+              "id": "149103254",
+              "start": 117,
+              "username": "kadokawasneaker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075789779623690720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3940
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075505556303790106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kadokawasneaker: ◆#まのさば 小説発売記念◆\n\n小説『魔法少女ノ魔女裁判』発売を記念して\n桜羽エマ役 三木谷奈々さん（@n_mikitani）の\nサイン色紙を抽選で3名様に贈呈いたします。\n\n応募方法 \n① @kadokawasneaker をフォロー…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075116782994821120"
+          ]
+        },
+        "author_id": "149103254",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2075505556303790106",
+        "created_at": "2026-07-10T09:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075505556303790106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 1,
+              "tag": "まのさば"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1794989776845836288",
+              "start": 51,
+              "username": "n_mikitani"
+            },
+            {
+              "end": 112,
+              "id": "149103254",
+              "start": 96,
+              "username": "kadokawasneaker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7tRGkU9hG",
+              "end": 176,
+              "expanded_url": "https://x.com/kadokawasneaker/status/2075505556303790106/photo/1",
+              "media_key": "3_2075116782994821120",
+              "start": 153,
+              "url": "https://t.co/C7tRGkU9hG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075505556303790106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 101181,
+          "like_count": 2913,
+          "quote_count": 38,
+          "reply_count": 37,
+          "retweet_count": 3940
+        },
+        "reply_settings": "everyone",
+        "text": "◆#まのさば 小説発売記念◆\n\n小説『魔法少女ノ魔女裁判』発売を記念して\n桜羽エマ役 三木谷奈々さん（@n_mikitani）の\nサイン色紙を抽選で3名様に贈呈いたします。\n\n応募方法 \n① @kadokawasneaker をフォロー\n② 本ポストをRPで応募 \n\n締切：7月27日(月)23:59まで https://t.co/C7tRGkU9hG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 659,
+          "like_count": 5993,
+          "listed_count": 3,
+          "media_count": 353,
+          "tweet_count": 4908
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-28T12:27:11.000Z",
+        "description": "角川スニーカー文庫編集部の公式アカウントです。 新刊情報を中心にニュースをお届け！ ★LINE@はじめました《毎月の人気作品壁紙など、ここだけのスペシャルコンテンツを配信中!!》https://t.co/Rpd03zkYdB…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/R/ti/p/%40kxm1",
+                "end": 112,
+                "expanded_url": "http://line.me/R/ti/p/%40kxm1",
+                "start": 89,
+                "url": "https://t.co/Rpd03zkYdB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sneakerbunko.jp",
+                "end": 23,
+                "expanded_url": "https://sneakerbunko.jp/",
+                "start": 0,
+                "url": "https://t.co/zoaDCSG9BC"
+              }
+            ]
+          }
+        },
+        "id": "149103254",
+        "location": "ザ・スニーカーＷＥＢ",
+        "name": "スニーカー文庫＠毎月1日発売!!",
+        "pinned_tweet_id": "2072259108976361564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622827882803494912/6JN_Qu0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167645,
+          "following_count": 2321,
+          "like_count": 9688,
+          "listed_count": 1550,
+          "media_count": 14313,
+          "tweet_count": 41560
+        },
+        "url": "https://t.co/zoaDCSG9BC",
+        "username": "kadokawasneaker",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-27T07:14:27.000Z",
+        "description": "【Acacia所属声優】 声と歌の人。\n魔法少女ノ魔女裁判 桜羽エマ役／魔法少女ノ因習村 綿貫サクヤ役／ヨルタナ イチゴ役\n食べるのがすきです。ご依頼は下記リンク先下部かメールまでお願いします🌸 #まのさば",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "まのさば"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acacia-create.com/creator/creato…",
+                "end": 23,
+                "expanded_url": "https://acacia-create.com/creator/creator-261/",
+                "start": 0,
+                "url": "https://t.co/UcShbVtLUN"
+              }
+            ]
+          }
+        },
+        "id": "1794989776845836288",
+        "location": "nanamikitani@gmail.com",
+        "name": "三木谷奈々",
+        "pinned_tweet_id": "2037824538525007957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796005914392317952/tGNhAdF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15482,
+          "following_count": 104,
+          "like_count": 13321,
+          "listed_count": 35,
+          "media_count": 54,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/UcShbVtLUN",
+        "username": "n_mikitani",
+        "verified": true
+      }
+    ]
+  }
+}

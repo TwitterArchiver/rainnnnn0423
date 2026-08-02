@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1914643346771075146",
+    "created_at": "2025-04-22T11:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T12:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914643346771075146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559549613442338816",
+          "start": 3,
+          "username": "zhensi200166"
+        },
+        {
+          "end": 29,
+          "id": "1814503876181241856",
+          "start": 18,
+          "username": "0rain4fall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914643346771075146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914572996356005897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhensi200166: @0rain4fall 一夫一妻制就是给双用的  一个丈夫一个妻子刚好满足了双男女都爱的情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1914643346771075146",
+        "created_at": "2025-04-22T11:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T12:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914643346771075146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559549613442338816",
+              "start": 3,
+              "username": "zhensi200166"
+            },
+            {
+              "end": 29,
+              "id": "1814503876181241856",
+              "start": 18,
+              "username": "0rain4fall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914643346771075146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914572996356005897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhensi200166: @0rain4fall 一夫一妻制就是给双用的  一个丈夫一个妻子刚好满足了双男女都爱的情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559549613442338816",
+        "conversation_id": "1914153788866457751",
+        "created_at": "2025-04-22T06:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T07:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914572996356005897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814503876181241856",
+              "start": 0,
+              "username": "0rain4fall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914572996356005897",
+        "in_reply_to_user_id": "1814503876181241856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914153788866457751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0rain4fall 一夫一妻制就是给双用的  一个丈夫一个妻子刚好满足了双男女都爱的情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 438,
+          "like_count": 2188,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 3238
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T14:36:43.000Z",
+        "description": "明日香激推♡\n小心我死给你看, 我精神有问题, 一秒八百个想法, 两秒一千六百个情绪 我是皇帝",
+        "id": "1559549613442338816",
+        "location": "Japan",
+        "name": "⁺✞ʚ明日香重度依赖ɞ✟₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870162617882554370/WaE6igwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 654,
+          "like_count": 11250,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1792
+        },
+        "username": "zhensi200166",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T03:33:50.000Z",
+        "description": "说说罢了",
+        "id": "1814503876181241856",
+        "name": "水日子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913809699776217088/wqyjJn3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 162,
+          "like_count": 4944,
+          "listed_count": 11,
+          "media_count": 6,
+          "tweet_count": 1659
+        },
+        "username": "0rain4fall",
+        "verified": false
+      }
+    ]
+  }
+}

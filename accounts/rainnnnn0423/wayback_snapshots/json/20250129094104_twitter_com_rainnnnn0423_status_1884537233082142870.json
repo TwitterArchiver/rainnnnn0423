@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884537233082142870",
+    "created_at": "2025-01-29T09:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T10:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884537233082142870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499366806640676866",
+          "start": 3,
+          "username": "Jing_77ouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884537233082142870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794780083074605546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jing_77ouo: 抑郁症是被社会强奸留下的性病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884537233082142870",
+        "created_at": "2025-01-29T09:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T10:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884537233082142870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499366806640676866",
+              "start": 3,
+              "username": "Jing_77ouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884537233082142870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794780083074605546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jing_77ouo: 抑郁症是被社会强奸留下的性病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499366806640676866",
+        "conversation_id": "1794780083074605546",
+        "created_at": "2024-05-26T17:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T18:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794780083074605546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794780083074605546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 131804,
+          "like_count": 599,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症是被社会强奸留下的性病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我碎碎念刷屏的里号！",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 211,
+          "like_count": 385,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 725
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T12:51:29.000Z",
+        "description": "占卜包年价格私聊，一年内无限问！可以无限优先问卜无需等待 热爱祖国，拥护中国共产党的领导，拥护社会主义制度，活的很简单，全职谋士，上个网想干啥就干啥主打随心所欲。会转发同行推文自行辨别，不接推广，亲兄弟@Yusaku070623 不接任何广告",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 101,
+                "username": "Yusaku070623"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/syq90985",
+                "end": 23,
+                "expanded_url": "https://ngl.link/syq90985",
+                "start": 0,
+                "url": "https://t.co/Qoa2HIcRv1"
+              }
+            ]
+          }
+        },
+        "id": "1499366806640676866",
+        "location": "匿名提问在这里",
+        "name": "郭嘉大王666",
+        "pinned_tweet_id": "1868102798782706100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852361534313472000/hK9RjNvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11490,
+          "following_count": 271,
+          "like_count": 2622,
+          "listed_count": 15,
+          "media_count": 680,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/Qoa2HIcRv1",
+        "username": "Jing_77ouo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2068857311117156609",
+    "created_at": "2026-06-22T00:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068857311117156609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1724819848394616832",
+          "start": 3,
+          "username": "wjwjm123936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068857311117156609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068395572789449096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wjwjm123936: 唉大家千万不要在情感极其匮乏 极度渴望认同和被认可的的情况下和人建立关系啊。最后对方大可以一走了之。你又要花很长的时间来重构内心和建立防御。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2068857311117156609",
+        "created_at": "2026-06-22T00:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068857311117156609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1724819848394616832",
+              "start": 3,
+              "username": "wjwjm123936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068857311117156609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068395572789449096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wjwjm123936: 唉大家千万不要在情感极其匮乏 极度渴望认同和被认可的的情况下和人建立关系啊。最后对方大可以一走了之。你又要花很长的时间来重构内心和建立防御。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724819848394616832",
+        "conversation_id": "2068395572789449096",
+        "created_at": "2026-06-20T18:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068395572789449096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068395572789449096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 49783,
+          "like_count": 1579,
+          "quote_count": 19,
+          "reply_count": 58,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "唉大家千万不要在情感极其匮乏 极度渴望认同和被认可的的情况下和人建立关系啊。最后对方大可以一走了之。你又要花很长的时间来重构内心和建立防御。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 648,
+          "like_count": 5819,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4856
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T16:01:18.000Z",
+        "description": "infj男，无聊摆烂大学生。希望大家都克己复礼。\n不加别的联系方式了 有烦恼或者聊天就在推找我就可以，我都会回复的。",
+        "id": "1724819848394616832",
+        "location": "china",
+        "name": "求索",
+        "pinned_tweet_id": "2066585913615069638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066196665107992576/yd5e4bA8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 65,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "wjwjm123936",
+        "verified": false
+      }
+    ]
+  }
+}

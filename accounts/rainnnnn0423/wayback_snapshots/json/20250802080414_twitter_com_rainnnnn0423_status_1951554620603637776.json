@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1951554620603637776",
+    "created_at": "2025-08-02T08:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T09:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951554620603637776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tearswater_/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Tearswater_/status/1951250853450449277",
+          "start": 9,
+          "url": "https://t.co/WQB5Hbn5lk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951554620603637776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951250853450449277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子们不要推推恋 https://t.co/WQB5Hbn5lk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1951554620603637776",
+        "created_at": "2025-08-02T08:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T09:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951554620603637776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tearswater_/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Tearswater_/status/1951250853450449277",
+              "start": 9,
+              "url": "https://t.co/WQB5Hbn5lk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951554620603637776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951250853450449277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们不要推推恋 https://t.co/WQB5Hbn5lk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873965186459328514",
+        "conversation_id": "1951250853450449277",
+        "created_at": "2025-08-01T11:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951250853450449277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951250853450449277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 57301,
+          "like_count": 286,
+          "quote_count": 8,
+          "reply_count": 86,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都在抵制推推恋，大家却仍在推推恋。？这是为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile |自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 521,
+          "like_count": 3999,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 3893
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T05:31:42.000Z",
+        "description": "狗狗教教主｜switch 不线下 不视频 不接推广除产品 +v先过门 收口令看到会回｜匿名箱https://t.co/fFZ0PU3TLf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tearswater_",
+                "end": 69,
+                "expanded_url": "https://ngl.link/tearswater_",
+                "start": 46,
+                "url": "https://t.co/fFZ0PU3TLf"
+              }
+            ]
+          }
+        },
+        "id": "1873965186459328514",
+        "location": "🧸🐰",
+        "name": "眼淚水",
+        "pinned_tweet_id": "1951500965263319177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947526147123888128/fk3qzt0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4406,
+          "following_count": 580,
+          "like_count": 16117,
+          "listed_count": 17,
+          "media_count": 177,
+          "tweet_count": 4100
+        },
+        "username": "Tearswater_",
+        "verified": false
+      }
+    ]
+  }
+}

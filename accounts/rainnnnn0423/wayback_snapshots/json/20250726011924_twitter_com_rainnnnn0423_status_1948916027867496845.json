@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1948334483121524765",
+    "created_at": "2025-07-26T01:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T02:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948916027867496845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1796959726967889920",
+          "start": 0,
+          "username": "hami0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948916027867496845",
+    "in_reply_to_user_id": "1796959726967889920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948724198425117056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hami0721 纯婊子一个😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1948334483121524765",
+        "created_at": "2025-07-26T01:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T02:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948916027867496845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1796959726967889920",
+              "start": 0,
+              "username": "hami0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948916027867496845",
+        "in_reply_to_user_id": "1796959726967889920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948724198425117056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hami0721 纯婊子一个😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796959726967889920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1948334483121524765",
+        "created_at": "2025-07-25T12:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T13:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948724198425117056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948724198425117056",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948334483121524765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 勾子文学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "请听雨的声音。|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 521,
+          "like_count": 3933,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 3853
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T17:39:36.000Z",
+        "description": "前支黑/岁静ing/喜欢学习药理学知识/欢迎来找我聊天or咨询/👮😡👊\n不卖东西！不卖东西！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/F7BbOBdexI"
+              }
+            ]
+          }
+        },
+        "id": "1796959726967889920",
+        "location": "lab 5",
+        "name": "hachimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900753595794116608/aTeKYG2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 302,
+          "like_count": 3105,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/F7BbOBdexI",
+        "username": "hami0721",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893570414380531771",
+    "created_at": "2025-02-25T05:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T06:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894257459596071397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1025546987578556417",
+          "start": 0,
+          "username": "FTMiaoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894257459596071397",
+    "in_reply_to_user_id": "1025546987578556417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893570414380531771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FTMiaoX 爸妈好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_1893570401407533056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkdQP10XAAAYn85.jpg",
+        "width": 514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893570414380531771",
+        "created_at": "2025-02-25T05:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T06:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894257459596071397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1025546987578556417",
+              "start": 0,
+              "username": "FTMiaoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894257459596071397",
+        "in_reply_to_user_id": "1025546987578556417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893570414380531771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FTMiaoX 爸妈好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893570401407533056"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "1893570414380531771",
+        "created_at": "2025-02-23T07:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T08:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893570414380531771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rf1OIc2eGF",
+              "end": 23,
+              "expanded_url": "https://x.com/FTMiaoX/status/1893570414380531771/photo/1",
+              "media_key": "3_1893570401407533056",
+              "start": 0,
+              "url": "https://t.co/Rf1OIc2eGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893570414380531771",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12122,
+          "like_count": 267,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Rf1OIc2eGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑如果你视奸完了所有内容请私信告诉我😋我上推特就是来发疯的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 297,
+          "like_count": 1022,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1745
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "ftx/ftm/ASD/ADHD/S/Dom/我是发条 你的温柔赛博小黑猫/一般路过肥宅/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/主页搜索“授权”可以看到我的一些转载授权/我爱你 希望你幸福快乐 提问https://t.co/a4UYlpzxKj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "BakaHDT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ftmiao",
+                "end": 155,
+                "expanded_url": "https://ngl.link/ftmiao",
+                "start": 132,
+                "url": "https://t.co/a4UYlpzxKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6092,
+          "following_count": 3057,
+          "like_count": 150702,
+          "listed_count": 17,
+          "media_count": 2432,
+          "tweet_count": 25754
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": false
+      }
+    ]
+  }
+}

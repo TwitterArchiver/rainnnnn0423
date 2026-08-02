@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1880486246344192520",
+    "created_at": "2025-01-18T05:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T06:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880486246344192520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721381996960845824",
+          "start": 3,
+          "username": "laozhouhengmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880486246344192520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880234307543023629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laozhouhengmei: Tiktok难民在小红书上目前一片祥和， 是因为：\n\n1. 美国人从小被教育要批判美国和美国政府。正好中国人从小也被教育要批判美国和美国政府。\n\n2. 美国人喜欢自嘲，中国人死要面子。又合拍了。\n\n美国底层跟中国中产一对账，美国底层又找到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1880486246344192520",
+        "created_at": "2025-01-18T05:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T06:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880486246344192520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721381996960845824",
+              "start": 3,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880486246344192520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880234307543023629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laozhouhengmei: Tiktok难民在小红书上目前一片祥和， 是因为：\n\n1. 美国人从小被教育要批判美国和美国政府。正好中国人从小也被教育要批判美国和美国政府。\n\n2. 美国人喜欢自嘲，中国人死要面子。又合拍了。\n\n美国底层跟中国中产一对账，美国底层又找到…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880234292758081540",
+            "3_1880234292556734464"
+          ]
+        },
+        "author_id": "1721381996960845824",
+        "conversation_id": "1880234307543023629",
+        "created_at": "2025-01-17T12:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T13:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880234307543023629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bc9LrhiI72",
+              "end": 173,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1880234307543023629/photo/1",
+              "media_key": "3_1880234292758081540",
+              "start": 150,
+              "url": "https://t.co/bc9LrhiI72"
+            },
+            {
+              "display_url": "pic.x.com/bc9LrhiI72",
+              "end": 173,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1880234307543023629/photo/1",
+              "media_key": "3_1880234292556734464",
+              "start": 150,
+              "url": "https://t.co/bc9LrhiI72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880234307543023629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 249516,
+          "like_count": 1716,
+          "quote_count": 24,
+          "reply_count": 272,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "Tiktok难民在小红书上目前一片祥和， 是因为：\n\n1. 美国人从小被教育要批判美国和美国政府。正好中国人从小也被教育要批判美国和美国政府。\n\n2. 美国人喜欢自嘲，中国人死要面子。又合拍了。\n\n美国底层跟中国中产一对账，美国底层又找到了骂自己政府的理由，中国人又获得赢麻了的面子。\n\n皆大欢喜。 https://t.co/bc9LrhiI72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 173,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 397
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "原本是墙内时政批判类头部主播，微信视频号被下架几十个10万+，目前墙内已全面封杀。油管4个月破10万订阅。大马华人，美国8年，上海15年（2008~2023），现在新加坡；斯坦福计算机系，前金融企业CEO。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68888,
+          "following_count": 114,
+          "like_count": 6567,
+          "listed_count": 272,
+          "media_count": 364,
+          "tweet_count": 1828
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

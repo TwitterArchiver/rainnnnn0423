@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893515095638188441",
+    "created_at": "2025-02-23T04:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T05:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893515095638188441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1614594152062406656",
+          "start": 3,
+          "username": "fnggnjn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893515095638188441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893241746135372017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fnggnjn1: 说实话中国大学的药理和药物设计学教材都太落后了……\n浅入浅出，随便截取几段当成科普文都行🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893515095638188441",
+        "created_at": "2025-02-23T04:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T05:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893515095638188441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614594152062406656",
+              "start": 3,
+              "username": "fnggnjn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893515095638188441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893241746135372017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fnggnjn1: 说实话中国大学的药理和药物设计学教材都太落后了……\n浅入浅出，随便截取几段当成科普文都行🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614594152062406656",
+        "conversation_id": "1893241746135372017",
+        "created_at": "2025-02-22T10:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T11:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893241746135372017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893241746135372017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 339,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "说实话中国大学的药理和药物设计学教材都太落后了……\n浅入浅出，随便截取几段当成科普文都行🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 270,
+          "like_count": 921,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1538
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化研究者 物种：蛆 可以叫我蛆老师 反超人主义 提供用药及药理咨询（不包括任何已列管毒品！） 不推荐任何人使用我提到的药品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yiqunfeiwu",
+                "end": 23,
+                "expanded_url": "https://t.me/yiqunfeiwu",
+                "start": 0,
+                "url": "https://t.co/Nc6Ly3FTVF"
+              }
+            ]
+          }
+        },
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884396929767071746/vz8FuozQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 35,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/Nc6Ly3FTVF",
+        "username": "fnggnjn1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2026551287307767950",
+    "created_at": "2026-02-25T12:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T13:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026637427008508150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1522862031795372032",
+          "start": 0,
+          "username": "Alouette_zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026637427008508150",
+    "in_reply_to_user_id": "1522862031795372032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026551287307767950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alouette_zzz 我要喝😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_2026551273684635648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_BpXMWkAAABnB.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2026551287307767950",
+        "created_at": "2026-02-25T12:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026637427008508150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1522862031795372032",
+              "start": 0,
+              "username": "Alouette_zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026637427008508150",
+        "in_reply_to_user_id": "1522862031795372032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026551287307767950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alouette_zzz 我要喝😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026551273684635648"
+          ]
+        },
+        "author_id": "1522862031795372032",
+        "conversation_id": "2026551287307767950",
+        "created_at": "2026-02-25T06:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026551287307767950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoljexBHzT",
+              "end": 75,
+              "expanded_url": "https://x.com/Alouette_zzz/status/2026551287307767950/photo/1",
+              "media_key": "3_2026551273684635648",
+              "start": 52,
+              "url": "https://t.co/RoljexBHzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026551287307767950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7000,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂这个香蕉撞奶 我滴妈 太好喝了 额呃呃呃抽个2-3杯吧 没人参加我就自己喝😋😋\n点赞➕评论参与就行 https://t.co/RoljexBHzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2026316161751597531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 612,
+          "like_count": 4986,
+          "listed_count": 4,
+          "media_count": 335,
+          "tweet_count": 4511
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T08:53:09.000Z",
+        "description": "｜你总问别人好不好 那你好不好₍˄·͈༝·͈˄*₎◞ ̑̑｜｜°.✩┈⋆⁺幸福请降临在𝓛𝓮𝓿𝓲/左然/顾时夜手中₊⋆┈✩.°\n｜宝宝@wslcdg20｜💚🤍🩵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "wslcdg20"
+              }
+            ]
+          }
+        },
+        "id": "1522862031795372032",
+        "location": "🤍 SMTR25 🩵｜ 💚 𝓛𝓮𝓿𝓲  🤍",
+        "name": "小叙大王",
+        "pinned_tweet_id": "1874419696596074498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007425087050248192/vZN1cwT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 360,
+          "like_count": 53620,
+          "listed_count": 5,
+          "media_count": 1118,
+          "tweet_count": 10514
+        },
+        "username": "Alouette_zzz",
+        "verified": false
+      }
+    ]
+  }
+}

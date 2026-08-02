@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1882102655411216559",
+    "created_at": "2025-01-22T16:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T17:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882105170844365076"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1882105170844365076",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882102861330571609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及：我很反感“觉醒”这个词，我一听到谁谁谁说自己觉醒了就知道ta要沉迷于自己阵营并开始党同伐异了。粉红反贼支黑民逗的争吵撕逼和我以前爱看的二游大战和厕妹大战，其表现形式并没有本质上的不同。🤔你们在互联网上四处出征这么耗精力的事情靠的就是这种群体认同以及讨伐异己的快感吗。那很有生活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1882102655411216559",
+        "created_at": "2025-01-22T16:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T17:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882105170844365076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882105170844365076",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882102861330571609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及：我很反感“觉醒”这个词，我一听到谁谁谁说自己觉醒了就知道ta要沉迷于自己阵营并开始党同伐异了。粉红反贼支黑民逗的争吵撕逼和我以前爱看的二游大战和厕妹大战，其表现形式并没有本质上的不同。🤔你们在互联网上四处出征这么耗精力的事情靠的就是这种群体认同以及讨伐异己的快感吗。那很有生活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1882102655411216559",
+        "created_at": "2025-01-22T16:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T17:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882102861330571609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882102861330571609",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882102655411216559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种时候呢，看一看笑一笑得了。嫌不够过瘾的话还可以看两集乳包或者支黑笑话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 188,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 542
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907092251362336786",
+    "created_at": "2025-04-01T15:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T16:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907092251362336786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363613195164807168",
+          "start": 3,
+          "username": "Sabrina79797"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907092251362336786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906923283314012488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sabrina79797: 我一定要过上既淫乱又纯爱的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907092251362336786",
+        "created_at": "2025-04-01T15:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907092251362336786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363613195164807168",
+              "start": 3,
+              "username": "Sabrina79797"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907092251362336786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906923283314012488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sabrina79797: 我一定要过上既淫乱又纯爱的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363613195164807168",
+        "conversation_id": "1906923283314012488",
+        "created_at": "2025-04-01T04:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906923283314012488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906923283314012488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19656,
+          "like_count": 335,
+          "quote_count": 11,
+          "reply_count": 53,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "我一定要过上既淫乱又纯爱的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 398,
+          "like_count": 1714,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2804
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T22:15:18.000Z",
+        "description": "平平无奇jw3玩家/无🚪不加好友不接推广/e人/switch/不建议关注/推推空间朕做主",
+        "id": "1363613195164807168",
+        "location": "🌷",
+        "name": "Nanako",
+        "pinned_tweet_id": "1810514242648392144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902718096361869312/gas2nXES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60708,
+          "following_count": 0,
+          "like_count": 2190,
+          "listed_count": 162,
+          "media_count": 392,
+          "tweet_count": 7044
+        },
+        "username": "Sabrina79797",
+        "verified": false
+      }
+    ]
+  }
+}

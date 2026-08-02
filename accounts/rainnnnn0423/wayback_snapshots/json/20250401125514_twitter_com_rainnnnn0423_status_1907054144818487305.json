@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1907054144818487305",
+    "created_at": "2025-04-01T12:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T13:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907054144818487305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1672989064985714695",
+          "start": 3,
+          "username": "kokomiovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907054144818487305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906961726588776771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokomiovo33: 我真的觉得小红书的人有点疯\n丸崽被人搬到墙内，小红书都在群嘲丸崽觉得她吃的很差…\n然后就开始说自己男朋友鸡很大，骂她她还觉得是大家嫉妒她，觉得别人都吃不到她男朋友的鸡………………………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1907054144818487305",
+        "created_at": "2025-04-01T12:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T13:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907054144818487305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1672989064985714695",
+              "start": 3,
+              "username": "kokomiovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907054144818487305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906961726588776771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokomiovo33: 我真的觉得小红书的人有点疯\n丸崽被人搬到墙内，小红书都在群嘲丸崽觉得她吃的很差…\n然后就开始说自己男朋友鸡很大，骂她她还觉得是大家嫉妒她，觉得别人都吃不到她男朋友的鸡………………………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672989064985714695",
+        "conversation_id": "1906961726588776771",
+        "created_at": "2025-04-01T06:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T07:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906961726588776771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906961726588776771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 50739,
+          "like_count": 561,
+          "quote_count": 8,
+          "reply_count": 81,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得小红书的人有点疯\n丸崽被人搬到墙内，小红书都在群嘲丸崽觉得她吃的很差…\n然后就开始说自己男朋友鸡很大，骂她她还觉得是大家嫉妒她，觉得别人都吃不到她男朋友的鸡………………………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/现生忙了偶尔上推/抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 396,
+          "like_count": 1706,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2786
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T15:24:28.000Z",
+        "description": "我发誓不会再爱上🚪哥！不闲聊！不约！（互关宝宝随意骚扰我）自用vpn9.9 一年https://t.co/gfPCeEYFZT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xyz2.281968.xyz/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://xyz2.281968.xyz/#/register?code=VaS3viA0",
+                "start": 40,
+                "url": "https://t.co/gfPCeEYFZT"
+              }
+            ]
+          }
+        },
+        "id": "1672989064985714695",
+        "location": "纯绿绿绿绿🚪188（不回非🚪私信）",
+        "name": "小睡要睡了",
+        "pinned_tweet_id": "1897690237360283672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888008977717383168/KgIFaKDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11682,
+          "following_count": 145,
+          "like_count": 2292,
+          "listed_count": 12,
+          "media_count": 43,
+          "tweet_count": 1467
+        },
+        "username": "kokomiovo33",
+        "verified": false
+      }
+    ]
+  }
+}

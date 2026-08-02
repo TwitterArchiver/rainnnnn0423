@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2064516643477504370",
+    "created_at": "2026-06-10T01:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064516643477504370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063809217488982016",
+          "start": 3,
+          "username": "Nijika_Dark2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064516643477504370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063810581216591877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nijika_Dark2: 我是超级虹夏，也叫超级虹虹虹虹夏 ，前世@Nijika_overdose@Nijika_Dark呗大手封禁，寻回失散亲友中\n又盘碎一个核桃呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2064516643477504370",
+        "created_at": "2026-06-10T01:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064516643477504370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063809217488982016",
+              "start": 3,
+              "username": "Nijika_Dark2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064516643477504370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063810581216591877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nijika_Dark2: 我是超级虹夏，也叫超级虹虹虹虹夏 ，前世@Nijika_overdose@Nijika_Dark呗大手封禁，寻回失散亲友中\n又盘碎一个核桃呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2063810581216591877",
+        "created_at": "2026-06-08T02:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063810581216591877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063810581216591877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是超级虹夏，也叫超级虹虹虹虹夏 ，前世@Nijika_overdose@Nijika_Dark呗大手封禁，寻回失散亲友中\n又盘碎一个核桃呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 647,
+          "like_count": 5733,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4822
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜rc💊日本普瑞🍥hrt日雌泰补土色💊减肥产品下方链接｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "残月",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 54,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      }
+    ]
+  }
+}

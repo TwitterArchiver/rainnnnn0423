@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075565494472699904",
+        "3_2075565494489489408"
+      ],
+      "media_source_tweet_id": [
+        "2075565503905710547",
+        "2075565503905710547"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "2075630026922639683",
+    "created_at": "2026-07-10T17:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075630026922639683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920869622670393344",
+          "start": 3,
+          "username": "remiria_jp89"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iGWAlyikJr",
+          "end": 47,
+          "expanded_url": "https://x.com/remiria_jp89/status/2075565503905710547/photo/1",
+          "media_key": "3_2075565494472699904",
+          "start": 24,
+          "url": "https://t.co/iGWAlyikJr"
+        },
+        {
+          "display_url": "pic.x.com/iGWAlyikJr",
+          "end": 47,
+          "expanded_url": "https://x.com/remiria_jp89/status/2075565503905710547/photo/1",
+          "media_key": "3_2075565494489489408",
+          "start": 24,
+          "url": "https://t.co/iGWAlyikJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075630026922639683",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075565503905710547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @remiria_jp89: 这下晶了😁 https://t.co/iGWAlyikJr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2075565494472699904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3j0gYacAAmNGV.jpg",
+        "width": 1094
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2075565494489489408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3j0gcaoAAIy0b.jpg",
+        "width": 697
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075565494472699904",
+            "3_2075565494489489408"
+          ],
+          "media_source_tweet_id": [
+            "2075565503905710547",
+            "2075565503905710547"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "2075630026922639683",
+        "created_at": "2026-07-10T17:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075630026922639683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920869622670393344",
+              "start": 3,
+              "username": "remiria_jp89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGWAlyikJr",
+              "end": 47,
+              "expanded_url": "https://x.com/remiria_jp89/status/2075565503905710547/photo/1",
+              "media_key": "3_2075565494472699904",
+              "start": 24,
+              "url": "https://t.co/iGWAlyikJr"
+            },
+            {
+              "display_url": "pic.x.com/iGWAlyikJr",
+              "end": 47,
+              "expanded_url": "https://x.com/remiria_jp89/status/2075565503905710547/photo/1",
+              "media_key": "3_2075565494489489408",
+              "start": 24,
+              "url": "https://t.co/iGWAlyikJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075630026922639683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075565503905710547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @remiria_jp89: 这下晶了😁 https://t.co/iGWAlyikJr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075565494472699904",
+            "3_2075565494489489408"
+          ]
+        },
+        "author_id": "1920869622670393344",
+        "conversation_id": "2075565503905710547",
+        "created_at": "2026-07-10T12:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075565503905710547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGWAlyikJr",
+              "end": 29,
+              "expanded_url": "https://x.com/remiria_jp89/status/2075565503905710547/photo/1",
+              "media_key": "3_2075565494472699904",
+              "start": 6,
+              "url": "https://t.co/iGWAlyikJr"
+            },
+            {
+              "display_url": "pic.x.com/iGWAlyikJr",
+              "end": 29,
+              "expanded_url": "https://x.com/remiria_jp89/status/2075565503905710547/photo/1",
+              "media_key": "3_2075565494489489408",
+              "start": 6,
+              "url": "https://t.co/iGWAlyikJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075565503905710547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1087,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这下晶了😁 https://t.co/iGWAlyikJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 658,
+          "like_count": 5984,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 4901
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T15:53:17.000Z",
+        "description": "追踪我讲好中国故事、中华民族暖心故事，带你了解真正的中国\n日本語を勉強しています| 梗图每日分享 | 少政避政｜这下令众人亦愤恨了",
+        "id": "1920869622670393344",
+        "location": "革命湾冲浪里",
+        "name": "小野寺薄瓜瓜_オノデラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068513298073464832/wfEQdkrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 1034,
+          "like_count": 8023,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "remiria_jp89",
+        "verified": true
+      }
+    ]
+  }
+}

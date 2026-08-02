@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1881250438072479863",
+    "created_at": "2025-01-20T08:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T09:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881250438072479863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "188330055",
+          "start": 3,
+          "username": "cherylnatsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881250438072479863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880830671364694206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cherylnatsu: 当我以为中药注射液已经是下限的时候，针刺麻醉来了。\n当我以为发新闻的发币已经是下限的时候，总统发币了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1881250438072479863",
+        "created_at": "2025-01-20T08:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T09:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881250438072479863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "188330055",
+              "start": 3,
+              "username": "cherylnatsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881250438072479863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880830671364694206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cherylnatsu: 当我以为中药注射液已经是下限的时候，针刺麻醉来了。\n当我以为发新闻的发币已经是下限的时候，总统发币了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "188330055",
+        "conversation_id": "1880830671364694206",
+        "created_at": "2025-01-19T04:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T05:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880830671364694206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880830671364694206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 197943,
+          "like_count": 1034,
+          "quote_count": 11,
+          "reply_count": 61,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "当我以为中药注射液已经是下限的时候，针刺麻醉来了。\n当我以为发新闻的发币已经是下限的时候，总统发币了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 177,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 473
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-08T13:43:45.000Z",
+        "description": "苹果产品相关话题优秀X友。2025年了你还在购买焊死8/16+128/256+60Hz的电子垃圾吗？",
+        "id": "188330055",
+        "name": "夏雨婷",
+        "pinned_tweet_id": "1853041525141217601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/430758284996259840/uS0CLIP-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12401,
+          "following_count": 3024,
+          "like_count": 5179,
+          "listed_count": 104,
+          "media_count": 896,
+          "tweet_count": 45534
+        },
+        "username": "cherylnatsu",
+        "verified": false
+      }
+    ]
+  }
+}

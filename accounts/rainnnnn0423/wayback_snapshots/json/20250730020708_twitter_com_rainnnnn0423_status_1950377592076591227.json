@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1950377592076591227",
+    "created_at": "2025-07-30T02:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T03:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950377592076591227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wd6xxj/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/wd6xxj/status/1950112977488683311",
+          "start": 6,
+          "url": "https://t.co/DvurICGdKg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950377592076591227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950112977488683311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那很好了😁 https://t.co/DvurICGdKg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1950112971910500352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxAxanKbUAAa7BE.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1950377592076591227",
+        "created_at": "2025-07-30T02:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T03:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950377592076591227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wd6xxj/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/wd6xxj/status/1950112977488683311",
+              "start": 6,
+              "url": "https://t.co/DvurICGdKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950377592076591227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950112977488683311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那很好了😁 https://t.co/DvurICGdKg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950112971910500352"
+          ]
+        },
+        "author_id": "1917745219841449985",
+        "conversation_id": "1950112977488683311",
+        "created_at": "2025-07-29T08:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T09:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950112977488683311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMRyljftPo",
+              "end": 38,
+              "expanded_url": "https://x.com/wd6xxj/status/1950112977488683311/photo/1",
+              "media_key": "3_1950112971910500352",
+              "start": 15,
+              "url": "https://t.co/jMRyljftPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950112977488683311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5075,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "那她算得上中国人的救世主了😁 https://t.co/jMRyljftPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "请听雨的声音。|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 522,
+          "like_count": 3974,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 3884
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:57:56.000Z",
+        "description": "",
+        "id": "1917745219841449985",
+        "name": "非常快4号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917745534728806400/YLJiblBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 286,
+          "like_count": 11618,
+          "listed_count": 11,
+          "media_count": 1165,
+          "tweet_count": 3878
+        },
+        "username": "wd6xxj",
+        "verified": false
+      }
+    ]
+  }
+}

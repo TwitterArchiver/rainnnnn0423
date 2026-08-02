@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896090456381173957",
+    "created_at": "2025-03-02T06:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T07:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896090636216123759"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896090636216123759",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896090456381173957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心理学真有趣呢 迷思 很好的样本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896090456381173957",
+        "created_at": "2025-03-02T06:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T07:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896090636216123759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896090636216123759",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896090456381173957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心理学真有趣呢 迷思 很好的样本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896090456381173957",
+        "created_at": "2025-03-02T06:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T07:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896090456381173957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1896081544680456392",
+              "start": 36,
+              "url": "https://t.co/CmqGSYMazA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896090456381173957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896081544680456392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近期见过的比较有乐子的一头滞纳猪，一言一行都完美符合我对公畜的刻板印象 https://t.co/CmqGSYMazA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑里垢",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 317,
+          "like_count": 1181,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1943
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

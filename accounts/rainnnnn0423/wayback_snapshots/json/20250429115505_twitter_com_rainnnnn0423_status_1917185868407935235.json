@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1917185868407935235",
+    "created_at": "2025-04-29T11:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T12:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917185868407935235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yesmynamehaer1…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Yesmynamehaer1/status/1917068450750517377",
+          "start": 7,
+          "url": "https://t.co/YRvVl9ttO6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917185868407935235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917068450750517377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一语道破天机 https://t.co/YRvVl9ttO6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1917185868407935235",
+        "created_at": "2025-04-29T11:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T12:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917185868407935235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yesmynamehaer1…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Yesmynamehaer1/status/1917068450750517377",
+              "start": 7,
+              "url": "https://t.co/YRvVl9ttO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917185868407935235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917068450750517377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一语道破天机 https://t.co/YRvVl9ttO6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1917052756092981543",
+        "created_at": "2025-04-29T04:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T05:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917068450750517377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917068450750517377",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917052756092981543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 学校其实也是精神病院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 455,
+          "like_count": 2357,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3386
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "你好，我是白鳥。\n此处只有我所能找到的我的碎片。\nFTX/@Dopppelaganger /Unitarian Universalists/Fyrir frelsi, fyrir mig, fyrir @Coccus_Swamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "Dopppelaganger"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Coccus_Swamer"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1914957098028335440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915580498006478848/LzNu85g6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 458,
+          "like_count": 18732,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1903
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

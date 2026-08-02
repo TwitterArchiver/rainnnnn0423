@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1876893287673463164",
+    "created_at": "2025-01-08T07:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T08:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876893287673463164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TheNuclearEra/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/TheNuclearEra/status/1647578838379950083",
+          "start": 6,
+          "url": "https://t.co/hg6kXi6r2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876893287673463164",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1647578838379950083",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣🤣🤣🤣🤣 https://t.co/hg6kXi6r2W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1876893287673463164",
+        "created_at": "2025-01-08T07:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T08:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876893287673463164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TheNuclearEra/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/TheNuclearEra/status/1647578838379950083",
+              "start": 6,
+              "url": "https://t.co/hg6kXi6r2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876893287673463164",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1647578838379950083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣🤣🤣🤣🤣 https://t.co/hg6kXi6r2W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1647578825285332993",
+            "3_1647578825289596928",
+            "3_1647578825302110208"
+          ]
+        },
+        "author_id": "1549774890252869634",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1647578838379950083",
+        "created_at": "2023-04-16T12:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-16T13:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1647578838379950083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFBw0fc2yM",
+              "end": 85,
+              "expanded_url": "https://x.com/TheNuclearEra/status/1647578838379950083/photo/1",
+              "media_key": "3_1647578825285332993",
+              "start": 62,
+              "url": "https://t.co/BFBw0fc2yM"
+            },
+            {
+              "display_url": "pic.x.com/BFBw0fc2yM",
+              "end": 85,
+              "expanded_url": "https://x.com/TheNuclearEra/status/1647578838379950083/photo/1",
+              "media_key": "3_1647578825289596928",
+              "start": 62,
+              "url": "https://t.co/BFBw0fc2yM"
+            },
+            {
+              "display_url": "pic.x.com/BFBw0fc2yM",
+              "end": 85,
+              "expanded_url": "https://x.com/TheNuclearEra/status/1647578838379950083/photo/1",
+              "media_key": "3_1647578825302110208",
+              "start": 62,
+              "url": "https://t.co/BFBw0fc2yM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1647578838379950083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 24157,
+          "like_count": 235,
+          "quote_count": 7,
+          "reply_count": 22,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "「孩子學習不好，幫我寫一封信給她，標題《你真的毫無價值》」\n\n圖一：GPT-4；\n圖二：New bing；\n圖三：文心一言 https://t.co/BFBw0fc2yM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 135,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 264
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T15:15:27.000Z",
+        "description": "一般英推｜ 回鶻分裂分子｜\n\n来自東突厥斯坦 | Sherqiy Türkistangha Erkinlik #BlueIndependence #Uyghur \n\n｜ 自由學習提倡者｜Wikipedian｜Folk linguist｜ 不參與推特建政，無視奸價值/目前在牆內上學 安全原因暫時淡推",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 55,
+                "tag": "BlueIndependence"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "tag": "Uyghur"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/PLmt3BtOwCE",
+                "end": 23,
+                "expanded_url": "https://youtu.be/PLmt3BtOwCE",
+                "start": 0,
+                "url": "https://t.co/4l2W98rJmZ"
+              }
+            ]
+          }
+        },
+        "id": "1549774890252869634",
+        "location": "52.211222°N 1.572639°E Leiston",
+        "name": "َIceblade َSnowflَakَe قار تامچىلىرى 🐬🏳️‍⚧️",
+        "pinned_tweet_id": "1610338809903828992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675422448018153472/qw-MVDty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 869,
+          "like_count": 12597,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/4l2W98rJmZ",
+        "username": "TheNuclearEra",
+        "verified": false
+      }
+    ]
+  }
+}

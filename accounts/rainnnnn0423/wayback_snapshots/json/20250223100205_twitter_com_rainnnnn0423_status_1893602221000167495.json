@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893602221000167495",
+    "created_at": "2025-02-23T10:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T11:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893602221000167495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jolyne40912330…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/Jolyne40912330/status/1893116176085197214",
+          "start": 106,
+          "url": "https://t.co/kYLBkOkXCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893602221000167495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893116176085197214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔他文章褒贬不一吧，看每个人喜好和品味了。自身局限性肯定是有的。我喜欢模拟器那篇，暴雨那个是有点硬装文艺了。\n他自己说写的东西就是炫压抑x幻想，以及说接受各种喜欢和批评，拉黑应该算口是心非还是个人自由呢（迷思） https://t.co/kYLBkOkXCY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893602221000167495",
+        "created_at": "2025-02-23T10:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893602221000167495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jolyne40912330…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/Jolyne40912330/status/1893116176085197214",
+              "start": 106,
+              "url": "https://t.co/kYLBkOkXCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893602221000167495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893116176085197214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔他文章褒贬不一吧，看每个人喜好和品味了。自身局限性肯定是有的。我喜欢模拟器那篇，暴雨那个是有点硬装文艺了。\n他自己说写的东西就是炫压抑x幻想，以及说接受各种喜欢和批评，拉黑应该算口是心非还是个人自由呢（迷思） https://t.co/kYLBkOkXCY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1213412688790843397",
+        "conversation_id": "1893116176085197214",
+        "created_at": "2025-02-22T01:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T02:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893116176085197214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893116176085197214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 94043,
+          "like_count": 441,
+          "quote_count": 10,
+          "reply_count": 63,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "到底谁在吹捧那个sota的文，就记得他写女生在下暴雨的时候不穿衣服朝他大喊操我快操我，也不记得我评论了个什么，反正被他拉黑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 279,
+          "like_count": 946,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1588
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T10:51:51.000Z",
+        "description": "此账号由我和我的猫共同运营",
+        "id": "1213412688790843397",
+        "location": "精神病院",
+        "name": "耳机猫",
+        "pinned_tweet_id": "1862137696195670378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811159878892933121/5zbT01BI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3448,
+          "following_count": 165,
+          "like_count": 4349,
+          "listed_count": 5,
+          "media_count": 558,
+          "tweet_count": 6528
+        },
+        "username": "Jolyne40912330",
+        "verified": false
+      }
+    ]
+  }
+}

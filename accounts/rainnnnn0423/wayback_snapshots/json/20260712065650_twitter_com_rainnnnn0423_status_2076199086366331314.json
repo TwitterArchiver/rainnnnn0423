@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076066826329440256",
+        "3_2076066833203912704",
+        "3_2076066839528947712",
+        "3_2076066845677797376"
+      ],
+      "media_source_tweet_id": [
+        "2076101734473318684",
+        "2076101734473318684",
+        "2076101734473318684",
+        "2076101734473318684"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076199086366331314",
+    "created_at": "2026-07-12T06:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076199086366331314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/95OPHijGqm",
+          "end": 122,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+          "media_key": "3_2076066826329440256",
+          "start": 99,
+          "url": "https://t.co/95OPHijGqm"
+        },
+        {
+          "display_url": "pic.x.com/95OPHijGqm",
+          "end": 122,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+          "media_key": "3_2076066833203912704",
+          "start": 99,
+          "url": "https://t.co/95OPHijGqm"
+        },
+        {
+          "display_url": "pic.x.com/95OPHijGqm",
+          "end": 122,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+          "media_key": "3_2076066839528947712",
+          "start": 99,
+          "url": "https://t.co/95OPHijGqm"
+        },
+        {
+          "display_url": "pic.x.com/95OPHijGqm",
+          "end": 122,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+          "media_key": "3_2076066845677797376",
+          "start": 99,
+          "url": "https://t.co/95OPHijGqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076199086366331314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076101734473318684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “公共媒体不能说谎。我们为多年来一直这样做表示歉意。”\n\n近日，一网友在小红书发布帖子：\n2026年7月7日，匈牙利国家电视台M1突然黑屏，只留下一行字：… https://t.co/95OPHijGqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_2076066826329440256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-rx3FWwAALnw2.jpg",
+        "width": 1028
+      },
+      {
+        "height": 1728,
+        "media_key": "3_2076066833203912704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-ryQsW4AAlFw8.jpg",
+        "width": 1084
+      },
+      {
+        "height": 1832,
+        "media_key": "3_2076066839528947712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-ryoQXQAAGiN-.jpg",
+        "width": 1056
+      },
+      {
+        "height": 1660,
+        "media_key": "3_2076066845677797376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-ry_KXQAABp12.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076066826329440256",
+            "3_2076066833203912704",
+            "3_2076066839528947712",
+            "3_2076066845677797376"
+          ],
+          "media_source_tweet_id": [
+            "2076101734473318684",
+            "2076101734473318684",
+            "2076101734473318684",
+            "2076101734473318684"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076199086366331314",
+        "created_at": "2026-07-12T06:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076199086366331314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/95OPHijGqm",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+              "media_key": "3_2076066826329440256",
+              "start": 99,
+              "url": "https://t.co/95OPHijGqm"
+            },
+            {
+              "display_url": "pic.x.com/95OPHijGqm",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+              "media_key": "3_2076066833203912704",
+              "start": 99,
+              "url": "https://t.co/95OPHijGqm"
+            },
+            {
+              "display_url": "pic.x.com/95OPHijGqm",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+              "media_key": "3_2076066839528947712",
+              "start": 99,
+              "url": "https://t.co/95OPHijGqm"
+            },
+            {
+              "display_url": "pic.x.com/95OPHijGqm",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+              "media_key": "3_2076066845677797376",
+              "start": 99,
+              "url": "https://t.co/95OPHijGqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076199086366331314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076101734473318684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “公共媒体不能说谎。我们为多年来一直这样做表示歉意。”\n\n近日，一网友在小红书发布帖子：\n2026年7月7日，匈牙利国家电视台M1突然黑屏，只留下一行字：… https://t.co/95OPHijGqm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076066826329440256",
+            "3_2076066833203912704",
+            "3_2076066839528947712",
+            "3_2076066845677797376"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076101734473318684",
+        "created_at": "2026-07-12T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076101734473318684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95OPHijGqm",
+              "end": 101,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+              "media_key": "3_2076066826329440256",
+              "start": 78,
+              "url": "https://t.co/95OPHijGqm"
+            },
+            {
+              "display_url": "pic.x.com/95OPHijGqm",
+              "end": 101,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+              "media_key": "3_2076066833203912704",
+              "start": 78,
+              "url": "https://t.co/95OPHijGqm"
+            },
+            {
+              "display_url": "pic.x.com/95OPHijGqm",
+              "end": 101,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+              "media_key": "3_2076066839528947712",
+              "start": 78,
+              "url": "https://t.co/95OPHijGqm"
+            },
+            {
+              "display_url": "pic.x.com/95OPHijGqm",
+              "end": 101,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2076101734473318684/photo/1",
+              "media_key": "3_2076066845677797376",
+              "start": 78,
+              "url": "https://t.co/95OPHijGqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076101734473318684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“公共媒体不能说谎。我们为多年来一直这样做表示歉意。”\n\n近日，一网友在小红书发布帖子：\n2026年7月7日，匈牙利国家电视台M1突然黑屏，只留下一行字：\n“公共媒体不能说谎。我们为多年来一直这样做表示歉意。”这极具戏剧性的一幕，不只是欧尔班时代长达十六年宣传体系的谢幕，更像是一记重锤，敲打着每一个现代社会的神经：当公共媒体沦为权力的扩音器，我们究竟要付出多大的代价？\n\n评论区的网友指桑骂槐：\n“我已经不看印度电视台的 七点钟节目十几年了”\n“能与印度的电视台比吗，你是说七点的那个印度吧？”\n“他们至少有媒体，印度有没有媒体，大家知道的”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 140128,
+          "like_count": 1151,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "“公共媒体不能说谎。我们为多年来一直这样做表示歉意。”\n\n近日，一网友在小红书发布帖子：\n2026年7月7日，匈牙利国家电视台M1突然黑屏，只留下一行字： https://t.co/95OPHijGqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2054455467687268417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 661,
+          "like_count": 6034,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 4923
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246207,
+          "following_count": 1076,
+          "like_count": 9793,
+          "listed_count": 8824,
+          "media_count": 50254,
+          "tweet_count": 57461
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

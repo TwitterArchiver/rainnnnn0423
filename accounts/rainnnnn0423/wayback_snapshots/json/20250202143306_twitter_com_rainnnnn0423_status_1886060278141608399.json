@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1886060278141608399",
+    "created_at": "2025-02-02T14:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T15:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886060278141608399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JianLv117/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/JianLv117/status/1886031151648911435",
+          "start": 9,
+          "url": "https://t.co/snoq3BBk5h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886060278141608399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886031151648911435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪吒嬷嬷发的。😅 https://t.co/snoq3BBk5h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1886060278141608399",
+        "created_at": "2025-02-02T14:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T15:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886060278141608399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JianLv117/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/JianLv117/status/1886031151648911435",
+              "start": 9,
+              "url": "https://t.co/snoq3BBk5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886060278141608399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886031151648911435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪吒嬷嬷发的。😅 https://t.co/snoq3BBk5h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886031142178140160"
+          ]
+        },
+        "author_id": "1589203507852152832",
+        "conversation_id": "1886031151648911435",
+        "created_at": "2025-02-02T12:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T13:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886031151648911435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znQ7xNZepS",
+              "end": 38,
+              "expanded_url": "https://x.com/JianLv117/status/1886031151648911435/photo/1",
+              "media_key": "3_1886031142178140160",
+              "start": 15,
+              "url": "https://t.co/znQ7xNZepS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886031151648911435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1496,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在已经默认哪吒是男性了吗？ https://t.co/znQ7xNZepS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 227,
+          "like_count": 580,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 908
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱于与大家讨论政史 汴京❌\n 🇺🇸🇩🇪🇫🇷🇦🇺🇬🇧🇮🇹🇪🇸🇯🇵\n可互关(私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n死党: @HANABIRIKAJIANG\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰（回复1和转推多为广告哈❛˓◞˂̵✧）",
+        "name": "简律",
+        "pinned_tweet_id": "1885670746078498946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873689474133274624/7nI7UtsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13024,
+          "following_count": 832,
+          "like_count": 46471,
+          "listed_count": 55,
+          "media_count": 2140,
+          "tweet_count": 5624
+        },
+        "username": "JianLv117",
+        "verified": true
+      }
+    ]
+  }
+}

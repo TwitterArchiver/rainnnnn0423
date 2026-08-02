@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1873774134108590427",
+    "created_at": "2024-12-30T16:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T17:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873775551879798842"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1873775551879798842",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873774134108590427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我初中一条年级五百人不到几十号吃药的精神病，高中估计也差不多。图上说的还只是抑郁率没算其他精神疾病。我的混合型抑郁治几年了都没治好还丧失了一大半社会功能，老钟计划生育祸根加生育率暴跌加高精神病率带来的人矿损耗，劳动人口只会越来越少。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1873774134108590427",
+        "created_at": "2024-12-30T16:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T17:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873775551879798842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873775551879798842",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873774134108590427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我初中一条年级五百人不到几十号吃药的精神病，高中估计也差不多。图上说的还只是抑郁率没算其他精神疾病。我的混合型抑郁治几年了都没治好还丧失了一大半社会功能，老钟计划生育祸根加生育率暴跌加高精神病率带来的人矿损耗，劳动人口只会越来越少。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1873774134108590427",
+        "created_at": "2024-12-30T16:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T17:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873774134108590427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshikawa_nair…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hoshikawa_nairo/status/1873335462317977967",
+              "start": 21,
+              "url": "https://t.co/rQfkiwKXYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873774134108590427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873335462317977967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈了个臭逼啊我每次去精神病院都人山人海的 https://t.co/rQfkiwKXYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者&岁静人 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 104,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 199
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

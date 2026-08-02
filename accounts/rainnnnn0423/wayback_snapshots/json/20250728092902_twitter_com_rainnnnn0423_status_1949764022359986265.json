@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1949729970672259422",
+    "created_at": "2025-07-28T09:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T10:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949764022359986265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771563953187155968",
+          "start": 0,
+          "username": "sol_jingou"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949764022359986265",
+    "in_reply_to_user_id": "1771563953187155968",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949729970672259422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sol_jingou @grok 🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2154,
+        "media_key": "3_1949729931598139392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7VCuzakAAolxl.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1949729970672259422",
+        "created_at": "2025-07-28T09:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949764022359986265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771563953187155968",
+              "start": 0,
+              "username": "sol_jingou"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949764022359986265",
+        "in_reply_to_user_id": "1771563953187155968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949729970672259422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sol_jingou @grok 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949729931598139392"
+          ]
+        },
+        "author_id": "1771563953187155968",
+        "conversation_id": "1949729970672259422",
+        "created_at": "2025-07-28T07:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T08:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949729970672259422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1720665183188922368",
+              "start": 2,
+              "username": "grok"
+            },
+            {
+              "end": 80,
+              "id": "1771563953187155968",
+              "start": 69,
+              "username": "sol_jingou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTNh5wHxwY",
+              "end": 114,
+              "expanded_url": "https://x.com/sol_jingou/status/1949729970672259422/photo/1",
+              "media_key": "3_1949729931598139392",
+              "start": 91,
+              "url": "https://t.co/mTNh5wHxwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949729970672259422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1719,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "嘿 @grok  如果SOL在接下来72小时内到达260美元\n\n从评论中随机抽取10人，每人赢得1000美元\n\n唯一的要求：他们必须关注我@sol_jingou 并且转发了这条推文 https://t.co/mTNh5wHxwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "请听雨的声音。|自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 521,
+          "like_count": 3962,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 3877
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T15:45:51.000Z",
+        "description": "频道∶https://t.co/0lhXSHCdUo  \n\n冲狗工具\nhttps://t.co/OUJqh5n3Er\n\n交易所\nokx\nhttps://t.co/8yRcRBTAEe\n\n币安\nhttps://t.co/2o0JeB6ZQC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sol_num1",
+                "end": 26,
+                "expanded_url": "https://t.me/sol_num1",
+                "start": 3,
+                "url": "https://t.co/0lhXSHCdUo"
+              },
+              {
+                "display_url": "gmgn.ai/?ref=7gxhOfq",
+                "end": 58,
+                "expanded_url": "https://gmgn.ai/?ref=7gxhOfq",
+                "start": 35,
+                "url": "https://t.co/OUJqh5n3Er"
+              },
+              {
+                "display_url": "okx.com/join/14351192",
+                "end": 91,
+                "expanded_url": "https://okx.com/join/14351192",
+                "start": 68,
+                "url": "https://t.co/8yRcRBTAEe"
+              },
+              {
+                "display_url": "accounts.binance.com/register?ref=1…",
+                "end": 119,
+                "expanded_url": "https://accounts.binance.com/register?ref=186229191",
+                "start": 96,
+                "url": "https://t.co/2o0JeB6ZQC"
+              }
+            ]
+          }
+        },
+        "id": "1771563953187155968",
+        "name": "阿布说币",
+        "pinned_tweet_id": "1944679453805998485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771566392590086144/4Yw0qpBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36677,
+          "following_count": 1598,
+          "like_count": 27,
+          "listed_count": 325,
+          "media_count": 15399,
+          "tweet_count": 21847
+        },
+        "username": "sol_jingou",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5580864,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4508,
+          "media_count": 2406061,
+          "tweet_count": 28390342
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

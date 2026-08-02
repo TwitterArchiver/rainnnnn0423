@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2028967978197193086",
+    "created_at": "2026-03-03T22:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T23:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028967978197193086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wxb_NB/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/wxb_NB/status/2028615798743523804",
+          "start": 12,
+          "url": "https://t.co/JHCUdN7TVd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028967978197193086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028615798743523804",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我现在嗓子哑了： https://t.co/JHCUdN7TVd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2028615791374114817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcXUG6aIAElx0H.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2028967978197193086",
+        "created_at": "2026-03-03T22:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T23:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028967978197193086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wxb_NB/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/wxb_NB/status/2028615798743523804",
+              "start": 12,
+              "url": "https://t.co/JHCUdN7TVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028967978197193086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028615798743523804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我现在嗓子哑了： https://t.co/JHCUdN7TVd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028615791374114817"
+          ]
+        },
+        "author_id": "1900168705847500800",
+        "conversation_id": "2028615798743523804",
+        "created_at": "2026-03-02T23:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T00:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028615798743523804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FH5KoJVUb",
+              "end": 35,
+              "expanded_url": "https://x.com/wxb_NB/status/2028615798743523804/photo/1",
+              "media_key": "3_2028615791374114817",
+              "start": 12,
+              "url": "https://t.co/4FH5KoJVUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028615798743523804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 29677,
+          "like_count": 729,
+          "quote_count": 21,
+          "reply_count": 41,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "快和我一起保护嗓音吧😘 https://t.co/4FH5KoJVUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|各种敏感发言请注意|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2026316161751597531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 610,
+          "like_count": 5021,
+          "listed_count": 4,
+          "media_count": 336,
+          "tweet_count": 4538
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.awacat.cc",
+                "end": 23,
+                "expanded_url": "http://about.awacat.cc",
+                "start": 0,
+                "url": "https://t.co/CVlYXKXGJI"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 406,
+          "like_count": 4672,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/CVlYXKXGJI",
+        "username": "wxb_NB",
+        "verified": true
+      }
+    ]
+  }
+}

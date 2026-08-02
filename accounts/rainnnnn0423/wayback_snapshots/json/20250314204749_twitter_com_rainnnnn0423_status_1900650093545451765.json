@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1900650093545451765",
+    "created_at": "2025-03-14T20:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T21:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900650093545451765"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900650093545451765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "侵入性思维太强了 自杀的渴望拥抱死亡的渴望盖过了一切生理恐惧 我的理智在崩塌溃败 我不想亲手把自己害死我的求死欲和求生欲在打架\n强烈的意志力会溃败的对吧 脑子里像有一根弦断了 还好我懒得爬上天台晃腿抽烟然后爬回来 我没有生命危险如果明天没有安排的话我会吃把药寻求一下喘息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1900650093545451765",
+        "created_at": "2025-03-14T20:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T21:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900650093545451765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900650093545451765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "侵入性思维太强了 自杀的渴望拥抱死亡的渴望盖过了一切生理恐惧 我的理智在崩塌溃败 我不想亲手把自己害死我的求死欲和求生欲在打架\n强烈的意志力会溃败的对吧 脑子里像有一根弦断了 还好我懒得爬上天台晃腿抽烟然后爬回来 我没有生命危险如果明天没有安排的话我会吃把药寻求一下喘息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的里号 胡言乱语的赛博日记🗑请让我忘记一切痛苦与不安吧",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 364,
+          "like_count": 1537,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2462
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

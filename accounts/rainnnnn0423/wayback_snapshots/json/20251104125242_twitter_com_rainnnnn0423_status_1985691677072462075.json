@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1985691677072462075",
+    "created_at": "2025-11-04T12:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T13:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985691677072462075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FreakyDuckkkk/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/FreakyDuckkkk/status/1985279314049597528",
+          "start": 20,
+          "url": "https://t.co/vz5FItRmKf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985691677072462075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985279314049597528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在学校跳楼之后李老师能不能报道一下🥹 https://t.co/vz5FItRmKf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1985691677072462075",
+        "created_at": "2025-11-04T12:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985691677072462075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FreakyDuckkkk/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/FreakyDuckkkk/status/1985279314049597528",
+              "start": 20,
+              "url": "https://t.co/vz5FItRmKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985691677072462075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985279314049597528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在学校跳楼之后李老师能不能报道一下🥹 https://t.co/vz5FItRmKf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648540039419412481",
+        "conversation_id": "1985279314049597528",
+        "created_at": "2025-11-03T09:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985279314049597528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1985255628395479545",
+              "start": 8,
+              "url": "https://t.co/LwI6ubUdlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985279314049597528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 186168,
+          "like_count": 388,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985255628395479545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李颖的正确用法 https://t.co/LwI6ubUdlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985641105418043393/UeNp94ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 590,
+          "like_count": 4499,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 4144
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T04:12:36.000Z",
+        "description": "Midnight lights are softly burning, ego, greed and old regrets returning\n\ncutie owl🐧 @BirbMotorWerks \n\ncutie pigeon🕊️ @Fight_forALL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "BirbMotorWerks"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "Fight_forALL"
+              }
+            ]
+          }
+        },
+        "id": "1648540039419412481",
+        "location": "东突厥斯坦再教育营",
+        "name": "IMBABYDUCKLING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653615188774629377/rti_Bbae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6599,
+          "following_count": 922,
+          "like_count": 358805,
+          "listed_count": 27,
+          "media_count": 5489,
+          "tweet_count": 49249
+        },
+        "username": "FreakyDuckkkk",
+        "verified": false
+      }
+    ]
+  }
+}

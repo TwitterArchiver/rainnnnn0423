@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1933000476343349702",
+    "created_at": "2025-06-12T03:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T04:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933000476343349702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oolongisgood32…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/oolongisgood321/status/1932639409364742230",
+          "start": 11,
+          "url": "https://t.co/4zN91KVACe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933000476343349702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932639409364742230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每天都感觉自己快死了 https://t.co/4zN91KVACe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1933000476343349702",
+        "created_at": "2025-06-12T03:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T04:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933000476343349702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oolongisgood32…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/oolongisgood321/status/1932639409364742230",
+              "start": 11,
+              "url": "https://t.co/4zN91KVACe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933000476343349702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932639409364742230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每天都感觉自己快死了 https://t.co/4zN91KVACe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928768097865052161",
+        "conversation_id": "1932639409364742230",
+        "created_at": "2025-06-11T03:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T04:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932639409364742230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932639409364742230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都感觉自己快死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/双相Ⅱ型/一般路过女高/粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 510,
+          "like_count": 3405,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 3699
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T10:59:36.000Z",
+        "description": "=茶咕｜id汤底@rainnnnn0423｜欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "rainnnnn0423"
+              }
+            ]
+          }
+        },
+        "id": "1928768097865052161",
+        "location": "三得利无糖乌龙茶瓶内",
+        "name": "谁把我的中药换成热朱古力了",
+        "pinned_tweet_id": "1928807718086914547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928769203311636480/w2hrCcha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 65,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 122
+        },
+        "username": "oolongisgood321",
+        "verified": false
+      }
+    ]
+  }
+}

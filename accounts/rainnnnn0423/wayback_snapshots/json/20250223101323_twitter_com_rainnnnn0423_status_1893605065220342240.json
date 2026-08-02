@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1893605065220342240",
+    "created_at": "2025-02-23T10:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T11:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893605065220342240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/1893597588177256931",
+          "start": 36,
+          "url": "https://t.co/kd2CdvriMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893605065220342240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893597588177256931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "动物园绝对不止我一个女画师。\n歌势女神人不都出了好几个吗。\n♿♿♿♿♿ https://t.co/kd2CdvriMQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893605065220342240",
+        "created_at": "2025-02-23T10:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893605065220342240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/1893597588177256931",
+              "start": 36,
+              "url": "https://t.co/kd2CdvriMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893605065220342240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893597588177256931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "动物园绝对不止我一个女画师。\n歌势女神人不都出了好几个吗。\n♿♿♿♿♿ https://t.co/kd2CdvriMQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1893516469390188948",
+        "created_at": "2025-02-23T09:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893597588177256931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893597588177256931",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893518584489672718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎第几回了好尴尬。这我是真得长记性了。我第六感经常在猜测网友性别的时候出错。上推看推油们简介写的这串字母那串字母其实看不懂。因为我是顺女对这块也没有特别研究过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 279,
+          "like_count": 947,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1590
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1995660814364405815",
+    "created_at": "2025-12-03T07:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T08:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996112526430568789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800739655005937664",
+          "start": 0,
+          "username": "lxnru524971501"
+        },
+        {
+          "end": 26,
+          "id": "1840720004620361728",
+          "start": 16,
+          "username": "KaoriAoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996112526430568789",
+    "in_reply_to_user_id": "1800739655005937664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996111582284439626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxnru524971501 @KaoriAoii 爱你老公"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1995660814364405815",
+        "created_at": "2025-12-03T07:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996112526430568789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800739655005937664",
+              "start": 0,
+              "username": "lxnru524971501"
+            },
+            {
+              "end": 26,
+              "id": "1840720004620361728",
+              "start": 16,
+              "username": "KaoriAoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996112526430568789",
+        "in_reply_to_user_id": "1800739655005937664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996111582284439626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxnru524971501 @KaoriAoii 爱你老公"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800739655005937664",
+        "conversation_id": "1995660814364405815",
+        "created_at": "2025-12-03T06:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996111582284439626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            },
+            {
+              "end": 24,
+              "id": "1840720004620361728",
+              "start": 14,
+              "username": "KaoriAoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996111582284439626",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996067618114208174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 @KaoriAoii 幸福的隐藏指令和欧迪离家出走都活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|双相|一般路过女高|粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo 特级野狗@404ADHD_DOG🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "634livinlimbo"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 596,
+          "like_count": 4742,
+          "listed_count": 4,
+          "media_count": 323,
+          "tweet_count": 4277
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T03:59:46.000Z",
+        "description": "",
+        "id": "1800739655005937664",
+        "name": "伤口里流的都是泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943252908763471872/hLb4aVPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 16,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 75
+        },
+        "username": "lxnru524971501",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:47:15.000Z",
+        "description": "“迈向平庸。”\n=小香丨生理女心理不定丨画师丨utau+vocaloid丨od丨第五人格丨無言フォロー失礼します丨🚪88",
+        "id": "1840720004620361728",
+        "location": "高原",
+        "name": "苍井香绪里",
+        "pinned_tweet_id": "1980685233134633169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983957677228355584/zLyXkWyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 115,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 370
+        },
+        "username": "KaoriAoii",
+        "verified": false
+      }
+    ]
+  }
+}

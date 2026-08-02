@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1882879793408225495",
+    "created_at": "2025-01-24T19:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T20:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882879793408225495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__inty__/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/__inty__/status/1882579844397232512",
+          "start": 13,
+          "url": "https://t.co/3fU1fgwihp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882879793408225495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882579844397232512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有！没有！没有！通过！ https://t.co/3fU1fgwihp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1882879793408225495",
+        "created_at": "2025-01-24T19:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T20:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882879793408225495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__inty__/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/__inty__/status/1882579844397232512",
+              "start": 13,
+              "url": "https://t.co/3fU1fgwihp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882879793408225495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882579844397232512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有！没有！没有！通过！ https://t.co/3fU1fgwihp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882579491853123584",
+            "3_1882579650938863616"
+          ]
+        },
+        "author_id": "1027764083565711360",
+        "conversation_id": "1882579844397232512",
+        "created_at": "2025-01-24T00:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T01:01:42.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882579495129145761",
+          "1882579653954875801",
+          "1882579844397232512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlaUAhyg65",
+              "end": 65,
+              "expanded_url": "https://x.com/__Inty__/status/1882579844397232512/photo/1",
+              "media_key": "3_1882579491853123584",
+              "start": 42,
+              "url": "https://t.co/LlaUAhyg65"
+            },
+            {
+              "display_url": "pic.x.com/LlaUAhyg65",
+              "end": 65,
+              "expanded_url": "https://x.com/__Inty__/status/1882579844397232512/photo/1",
+              "media_key": "3_1882579650938863616",
+              "start": 42,
+              "url": "https://t.co/LlaUAhyg65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882579844397232512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 310,
+          "impression_count": 850716,
+          "like_count": 2750,
+          "quote_count": 117,
+          "reply_count": 858,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "突发！美国修宪！？\n\n共和党众议员安迪·奥格斯提议修改宪法，允许川普连任第三任期。 https://t.co/LlaUAhyg65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我的私人推，广告垃圾账号能不能滚",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 198,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 595
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "用中文为你分享世界热点新闻 电报主页 https://t.co/evscxyg2xG YouTube主页 https://t.co/QWKpvf4NCB 电报聊天群 https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/intynews",
+                "end": 42,
+                "expanded_url": "http://t.me/intynews",
+                "start": 19,
+                "url": "https://t.co/evscxyg2xG"
+              },
+              {
+                "display_url": "youtube.com/@inty",
+                "end": 76,
+                "expanded_url": "http://youtube.com/@inty",
+                "start": 53,
+                "url": "https://t.co/QWKpvf4NCB"
+              },
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 106,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 83,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inty.news",
+                "end": 23,
+                "expanded_url": "http://inty.news",
+                "start": 0,
+                "url": "https://t.co/MbT3fMXFck"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "头条热点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653662,
+          "following_count": 0,
+          "like_count": 1392,
+          "listed_count": 1929,
+          "media_count": 29366,
+          "tweet_count": 85871
+        },
+        "url": "https://t.co/MbT3fMXFck",
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

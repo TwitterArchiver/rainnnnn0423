@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1896493874652324209",
+    "created_at": "2025-03-03T09:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T10:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896494658987118817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896494658987118817",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896493874652324209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在认为自己能力很大😄我深知心理暗示是个多强悍的东西 我被持续一年多的心理暗示搞得严重失眠痛苦万分连着半年没睡过一个好觉\n所以要正向暗示😆又幻想了自己当上总书记把国家治理得井井有条大家都爱戴我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_1896493868381814784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlGzIA-awAAiSe7.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896493874652324209",
+        "created_at": "2025-03-03T09:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896494658987118817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896494658987118817",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896493874652324209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在认为自己能力很大😄我深知心理暗示是个多强悍的东西 我被持续一年多的心理暗示搞得严重失眠痛苦万分连着半年没睡过一个好觉\n所以要正向暗示😆又幻想了自己当上总书记把国家治理得井井有条大家都爱戴我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896493868381814784"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1896493874652324209",
+        "created_at": "2025-03-03T09:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896493874652324209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0b03yH6Vp1",
+              "end": 33,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1896493874652324209/photo/1",
+              "media_key": "3_1896493868381814784",
+              "start": 10,
+              "url": "https://t.co/0b03yH6Vp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896493874652324209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们都被折断了羽翼 https://t.co/0b03yH6Vp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑包蜜",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 329,
+          "like_count": 1212,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2018
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

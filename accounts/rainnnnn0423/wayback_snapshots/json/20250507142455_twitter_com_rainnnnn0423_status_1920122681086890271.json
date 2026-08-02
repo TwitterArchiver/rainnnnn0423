@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1920112042763227439",
+    "created_at": "2025-05-07T14:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920122681086890271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920122681086890271",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920112042763227439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 神人一箩筐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1920112042763227439",
+        "created_at": "2025-05-07T14:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920122681086890271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920122681086890271",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920112042763227439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 神人一箩筐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790370144755351552",
+        "conversation_id": "1920112042763227439",
+        "created_at": "2025-05-07T13:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T14:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920112042763227439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920112042763227439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是东北地雷女，我有抑郁症，喜欢在推特上分享我改花刀和魔爪拌饭的照片，还经常叫别人“健全逼”；\n我妈是江西人，爱好国学，大明朝和传统中医粉，经常转发李阳有关家教和育儿的视频号给我看，明里暗里羡慕别的女人娘家收的彩礼高；\n我爸是浙江人，也是90年代国企下岗工人，现在天天在抖音上阴阳怪气习近平和共产党，觉得李颖李老师和多伦多方脸是中国民主的希望。他还是一个虔诚的基督徒，一直在备考雅思托福，希望自己下半辈子能够生活在自由民主的美国；\n我弟是原神、王者荣耀、明日方舟、BA和瓦罗兰特玩家，体重二百斤，资深二次元，渴批但厌女，经常在百度贴吧的孙笑川吧里发表辱女言论。他现在是摄影师，奔往全国各地给漫展上的coser小姐姐们拍照；\n我姐是女权主义者和环境保护爱好者，个人简介是“毛泽东主席万岁，希望祖国统一世界和平”，爱玩小红书。她明年就要和一个山东公务员结婚了，希望她婚后幸福，吃饭能上桌；\n我有一个表妹，是个福利姬，靠挂微信收款码赚了15900元门槛费；\n本来我还有一个远房表哥的，结果他在河北衡水中学读书太用功，去年高考前就猝死了；"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1104,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是东北地雷女，我有抑郁症，喜欢在推特上分享我改花刀和魔爪拌饭的照片，还经常叫别人“健全逼”；\n我妈是江西人，爱好国学，大明朝和传统中医粉，经常转发李阳有关家教和育儿的视频号给我看，明里暗里羡慕别的女人娘家收的彩礼高；"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/一般路过女高/电波系/抽象乐子人 私信箱一直炸打不开",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 461,
+          "like_count": 2582,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 3517
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "太好啦！太好啦！听妈妈说，我手机里的推特自动关注了芙宁娜娜，我不知所云地欢呼起来。芙宁娜娜这个恶俗玩意儿到底是什么呢？爸爸告诉我，她就像一个遍布网络的巨大屎壳郎，把抽象乐子和魔怔烂梗搬运得到处都是。有了芙宁娜娜，咱们的推特就变成了一个小垃圾堆，五洲四海的浪蛆们可以随时进行别样的炒作大战。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1920069968076660971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23870,
+          "following_count": 2105,
+          "like_count": 24635,
+          "listed_count": 60,
+          "media_count": 4446,
+          "tweet_count": 8401
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

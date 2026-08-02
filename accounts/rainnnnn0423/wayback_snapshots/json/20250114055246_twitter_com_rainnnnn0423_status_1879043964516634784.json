@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878759749178855425"
+      ],
+      "media_source_tweet_id": [
+        "1878760057615323218"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "1879043964516634784",
+    "created_at": "2025-01-14T05:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T06:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879043964516634784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "215939847",
+          "start": 3,
+          "username": "bboczeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G7PHOKoh7M",
+          "end": 101,
+          "expanded_url": "https://x.com/bboczeng/status/1878760057615323218/photo/1",
+          "media_key": "3_1878759749178855425",
+          "start": 78,
+          "url": "https://t.co/G7PHOKoh7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879043964516634784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878760057615323218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bboczeng: 有句话说得好\n\n中国人，不是人\n\n这不是“支黑”\n\n这其实是在中国各级政府、各级领导、外交部、大使馆眼中\n\n最真实的中国人形象 https://t.co/G7PHOKoh7M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_1878759749178855425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhKyCawbkAEa1b7.jpg",
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878759749178855425"
+          ],
+          "media_source_tweet_id": [
+            "1878760057615323218"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1879043964516634784",
+        "created_at": "2025-01-14T05:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T06:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879043964516634784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "215939847",
+              "start": 3,
+              "username": "bboczeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7PHOKoh7M",
+              "end": 101,
+              "expanded_url": "https://x.com/bboczeng/status/1878760057615323218/photo/1",
+              "media_key": "3_1878759749178855425",
+              "start": 78,
+              "url": "https://t.co/G7PHOKoh7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879043964516634784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878760057615323218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bboczeng: 有句话说得好\n\n中国人，不是人\n\n这不是“支黑”\n\n这其实是在中国各级政府、各级领导、外交部、大使馆眼中\n\n最真实的中国人形象 https://t.co/G7PHOKoh7M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878759749178855425"
+          ]
+        },
+        "author_id": "215939847",
+        "conversation_id": "1878760057615323218",
+        "created_at": "2025-01-13T11:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T12:03:24.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878759750789382539",
+          "1878759792166179102",
+          "1878760010081345916",
+          "1878760057615323218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7PHOKoh7M",
+              "end": 87,
+              "expanded_url": "https://x.com/bboczeng/status/1878760057615323218/photo/1",
+              "media_key": "3_1878759749178855425",
+              "start": 64,
+              "url": "https://t.co/G7PHOKoh7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878760057615323218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 70931,
+          "like_count": 593,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "有句话说得好\n\n中国人，不是人\n\n这不是“支黑”\n\n这其实是在中国各级政府、各级领导、外交部、大使馆眼中\n\n最真实的中国人形象 https://t.co/G7PHOKoh7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 162,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 333
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1878754035593064500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160624,
+          "following_count": 639,
+          "like_count": 72800,
+          "listed_count": 811,
+          "media_count": 12084,
+          "tweet_count": 68530
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

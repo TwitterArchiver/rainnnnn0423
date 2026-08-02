@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "1892459916234740183",
+    "created_at": "2025-02-20T06:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T07:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892459916234740183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vir_coconut/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/vir_coconut/status/1892159679221960730",
+          "start": 13,
+          "url": "https://t.co/wuF9mXINS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892459916234740183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892159679221960730",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我学校里那帮唐氏就这样。 https://t.co/wuF9mXINS1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1892459916234740183",
+        "created_at": "2025-02-20T06:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T07:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892459916234740183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vir_coconut/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/vir_coconut/status/1892159679221960730",
+              "start": 13,
+              "url": "https://t.co/wuF9mXINS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892459916234740183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892159679221960730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我学校里那帮唐氏就这样。 https://t.co/wuF9mXINS1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2596381225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1892159679221960730",
+        "created_at": "2025-02-19T10:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T11:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892159679221960730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892159679221960730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3534,
+          "like_count": 69,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "学生党记录生活:1路边的猫，2夹在丑陋教学楼里的日落和天空，3自以为很搞笑的群聊天截图，4电影票或影院盗摄，5播放韩剧的ipad，6火锅，7喜茶，8特效自拍，9可爱盲盒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1890186702158954902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 248,
+          "like_count": 829,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1412
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "男生/mtx｜坐标广州｜照片媒体",
+        "id": "2596381225",
+        "location": "🚪88好友位无朋友圈/188线下/520陪聊/1314",
+        "name": "椰",
+        "pinned_tweet_id": "1887390065397268857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889759508567826434/YKreL3Kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5977,
+          "following_count": 185,
+          "like_count": 2063,
+          "listed_count": 15,
+          "media_count": 8,
+          "tweet_count": 1078
+        },
+        "username": "vir_coconut",
+        "verified": false
+      }
+    ]
+  }
+}

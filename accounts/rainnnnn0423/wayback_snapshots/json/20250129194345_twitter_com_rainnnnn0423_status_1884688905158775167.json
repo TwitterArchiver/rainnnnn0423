@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1884312030540358013",
+    "created_at": "2025-01-29T19:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T20:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884688905158775167"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1884688905158775167",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884312030540358013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我尊重每个人的个体差异性 因为这是我里号所以就畅所欲言我对这些墙内平台的感受了。人是复杂的绝不能用简单的标签概括，但对于和我不是一路人的人，用标签分类给ta在我的互联网生活block掉又方便又快捷。\n我会认真对待值得我/我想花精力的人，对于不重要的人我会用“贴标签”这种不认真的行为来娱乐解构"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884312030540358013",
+        "created_at": "2025-01-29T19:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T20:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884688905158775167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884688905158775167",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884312030540358013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我尊重每个人的个体差异性 因为这是我里号所以就畅所欲言我对这些墙内平台的感受了。人是复杂的绝不能用简单的标签概括，但对于和我不是一路人的人，用标签分类给ta在我的互联网生活block掉又方便又快捷。\n我会认真对待值得我/我想花精力的人，对于不重要的人我会用“贴标签”这种不认真的行为来娱乐解构"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1884312030540358013",
+        "created_at": "2025-01-28T18:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T19:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884312030540358013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884312030540358013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逛了一会xhs，xhs用户是真的唐得我受不了，我能刷到的二次元区都是一帮味冲得要死的mmr新二\n睡觉睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是我碎碎念刷屏的里号！",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 213,
+          "like_count": 407,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 738
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

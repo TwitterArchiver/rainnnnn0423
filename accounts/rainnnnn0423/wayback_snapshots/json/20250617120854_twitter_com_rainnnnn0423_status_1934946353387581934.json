@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1933516848781537400",
+    "created_at": "2025-06-17T12:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T13:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934946353387581934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        },
+        {
+          "end": 27,
+          "id": "1856322437144817667",
+          "start": 11,
+          "username": "ChosekiNoraneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934946353387581934",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933516848781537400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay @ChosekiNoraneko 111"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_1933516845681946630",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtU7U7IbMAYuiV2.jpg",
+        "width": 1594
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1933516848781537400",
+        "created_at": "2025-06-17T12:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T13:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934946353387581934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 27,
+              "id": "1856322437144817667",
+              "start": 11,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934946353387581934",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933516848781537400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @ChosekiNoraneko 111"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933516845681946630"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1933516848781537400",
+        "created_at": "2025-06-13T13:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T14:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933516848781537400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 140,
+              "id": "1856322437144817667",
+              "start": 124,
+              "username": "ChosekiNoraneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cPDUUt3827",
+              "end": 169,
+              "expanded_url": "https://x.com/Minokakay/status/1933516848781537400/photo/1",
+              "media_key": "3_1933516845681946630",
+              "start": 146,
+              "url": "https://t.co/cPDUUt3827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933516848781537400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 19987,
+          "like_count": 139,
+          "quote_count": 7,
+          "reply_count": 99,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "考试月活动，抽个奖\n转发点赞评论此贴，抽5人送单月份美白护肝产品，另高考月（6月）考生可凭准考证认证，享有-10元无门槛优惠，满800包邮，满1000可-20元。\n\n本次价格表新增 莱博雷生10mg*28，和雷洛昔芬，心达悦20mg*28，欢迎找 @ChosekiNoraneko 下单哦。 https://t.co/cPDUUt3827"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "我是pluviophile 自言自语bot/里号/胡言乱语的赛博日记本🗑/双相Ⅱ型/一般路过女高/粉蛆滚 正主@oolongisgood321 好诡秘@si_an_1122 第二人格@634livinlimbo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "oolongisgood321"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "si_an_1122"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "634livinlimbo"
+              }
+            ]
+          }
+        },
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1920127640943657452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 510,
+          "like_count": 3473,
+          "listed_count": 3,
+          "media_count": 270,
+          "tweet_count": 3715
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7723,
+          "following_count": 882,
+          "like_count": 43569,
+          "listed_count": 30,
+          "media_count": 1176,
+          "tweet_count": 18812
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "潮汐工作室的官方賬號，提供色普龙/补佳乐/减肥/美白/促智供大家购买，Choseki是一家真正专业正规的药物工作室，不售卖兽药/假药/伪劣药品，经营多国正规进口药品，并提供质量保证。\n\n此店铺由@Minokakay 担保并提供客服服务，欢迎私信本账号下单！ 工作时间10AM-25PM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "Minokakay"
+              }
+            ]
+          }
+        },
+        "id": "1856322437144817667",
+        "location": "Macau",
+        "name": "Choseki Pharmacy",
+        "pinned_tweet_id": "1929534947955765404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856322922924912640/-kfTtOYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 21,
+          "like_count": 57,
+          "listed_count": 4,
+          "media_count": 4,
+          "tweet_count": 49
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

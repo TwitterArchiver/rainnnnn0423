@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1902089168630771964",
+    "created_at": "2025-03-19T01:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T02:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902174087197401318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894777318121537536",
+          "start": 0,
+          "username": "634LIVINLIMBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902174087197401318",
+    "in_reply_to_user_id": "1894777318121537536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902171286119555312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@634LIVINLIMBO 对，“灵气”（其实好画也蛮吃灵气）\n我口味非常挑剔能看上的我觉得有灵气的人不多，我自己搞中术很久很久了也是想下海做作品了（？）我也无所谓毕竟想做的不是工业作品而是通过创作来自我表达，其实按我找人标准能互相看对眼欣赏对方才华还能长期合作的，怎么说呢得是知己了。我是不急 我需要沉淀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1902089168630771964",
+        "created_at": "2025-03-19T01:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T02:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902174087197401318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894777318121537536",
+              "start": 0,
+              "username": "634LIVINLIMBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902174087197401318",
+        "in_reply_to_user_id": "1894777318121537536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902171286119555312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@634LIVINLIMBO 对，“灵气”（其实好画也蛮吃灵气）\n我口味非常挑剔能看上的我觉得有灵气的人不多，我自己搞中术很久很久了也是想下海做作品了（？）我也无所谓毕竟想做的不是工业作品而是通过创作来自我表达，其实按我找人标准能互相看对眼欣赏对方才华还能长期合作的，怎么说呢得是知己了。我是不急 我需要沉淀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894777318121537536",
+        "conversation_id": "1902089168630771964",
+        "created_at": "2025-03-19T01:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T02:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902171286119555312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902171286119555312",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902169219841847773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 如果你只是想要作曲的话，旋律创作其实是很简单的一件事，我写歌也一般是自己哼哼\n编曲的话就需要特意去学习了，但是现在约稿好像还蛮贵的，而且音乐其实和画还不一样，比起技艺其实更多看灵气，没有人可以稳定产出完全符合甲方的东西\n如果想找p主合作的话，最好还是有一些基本了解比较好也方便提要求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot/里号/胡言乱语的赛博日记本🗑/键政抽象曲",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1899559009688121601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 369,
+          "like_count": 1615,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2584
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T15:51:41.000Z",
+        "description": "634 woes",
+        "id": "1894777318121537536",
+        "name": "6orn3MO4ever",
+        "pinned_tweet_id": "1897904981270786466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895016445601296384/3epZh_ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 324,
+          "like_count": 3053,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 866
+        },
+        "username": "634LIVINLIMBO",
+        "verified": false
+      }
+    ]
+  }
+}
