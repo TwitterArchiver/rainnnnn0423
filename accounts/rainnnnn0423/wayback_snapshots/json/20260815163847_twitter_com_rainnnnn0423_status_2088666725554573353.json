@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088612566893473792"
+      ],
+      "media_source_tweet_id": [
+        "2088612664528568428"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "2088666725554573353",
+    "created_at": "2026-08-15T16:38:47.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088666725554573353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2066032587383144448",
+          "start": 3,
+          "username": "ototusn0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XQwY8FAWLR",
+          "end": 68,
+          "expanded_url": "https://x.com/ototusn0/status/2088612664528568428/video/1",
+          "media_key": "13_2088612566893473792",
+          "start": 45,
+          "url": "https://t.co/XQwY8FAWLR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088666725554573353",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088612566893473792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088612664528568428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ototusn0: 日系梦核DV的习大大唱《i have no friends》 https://t.co/XQwY8FAWLR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 103421,
+        "height": 960,
+        "media_key": "13_2088612566893473792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088612566893473792/img/BBlYQWKR_33t97nP.jpg",
+        "public_metrics": {
+          "view_count": 878
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088612566893473792/vid/avc1/320x426/DY-aEzZNVkIUND2n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088612566893473792/vid/avc1/480x640/jVxzvKoIdofsIPGl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088612566893473792/vid/avc1/720x960/fwlEX8a5LPXyA1o8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088612566893473792/pl/w4X5HxR-Jw59OuSb.m3u8?v=6a7"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088612566893473792"
+          ],
+          "media_source_tweet_id": [
+            "2088612664528568428"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "2088666725554573353",
+        "created_at": "2026-08-15T16:38:47.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088666725554573353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2066032587383144448",
+              "start": 3,
+              "username": "ototusn0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQwY8FAWLR",
+              "end": 68,
+              "expanded_url": "https://x.com/ototusn0/status/2088612664528568428/video/1",
+              "media_key": "13_2088612566893473792",
+              "start": 45,
+              "url": "https://t.co/XQwY8FAWLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088666725554573353",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088612566893473792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088612664528568428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ototusn0: 日系梦核DV的习大大唱《i have no friends》 https://t.co/XQwY8FAWLR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088612566893473792"
+          ]
+        },
+        "author_id": "2066032587383144448",
+        "conversation_id": "2088612664528568428",
+        "created_at": "2026-08-15T13:03:58.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088612664528568428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQwY8FAWLR",
+              "end": 54,
+              "expanded_url": "https://x.com/ototusn0/status/2088612664528568428/video/1",
+              "media_key": "13_2088612566893473792",
+              "start": 31,
+              "url": "https://t.co/XQwY8FAWLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088612664528568428",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088612566893473792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1671,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "日系梦核DV的习大大唱《i have no friends》 https://t.co/XQwY8FAWLR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2088666725554573353",
+        "name": "弹愈美",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 662,
+          "like_count": 6535,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 5036
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T05:41:32.000Z",
+        "description": "亲自指挥，亲自部署😡😡😡😡\n（小号：@ej1flsxiJP）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "ej1flsxiJP"
+              }
+            ]
+          }
+        },
+        "id": "2066032587383144448",
+        "is_identity_verified": false,
+        "location": "京城十八大院",
+        "most_recent_tweet_id": "2088627644556554729",
+        "name": "小习没烦恼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066032587383144448/1784165466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082629137504825344/h1nlsoJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2535,
+          "following_count": 347,
+          "like_count": 1805,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "ototusn0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

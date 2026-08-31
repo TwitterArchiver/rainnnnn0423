@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2087496521600151837",
+    "created_at": "2026-08-12T11:08:49.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T12:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087496521600151837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1870818143071059968",
+          "start": 3,
+          "username": "0xTheo520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087496521600151837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087145252847341804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xTheo520: 推特要是改成极速版我已经提现五百万了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2087496521600151837",
+        "created_at": "2026-08-12T11:08:49.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087496521600151837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870818143071059968",
+              "start": 3,
+              "username": "0xTheo520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087496521600151837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087145252847341804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xTheo520: 推特要是改成极速版我已经提现五百万了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870818143071059968",
+        "conversation_id": "2087145252847341804",
+        "created_at": "2026-08-11T11:53:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087145252847341804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087145252847341804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 52547,
+          "like_count": 2107,
+          "quote_count": 1,
+          "reply_count": 228,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "推特要是改成极速版我已经提现五百万了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 我有点双相",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2087496521600151837",
+        "name": "气态雨",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 659,
+          "like_count": 6414,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 5016
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T13:06:24.000Z",
+        "description": "段子手｜梗图｜人间观察 | 认知提升 | 洞察人性 | 精神状态领先全网\n尊重他人命运，放下助人情结，伸手会带来厄运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Theo520",
+                "end": 23,
+                "expanded_url": "http://t.me/Theo520",
+                "start": 0,
+                "url": "https://t.co/YpPMXCyH95"
+              }
+            ]
+          }
+        },
+        "id": "1870818143071059968",
+        "is_identity_verified": false,
+        "location": "不含任何建议",
+        "most_recent_tweet_id": "2087489354050719756",
+        "name": "Theo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080976108166791169/IlxXd3m9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3821,
+          "following_count": 2390,
+          "like_count": 3518,
+          "listed_count": 9,
+          "media_count": 180,
+          "tweet_count": 4538
+        },
+        "url": "https://t.co/YpPMXCyH95",
+        "username": "0xTheo520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

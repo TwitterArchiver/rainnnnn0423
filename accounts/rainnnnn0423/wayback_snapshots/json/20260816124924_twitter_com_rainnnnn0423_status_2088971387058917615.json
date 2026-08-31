@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2088971387058917615",
+    "created_at": "2026-08-16T12:49:24.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088971387058917615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AllenLeo89064/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/AllenLeo89064/status/2088906025583693836",
+          "start": 9,
+          "url": "https://t.co/Upe5XOeUgV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088971387058917615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088906025583693836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "家宝可爱捏🥰🥰🥰 https://t.co/Upe5XOeUgV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59725,
+        "height": 1024,
+        "media_key": "13_2088905981459668993",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088905981459668993/img/6mK1uXKMlrB4aoGj.jpg",
+        "public_metrics": {
+          "view_count": 35582
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088905981459668993/vid/avc1/320x568/XV9l2ZiMTN12Xiwv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088905981459668993/vid/avc1/480x852/UTV8qROLTZoCCjUZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088905981459668993/vid/avc1/576x1024/W6rybOdJiX_cCMG8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088905981459668993/pl/efU8RVAgyPDTQoFn.m3u8?v=62b"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2088971387058917615",
+        "created_at": "2026-08-16T12:49:24.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088971387058917615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AllenLeo89064/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/AllenLeo89064/status/2088906025583693836",
+              "start": 9,
+              "url": "https://t.co/Upe5XOeUgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088971387058917615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088906025583693836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家宝可爱捏🥰🥰🥰 https://t.co/Upe5XOeUgV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088905981459668993"
+          ]
+        },
+        "author_id": "2042201865727705088",
+        "conversation_id": "2088906025583693836",
+        "created_at": "2026-08-16T08:29:41.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088906025583693836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgb1nx5ZV7",
+              "end": 124,
+              "expanded_url": "https://x.com/AllenLeo89064/status/2088906025583693836/video/1",
+              "media_key": "13_2088905981459668993",
+              "start": 101,
+              "url": "https://t.co/hgb1nx5ZV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088906025583693836",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088905981459668993"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 51170,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "2003年台湾中国时报报道，一脸油光的温家宝在被宣布当选总理后，他兴奋的几乎从座位上「蹦」起来。像“小孩得糖”般失态，像范进中举一样陶醉，对“权力”如此渴望，情绪管理又如此低级，对中国真的是一场灾难。 https://t.co/hgb1nx5ZV7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g 分享精品神药不好体验",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2088971387058917615",
+        "name": "弹愈美",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 660,
+          "like_count": 6553,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 5041
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T11:25:06.000Z",
+        "description": "中共不等於中國\n中共不等於中國人\n投稿郵箱：\nallenleo89064@gmail.com",
+        "id": "2042201865727705088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088951620574859436",
+        "name": "Allen Leo",
+        "pinned_tweet_id": "2086768332435329059",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042202345107320832/u4IHXrRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7021,
+          "following_count": 116,
+          "like_count": 3058,
+          "listed_count": 14,
+          "media_count": 621,
+          "tweet_count": 4206
+        },
+        "url": "",
+        "username": "AllenLeo89064",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

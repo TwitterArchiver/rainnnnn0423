@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2086038825466286267",
+    "created_at": "2026-08-08T10:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T11:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086038825466286267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        },
+        {
+          "end": 61,
+          "id": "764625853183619072",
+          "start": 50,
+          "username": "ODShopLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086038825466286267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086037014642868418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80net: 立秋了，该喝杯热奶茶热咖啡犒劳一下自己了，ODShop的夜一大佬出资，关注@ODShopLove+本贴文转发，为大家抽两个饮品类代付，小到蜜雪冰城大到沪上阿姨，代付单价最高40！ODShop是一个超强阵容建立的💊一站式社区，让人不再心惊胆战的被骗，能放…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2086038825466286267",
+        "created_at": "2026-08-08T10:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T11:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086038825466286267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            },
+            {
+              "end": 61,
+              "id": "764625853183619072",
+              "start": 50,
+              "username": "ODShopLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086038825466286267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086037014642868418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80net: 立秋了，该喝杯热奶茶热咖啡犒劳一下自己了，ODShop的夜一大佬出资，关注@ODShopLove+本贴文转发，为大家抽两个饮品类代付，小到蜜雪冰城大到沪上阿姨，代付单价最高40！ODShop是一个超强阵容建立的💊一站式社区，让人不再心惊胆战的被骗，能放…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2086037014642868418",
+        "created_at": "2026-08-08T10:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T11:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086037014642868418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "764625853183619072",
+              "start": 37,
+              "username": "ODShopLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086037014642868418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "立秋了，该喝杯热奶茶热咖啡犒劳一下自己了，ODShop的夜一大佬出资，关注@ODShopLove+本贴文转发，为大家抽两个饮品类代付，小到蜜雪冰城大到沪上阿姨，代付单价最高40！ODShop是一个超强阵容建立的💊一站式社区，让人不再心惊胆战的被骗，能放心的shopping之地！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 我有点双相",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 661,
+          "like_count": 6322,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 4997
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 537,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-14T00:53:04.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ODShop.love",
+                "end": 23,
+                "expanded_url": "http://ODShop.love",
+                "start": 0,
+                "url": "https://t.co/7jDgMresYt"
+              }
+            ]
+          }
+        },
+        "id": "764625853183619072",
+        "location": "梦境",
+        "name": "ODShop.love 愛是药片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085739370976563200/rkYLp-2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 40,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "https://t.co/7jDgMresYt",
+        "username": "ODShopLove",
+        "verified": true
+      }
+    ]
+  }
+}

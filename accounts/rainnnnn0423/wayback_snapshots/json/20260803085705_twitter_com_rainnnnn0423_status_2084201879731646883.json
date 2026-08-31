@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084201775750578176"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "2084201879731646883",
+    "created_at": "2026-08-03T08:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084201879731646883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ebEZPs30qO",
+          "end": 34,
+          "expanded_url": "https://x.com/rainnnnn0423/status/2084201879731646883/photo/1",
+          "media_key": "3_2084201775750578176",
+          "start": 11,
+          "url": "https://t.co/ebEZPs30qO"
+        },
+        {
+          "display_url": "x.com/rainnnnn0423/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/rainnnnn0423/status/2083512191073042876",
+          "start": 35,
+          "url": "https://t.co/dzP0ukKVUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084201879731646883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083512191073042876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "醒来之后左手手臂很痛 https://t.co/ebEZPs30qO https://t.co/dzP0ukKVUp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_2084201775750578176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOySePPaAAAPPho.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084201775750578176"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "2084201879731646883",
+        "created_at": "2026-08-03T08:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084201879731646883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebEZPs30qO",
+              "end": 34,
+              "expanded_url": "https://x.com/rainnnnn0423/status/2084201879731646883/photo/1",
+              "media_key": "3_2084201775750578176",
+              "start": 11,
+              "url": "https://t.co/ebEZPs30qO"
+            },
+            {
+              "display_url": "x.com/rainnnnn0423/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/rainnnnn0423/status/2083512191073042876",
+              "start": 35,
+              "url": "https://t.co/dzP0ukKVUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084201879731646883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083512191073042876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "醒来之后左手手臂很痛 https://t.co/ebEZPs30qO https://t.co/dzP0ukKVUp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2083512191073042876",
+        "created_at": "2026-08-01T11:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083512191073042876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083512191073042876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天要吃疯狂镇静剂大套餐来治疗我的失眠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我 留言和私信容易吞，不定期查看",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 660,
+          "like_count": 6272,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 4976
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

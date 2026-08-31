@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2086308462674260300",
+    "created_at": "2026-08-09T08:12:02.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086364869855482362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882747760480501760",
+          "start": 0,
+          "username": "yaaaaanxuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086364869855482362",
+    "in_reply_to_user_id": "1882747760480501760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086364619115991500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaaaaanxuan 老公"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086364619115991500].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086364619115991500",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086364619115991500"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2086308462674260300",
+        "created_at": "2026-08-09T08:12:02.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086364869855482362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882747760480501760",
+              "start": 0,
+              "username": "yaaaaanxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086364869855482362",
+        "in_reply_to_user_id": "1882747760480501760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086364619115991500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaaaaanxuan 老公"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 我有点双相",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2086364869855482362",
+        "name": "气态雨",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 659,
+          "like_count": 6346,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 5002
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T11:10:36.000Z",
+        "description": "好累",
+        "id": "1882747760480501760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2085341076249043042",
+        "name": "爱吃巧克力",
+        "pinned_tweet_id": "2079741407875768655",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882747760480501760/1785595905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083826957268160512/5TT2uifC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 143,
+          "like_count": 16127,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1670
+        },
+        "url": "",
+        "username": "yaaaaanxuan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

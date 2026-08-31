@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2087829705894318493",
+    "created_at": "2026-08-13T09:12:46.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087829705894318493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LilianNotFound…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/LilianNotFound/status/2087793465513918464",
+          "start": 35,
+          "url": "https://t.co/zO1yJeEcyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087829705894318493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087793465513918464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "身边天天有一堆奇异搞笑的人这么跟我说习近平死了上来一个更差的你咋办😅 https://t.co/zO1yJeEcyp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_2087793461369917440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlVF21WUAAfuxO.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2087829705894318493",
+        "created_at": "2026-08-13T09:12:46.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087829705894318493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LilianNotFound…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/LilianNotFound/status/2087793465513918464",
+              "start": 35,
+              "url": "https://t.co/zO1yJeEcyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087829705894318493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087793465513918464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "身边天天有一堆奇异搞笑的人这么跟我说习近平死了上来一个更差的你咋办😅 https://t.co/zO1yJeEcyp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087793461369917440"
+          ]
+        },
+        "author_id": "2072604825498333184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2087793465513918464",
+        "created_at": "2026-08-13T06:48:46.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087793465513918464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLEnVHW0Dn",
+              "end": 118,
+              "expanded_url": "https://x.com/LilianNotFound/status/2087793465513918464/photo/1",
+              "media_key": "3_2087793461369917440",
+              "start": 95,
+              "url": "https://t.co/gLEnVHW0Dn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087793465513918464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087793461369917440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "请在下列话术中给你爱泼冷水的岁静包蜜本色选择一个最消肿清醒的皮套：\n\n1.习近平死了也没用体制不变上来谁都一个样。\n2.你们现在怀念前任领导人只是厚古薄今下一任领导人上来又会怀念习近平的。\n3.老钟人就是几千年皇权文化没有民主基因就算推翻体制了下一个党派上来也一样中国人思想是不会改变的就是当奴才惯了需要大爹管。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请在下列话术中给你爱泼冷水的岁静包蜜本色选择一个最消肿清醒的皮套：\n\n1.习近平死了也没用体制不变上来谁都一个样。\n2.你们现在怀念前任领导人只是厚古薄今下一任领导人上来又会怀念习近平的。 https://t.co/gLEnVHW0Dn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 我有点双相",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2087829705894318493",
+        "name": "气态雨",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 658,
+          "like_count": 6423,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 5018
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T08:55:46.000Z",
+        "description": "🍑公 \n//所有内容都是我凝我oc的纯主观产物\n 支持政治韩娱化色情化二次元化耽美化\n//不排斥键政但是包蜜腊蜜小粉红皇汉支黑极左极右严肃键政男不要过来啊啊啊啊\n 政治光谱大概偏向于社会民主主义/社会自由主义属于中间偏左",
+        "id": "2072604825498333184",
+        "is_identity_verified": false,
+        "location": "Québec, Canada",
+        "most_recent_tweet_id": "2087823876315087308",
+        "name": "NothingLastsForever",
+        "pinned_tweet_id": "2083843086145241214",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072604825498333184/1785728909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085617143777841152/ZdM2KfDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 100,
+          "like_count": 2982,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1188
+        },
+        "url": "",
+        "username": "LilianNotFound",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

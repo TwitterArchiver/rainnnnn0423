@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2088596851406839972",
+    "created_at": "2026-08-15T12:01:08.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088596851406839972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChinaTruth/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ChinaTruth/status/2088537844012962240",
+          "start": 5,
+          "url": "https://t.co/fj7d1mDhU0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088596851406839972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088537844012962240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑喷了 https://t.co/fj7d1mDhU0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60466,
+        "height": 1246,
+        "media_key": "13_2088537805035331584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088537805035331584/img/YHiU3I9-SMaYxP90.jpg",
+        "public_metrics": {
+          "view_count": 11940
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088537805035331584/vid/avc1/320x692/IbnMFUVIrrAAKroM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088537805035331584/vid/avc1/480x1038/L_VKLa1_9gjGiPOK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088537805035331584/vid/avc1/576x1246/vRZ6gcQ-ff19q7we.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088537805035331584/pl/oZP6CH0Fm-DF7HxF.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2088596851406839972",
+        "created_at": "2026-08-15T12:01:08.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088596851406839972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChinaTruth/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ChinaTruth/status/2088537844012962240",
+              "start": 5,
+              "url": "https://t.co/fj7d1mDhU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088596851406839972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088537844012962240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑喷了 https://t.co/fj7d1mDhU0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088537805035331584"
+          ]
+        },
+        "author_id": "1047053292587638786",
+        "conversation_id": "2088537844012962240",
+        "created_at": "2026-08-15T08:06:39.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088537844012962240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5p5hyjA3b",
+              "end": 138,
+              "expanded_url": "https://x.com/ChinaTruth/status/2088537844012962240/video/1",
+              "media_key": "13_2088537805035331584",
+              "start": 115,
+              "url": "https://t.co/R5p5hyjA3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088537844012962240",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088537805035331584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 166,
+                "id": "1047053292587638786",
+                "start": 155,
+                "username": "ChinaTruth"
+              }
+            ]
+          },
+          "text": "郭德纲之前视频被翻出，最后一句爆火了！\n\n郭德纲：\n讲幸福我住英国的房子，\n开德国的汽车，\n喝法国的红酒，\n吃澳洲的海鲜，\n穿意大利的皮鞋，\n戴瑞士的手表，\n雇以色列的保镖，\n请菲律宾的佣人，\n娶韩国的媳妇儿，\n包一日本的二奶，\n\n最幸福的啊，当中国干部，你要能当了这个，你前面的那些个都能来了。😂\n\n请关注：@ChinaTruth"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 21574,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "郭德纲之前视频被翻出，最后一句爆火了！\n\n郭德纲：\n讲幸福我住英国的房子，\n开德国的汽车，\n喝法国的红酒，\n吃澳洲的海鲜，\n穿意大利的皮鞋，\n戴瑞士的手表，\n雇以色列的保镖，\n请菲律宾的佣人，\n娶韩国的媳妇儿，\n包一日本的二奶， https://t.co/R5p5hyjA3b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2088596851406839972",
+        "name": "气态雨",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 661,
+          "like_count": 6505,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 5035
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-02T09:18:53.000Z",
+        "description": "自由民主法治中國｜悉尼日常｜传播真相｜推薦：X最大中文群《海外華人交流群》👇👇👇👇👇👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1670509573885825026",
+                "start": 0,
+                "url": "https://t.co/2WWGKZ3Epy"
+              }
+            ]
+          }
+        },
+        "id": "1047053292587638786",
+        "is_identity_verified": true,
+        "location": "Australia",
+        "most_recent_tweet_id": "2088585307973423277",
+        "name": "悉尼閑人",
+        "pinned_tweet_id": "2088537844012962240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1047053292587638786/1769337270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421761336371924993/ilIAdLkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142075,
+          "following_count": 3487,
+          "like_count": 157533,
+          "listed_count": 531,
+          "media_count": 25944,
+          "tweet_count": 84741
+        },
+        "url": "https://t.co/2WWGKZ3Epy",
+        "username": "ChinaTruth",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

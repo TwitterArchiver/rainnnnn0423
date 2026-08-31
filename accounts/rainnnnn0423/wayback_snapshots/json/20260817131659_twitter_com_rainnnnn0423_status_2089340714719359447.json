@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2089340714719359447",
+    "created_at": "2026-08-17T13:16:59.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089340714719359447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "28940967",
+          "start": 3,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089340714719359447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089310783112880296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lidangzzz: 怎么这么多人不明白，包括《牛来》，包括北美院线90%的电影，都是花钱买乐子，都是烂片，都是买休闲和消磨时光，跟你刷抖音是一样的。\n\n没人有脑子天天进电影院看百年经典，也没有那么多顶级导演能拍出来这么多好电影，大部分普通人进电影院纯粹是周末没事儿干，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089340714719359447",
+        "created_at": "2026-08-17T13:16:59.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089340714719359447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "28940967",
+              "start": 3,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089340714719359447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089310783112880296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lidangzzz: 怎么这么多人不明白，包括《牛来》，包括北美院线90%的电影，都是花钱买乐子，都是烂片，都是买休闲和消磨时光，跟你刷抖音是一样的。\n\n没人有脑子天天进电影院看百年经典，也没有那么多顶级导演能拍出来这么多好电影，大部分普通人进电影院纯粹是周末没事儿干，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28940967",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089310783112880296",
+        "created_at": "2026-08-17T11:18:02.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089310783112880296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089310783112880296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "怎么这么多人不明白，包括《牛来》，包括北美院线90%的电影，都是花钱买乐子，都是烂片，都是买休闲和消磨时光，跟你刷抖音是一样的。\n\n没人有脑子天天进电影院看百年经典，也没有那么多顶级导演能拍出来这么多好电影，大部分普通人进电影院纯粹是周末没事儿干，花一点点钱，100多人一起找个乐子而已。\n\n在电影行业被抖音快手B站大范围挤压的现状下，《牛来》刚好满足了这个市场的需求，仅此而已。\n\n这么多人对着《牛来》哈气，说这是电影垃圾、观众垃圾、中国人没救了、其他电影人怎么办，纯粹是你妈妈的闲的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 19347,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "怎么这么多人不明白，包括《牛来》，包括北美院线90%的电影，都是花钱买乐子，都是烂片，都是买休闲和消磨时光，跟你刷抖音是一样的。\n\n没人有脑子天天进电影院看百年经典，也没有那么多顶级导演能拍出来这么多好电影，大部分普通人进电影院纯粹是周末没事儿干，花一点点钱，100多人一起找个乐子而已。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g 分享精品神药不好体验",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2089340714719359447",
+        "name": "弹愈美",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 660,
+          "like_count": 6568,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 5051
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n（私信求助请详细写清楚背景。如果不回你私信，证明你的问题已经在YouTube回答过了，请观看YouTube视频作为参考）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "is_identity_verified": false,
+        "location": "Houston, TX",
+        "most_recent_tweet_id": "2089334077375582595",
+        "name": "lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28940967/1590188835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604770,
+          "following_count": 2731,
+          "like_count": 28871,
+          "listed_count": 3906,
+          "media_count": 10077,
+          "tweet_count": 48404
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

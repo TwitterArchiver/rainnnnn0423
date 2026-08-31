@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2084324338946433098",
+    "created_at": "2026-08-03T17:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084324338946433098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1714100357582770176",
+          "start": 3,
+          "username": "YesterdayBigcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084324338946433098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084153279924334893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YesterdayBigcat: 「华为封口引众怒，全网疯玩\"竹知了\"嘲讽（2026.07-08）」近期，一种名为\"竹知了\"的传统竹制玩具在网络走红，相关视频播放量迅速破千万，各社交平台上\"哇哇\"声此起彼伏。据悉，起因是7月下旬，有网友发现转动\"竹知了\"发出的\"哇哇\"声…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59700,
+        "height": 1440,
+        "media_key": "13_2084153155542261760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084153155542261760/img/bBMrKPtPrOt1EX85.jpg",
+        "public_metrics": {
+          "view_count": 148020
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084153155542261760/vid/avc1/2560x1440/YblrbTl3Ya4dpWOr.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084153155542261760/vid/avc1/480x270/xNlB9V81LwB_ensC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084153155542261760/vid/avc1/640x360/T8c36ww8JpqOjEKR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084153155542261760/pl/W0YVOrGl1ujC46bj.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084153155542261760/vid/avc1/1280x720/2_v1T_ObqpoRYlJM.mp4"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2084324338946433098",
+        "created_at": "2026-08-03T17:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084324338946433098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1714100357582770176",
+              "start": 3,
+              "username": "YesterdayBigcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084324338946433098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084153279924334893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YesterdayBigcat: 「华为封口引众怒，全网疯玩\"竹知了\"嘲讽（2026.07-08）」近期，一种名为\"竹知了\"的传统竹制玩具在网络走红，相关视频播放量迅速破千万，各社交平台上\"哇哇\"声此起彼伏。据悉，起因是7月下旬，有网友发现转动\"竹知了\"发出的\"哇哇\"声…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084153155542261760"
+          ]
+        },
+        "author_id": "1714100357582770176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2084153279924334893",
+        "created_at": "2026-08-03T05:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084153279924334893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KI47hxPUYY",
+              "end": 182,
+              "expanded_url": "https://x.com/YesterdayBigcat/status/2084153279924334893/video/1",
+              "media_key": "13_2084153155542261760",
+              "start": 159,
+              "url": "https://t.co/KI47hxPUYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084153279924334893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「华为封口引众怒，全网疯玩\"竹知了\"嘲讽（2026.07-08）」近期，一种名为\"竹知了\"的传统竹制玩具在网络走红，相关视频播放量迅速破千万，各社交平台上\"哇哇\"声此起彼伏。据悉，起因是7月下旬，有网友发现转动\"竹知了\"发出的\"哇哇\"声，与2023年问界M9发布会上余承东宣称\"1000万元以内最好的SUV\"后现场观众发出的惊叹声高度相似，随即引发大量网友借此玩梗调侃。随后，华为以相关视频通过暗喻、影射和谐音音频丑化企业及企业家、损害商业声誉为由，向多个平台发起投诉，部分视频遭删除或限流。然而，此举反而引发更强烈的舆论反弹：大批的网友加入嘲讽队伍，继续购买\"竹知了”并拍摄转动玩具视频上传网络，一些网友还使用瓶盖、锅盖、扳手、药瓶等各种物品模仿\"竹知了\"的声音，甚至发展出\"无实物表演\"，相关玩具的关注度和销量也随之进一步攀升。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 259531,
+          "like_count": 1437,
+          "quote_count": 16,
+          "reply_count": 120,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "「华为封口引众怒，全网疯玩\"竹知了\"嘲讽（2026.07-08）」近期，一种名为\"竹知了\"的传统竹制玩具在网络走红，相关视频播放量迅速破千万，各社交平台上\"哇哇\"声此起彼伏。据悉，起因是7月下旬，有网友发现转动\"竹知了\"发出的\"哇哇\"声，与2023年问界M9发布会上余承东宣称\"1000万元以内最好的SUV\"后现场观 https://t.co/KI47hxPUYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|本号转生为竞小妹|08infp女高|粉蛆滚🚪88 互fo请私信 纯种精神病不服来砍我 留言和私信容易吞，不定期查看",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 658,
+          "like_count": 6278,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 4983
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T02:06:12.000Z",
+        "description": "中国集体抗争事件记录网：https://t.co/sjVzTO6fYM\n投稿邮箱：bigorangecat2023@gmail.com\nYoutube：YesterdayBigcat\nIns：yesterdaybigorangecat\nTikTok：yesterdaybigcat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 35,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 12,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 23,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 0,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          }
+        },
+        "id": "1714100357582770176",
+        "location": "火星",
+        "name": "昨天",
+        "pinned_tweet_id": "2008435957826207815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714101429500268544/Ga5TlrzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145379,
+          "following_count": 539,
+          "like_count": 1566,
+          "listed_count": 658,
+          "media_count": 3579,
+          "tweet_count": 5357
+        },
+        "url": "https://t.co/sjVzTO6fYM",
+        "username": "YesterdayBigcat",
+        "verified": true
+      }
+    ]
+  }
+}

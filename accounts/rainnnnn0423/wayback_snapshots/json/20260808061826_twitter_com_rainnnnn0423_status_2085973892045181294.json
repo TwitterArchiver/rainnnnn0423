@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2085973892045181294",
+    "created_at": "2026-08-08T06:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T07:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085973892045181294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063755127870349312",
+          "start": 3,
+          "username": "h8fmts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085973892045181294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085869362217648527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h8fmts: 我把左上角看成了江泽民卖淫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2085973892045181294",
+        "created_at": "2026-08-08T06:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T07:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085973892045181294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063755127870349312",
+              "start": 3,
+              "username": "h8fmts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085973892045181294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085869362217648527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h8fmts: 我把左上角看成了江泽民卖淫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063755127870349312",
+        "conversation_id": "2085869362217648527",
+        "created_at": "2026-08-07T23:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085869362217648527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seaofstars222/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/seaofstars222/status/2085808727089660371",
+              "start": 14,
+              "url": "https://t.co/SQEHNYXqJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085869362217648527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13816,
+          "like_count": 190,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085808727089660371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我把左上角看成了江泽民卖淫 https://t.co/SQEHNYXqJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 我有点双相",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 660,
+          "like_count": 6318,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 4996
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T22:57:31.000Z",
+        "description": "主2️⃣4️⃣   💡/山水/薄\n低浓🐸公 \n好感很多 博爱改革派/团派\n属性没你重要🥰🥰但极端政治立场/拉踩我产算了\n关注就是喜欢你呀 会不定时锁推清列",
+        "id": "2063755127870349312",
+        "name": "邓公心腹大患",
+        "pinned_tweet_id": "2082996763775193333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064487506750713856/3OcskkhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 88,
+          "like_count": 2144,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "h8fmts",
+        "verified": false
+      }
+    ]
+  }
+}
