@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2097654769439670778",
+    "created_at": "2026-09-09T11:54:04.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097654769439670778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wanxingOvO_022…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/wanxingOvO_0224/status/2092832760310456717",
+          "start": 5,
+          "url": "https://t.co/pWbetkqj1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097654769439670778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092832760310456717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我😇 https://t.co/pWbetkqj1z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2097654769439670778",
+        "created_at": "2026-09-09T11:54:04.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097654769439670778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanxingOvO_022…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/wanxingOvO_0224/status/2092832760310456717",
+              "start": 5,
+              "url": "https://t.co/pWbetkqj1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097654769439670778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092832760310456717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我😇 https://t.co/pWbetkqj1z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953731686224867335",
+        "conversation_id": "2092832760310456717",
+        "created_at": "2026-08-27T04:33:07.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092832760310456717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092832760310456717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉反贼都是恶俗习嬷来的🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2097654769439670778",
+        "name": "气态雨",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 666,
+          "like_count": 6962,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 5118
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-08T08:15:18.000Z",
+        "description": "而我呢只是一个没有产品饭吃的可怜人\n低浮上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/wanxingO…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/wanxingOvO_0224",
+                "start": 0,
+                "url": "https://t.co/Fxqn2rQGOB"
+              }
+            ]
+          }
+        },
+        "id": "1953731686224867335",
+        "is_identity_verified": false,
+        "location": "属性条请看👉",
+        "most_recent_tweet_id": "2097347550185746464",
+        "name": "✨晚星OvO",
+        "pinned_tweet_id": "2002355104847212594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953731686224867335/1786034983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089415416204722176/npvt6gJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 343,
+          "like_count": 11604,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/Fxqn2rQGOB",
+        "username": "wanxingOvO_0224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

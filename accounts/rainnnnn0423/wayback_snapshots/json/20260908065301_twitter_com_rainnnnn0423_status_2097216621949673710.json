@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2097216621949673710",
+    "created_at": "2026-09-08T06:53:01.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097216621949673710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1520006097385693185",
+          "start": 3,
+          "username": "wowmanypeople"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097216621949673710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097181272074576131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wowmanypeople: 其实“你抽烟吗”和“我们现在什么关系”一样暧昧，因为我一般分不清你是要谴责我还是要给我发一根"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2097216621949673710",
+        "created_at": "2026-09-08T06:53:01.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097216621949673710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1520006097385693185",
+              "start": 3,
+              "username": "wowmanypeople"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097216621949673710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097181272074576131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wowmanypeople: 其实“你抽烟吗”和“我们现在什么关系”一样暧昧，因为我一般分不清你是要谴责我还是要给我发一根"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520006097385693185",
+        "conversation_id": "2097181272074576131",
+        "created_at": "2026-09-08T04:32:33.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097181272074576131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097181272074576131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3232,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "其实“你抽烟吗”和“我们现在什么关系”一样暧昧，因为我一般分不清你是要谴责我还是要给我发一根"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2097216621949673710",
+        "name": "弹愈美",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 667,
+          "like_count": 6958,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 5116
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-29T11:44:48.000Z",
+        "description": "\"真實的做自己，不忘記看每天的月亮\"",
+        "id": "1520006097385693185",
+        "is_identity_verified": false,
+        "location": "is boy no girl",
+        "most_recent_tweet_id": "2097181272074576131",
+        "name": "new",
+        "pinned_tweet_id": "1621840926418288640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520006097385693185/1730211584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065381673014038528/QldNKi59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 242,
+          "like_count": 54823,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 13490
+        },
+        "url": "",
+        "username": "wowmanypeople",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

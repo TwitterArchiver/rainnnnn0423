@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2096107623519281585",
+    "created_at": "2026-09-05T05:26:15.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T06:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096107623519281585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nixyng246039/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/nixyng246039/status/2095840270097244303",
+          "start": 20,
+          "url": "https://t.co/Rv2LxTnS2Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096107623519281585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095840270097244303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我\n我班主任每天还要问我交手机了没 https://t.co/Rv2LxTnS2Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2096107623519281585",
+        "created_at": "2026-09-05T05:26:15.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096107623519281585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nixyng246039/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/nixyng246039/status/2095840270097244303",
+              "start": 20,
+              "url": "https://t.co/Rv2LxTnS2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096107623519281585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095840270097244303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我\n我班主任每天还要问我交手机了没 https://t.co/Rv2LxTnS2Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2095840270097244303",
+        "created_at": "2026-09-04T11:43:53.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095840270097244303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095840270097244303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3777,
+          "like_count": 180,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下，我是你的精神病学生每天上课早上都要晚到一会。上课不是在发呆就是在睡觉。还和同学完全不交流。动不动就请假。体育课和跑操都不去，就一个人坐在班里发呆，还完全不能压力，要不当场就吐了，要不就不来了，来了也发现胳膊上多了一堆疤，你会不会想直接把我掐死？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g 分享精品神药不好体验",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2096107623519281585",
+        "name": "弹愈美",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 666,
+          "like_count": 6893,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 5108
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "哔哔，外星人降临//西北二号机西南//四号机：@xsxnxb7 三号机：@ovolook215 //互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "xsxnxb7"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "ovolook215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaosun2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaosun2",
+                "start": 0,
+                "url": "https://t.co/vmOxudOjCp"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "is_identity_verified": false,
+        "location": "至高天 原动天",
+        "most_recent_tweet_id": "2095925300949577925",
+        "name": "西南全球加速器",
+        "pinned_tweet_id": "2087220625345847710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720098116601532416/1771095417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 744,
+          "like_count": 11583,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/vmOxudOjCp",
+        "username": "nixyng246039",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

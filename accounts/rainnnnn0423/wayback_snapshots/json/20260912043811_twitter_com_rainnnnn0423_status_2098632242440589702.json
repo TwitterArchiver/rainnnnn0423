@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2098218978200187345",
+    "created_at": "2026-09-12T04:38:11.000Z",
+    "display_text_range": [
+      22,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098632242440589702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1388869181651578884",
+          "start": 0,
+          "username": "mimamashil"
+        },
+        {
+          "end": 21,
+          "id": "1103830967163117568",
+          "start": 12,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098632242440589702",
+    "in_reply_to_user_id": "1388869181651578884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098262191531254174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimamashil @anblk984 牧狗偷的文案没改干净😄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2098218978200187345",
+        "created_at": "2026-09-12T04:38:11.000Z",
+        "display_text_range": [
+          22,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098632242440589702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1388869181651578884",
+              "start": 0,
+              "username": "mimamashil"
+            },
+            {
+              "end": 21,
+              "id": "1103830967163117568",
+              "start": 12,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098632242440589702",
+        "in_reply_to_user_id": "1388869181651578884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098262191531254174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimamashil @anblk984 牧狗偷的文案没改干净😄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388869181651578884",
+        "conversation_id": "2098218978200187345",
+        "created_at": "2026-09-11T04:07:44.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098262191531254174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098262191531254174",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2919,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098218978200187345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 哪来的周总理"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2098632242440589702",
+        "name": "气态雨",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 665,
+          "like_count": 6977,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 5128
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-02T14:53:19.000Z",
+        "description": "阳痿/早泄/前列腺炎/椎间盘第四节突出/肚子大/63岁精神老爷爷",
+        "id": "1388869181651578884",
+        "is_identity_verified": false,
+        "location": "Kitakyushu-shi Kokurakita",
+        "most_recent_tweet_id": "2098578451766874362",
+        "name": "ulke",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056739464781914112/2250VgPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 922,
+          "like_count": 57902,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1651
+        },
+        "url": "",
+        "username": "mimamashil",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/数学家教接单中/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真/最后感谢大爹画窝头像@data_syuxchu/小游戏网站@losb555置顶\ntg频道：https://t.co/H2pejl6igE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "losb555"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 107,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 84,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/q688tpr899yu2t…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/q688tpr899yu2td?t=kdJeZO&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/pJcmtWQ5Rs"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "is_identity_verified": false,
+        "location": "梁家河冲浪里          下面是解答世间万物",
+        "most_recent_tweet_id": "2098628599754752039",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103830967163117568/1782207138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091015106889166848/J7fbT7o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17881,
+          "following_count": 1084,
+          "like_count": 134466,
+          "listed_count": 81,
+          "media_count": 3739,
+          "tweet_count": 32380
+        },
+        "url": "https://t.co/pJcmtWQ5Rs",
+        "username": "anblk984",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

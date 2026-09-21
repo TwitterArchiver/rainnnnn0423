@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2094002740850757885",
+    "created_at": "2026-08-30T10:30:27.000Z",
+    "display_text_range": [
+      17,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T11:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094009848317059309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1824078289020895232",
+          "start": 0,
+          "username": "KasuganoSora345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094009848317059309",
+    "in_reply_to_user_id": "1824078289020895232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094007135860322616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KasuganoSora345 没事只是误伤（）谢谢你血已经不流了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2094002740850757885",
+        "created_at": "2026-08-30T10:30:27.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094009848317059309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824078289020895232",
+              "start": 0,
+              "username": "KasuganoSora345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094009848317059309",
+        "in_reply_to_user_id": "1824078289020895232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094007135860322616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KasuganoSora345 没事只是误伤（）谢谢你血已经不流了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824078289020895232",
+        "conversation_id": "2094002740850757885",
+        "created_at": "2026-08-30T10:19:40.000Z",
+        "display_text_range": [
+          14,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094007135860322616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094007135860322616",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094002740850757885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 ？？天呐，有止血的东西吗？抱抱你，危险的话去医院吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g 分享精品神药不好体验",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2094009848317059309",
+        "name": "弹愈美",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 669,
+          "like_count": 6866,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 5098
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-15T13:39:01.000Z",
+        "description": "",
+        "id": "1824078289020895232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094008002491592957",
+        "name": "穹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824078289020895232/1786732137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088332059362340864/uclZVSB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 18,
+          "like_count": 6064,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "KasuganoSora345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2094312585416077422",
+    "created_at": "2026-08-31T06:33:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T07:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094312585416077422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518254263457431552",
+          "start": 3,
+          "username": "ShawnX_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094312585416077422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094080169560735797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShawnX_nya: 不是挺像，而是就是一个东西，自欺欺人罢了\n大的不是药物成瘾性，是人心里的瘾\n除非你真是万中无一的吸毒圣体，不然没有正常量碰一次就生理成瘾的东西\n\n严格按法律来算的话\n精品神药脱离处方使用就是毒品\n美沙芬系列是毒品\n可待因/二氢可待因等鸦片类毫无疑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2094312585416077422",
+        "created_at": "2026-08-31T06:33:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094312585416077422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518254263457431552",
+              "start": 3,
+              "username": "ShawnX_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094312585416077422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094080169560735797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShawnX_nya: 不是挺像，而是就是一个东西，自欺欺人罢了\n大的不是药物成瘾性，是人心里的瘾\n除非你真是万中无一的吸毒圣体，不然没有正常量碰一次就生理成瘾的东西\n\n严格按法律来算的话\n精品神药脱离处方使用就是毒品\n美沙芬系列是毒品\n可待因/二氢可待因等鸦片类毫无疑…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518254263457431552",
+        "conversation_id": "2094080169560735797",
+        "created_at": "2026-08-30T15:09:53.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094080169560735797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2094068836479934715",
+              "start": 144,
+              "url": "https://t.co/kpVabSs8bI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094080169560735797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不是挺像，而是就是一个东西，自欺欺人罢了\n大的不是药物成瘾性，是人心里的瘾\n除非你真是万中无一的吸毒圣体，不然没有正常量碰一次就生理成瘾的东西\n\n严格按法律来算的话\n精品神药脱离处方使用就是毒品\n美沙芬系列是毒品\n可待因/二氢可待因等鸦片类毫无疑问毒品\n笑气无疑是毒品\n策划药是新式毒品\n氯胺酮肯定是，那艾司氯胺酮也得是，但你在医院里正规做治疗它就是新式强效抗抑郁药\n药品跟毒品本来就是不分家的，或者说人为的把药品中一些可能有较大负面影响的打上“毒品”的标签，来警告大家合理用药\n真正的边界就是人自己心里的度，能不能控制住自己，在试了第一次之后、出于各种自己找出来做掩饰的理由下、能不能克制住马上再去找drugs来第二次第三次第四次第五六七八次。\n\n知道自己在吃什么，能控制自己的，那完全无妨，我拿dxm、美金刚的解离来抗抑郁，拿pr抗焦虑，甚至依此我也倾向支持大麻合法化\n\n不知道自己在吃什么，还能控制自己的，不知道的也敢入嘴，你真给我报下地址，你老了我卖你保健品，你不准备老的话等我给你推荐楼盘帮我把价格砍一刀。\n\n知道自己在吃什么，控制不住自己的，尽早找家人朋友帮忙戒了罢，实在不行给晶哥加加业绩去戒毒所住住，不丢人。你真不适合碰这些东西，你就是KTV、网吧不接待未成年人的原因。\n\n不知道自己在吃什么，还控制不住自己的，我等着看讣告。哦，我忘了，这种纯种老毒虫路线容易把自己玩到没朋友，讣告都没人发。可以提前自备药物联系我记录下冲第五高原，也算是为活着的人最后做点贡献😋"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1969,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094068836479934715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是挺像，而是就是一个东西，自欺欺人罢了\n大的不是药物成瘾性，是人心里的瘾\n除非你真是万中无一的吸毒圣体，不然没有正常量碰一次就生理成瘾的东西\n\n严格按法律来算的话\n精品神药脱离处方使用就是毒品\n美沙芬系列是毒品\n可待因/二氢可待因等鸦片类毫无疑问毒品\n笑气无疑是毒品\n策划药是新式毒品 https://t.co/kpVabSs8bI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g 分享精品神药不好体验",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2094312585416077422",
+        "name": "弹愈美",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 671,
+          "like_count": 6874,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 5104
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-24T15:43:43.000Z",
+        "description": "CN/EN OK | JP 勉強中 | RU 还没开始学\nMTX 任何称呼OK\n各种pc音游 fps都打\n欢迎私信\n十八线coder 主Go\n日常发癫/emo  fo都会回\n长文参见 https://t.co/jb5NgL6g4G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xuanpt2.org",
+                "end": 115,
+                "expanded_url": "http://xuanpt2.org",
+                "start": 92,
+                "url": "https://t.co/jb5NgL6g4G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuanpt2.org",
+                "end": 23,
+                "expanded_url": "http://xuanpt2.org",
+                "start": 0,
+                "url": "https://t.co/jb5NgL6g4G"
+              }
+            ]
+          }
+        },
+        "id": "1518254263457431552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094135460033647057",
+        "name": "ShawNya",
+        "pinned_tweet_id": "2092193270881501282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518254263457431552/1786910914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089081907594280960/62tuuQ13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 502,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/jb5NgL6g4G",
+        "username": "ShawnX_nya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
