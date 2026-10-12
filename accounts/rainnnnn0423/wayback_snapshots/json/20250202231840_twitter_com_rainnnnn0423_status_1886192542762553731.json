@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885899923088154823",
+    "created_at": "2025-02-02T23:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T00:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886192542762553731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1789586690400800769",
+          "start": 0,
+          "username": "ameear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886192542762553731",
+    "in_reply_to_user_id": "1789586690400800769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885899923088154823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameear8964 这很唐了，七星英文都能打错。不认识此人但是第一印象划为唐氏，问就是我喜欢七星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885899923088154823",
+        "created_at": "2025-02-02T23:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T00:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886192542762553731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789586690400800769",
+              "start": 0,
+              "username": "ameear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886192542762553731",
+        "in_reply_to_user_id": "1789586690400800769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885899923088154823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameear8964 这很唐了，七星英文都能打错。不认识此人但是第一印象划为唐氏，问就是我喜欢七星"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885899918080159744",
+            "3_1885899918067593216"
+          ]
+        },
+        "author_id": "1789586690400800769",
+        "conversation_id": "1885899923088154823",
+        "created_at": "2025-02-02T03:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T04:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885899923088154823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jgsAbH2Br",
+              "end": 68,
+              "expanded_url": "https://x.com/ameear8964/status/1885899923088154823/photo/1",
+              "media_key": "3_1885899918080159744",
+              "start": 45,
+              "url": "https://t.co/2jgsAbH2Br"
+            },
+            {
+              "display_url": "pic.x.com/2jgsAbH2Br",
+              "end": 68,
+              "expanded_url": "https://x.com/ameear8964/status/1885899923088154823/photo/1",
+              "media_key": "3_1885899918067593216",
+              "start": 45,
+              "url": "https://t.co/2jgsAbH2Br"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885899923088154823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 30149,
+          "like_count": 242,
+          "quote_count": 2,
+          "reply_count": 96,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如果有人讨厌这个脑残，请在评论区留言。无论你的国籍或意识形态如何，我都愿意和你成为朋友。 https://t.co/2jgsAbH2Br"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 229,
+          "like_count": 592,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 920
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T09:21:43.000Z",
+        "description": "EARHART AMELIA M. 896489648USN BN CHRISTIAN",
+        "id": "1789586690400800769",
+        "location": "미해군항공대 제8964항모항공단",
+        "name": "아멜리아 에어하트",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862830820064432129/g7Hpsfzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 1266,
+          "like_count": 26792,
+          "listed_count": 13,
+          "media_count": 605,
+          "tweet_count": 7228
+        },
+        "username": "ameear8964",
+        "verified": false
+      }
+    ]
+  }
+}

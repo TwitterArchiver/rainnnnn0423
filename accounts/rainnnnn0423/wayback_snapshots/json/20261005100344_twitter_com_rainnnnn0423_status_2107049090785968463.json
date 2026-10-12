@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2107023256960299501",
+    "created_at": "2026-10-05T10:03:44.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T11:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107049090785968463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1864522805079101440",
+          "start": 0,
+          "username": "LmaoeseBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107049090785968463",
+    "in_reply_to_user_id": "1864522805079101440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107046201661010143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LmaoeseBot 你发设定过来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2107023256960299501",
+        "created_at": "2026-10-05T10:03:44.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107049090785968463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1864522805079101440",
+              "start": 0,
+              "username": "LmaoeseBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107049090785968463",
+        "in_reply_to_user_id": "1864522805079101440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107046201661010143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LmaoeseBot 你发设定过来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864522805079101440",
+        "conversation_id": "2107023256960299501",
+        "created_at": "2026-10-05T09:52:16.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107046201661010143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107046201661010143",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107023256960299501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 你为啥不给我画"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2107049090785968463",
+        "name": "气态雨",
+        "pinned_tweet_id": "2107023256960299501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 666,
+          "like_count": 7214,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 5203
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-05T04:11:25.000Z",
+        "description": "接收投稿/浮游生物猫在雷/ 由 @zhu6hua @Pomb0ring @Pombor1ng运营/ 帅尧@IZL4EVER 最严厉的父亲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zhu6hua"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "Pomb0ring"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Pombor1ng"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "IZL4EVER"
+              }
+            ]
+          }
+        },
+        "id": "1864522805079101440",
+        "is_identity_verified": false,
+        "location": "中华民国河北省北平市东城区前门东大街11号",
+        "most_recent_tweet_id": "2107047108209488113",
+        "name": "腊友迷惑行为Bot🚩",
+        "pinned_tweet_id": "2103524602349850887",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864522805079101440/1733372556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864525274047803392/4EeBJ5qZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 467,
+          "like_count": 2095,
+          "listed_count": 9,
+          "media_count": 727,
+          "tweet_count": 4471
+        },
+        "url": "",
+        "username": "LmaoeseBot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

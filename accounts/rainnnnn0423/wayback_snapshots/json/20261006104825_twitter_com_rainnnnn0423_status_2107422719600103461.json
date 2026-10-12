@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107138765521297408"
+      ],
+      "media_source_tweet_id": [
+        "2107138771976331533"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "2107422719600103461",
+    "created_at": "2026-10-06T10:48:25.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107422719600103461"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "王沪宁"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2070892047251423232",
+          "start": 3,
+          "username": "Aaarrri_1006"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GmlBKhT0PZ",
+          "end": 58,
+          "expanded_url": "https://x.com/Aaarrri_1006/status/2107138771976331533/photo/1",
+          "media_key": "3_2107138765521297408",
+          "start": 35,
+          "url": "https://t.co/GmlBKhT0PZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107422719600103461",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2107138765521297408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107138771976331533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aaarrri_1006: 祝你 也祝很多年前的你\n#王沪宁 https://t.co/GmlBKhT0PZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1631,
+        "media_key": "3_2107138765521297408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4PiwtaIAAprHB.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107138765521297408"
+          ],
+          "media_source_tweet_id": [
+            "2107138771976331533"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "2107422719600103461",
+        "created_at": "2026-10-06T10:48:25.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107422719600103461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "王沪宁"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2070892047251423232",
+              "start": 3,
+              "username": "Aaarrri_1006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmlBKhT0PZ",
+              "end": 58,
+              "expanded_url": "https://x.com/Aaarrri_1006/status/2107138771976331533/photo/1",
+              "media_key": "3_2107138765521297408",
+              "start": 35,
+              "url": "https://t.co/GmlBKhT0PZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107422719600103461",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107138765521297408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107138771976331533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aaarrri_1006: 祝你 也祝很多年前的你\n#王沪宁 https://t.co/GmlBKhT0PZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107138765521297408"
+          ]
+        },
+        "author_id": "2070892047251423232",
+        "conversation_id": "2107138771976331533",
+        "created_at": "2026-10-05T16:00:06.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107138771976331533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "王沪宁"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmlBKhT0PZ",
+              "end": 40,
+              "expanded_url": "https://x.com/Aaarrri_1006/status/2107138771976331533/photo/1",
+              "media_key": "3_2107138765521297408",
+              "start": 17,
+              "url": "https://t.co/GmlBKhT0PZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107138771976331533",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107138765521297408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3670,
+          "like_count": 147,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "祝你 也祝很多年前的你\n#王沪宁 https://t.co/GmlBKhT0PZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2107422719600103461",
+        "name": "气态雨",
+        "pinned_tweet_id": "2107023256960299501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 666,
+          "like_count": 7223,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 5210
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T15:30:50.000Z",
+        "description": "我们终将浑然难分，像水溶于水中。\n@ifyougetyawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "ifyougetyawa"
+              }
+            ]
+          }
+        },
+        "id": "2070892047251423232",
+        "is_identity_verified": false,
+        "location": "復旦大學",
+        "most_recent_tweet_id": "2107313597038973051",
+        "name": "waka",
+        "pinned_tweet_id": "2085813384541540442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070892047251423232/1789948163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105342002166714370/g687hRgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 223,
+          "like_count": 4729,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "Aaarrri_1006",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "2107023256960299501",
+    "created_at": "2026-10-05T13:41:51.000Z",
+    "display_text_range": [
+      27,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T14:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107103979176173852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "xiaozhuhua_tv"
+        },
+        {
+          "end": 26,
+          "id": "1864522805079101440",
+          "start": 15,
+          "username": "LmaoeseBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107103979176173852",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107103330002726951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhuhua_tv @LmaoeseBot 你4️⃣老牧了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "2107023256960299501",
+        "created_at": "2026-10-05T13:41:51.000Z",
+        "display_text_range": [
+          27,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107103979176173852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "xiaozhuhua_tv"
+            },
+            {
+              "end": 26,
+              "id": "1864522805079101440",
+              "start": 15,
+              "username": "LmaoeseBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107103979176173852",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107103330002726951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhuhua_tv @LmaoeseBot 你4️⃣老牧了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894285195651813378",
+        "conversation_id": "2107023256960299501",
+        "created_at": "2026-10-05T13:39:16.000Z",
+        "display_text_range": [
+          26,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107103330002726951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854817785140199428",
+              "start": 0,
+              "username": "rainnnnn0423"
+            },
+            {
+              "end": 25,
+              "id": "1864522805079101440",
+              "start": 14,
+              "username": "LmaoeseBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107103330002726951",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107049090785968463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainnnnn0423 @LmaoeseBot 甜甜甜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2107103979176173852",
+        "name": "气态雨",
+        "pinned_tweet_id": "2107023256960299501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 666,
+          "like_count": 7222,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 5207
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "喜欢《吹响吧！上低音号》的都是好孩子",
+        "id": "1894285195651813378",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093892478214779297",
+        "name": "小猪话TV",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894285195651813378/1741930815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065440742122872832/h7as0dJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 1170,
+          "like_count": 13300,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 9508
+        },
+        "url": "",
+        "username": "xiaozhuhua_tv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-05T04:11:25.000Z",
+        "description": "接收投稿/浮游生物猫在雷/ 由 @zhu6hua @Pomb0ring @Pombor1ng运营/ 帅尧@IZL4EVER 最严厉的父亲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zhu6hua"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "Pomb0ring"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Pombor1ng"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "IZL4EVER"
+              }
+            ]
+          }
+        },
+        "id": "1864522805079101440",
+        "is_identity_verified": false,
+        "location": "中华民国河北省北平市东城区前门东大街11号",
+        "most_recent_tweet_id": "2107052021396512893",
+        "name": "腊友迷惑行为Bot🚩",
+        "pinned_tweet_id": "2107052021396512893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864522805079101440/1733372556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864525274047803392/4EeBJ5qZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 467,
+          "like_count": 2095,
+          "listed_count": 9,
+          "media_count": 727,
+          "tweet_count": 4472
+        },
+        "url": "",
+        "username": "LmaoeseBot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

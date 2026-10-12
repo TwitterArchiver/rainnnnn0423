@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885105674587430913"
+      ]
+    },
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885102045742666202",
+    "created_at": "2025-01-30T23:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T00:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885105677007544644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M7pZaCpWv3",
+          "end": 167,
+          "expanded_url": "https://x.com/rainnnnn0423/status/1885105677007544644/photo/1",
+          "media_key": "3_1885105674587430913",
+          "start": 144,
+          "url": "https://t.co/M7pZaCpWv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885105677007544644",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885102045742666202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好久没测了闲的没事测一下。感觉曾经判断不清的现在似乎更清晰了些。\n对比以往，我的内倾外倾轴现在都快55开了，现在确实是独处和社交获取能量一半一半的状态。\n仍然完全难以勾搭陌生人，但如果别人想认识我我会报以同样的真诚的。\n然后nfp这三个居然都快拉满了\n我的无自律无条理没法行动一直很棘手 https://t.co/M7pZaCpWv3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_1885105674587430913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gik9n5HbYAE_0FB.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885105674587430913"
+          ]
+        },
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885102045742666202",
+        "created_at": "2025-01-30T23:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T00:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885105677007544644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7pZaCpWv3",
+              "end": 167,
+              "expanded_url": "https://x.com/rainnnnn0423/status/1885105677007544644/photo/1",
+              "media_key": "3_1885105674587430913",
+              "start": 144,
+              "url": "https://t.co/M7pZaCpWv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885105677007544644",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885102045742666202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好久没测了闲的没事测一下。感觉曾经判断不清的现在似乎更清晰了些。\n对比以往，我的内倾外倾轴现在都快55开了，现在确实是独处和社交获取能量一半一半的状态。\n仍然完全难以勾搭陌生人，但如果别人想认识我我会报以同样的真诚的。\n然后nfp这三个居然都快拉满了\n我的无自律无条理没法行动一直很棘手 https://t.co/M7pZaCpWv3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885102045742666202",
+        "created_at": "2025-01-30T23:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T00:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885102045742666202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 37,
+              "tag": "16Personalities"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 73,
+              "id": "612476419",
+              "start": 57,
+              "username": "16Personalities"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "16personalities.com/ch/infp-%e4%ba…",
+              "end": 36,
+              "expanded_url": "https://www.16personalities.com/ch/infp-%e4%ba%ba%e6%a0%bc",
+              "start": 13,
+              "status": 200,
+              "title": "INFP性格 (调停者) | 16Personalities",
+              "unwound_url": "https://www.16personalities.com/ch/infp-%e4%ba%ba%e6%a0%bc",
+              "url": "https://t.co/gIEnkLj85u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885102045742666202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "INFP性格 (调停者) https://t.co/gIEnkLj85u #16Personalities 来自 @16Personalities"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主说悄悄话的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 221,
+          "like_count": 488,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 793
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

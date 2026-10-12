@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "conversation_id": "1885113459337204057",
+    "created_at": "2025-01-31T00:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T01:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885116121000591494"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1885116121000591494",
+    "in_reply_to_user_id": "1854817785140199428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885113459337204057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在现生校园并没有密友，基本也都是点头之交。同学们大半现充，小半萌二，都蠢得厉害，基本都是十五六岁没经历过社会毒打的小孩子。\n我完全不擅长主动结识他人，目前也没有发现特别有意思让我想跟ta深交的校友。\n我以前经常会因为融入不进同学们而内耗，其实我不用自卑稍微自负一点问题就迎刃而解了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885113459337204057",
+        "created_at": "2025-01-31T00:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T01:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885116121000591494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885116121000591494",
+        "in_reply_to_user_id": "1854817785140199428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885113459337204057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在现生校园并没有密友，基本也都是点头之交。同学们大半现充，小半萌二，都蠢得厉害，基本都是十五六岁没经历过社会毒打的小孩子。\n我完全不擅长主动结识他人，目前也没有发现特别有意思让我想跟ta深交的校友。\n我以前经常会因为融入不进同学们而内耗，其实我不用自卑稍微自负一点问题就迎刃而解了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "conversation_id": "1885113459337204057",
+        "created_at": "2025-01-30T23:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T00:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885113459337204057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885113459337204057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025我学到的新教训：在想和别人建立情感链接前，记得先擦亮双眼。不要委屈自己跟让自己感到不舒服的人玩。\n包容形形色色的人，然后筛选和自己是一路的人。不是一路货色的人，用标签block掉实在太便捷了。人当然是复杂的不能用标签概括，但还是得对真心换真心的朋友才值得下精力并投入情感啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot 看乐子的小号 键政初学者 胡言乱语的赛博树洞🗑 这里是号主说悄悄话的里推，想sj可以下饭看挺下饭的",
+        "id": "1854817785140199428",
+        "location": "避雨小屋",
+        "name": "气态雨",
+        "pinned_tweet_id": "1882862747450536158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854817989499195392/h8nLAIPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 221,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 800
+        },
+        "username": "rainnnnn0423",
+        "verified": false
+      }
+    ]
+  }
+}

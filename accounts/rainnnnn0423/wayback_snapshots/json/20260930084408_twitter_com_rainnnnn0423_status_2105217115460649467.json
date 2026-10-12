@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854817785140199428",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2105217115460649467",
+    "created_at": "2026-09-30T08:44:08.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T09:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105217115460649467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2105177255572103572",
+          "start": 17,
+          "url": "https://t.co/jVPSt1bx9D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105217115460649467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105177255572103572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说怎么好久都没刷到凉兮这傻x了 https://t.co/jVPSt1bx9D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854817785140199428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2105217115460649467",
+        "created_at": "2026-09-30T08:44:08.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T09:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105217115460649467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2105177255572103572",
+              "start": 17,
+              "url": "https://t.co/jVPSt1bx9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105217115460649467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105177255572103572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说怎么好久都没刷到凉兮这傻x了 https://t.co/jVPSt1bx9D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2105177255572103572",
+        "created_at": "2026-09-30T06:05:44.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105177255572103572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2105147915052503537",
+              "start": 96,
+              "url": "https://t.co/I1yirQWoQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105177255572103572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "简单介绍一下为什么这片子能叫凉兮模拟器。\n\n凉兮，目前已知唯一一个是真实盘玩百倍杠杆爆赚，519事件btc和eth砸烂的时候开百倍空单滚仓1000块赚到4000万r（当然他也就赌赢了那天）。\n\n然后凉兮自称给他爹转了2000万，剩下2000万接着开空结果全爆完了，后面孙宇晨据说借给他5w让他接着开单，也亏完了，此后负债越来越大，目前据传有上亿并且此人已经挂失信被执行人了。\n\n凉子这一年多以来精神也...嗯不好评价。反正我个人评价是如果真让你开高倍杠杆爆赚了迟早会以某种方式还回去。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10589,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105147915052503537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简单介绍一下为什么这片子能叫凉兮模拟器。\n\n凉兮，目前已知唯一一个是真实盘玩百倍杠杆爆赚，519事件btc和eth砸烂的时候开百倍空单滚仓1000块赚到4000万r（当然他也就赌赢了那天）。 https://t.co/I1yirQWoQn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T09:26:50.000Z",
+        "description": "自言自语bot|胡言乱语的赛博日记本🗑|表男辱追中|一般路过女高|粉蛆滚🚪88 互fo请私信 中表主4g5g",
+        "id": "1854817785140199428",
+        "is_identity_verified": false,
+        "location": "避雨小屋",
+        "most_recent_tweet_id": "2105217115460649467",
+        "name": "气态雨",
+        "pinned_tweet_id": "2085965445941678297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854817785140199428/1731058390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987543107173228544/Vy7r5VfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 664,
+          "like_count": 7129,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 5177
+        },
+        "url": "",
+        "username": "rainnnnn0423",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论/不讨论政治\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuNuE0"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "is_identity_verified": false,
+        "location": "番茄树上",
+        "most_recent_tweet_id": "2105184831936311558",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2103707324728938608",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756909109788753920/1768587768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15416,
+          "following_count": 2726,
+          "like_count": 1567,
+          "listed_count": 29,
+          "media_count": 3299,
+          "tweet_count": 12696
+        },
+        "url": "https://t.co/ndOwWuNuE0",
+        "username": "__fanqie__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
